@@ -114,9 +114,9 @@ ideas from the so called "cognitive metaphor" school developed extensively by
 George Lakoff, Mark Johnson, and Mark Turner among others in the 1980s. As we
 shall see later on in the chapter, this school of thought gained influence in
 the formative period in the history of human-computer interaction. It is
-therefore important for me examine the vocabulary of that tradition on its own
-terms and to advance its critique from within. It also bares mentioning that
-in the language of cognitive metaphor theory all figurative tropes of
+therefore important for me to examine the vocabulary of that tradition on its
+own terms and to advance its critique from within. It also bares mentioning
+that in the language of cognitive metaphor theory all figurative tropes of
 comparison---hyperbole, metonymy, synecdoche, or simile---fall under the
 category of metaphor. To avoid confusions of the sort, to get onto the same
 page if you will, I plan to spend a few pages now delving into the technical
@@ -157,7 +157,7 @@ peculiarity of being able to patent a metaphor, note the idiosyncrasy of the
 technical language. What does it mean to "access" a metaphor? When someone
 "checks out" a book from the electronic library, do they gain access to the
 book or to the metaphor alone? What mechanisms assure the correspondence
-between a database and database metaphor, the book and book metaphor, and the
+between a database and database metaphor, the book and book metaphor, or the
 catalog and catalog metaphor? Traditional metaphor theory strains to answer
 such questions.
 
@@ -177,7 +177,7 @@ phrases like "things are looking up" and "I can't get that tune out of my
 mind" reveals underlying figuration like "good things are up" and "the mind is
 a container." The idea that "good things are up" generates a multitude of
 metaphors like "profits are going up" and "moving on up," for example
-[@lakoff_metaphorical_1980, 195-198]
+[@lakoff_metaphorical_1980, 195-198].
 
 !["An exemplary interface for viewing a three dimensional book"
 [@card_methods_2006, 3].](images/book-metaphor.png)
@@ -200,7 +200,8 @@ usually partial and asymmetrical. "Mappings are not arbitrary," he writes,
 domain mappings obey what Lakoff calls the Invariance Principle, by which "the
 image schema structure of the source domain is projected onto the target
 domain in a way that is consistent with inherent target domain
-structure."[^ln1-metalakoff]
+structure."[^ln1-metalakoff] Keep these rules in mind as they will become
+important later on in our conversation.
 
 The kind of resemblances that we have been discussing so far---between the
 document and its icon, for example---are further referred to as *structural
@@ -211,12 +212,12 @@ metaphors transfer organizing principles from one domain to another. Thus to
 say "the world is our oyster" is to suggest that something in our approach to
 interacting with oysters, likely in a gastronomical situation, resembles our
 approach to life [@lakoff_metaphors_1980, 65-8]. The ease of eating one
-transfers to the ease of living the other. The transferred property implies a
+transfers to the ease of living the other. The transferred property implies
 not just a semantic similarity, one of meaning, but a structural one, one of
 interface. The metaphor suggests the world is arranged like an oyster somehow,
 that it can be cracked, and that it contains a tasty hidden morsel within. In
 this way, structural metaphors organize one thing in the shape of another.
-They are a tool for extending insights from a known domain to lesser known
+They are a tool for extending insights from a known domain to a lesser known
 one, a tool for exploration: simple things like oysters shed light on complex
 things like worlds.
 
@@ -294,13 +295,13 @@ contained *items* or "icons representing documents or applications"
 [@moll-carrillo_articulating_1995, 1-7]. In a similar binder-based software
 application, the engineers at IBM describe the "contents of the notebook
 metaphor," which are "displayed as a stack of sheets." "The interface [...]
-permits a user to directly manipulate the sheets in the notebook metaphor."
-[@glaser_graphical_1995]. In these words we begin to glimpse the trouble
-with the structural metaphor paradigm of human-interface design. The idea of
-"direct manipulation" refers to the im-mediate access to the metaphor, that is,
-paradoxically, the appearance of access without mediation---the occlusion of
-the document in favor of its representation. The issue of apparent immediacy
-will continue to haunt our conversation for the rest of the chapter.
+permits a user to directly manipulate the sheets in the notebook metaphor"
+[@glaser_graphical_1995]. In these words we begin to glimpse the trouble with
+the structural metaphor paradigm of human-computer interaction. The idea of
+"direct manipulation" refers to the im-mediate access to the metaphor, that
+is, paradoxically, the appearance of access without mediation---the occlusion
+of the document in favor of its representation. The issue of apparent
+immediacy will continue to haunt our conversation for the rest of the chapter.
 
 ## Dissimulation
 
@@ -316,7 +317,7 @@ a page by folding a corner. The fold enables subsequent recollection of text
 that was read previously. By these means, a reader marks a notable place in
 the text in order to return to it later. Patently, digital media cannot (as of
 yet) fold by the way of paper. Readers seeking a mechanism for digital
-recollection may not be familiar with the affordances of newly inhabited
+recollection may not be familiar with the affordances of the newly inhabited
 medium. Consequently, the affordances of digital media are presented through
 metaphor. Thus a virtual "earmark" on a "page" represents a numerical pointer
 to a specific address in the computer memory. A "page" stands for a range of
@@ -370,7 +371,7 @@ in two diverging and dynamically composed versions. Whatever is meant by
 surface phenomena that emanate from the same source.
 
 The key to understanding "the loss of resemblances" that accompanies
-ubiquitous simulation lies in the inner dynamics of metaphor machinery. A
+ubiquitous simulation lies in the inner dynamics of the metaphor machinery. A
 functioning metaphor, if you would recall from Lakoff, is one which transfers
 the structural properties of one domain into another. Thus to say "life is a
 stage" is to transpose something about theater onto life. In literary terms,
@@ -389,28 +390,32 @@ representation and the thing being represented. For example, one expects
 weather simulation to model actual observed meteorological conditions. But
 would it be a weather simulation if the model was broken in some way, or, in
 the extreme, if it had no correspondence to the physics of clouds, wind, and
-water whatsoever? The hyperreal breaks further still by taking place of
-instead of the underlying reality. A model does not merely obscure, it usurps
-the thing being modeled. It begins to simulate itself, according to its own
-rules, similar to self. The simulation no longer corresponds to any situation
-"on the ground." Severed from its referent, representation attains the status
-of the thing represented. Therefore hyper-reality: a map of a map, a symbol
-that folds onto itself, a weather simulation confused for weather.
+water whatsoever? The hyperreal breaks further still by taking the place of,
+instead of imitating the underlying reality. A model does not merely obscure,
+it usurps the thing being modeled. It begins to simulate itself, according to
+its own rules, similar to self. The simulation no longer corresponds to any
+situation "on the ground." Severed from its referent, representation attains
+the status of the thing represented. Therefore hyper-reality: a map of a map,
+a symbol that folds onto itself, a weather simulation confused for weather.
 
 We know that physical affordances of liquid crystal displays (LCDs) and
 magnetic storage differ drastically from those of paper, goat skins, or
-parchment. Yet digital surface representation maintains the illusion of
-self-similarity. We are faced with what is called *skeuomorphic* design, by
-which screen reading resembles print. In this way, an electronic book reader
-mimics the bent corner of a well-thumbed book. The skeuomorphic resemblance
-constitutes a metaphor worthy of critical examination. The principles of
-skeuomorphic design extend a visual metaphor from one medium to another. The
-reader already knows how to turn pages of a book. A book device therefore
-simulates pages to ease the cognitive burden of transitioning from paper to
-pixel. Instead of issuing arcane commands meant for the machine to turn the
-page, readers perform the more habituated motion of swiping across the screen.
-The gliding motion enacts a kinetic analogy---a type of a metaphor---as if to
-transpose properties of paper to glass.
+parchment. For example, an English-language character occupies eight bits on a
+disk where a print character occupies one. The disk can tolerate millions of
+rewrites, where the paper medium wears out after only a few. The paper
+inscription is visible to the naked eye where the digital inscription is not.
+Yet digital surface representation maintains the illusion of self-similarity.
+We are faced with what is called *skeuomorphic* design, by which screen
+reading resembles print. In this way, an electronic book reader mimics the
+bent corner of a well-thumbed book. The skeuomorphic resemblance constitutes a
+metaphor worthy of critical examination. The principles of skeuomorphic design
+extend a visual metaphor from one medium to another. The reader already knows
+how to turn pages of a book. A book device therefore simulates pages to ease
+the cognitive burden of transitioning from paper to pixel. Instead of issuing
+arcane commands meant for the machine to turn the page, readers perform the
+more habituated motion of swiping across the screen.  The gliding motion
+enacts a kinetic analogy---a type of a metaphor---as if to transpose
+properties of paper to glass.
 
 Our grasp on the medium weakens the more convincing the simulacrum. By
 definition, simulation "assumes a form resembling that of something else,"
@@ -429,7 +434,7 @@ demand the thing to stay deeply deleted. The problem of metaphoric immediacy
 reappears in the unfulfilled promise of mimesis. The poet and the critic may
 celebrate the free play of the signifier where the journalist or the accused
 would not. In many contexts, the metaphoric vehicle claims to bridge domains
-and to ferry content across, faithfully, without meddling, or damaging its
+and to ferry content across faithfully, without meddling, or damaging its
 contents. But, if the metaphor does meddle---if it mediates while dissembling
 and dissimulating---by what process of authentication can one ensure the
 efficacy of transference? What entity makes good on the promise of
@@ -442,11 +447,11 @@ close reading at the level of discourse, we must certainly also practice them
 at the physical site of discourse production. A truly materialist poetics
 would reach through the representation towards the medium. More than
 superficial embellishment, the skeuomorphic metaphor enacted at the surface of
-the digital literary device structures all meaning-carrying units: from
-individual letters to words, paragraphs, chapters, pages, and books. The
-metaphor of "turning the page by swiping across the screen" conceals the
-structural rift between media: between supple pages and rigid slabs of glass
-and silicone.
+the digital literary device structures all higher order meaning-carrying
+units: from individual letters to words, paragraphs, chapters, pages, and
+books. The metaphor of "turning the page by swiping across the screen"
+conceals the structural rift between media: between supple pages and rigid
+slabs of glass and silicone.
 
 Why would readers engage in such a charade? Why not simply make use of novel
 interfaces afforded by new technology? The literature from the field of
@@ -456,9 +461,8 @@ initial effort it takes to learn to read in a new environment may discourage
 potential readers from adopting new technology. Smart designers therefore rely
 on acculturated practice, the turning of pages in our case, to minimize the
 "friction" of adoption. Although an "electronic book reader" contains no pages
-as such, it extends the metaphor of pages to electronic reading. The perceived
-facility of use comes at a cost of critical engagement. A digital poem, a
-novel, a physician's script, or a legal contract resembles their paper
+as such, it extends the metaphor of pages to electronic reading. A digital
+poem, a novel, a physician's script, or a legal contract resembles their paper
 counterparts, in order to enable familiar actions. But while imitating paper
 pages, the reading appliance also monitors, adjusts, warns, and controls.
 These are the realities of contemporary reading practice that have yet to be
@@ -501,28 +505,6 @@ possibilities. What does it mean to read and to interpret a dynamic text,
 which changes depending on its context? How can literary analysis---close
 reading, philology, hermeneutics---persist without the fixity of print?
 
-Consider the commonplace task of "turning pages" when writing or reading
-digital texts. In cognitive linguistic terms, the idea of paper pages should
-somehow extend into the domain of manipulating digital information. In
-literary terms, the projection of a page on the screen carries the tenor of
-paper pagination. By these means, the turning of simulated pages implies a
-certain familiar arrangement of matter. Readers know what to do with paper
-pages. They understand the affordances involved. The metaphor encourages
-readers to extend their knowledge of the physical world into the projected,
-virtual. For example, paper pages can be turned; we know they usually proceed
-one another, sequentially; and we are attuned to expect the same attributes to
-hold true in the vehicle---the domain receiving the tenor of the metaphor. The
-turning of virtual pages should, in theory, trigger a series of corresponding
-actions in the target, digital domain. Turning the page on a screen should
-correspond to a similar action on the disk. But the action does not
-necessarily meet our expectations. The arrangement of information stored on
-the disk affords different physical actions from the arrangement of
-information on the page. For example, an English-language character occupies
-eight bits on a disk where a print character occupies one. The disk can
-tolerate millions of rewrites, where the paper medium wears out after only a
-few. The paper inscription is visible to the naked eye where the digital
-inscription is not.
-
 Dissimulation is perhaps necessary, because the reading and writing of digital
 data can involve processes far outside of everyday experience. For example, in
 reading data from solid state (FLASH) memory a circuit imparts electrical
@@ -539,21 +521,22 @@ couple, e.g., a floating gate FET"
 
 Whatever the complexities of solid state storage architecture, the difference
 in arrangement of information between pages and floating gates---at the root
-of modern "sold state" storage---is apparent. The structure of one has only an
-arbitrary connection to the structure of the other. Consequently changes in
+of modern "solid state" storage---is apparent. The structure of one has only
+an arbitrary connection to the structure of the other. Consequently changes in
 the structure of the symbolic domain, which manifest in the erasure of words
 for example, do not necessitate corresponding changes in the physical, which
 in the same example manifest in the discharge of the floating gate. The
-information endures despite intended erasure. The dwellers of virtual realms
-believe in verisimilitude. We hope the analogy of turning the page or erasing
-a word on the screen to entail similar actions on the disk. But we also lose
-faith when asked to verify the illusion. Under scrutiny, data is sometimes
-simply omitted from view. At other times it multiplies and perseveres across
-deep surfaces, shared without consent with agents not privy to the original
-contexts of inscription. As was the case with Baudrillard's map, the metaphor
-breaks in that it no longer reflects any terrain. Dissimulation mimics the
-familiar but absent affordances of the print artifact. It suggests a
-structuring of one kind, while enacting the structure of another.
+information endures despite the intended erasure. The dwellers of virtual
+realms believe in verisimilitude. We hope the analogy of turning the page or
+erasing a word on the screen to entail similar actions on the disk. But we
+also lose faith when asked to verify the illusion. Under scrutiny, data is
+sometimes simply omitted from view. At other times it multiplies and
+perseveres across deep surfaces, shared without consent with agents not privy
+to the original contexts of inscription. As was the case with Baudrillard's
+map, the metaphor breaks in that it no longer reflects any terrain.
+Dissimulation mimics the familiar but absent affordances of the print
+artifact. It suggests a structuring of one kind, while enacting the structure
+of another.
 
 In these novel conditions, the task of the literary scholar must include,
 among other things, a practice of microscopic reading that corresponds to the
@@ -623,22 +606,22 @@ confirm by empirical means more than a century later [@mojtabai_delusion_2000;
 but also become naturalized: that is understood literally. They create
 connections that with time become habituated and invisible. Taken for literal
 truth, the metaphor loses its quality of mediation or literally "ferrying
-across."[^ln1-greek] For example, for many readers the idea of a "dead metaphor" itself no
-longer evokes death. The metaphor withers: once a connotation is lost it mo
-comes a denotative, statement lacking any exploratory or explanatory
-potential, a commonplace. In Shelley's view, all metaphors are destined to
-become habituated in this way, only to be reborn again in poetry. In their
-most generative form, metaphors produce new meaning actively. The creative
-juxtaposition between two as before unrelated conceptual domains brings new
-aspects of experience to light. With time, the poetic metaphor degrades into a
-tired cliché. It no longer "perpetuates understanding." It dies in a sense of
-becoming an instrumental shortcut. In Viktor Shklovsky's words, we "cease to
-experience" the trope. The metaphor "dries up" when we begin recognizing it
-without apprehension [@shklovsky_voskreshenie_1914]. It no longer generates
-new connections between domains, but merely reinforces existing ones. Vilém
-Flusser put it another way in writing that habituated idiom proceeds
-"smoothly," giving us no pause, without "bumps or interruptions"
-[@flusser_freedom_2003, 13 and 82].
+across."[^ln1-greek] For example, for many readers the idea of a "dead
+metaphor" itself no longer evokes death. The metaphor withers: once a
+connotation is lost it becomes a denotative statement lacking any exploratory
+or explanatory potential, a commonplace. In Shelley's view, all metaphors are
+destined to become habituated in this way, only to be reborn again in poetry.
+In their most generative form, metaphors produce new meaning actively. The
+creative juxtaposition between two as before unrelated conceptual domains
+brings new aspects of experience to light. With time, the poetic metaphor
+degrades into a tired cliché. It no longer "perpetuates understanding." It
+dies in a sense of becoming an instrumental shortcut. In Viktor Shklovsky's
+words, we "cease to experience" the trope. The metaphor "dries up" when we
+begin recognizing it without apprehension [@shklovsky_voskreshenie_1914]. It
+no longer generates new connections between domains, but merely reinforces
+existing ones. Vilém Flusser put it another way in writing that habituated
+idiom proceeds "smoothly," giving us no pause, without "bumps or
+interruptions" [@flusser_freedom_2003, 13 and 82].
 
 Lakoff famously took exception to the idea of dead metaphors, arguing that
 even those metaphors that are thoroughly habituated can play a vital part in
@@ -668,16 +651,16 @@ metaphor is merely tired from frequent use, where it is completely dead in the
 other. All habituated metaphors like "grasping" and "pedigree" lose a measure
 of their symbolic connotation with time. But unlike "pedigree," the
 metaphorical nature of "grasping ideas" is at least available for casual
-interpretation. One may reflect upon it with little effort: a bath time
-thought. The underlying metaphor THE MIND IS LIKE A HAND generates other
-meaningful phrases like "you have to *let go* of this idea." The crane's foot
-in the English "pedigree" has stopped generating new metaphors. The
-conventional notion of dead metaphors does not appropriately differentiate
-between the two cases of metaphor dysfunction [@lakoff_death_1987;
-@muller_metaphors_2008]. The metaphor sometimes "dies" but continues to
-connect two disparate domains, is the case with grasping ideas. At other
-times, the metaphor dies in the sense of one domain becoming no longer
-accessible to its user, as is the case with pedigree.
+interpretation. One may reflect upon it with little effort. The underlying
+metaphor THE MIND IS LIKE A HAND generates other meaningful phrases like "you
+have to *let go* of this idea." The crane's foot in the English "pedigree" has
+stopped generating new metaphors. The conventional notion of dead metaphors
+does not appropriately differentiate between the two cases of metaphor
+dysfunction [@lakoff_death_1987; @muller_metaphors_2008]. The metaphor
+sometimes "dies" but continues to connect two disparate domains, as is the
+case with grasping ideas. At other times, the metaphor dies in the sense of
+one domain becoming no longer accessible to its user, as is the case with
+pedigree.
 
 Furthermore, I might add that a wholly unmotivated metaphor does not live at
 all. Thus the Mad Hatter poses his famous nonsensical riddle in Lewis
@@ -705,7 +688,7 @@ the depicted figure. We expect the thing to be deleted, but it is not. That
 trash can empties, but we have no way to verify if the transference of
 properties happened properly or not. This incongruence, a breakdown of trust
 in domain transference, violates Lakoff's Invariance Principle, which, if you
-would recall, describes the projection of structure form the source domain "in
+would recall, describes the projection of structure from the source domain "in
 a way that is consistent with the inherent structure of target domain"
 [@lakoff_contemporary_1998, 215] Whatever structural changes we expect to
 happen in the source domain do not carry over to the target. The metaphor
