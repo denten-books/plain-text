@@ -53,35 +53,35 @@ my confidant, my dealer, my spy.
 
 ## Thesis and Scope
 
-*Plain Text* tells a story of a major morphological shift affecting all areas
-of culture production and textuality in particular. If I were to interrupt
+*Plain Text* tells a story of a major morphological shift affecting culture
+production in general and textuality in particular. If I were to interrupt
 someone in the process of writing something in front of a computer and
 ask---Where do these words reside?---I would likely receive several
 conflicting answers in response. In some sense, the words reside on the
 screen, where they appear to view. In another sense, they live somewhere
-within the machine, on remote and often hermeneutically sealed surfaces:
-silicone chips, hard drives, flash memory cards. In yet another sense, the
-visible sign is still further removed from the context of its production. It
-is in the wires. It spreads across servers, routers, and data centers. The
-process of reading and writing no longer remains a solitary activity. Nor is
-the word confined to a singular location. What was once apparent now takes on
-a more complex shape, stretched between surfaces, across time and space. The
+within the machine, on remote and often hermetically and hermeneutically
+sealed surfaces: silicone chips, hard drives, flash memory cards. In yet
+another sense, the visible sign is still further removed from the contexts of
+its production. The word is in the wires. It spreads across servers, routers,
+and data centers. One no longer reads or writes alone. Nor is the word
+confined to a singular location. What was once apparent now takes on a more
+complex shape, stretched between surfaces, across time and space. The
 book---this book, any book---gains a new structure. I do not mean the above
 figuratively. In the case of my writing words on a screen, using a keyboard,
 the text forms a kind of a live lattice---a multidimensional grid---which
-connects the tactile sense of the letter beneath my fingers to the optic and
-to the electromagnetic. All of these sensualities are present at once. In
-aggregate they incorporate the synchronic text. I cannot pass a note to the
-reader digitally in the same sense that one passes notes class, on paper. It
-is impossible to give the entire structure over to another. The text is
-irrevocably intertwined with my material contexts; it literally gains another
-shape when recreated under system configurations not fully congruent with my
-own. Much of the contemporary anxiety about the intrusion of computational
-culture in the everyday points to this fundamental reshaping of the sign,
-without naming it. The physical fracture of the electromagnetic inscription
-leads to its multivalence. The lattice opens a depth between the words, where
-forces of capital and control intervene to monitor, monetize, censor, or
-correct.
+connects the tactile sense of the letter beneath my fingers to its optic and
+electromagnetic traces. All of these sensualities are present at once. They
+incorporate the totality of the synchronic text only in aggregate. I cannot
+consequently pass a note to the reader digitally in the same sense that one
+passes notes class, on paper. It is impossible to give the entire structure
+over to another. My text is irrevocably intertwined with my material contexts;
+it literally gains another shape when recreated under system configurations
+not fully congruent with my own. Much of the contemporary anxiety about the
+intrusion of computational culture in the everyday points to this fundamental
+reshaping of the sign, without naming it. The physical fracture of the overall
+inscription leads to its multivalence. The lattice opens a depth between the
+words, where forces of capital and control intervene to monitor, monetize,
+censor, or correct.
 
 To come to terms with the novel conditions of text so fractured and refracted
 *Plain Text* enacts a displacement of vocabularies. It is a response to a
@@ -118,30 +118,31 @@ finding a home in either the arts or sciences for what he calls "code
 development." He wrote: "it is a matter somewhat related to the general art of
 cryptology, yet it is not wholly divorced from electrical engineering nor from
 general philology" [@halstead_genesis_1949, 456]. As Halstead anticipated,
-research in the field of computational culture has led me to a rich archive of
-materials from the history of literary theory, semiotics, telegraphy, and
-electrical engineering from the middle of the nineteenth to the end of the
-twentieth centuries. That archive includes documents from the proceedings of
-the Association for Computing Machinery (ACM) to the US Patent and Trademark
-Office; from Bell Labs to early Soviet publishing houses that heralded the
-advance of formalism; from studies on animal communication behavior, to Unix
-manuals, to textbooks on semiotics, and to foundational texts in the
-philosophy of aesthetics and literary theory.
+research in the field of computational culture has led me to a rich
+multidisciplinary archive of materials from the history of literary theory,
+semiotics, telegraphy, and electrical engineering from the middle of the
+nineteenth to the end of the twentieth centuries. That archive includes
+documents from the proceedings of the Association for Computing Machinery
+(ACM) and the US Patent and Trademark Office, from Bell Labs and early Soviet
+publishing houses that heralded the advance of formalism, from studies on
+animal communication behavior, to Unix manuals, to textbooks on semiotics, and
+to foundational texts in the philosophy of aesthetics and literary theory.
 
 I deploy the archive to argue that extant theories of interpretation evolved
 under the conditions tied to static print media. By contrast, digital text
 changes dynamically to suit its reader, political context, and geography.
-Consequently, I argue for the development of computational poetics: a strategy
-of interpretation capable of reaching past surface content to reveal the
-platforms and infrastructures that stage the construction of meaning. A
-computational poetics, my approach to writing this book, differentiates within
-the apparent unity of digital text. Here, I will trace a figure and describe
-its anatomy. If the very physical nature of the word has changed, I would like
-to ask: How? and How do these changes affect discourse formation? I draw on
-the annals of literary theory and software engineering to build the material
-and historical bases for a possible answer.  In the process, I argue that even
-our most basic practices of intellectual production are profoundly alienated
-from their physical contexts.
+Consequently, I advocate for the development of computational poetics: a
+strategy of interpretation capable of reaching past surface content to reveal
+the platforms and infrastructures that stage the construction of meaning. A
+computational poetics differentiates within the apparent unity of digital
+text. In the chapters that follow, I will trace a figure and describe its
+anatomy. If the very physical nature of the word has changed, I would like to
+ask: How? and How do these changes affect the diversity of interpretive
+practices? I draw on the annals of literary theory and software engineering to
+buttress the historical bases for a possible answer. In the process, I argue
+that even our most basic practices of intellectual production are profoundly
+alienated from their physical contexts. The object of study is the nature of
+that alienation.
 
 I appeal to the idea of "plain text" in the title of this book to signal an
 affinity with a particular mode of computational meaning-making. Plain text
@@ -173,64 +174,71 @@ content, even for the purposes of academic study.[^ln-dmca] In some
 situations, it may report the reader's activity to the authorities. Attempts
 to silence print through book burning or censorship are viscerally apparent.
 Unlike censorship or the burning of books, the dominion of computation
-proceeds by clandestine means. The simulation-producing nature of computed
-text preserves the outward appearance of printed text, while concealing the
-specifics of its production and distribution. The challenge of *Plain Text*
-will be in the description of such emerging but often occluded technological
-possibilities.
+proceeds by clandestine means. Simulated text preserves the outward appearance
+of print, while concealing the material specifics of digital production and
+distribution. The challenge of *Plain Text* will be in the description of such
+emerging but often occluded technological possibilities.
 
 ## Theory
 ### Displacement
 
 The winding path that led to *Plain Text* stems from a productive tension
-between estrangement and habituation. In the background of a strictly
-historical materialist critique of computational media there lies also an
-existential argument about inhabiting media, in the way one lives with and
-within one's own bookshelves, closets, hard drives, and archives. The
-dialectics of media displacement constitute ultimately a method of making
-sense out of the conflicting and often contradictory logics of the virtual
-object. By these means, this book delineates the grounds for textual space. It
-is a project theoretically contiguous to the philosophical poetics of Gaston
-Bachelard and Henri Lefebvre, extended into the realm of everyday computation.
+between estrangement and habituation. In the background of a historical and
+materialist critique of computational media there lies also an existential
+argument about inhabiting media. I mean inhabiting in the way one lives with
+and within one's own bookshelves, closets, hard drives, and archives. The
+dialectics of media displacement constitute a method of making sense out of
+the conflicting and often contradictory logics of the virtual object. We are
+confronted by spaces that are not spaces, or rather ersatz expanses that
+present themselves otherwise: glass that looks like paper, liquid crystal that
+flows to imitate ink. By such means, the electronic book delineates new
+grounds for textual inscription. Because *Plain Text* deals with the structure
+of intimate space, it is project theoretically contiguous to the philosophical
+poetics of Gaston Bachelard and Henri Lefebvre, extended into the realm of
+everyday computation.
+
+<!-- insert footnotes to both -->
 
 Writing surfaces multiply and establish themselves firmly among the
 furnishings of home, body, and mind. Think here of commercial products that
-occupy a central place in the living room, devices that listen, talk, and
+occupy a central place in the living room: devices that listen, talk, and
 answer questions, smart personal assistants, pacemakers and brain implants,
 portable devices close to head and heart. One can call them computers, but
 what is a computer but a machine for the reading, writing, and storing of
 information? The smart toaster and the electronic pacemaker alike are distinct
-from their dumb mechanical counterparts in that they give space to
-inscription. The contest for that space---the right to access and
-ownership---is therefore vitally crucial to the future of a literate
-humanities. I do not mean to suggest that everybody needs to learn how to
-code, although that would not be a bad thing. I mean to view computational
-culture apart from its instrumental uses, in the context of literary and civic
-thought. I am concerned with preserving the possibility of discourse formation
-(reading, writing) along surfaces that are not immediately available for
-critical reflection. Poetics, the construction of symbolic space, space
-containing symbols, physically limits the possibility of interpretation.
+from their dumb mechanical counterparts in that they give grounds to
+inscription. A contest for that space---the right to access and ownership---is
+therefore vitally crucial to the future of a literate humanities. I do not
+mean to suggest that everybody needs to learn how to code, although that would
+not be a bad thing. I mean to view computational culture apart from its
+instrumental uses, in the context of literary and civic thought. I am
+concerned here with the preservation of the basic possibility to form
+discourse---to read and write---along surfaces that are not available for
+immediate scrutiny. Poetics, the construction of symbolic space, space
+containing symbols, physically limits the possibility of interpretation. A
+sign invisible or rendered white on a white background is ultimately
+illegible. It never makes it into the hermeneutic circle.
 
 In making the case for computational poetics, I am helped by recent
 scholarship in historically- and philosophically-inflected studies of media,
-science, and technology.[^ln0-influences] My notion of poetics builds also on
-the long history of literary theory, combined here with practices borrowed
-from software engineering and computer science. Poetics, in the way I am using
-it here, concerns itself simply with the construction of textual media
-artifacts. These are not however limited to the canonical, straight-ahead
-structuralisms of Roman Jakobson or Jonathan Culler. I am borrowing rather
-from a more peripheral tradition represented best by third culture thinkers
-like Viktor Shklovsky and Vilém Flusser, consummate immigrants both, who
-extracted a literary and a media theory respectively out of the fabric of
-their migration.
+software, hardware, science, and technology.[^ln0-influences] My notion of
+poetics builds also on the long history of literary theory, combined here with
+practices borrowed from software engineering and computer science. A
+materialist poetics, in the way I am using it here, concerns itself simply
+with the construction of literary space. My approach is not however limited to
+the canonical, straight-ahead structuralisms of Roman Jakobson or Jonathan
+Culler. I am borrowing rather from a more peripheral tradition represented
+best by third culture thinkers like Viktor Shklovsky and Vilém Flusser,
+consummate immigrants both, who extracted a literary and a media theory
+respectively out of the fabric of their migration.
 
 Flusser in particular considered the condition of unease that comes with
 migration, both physical and mental, to be a type of information processing.
-This idea helped make sense of my own displacements, first as a one-time
-refugee fleeing the dissolution of the former Soviet Union, then a former
-transplant into Silicon Valley from a strict literary education, and now a
-lapsed engineer among humanists. These vantage points offer a singular view
-onto the material conditions of contemporary intellectual life.
+His thought was influential in making sense of my own displacements, first as
+a one-time refugee fleeing the dissolution of the former Soviet Union, then a
+former transplant into Silicon Valley from a strict literary education, and
+now a lapsed engineer among humanists. These vantage points offer a singular
+view onto the material conditions of contemporary intellectual life.
 
 Both Shklovsky and Flusser wrote lucidly about the dynamics of habituation.
 Their work helps us see the irresistible compromise at the heart of all
@@ -269,12 +277,12 @@ metaphors, neither natural nor self-apparent. The metaphor is made strange
 again through purposeful defamiliarization. To take the technique to its
 logical conclusion, a writer could depict several fictional characters in the
 act of scything a field of grass while discussing the relative merits of
-structuralism: a discussion about the field on a field.  Such literary
-artifice would make actual the implied connections between a field of grass
-and a field of ideas. The writer now shows what was merely told before. The
-technique of defamiliarization finally renews the figure: discarding hardened
-clichés while suggesting novel linkages between constituent concepts:
-intellectual chaff, leaves of mental grass, the combines of thought.
+structuralism: a discussion about the field on a field. Such literary artifice
+would make actual the implied connections between a field of grass and a field
+of ideas. The writer now shows what was merely told before. The technique of
+defamiliarization finally renews the figure: discarding hardened clichés while
+suggesting novel linkages between constituent concepts: intellectual chaff,
+leaves of mental grass, the combines of thought.
 
 When pursuing scholarly estrangement the author "lays bare" and "makes
 obvious" the metaphor by drawing attention to its inner dynamics. Metaphors,
@@ -344,12 +352,16 @@ Where texts are encrypted, we decrypt. If, as Kittler writes, automated
 discourse analysis threatens to take command, we will engineer automatons that
 command on our behalf. Together, small acts of resistance can mount to recover
 a measure of agency from the ruling determinism of, take your pick: markets,
-complex systems, unconscious drives, monistic universes, gaia science, social
+complex systems, unconscious drives, monistic universes, Gaia science, social
 networks, technology, the singularity, bureaucracy, war...  Indeed, the
 possibility of human erasure---the loss of all sense---is never far, "like the
 face drawn in the sand at the edge of the sea" [@foucault_order_1994, 387].
 The fragility of life compels the need to mobilize whatever modest means
 available for the human to persevere against daunting odds.
+
+<!-- quote Deleuze, Gilles. Breaking Things Open, Breaking Words
+Open. In Negotiations 1972-1990. Trans. Martin Joughin. New York:
+Columbia University Press, 1995. -->
 
 When we mistake things for animate actors, we ourselves become enmeshed in a
 system of digital production that commodifies human experience. Objects that
@@ -377,7 +389,7 @@ disempowerment. But where it is difficult to imagine or to enact strategies of
 digital disobedience on a universal scale, we can begin to address them
 through numerous minute transactions that in aggregate brace everyday literary
 exchange. This we can do now. Computational poetics begins with the machines
-in the immediate proximity, those closest to the heart, thought, and touch.
+in the immediate proximity, those closest to thought and touch.
 
 To pick up an electronic book and to take it apart may be against the law in
 some jurisdictions [@fry_circumventing_2009]. Given the extent to which
@@ -391,7 +403,7 @@ discipline fundamentally engaged in the exegesis of figurative trope, is
 therefore crucial to the understanding of new computational environments,
 which have enveloped intellectual life through metaphoric substitution. To
 read the machine is to learn how it is made, but also to unpack the rich
-metaphors that stand-in for learning: the boot in rebooting and the wares in
+metaphors that substitute familiarity: the boot in rebooting and the wares in
 software, the bug and the joy-stick, the interpreter and the shell.
 
 [^ln-rhein]: I am in influenced here by the discussion of epistemic things in
@@ -399,13 +411,12 @@ software, the bug and the joy-stick, the interpreter and the shell.
 
 I begin where Bernard Harcourt's recent book on digital disobedience ends:
 with the possibility of localized dissent [@harcourt_exposed:_2015]. Following
-itinerant theorists of the metaphor like Vilém Flusser and Viktor Shklovsky I
-propose to proceed through a process of systematic estrangement of
-computational metaphors; metaphors that fade into transparency as if to escape
-the critical gaze. A strategy of deliberate defamiliarization reclaims the
-metaphor-device for analysis. To come to terms with the book as a device; to
-begin to understand the nature of the text simulation; to perceive the
-particularity of the computed sign: these are the aims of *Plain Text*.
+itinerant theorists of the metaphor I propose to proceed by systematic
+estrangement of computational metaphors; metaphors that fade into transparency
+as if to escape the critical gaze. A strategy of deliberate defamiliarization
+reclaims the metaphor-device for analysis. To come to terms with the book as a
+device; to begin to understand the nature of the text simulation; to perceive
+the particularity of the computed sign, these are the aims of *Plain Text*.
 
 Computation advances into everyday life though metaphor. Like all tropes, such
 metaphors lose their evocative power with frequent use. The task of a literary
