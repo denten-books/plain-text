@@ -83,37 +83,65 @@ leads to its multivalence. The lattice opens a depth between the words, where
 forces of capital and control intervene to monitor, monetize, censor, or
 correct.
 
-A concern with the material conditions of digital text leads us to a rich
-archive of materials from the history of literary theory, semiotics,
-telegraphy, and electrical engineering from the middle of the nineteenth to
-the end of the twentieth centuries. Reflecting on the development of Morse
-Code in 1949 in the *Proceedings of the American Philosophical Society*, Frank
-Halstead mentioned the difficulty of finding a home in either the arts or
-sciences for what he calls "code development." He wrote, "it is a matter
-somewhat related to the general art of cryptology, yet it is not wholly
-divorced from electrical engineering nor from general philology"
-[@halstead_genesis_1949, 456]. As Halstead anticipated, research in the field
-of code development and computational culture has led me to a range of primary
-materials: from the proceedings of the Association for Computing Machinery
-(ACM) to the US Patent and Trademark Office; from Bell Labs to early Soviet
-publishing houses that heralded the advance of formalism; from studies on
-animal communication behavior, to Unix manuals, to textbooks on semiotics, and
-to foundational texts in the philosophy of aesthetics and literary theory.
+To come to terms with the novel conditions of text so fractured and refracted
+*Plain Text* enacts a displacement of vocabularies. It is a response to a
+particular situation of a literary scholar encountering the field of software
+engineering. For a long stretch of my professional life, these two areas of
+activity remained separate. I worked at one and I studied the other. At the
+time, I simply did not think that code had much to do with poetry. The idea
+for the book came to me in a moment of realization after I was asked one of
+those seemingly naive but fundamental questions of the kind that can set
+research in motion down a long and winding path. A childhood friend who loves
+books asked about the difference between text in print and text on the screen.
+In my struggle to answer, I realized that some of my deepest assumptions about
+literature relied on the centuries-long stability of print media. Despite my
+professional experience as a programmer and academic training in literary
+studies, I could not readily explain the mechanisms by which keystrokes turned
+into pixels, pixels into letters, and letters into words. I could recount
+technical detail on some level, but my knowledge was also riddled with
+unexamined gaps. It did not amount to a coherent story. I was, despite my best
+efforts, surrounded by magical lanterns that cast shadows of code and poetry.
+
+Initially, my two selves---the scholar and the engineer---spoke different
+languages. Reconciling them was and continues to be a disconcerting process by
+which things dear and familiar to me, in both worlds, grew strange and
+unfamiliar, showing themselves to be sometimes less than, and sometimes more
+than I comfortably expected. Nothing could be assumed from the start. Field
+specific language, down to its foundations, had to be examined for hidden
+assumptions that prevented dialog. With time, I saw that code and poetry have
+much to do with one another. Writing this book has taught me to embrace the
+incongruence.
+
+Reflecting on the development of Morse Code in 1949 in the *Proceedings of the
+American Philosophical Society*, Frank Halstead mentioned the difficulty of
+finding a home in either the arts or sciences for what he calls "code
+development." He wrote: "it is a matter somewhat related to the general art of
+cryptology, yet it is not wholly divorced from electrical engineering nor from
+general philology" [@halstead_genesis_1949, 456]. As Halstead anticipated,
+research in the field of computational culture has led me to a rich archive of
+materials from the history of literary theory, semiotics, telegraphy, and
+electrical engineering from the middle of the nineteenth to the end of the
+twentieth centuries. That archive includes documents from the proceedings of
+the Association for Computing Machinery (ACM) to the US Patent and Trademark
+Office; from Bell Labs to early Soviet publishing houses that heralded the
+advance of formalism; from studies on animal communication behavior, to Unix
+manuals, to textbooks on semiotics, and to foundational texts in the
+philosophy of aesthetics and literary theory.
 
 I deploy the archive to argue that extant theories of interpretation evolved
 under the conditions tied to static print media. By contrast, digital text
 changes dynamically to suit its reader, political context, and geography.
 Consequently, I argue for the development of computational poetics: a strategy
 of interpretation capable of reaching past surface content to reveal the
-platforms and infrastructures that stage the construction of
-meaning. A computational poetics, my approach to writing this
-book, differentiates within the apparent unity of digital text. Here, I will
-trace a figure and describe its anatomy. If the very physical nature of the
-word has changed, I would like to ask: How? and How do these changes affect
-discourse formation? I draw on the annals of literary theory and software
-engineering to build the material and historical bases for a possible answer.
-In the process, I argue that even our most basic practices of intellectual
-production are profoundly alienated from their physical contexts.
+platforms and infrastructures that stage the construction of meaning. A
+computational poetics, my approach to writing this book, differentiates within
+the apparent unity of digital text. Here, I will trace a figure and describe
+its anatomy. If the very physical nature of the word has changed, I would like
+to ask: How? and How do these changes affect discourse formation? I draw on
+the annals of literary theory and software engineering to build the material
+and historical bases for a possible answer.  In the process, I argue that even
+our most basic practices of intellectual production are profoundly alienated
+from their physical contexts.
 
 I appeal to the idea of "plain text" in the title of this book to signal an
 affinity with a particular mode of computational meaning-making. Plain text
@@ -161,7 +189,7 @@ existential argument about inhabiting media, in the way one lives with and
 within one's own bookshelves, closets, hard drives, and archives. The
 dialectics of media displacement constitute ultimately a method of making
 sense out of the conflicting and often contradictory logics of the virtual
-object. By these means, this book describes the grounds for textual space. It
+object. By these means, this book delineates the grounds for textual space. It
 is a project theoretically contiguous to the philosophical poetics of Gaston
 Bachelard and Henri Lefebvre, extended into the realm of everyday computation.
 
@@ -170,71 +198,39 @@ furnishings of home, body, and mind. Think here of commercial products that
 occupy a central place in the living room, devices that listen, talk, and
 answer questions, smart personal assistants, pacemakers and brain implants,
 portable devices close to head and heart. One can call them computers, but
-what is a computer but a device for the reading, writing, and storing of
+what is a computer but a machine for the reading, writing, and storing of
 information? The smart toaster and the electronic pacemaker alike are distinct
 from their dumb mechanical counterparts in that they give space to
 inscription. The contest for that space---the right to access and
-ownership---is therefore vitally crucial to a future of a literate humanities.
-I do not mean to suggest that everybody needs to learn how to code, although
-that would not be a bad thing. I mean to view computational culture apart from
-its instrumental uses, in the context of literary and civic thought. I am
-concerned with preserving the possibility of discourse formation (reading,
-writing) along surfaces that are not immediately available for critical
-reflection. Poetics, the construction of symbolic space (space containing
-symbols), physically limits the possibility of interpretation.
-
-To come to terms with the conditions of digital text *Plain Text* enacts a
-displacement of vocabularies. It is a response to a particular situation of a
-literary scholar encountering the field of software engineering. For a long
-stretch of my professional life, these two areas of activity remained
-separate. I worked at one and I studied the other. At the time, I simply did
-not think that code had much to do with poetry. The idea for the book came to
-me in a moment of realization after I was asked one of those seemingly naive
-but fundamental questions of the kind that can set research in motion down a
-long and winding path. A childhood friend who loves books asked about the
-difference between text in print and text on the screen.  In my struggle to
-answer, I realized that some of my deepest assumptions about literature relied
-on the centuries-long stability of print media. Despite my professional
-experience as a programmer and academic training in literary studies, I could
-not readily explain the mechanisms by which keystrokes turned into pixels,
-pixels into letters, and letters into words. I could recount technical detail
-on some level, but my knowledge was also riddled with unexamined gaps. It did
-not amount to a coherent story. I was, despite my best efforts, surrounded by
-magical lanterns that cast shadows of code and poetry.
-
-Initially, my two selves---the scholar and the engineer---spoke different
-languages. Reconciling them was and continues to be a disconcerting process by
-which things dear and familiar to me, in both worlds, grew strange and
-unfamiliar, showing themselves to be sometimes less than, and sometimes more
-than I comfortably expected. Nothing could be assumed from the start. Field
-specific language, down to its foundations, had to be examined for hidden
-assumptions that prevented dialog. With time, I saw that code and poetry have
-much to do with one another. Writing this book has taught me to embrace the
-incongruence.
+ownership---is therefore vitally crucial to the future of a literate
+humanities. I do not mean to suggest that everybody needs to learn how to
+code, although that would not be a bad thing. I mean to view computational
+culture apart from its instrumental uses, in the context of literary and civic
+thought. I am concerned with preserving the possibility of discourse formation
+(reading, writing) along surfaces that are not immediately available for
+critical reflection. Poetics, the construction of symbolic space, space
+containing symbols, physically limits the possibility of interpretation.
 
 In making the case for computational poetics, I am helped by recent
 scholarship in historically- and philosophically-inflected studies of media,
 science, and technology.[^ln0-influences] My notion of poetics builds also on
 the long history of literary theory, combined here with practices borrowed
 from software engineering and computer science. Poetics, in the way I am using
-it here, concerns itself simply with the construction of literary media
-artifacts.  These are not however limited to the canonical, straight-ahead
+it here, concerns itself simply with the construction of textual media
+artifacts. These are not however limited to the canonical, straight-ahead
 structuralisms of Roman Jakobson or Jonathan Culler. I am borrowing rather
 from a more peripheral tradition represented best by third culture thinkers
 like Viktor Shklovsky and Vilém Flusser, consummate immigrants both, who
 extracted a literary and a media theory respectively out of the fabric of
-their emigration.
+their migration.
 
-Two theorists of text, media, and displacement have shaped my general approach
-to computational poetics: the literary formalist Viktor Shklovsky and the
-media philosopher Vilém Flusser. Flusser in particular considered the
-condition of unease that comes with emigration, both physical and mental, to
-be a type of information processing. His work was instrumental in making sense
-of my own displacements, first as a one-time refugee fleeing the dissolution
-of the former Soviet Union, then a former transplant into Silicon Valley from
-a strict literary education, and now a lapsed engineer among humanists. These
-vantage points offer me a singular view onto the material conditions of
-contemporary intellectual life.
+Flusser in particular considered the condition of unease that comes with
+migration, both physical and mental, to be a type of information processing.
+This idea helped make sense of my own displacements, first as a one-time
+refugee fleeing the dissolution of the former Soviet Union, then a former
+transplant into Silicon Valley from a strict literary education, and now a
+lapsed engineer among humanists. These vantage points offer a singular view
+onto the material conditions of contemporary intellectual life.
 
 Both Shklovsky and Flusser wrote lucidly about the dynamics of habituation.
 Their work helps us see the irresistible compromise at the heart of all
