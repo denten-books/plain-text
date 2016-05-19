@@ -1,27 +1,7 @@
 # Computational Poetics: An Introduction
 
-This book is about the strange entanglement between humans, texts, and
-machines. It examines key literary theoretical ideas alongside the
-intellectual history of software engineering that frame contemporary reading,
-writing, and interpretation practices. It is a deeply materialist work, in
-which I argue that even our most ingrained intuitions about texts are
-profoundly alienated from the physical contexts of intellectual production. A
-new kind of poetics is therefore necessary to preserve the free play of ideas
-implicit in the method of humanistic inquiry. Often, the work of literary
-theory defines itself in terms of specific texts, as a series of readings. My
-object of study is instead the nature of textuality itself. I am interested
-here in how texts are produced; in the metaphors that guide computation; in
-the forms, formulae, and formats that structure human-computer interaction; in
-the literary device; and in the strange shape of contemporary inscription,
-which, no longer a single mark on paper, stretches between the site of
-fleeting projection, the screen, and the site of storage in its solid,
-archival state. In quite another sense, this book is about more than words,
-screens, and archives: it reasons through the dynamics of technological
-settlement and displacement, through the comforts and the discomforts of
-inhabiting our numerous extensions of self, our media homes.
-
-While I write these introductory remarks, a ceiling-mounted smoke detector in
-my kitchen begins to emit a loud noise every three minutes or so. A pleasant
+As I write these introductory remarks, a ceiling-mounted smoke detector in my
+kitchen begins to emit a loud noise every three minutes or so. A pleasant
 female voice announces also "low battery." This is, as I learn, a precaution
 stipulated by US National Fire Alarm Code 72-108 11.6.6 (2013). The clause
 requiring a "distinct audible signal before the battery is incapable of
@@ -43,64 +23,68 @@ indicate breathing room for a speaker and several microphones. To "open" a
 book I touch the glass. The machine recognizes my fingerprint almost
 instantly. I then tap and poke at the surface until I find a small image that
 represents both my library and the book store, where I can "buy books." Buying
-books does not actually involve ownership or books. Rather, I agree to a
-licence that grants limited access to data, which the software then assembles
-into something resembling a book on the screen. I tap again to begin reading.
-The screen dims to match room ambiance as words fill the screen. One of the
-passages on the first page appears underlined: a number of other readers in my
-social circle must have found the passage notable. My finger slides along the
-glass surface to turn a "page." The device emits a muffled rustle to reinforce
-the pretense of manipulating paper. The image curls ever so slightly in a way
-that resembles the printed page as another "page" slides into view. My tiny
-library metaphor contains hundreds of such page metaphors.
+books does not, however, involve the actual ownership of book objects. Rather,
+I agree to a licence that grants limited access to data, which the software
+then assembles into something resembling a book on the screen. I tap again to
+begin reading. The screen dims to match room ambiance as words fill the
+screen. One of the passages on the first page appears underlined: a number of
+other readers in my social circle must have found the passage notable. My
+finger slides along the glass surface to turn a "page." The device emits a
+muffled rustle to reinforce the pretense of manipulating paper. The image
+curls ever so slightly in a way that resembles the printed page as another
+"page" slides into view. My tiny library metaphor contains hundreds of such
+page metaphors.
 
 Despite appearances, the electronic metaphor-making device next to my computer
 has more in common with the smoke detector than it does with several paper
 volumes scattered across my desk. The electronic book and the smoke alarm
-contain printed circuit boards, capacitors, silicone chips, and resistors.
-Both draw electric current. Both require firmware updates and both are
-governed by codes, political and computational. The smoke alarm and the mobile
-phone connect to the internet. They communicate with remote data centers and
-with each other. And yet, I continue to read electronic books as if they were
-familiar, immutable, and passive objects: just books. I think of them as
-intimate artifacts---friends even---wholly known to me, comforting, and warm.
-The electronic book is none of those things. Besides prose, it keeps my
-memories, pictures, words, sounds, and thoughts. It records my reading,
-sleeping, and consumption habits. It tries to sell me things, showing me
-advertisements for cars, jewelry, and pills. It comes with a manual and terms
-of service. It is my confidant, my dealer, my spy.
+contain printed circuit boards, capacitors, and resistors. Both draw electric
+current. Both require firmware updates and both are governed by codes,
+political and computational. The smoke alarm and the mobile phone connect to
+the internet. They communicate with remote data centers and with each other.
+And yet, I continue to read electronic books as if they were familiar,
+immutable, and passive objects: just books. I think of them as intimate
+artifacts---friends even---wholly known to me, comforting, and warm.  The
+electronic book is none of those things. Besides prose, it keeps my memories,
+pictures, words, sounds, and thoughts. It records my reading, sleeping, and
+consumption habits. It tries to sell me things, showing me advertisements for
+cars, jewelry, and pills. It comes with a manual and terms of service. It is
+my confidant, my dealer, my spy.
 
 ## Thesis and Scope
 
-My aim in this book is to dispel a pervasive illusion. The electronic book
-draws a compelling figure that belies material realities of reading and
-writing, transformed by the advent of computation. The device on my desk is
-not a book, but a simulation of a book. And everything associated with reading
-this metaphor must in itself be understood under the sign of
-simulation.[^ln0-manovich] What kind of a metaphor is it? How did it come into
-being and how does it affect practices of literary interpretation? In *Plain
-Text* I come to terms with the conditions of *simulated textuality*.
+*Plain Text* tells a story of a major morphological shift affecting all areas
+of culture production and textuality in particular. If I were to interrupt
+someone in the process of writing something in front of a computer and
+ask---Where do these words reside?---I would likely receive several
+conflicting answers in response. In some sense, the words reside on the
+screen, where they appear to view. In another sense, they live somewhere
+within the machine, on remote and often hermeneutically sealed surfaces:
+silicone chips, hard drives, flash memory cards. In yet another sense, the
+visible sign is still further removed from the context of its production. It
+is in the wires. It spreads across servers, routers, and data centers. The
+process of reading and writing no longer remains a solitary activity. Nor is
+the word confined to a singular location. What was once apparent now takes on
+a more complex shape, stretched between surfaces, across time and space. The
+book---this book, any book---gains a new structure. I do not mean the above
+figuratively. In the case of my writing words on a screen, using a keyboard,
+the text forms a kind of a live lattice---a multidimensional grid---which
+connects the tactile sense of the letter beneath my fingers to the optic and
+to the electromagnetic. All of these sensualities are present at once. In
+aggregate they incorporate the synchronic text. I cannot pass a note to the
+reader digitally in the same sense that one passes notes class, on paper. It
+is impossible to give the entire structure over to another. The text is
+irrevocably intertwined with my material contexts; it literally gains another
+shape when recreated under system configurations not fully congruent with my
+own. Much of the contemporary anxiety about the intrusion of computational
+culture in the everyday points to this fundamental reshaping of the sign,
+without naming it. The physical fracture of the electromagnetic inscription
+leads to its multivalence. The lattice opens a depth between the words, where
+forces of capital and control intervene to monitor, monetize, censor, or
+correct.
 
-[^ln0-manovich]: See @manovich_there_2011, 53-106.
-
-"Software's ghostly presence produces and defies apprehension," Wendy Chun
-wrote in her *Programmed Visions* [@chun_programmed_2011, 3]. But what happens
-when all text is a type of software? Friedrich Kittler ended his book on a
-similar note: in his vision, literature has been finally defeated by
-technologies of encryption, secrecy, and obfuscation [@kittler_gramophone_1999,
-263]. Attempts to silence print through book burning or censorship are
-viscerally obvious and met with nearly universal disapproval. Unlike
-censorship or the burning of books, the dominion of computation proceeds by
-clandestine means. The simulation-producing nature of computed text preserves
-the outward appearance of printed text, while concealing the specifics of
-discipline and control. I mean discipline and control in the sense of shaping
-affordances: a mode of physical regulation that structures the production,
-access, and the distribution of knowledge. The challenge of *Plain Text* will
-be in the description of such emerging but often occluded technological
-possibilities.
-
-A concern with the material conditions of simulated textuality leads us to a
-rich archive of materials from the history of literary theory, semiotics,
+A concern with the material conditions of digital text leads us to a rich
+archive of materials from the history of literary theory, semiotics,
 telegraphy, and electrical engineering from the middle of the nineteenth to
 the end of the twentieth centuries. Reflecting on the development of Morse
 Code in 1949 in the *Proceedings of the American Philosophical Society*, Frank
@@ -117,16 +101,19 @@ animal communication behavior, to Unix manuals, to textbooks on semiotics, and
 to foundational texts in the philosophy of aesthetics and literary theory.
 
 I deploy the archive to argue that extant theories of interpretation evolved
-under the conditions tied to static print media. By contrast, electronic text
+under the conditions tied to static print media. By contrast, digital text
 changes dynamically to suit its reader, political context, and geography.
-Consequently, I argue for the development of what I term *computational
-poetics*: a strategy of interpretation capable of reaching past surface
-content to reveal the software platforms and the hardware infrastructures that
-contribute to the construction of meaning. Drawing on a range of materials at
-the intersection of literary thought and the history of modern computing,
-*Plain Text* examines a number of key literary-theoretical constructs,
-grounding contemporary practices of interpretation within the material
-contexts of digital production.
+Consequently, I argue for the development of computational poetics: a strategy
+of interpretation capable of reaching past surface content to reveal the
+platforms and infrastructures that stage the construction of
+meaning. A computational poetics, my approach to writing this
+book, differentiates within the apparent unity of digital text. Here, I will
+trace a figure and describe its anatomy. If the very physical nature of the
+word has changed, I would like to ask: How? and How do these changes affect
+discourse formation? I draw on the annals of literary theory and software
+engineering to build the material and historical bases for a possible answer.
+In the process, I argue that even our most basic practices of intellectual
+production are profoundly alienated from their physical contexts.
 
 I appeal to the idea of "plain text" in the title of this book to signal an
 affinity with a particular mode of computational meaning-making. Plain text
@@ -144,67 +131,76 @@ I do so in contrast with other available modes of human-computer interaction,
 which instead privilege maximizing system-centric ideals like efficiency,
 speed, performance, or security.
 
-My use of plain text implies also a poetics of reading and writing. The title
-therefore further identifies an interpretive stance one can assume in relation
+The title further identifies an interpretive stance one can assume in relation
 to the making and the unmaking of literary artifacts. Besides visible content,
 all contemporary documents carry with them a layer of hidden information.
 Originally used for typesetting, that layer affects more than innocuous
 document attributes like "font size" or "line spacing." Increasingly, devices
-that mediate literary activity also embody structures of governance and
-control. These tacitly encoded agents police intellectual property laws; they
-censor and carry out surveillance operations. For example, the Digital
-Millennium Copyright act, passed in the United States in 1996, goes beyond
-written injunction to require in some cases the management of digital rights
-(DRM) at the level of hardware. An electronic book governed by DRM may
-subsequently prevent the reader from copying or sharing stored content, even
-for the purposes of academic study.[^ln-dmca] In some situations, it may
-report the reader's activity to the authorities. Building on the recent work
-of scholars like Wendy Chun, Tung-Hui Hu, Finn Brunton, Helen Nissenbaum, and
-Lisa Gitelman I make the case for an empowered *computational poetics*, a
-method of inquiry that aims to bring tacit control structures once again under
-the domain of interpretation and critique [@chun_programmed_2011;
-@gitelman_paper_2014; @hu_prehistory_2015; @brunton_obfuscation:_2015].
-
-My notion of poetics builds also on the long history of literary theory,
-combined here with practices borrowed from software engineering and computer
-science. Poetics, in the way I am using it here, concerns itself simply with
-the construction of literary media artifacts. These are not however limited to
-the canonical, straight-ahead structuralisms of Roman Jakobson or Jonathan
-Culler. I am borrowing rather from a more peripheral tradition represented
-best for me by third culture thinkers like Viktor Shklovsky and Vilém Flusser,
-consummate immigrants both, who extracted a literary and a media theory
-respectively out of the fabric of their emigration. The purpose of this
-introduction is in part to recreate for the reader the winding path that
-anticipated the making of this book. It passes first through a kind of a
-productive tension between estrangement and habituation, which although
-stemming from a personal experience of geographic displacement, leads to a
-dialectics, that is, a method of making sense out of conflicting and often
-contradictory logics of the virtual. In the section that follows, I outline
-some of the methodological considerations that motivate my approach to the
-study of media in general and of text in particular. Finally, I would like to
-draw attention to the plan of the present work.
+that mediate literary activity also embody governing structures. For example,
+the Digital Millennium Copyright act, passed in the United States in 1996,
+goes beyond written injunction to require in some cases the management of
+digital rights (DRM) at the level of hardware. An electronic book governed by
+DRM may subsequently prevent the reader from copying or sharing stored
+content, even for the purposes of academic study.[^ln-dmca] In some
+situations, it may report the reader's activity to the authorities. Attempts
+to silence print through book burning or censorship are viscerally apparent.
+Unlike censorship or the burning of books, the dominion of computation
+proceeds by clandestine means. The simulation-producing nature of computed
+text preserves the outward appearance of printed text, while concealing the
+specifics of its production and distribution. The challenge of *Plain Text*
+will be in the description of such emerging but often occluded technological
+possibilities.
 
 ## Theory
 ### Displacement
 
-To come to terms with the conditions of simulated textuality *Plain Text*
-enacts a displacement of vocabularies. It is a response to a particular
-situation of a literary scholar encountering the field of software
-engineering. For a long stretch of my professional life, these two areas of
-activity remained separate. I worked at one and I studied the other. At the
-time, I simply did not think that code had much to do with poetry. The idea
-for the book came to me in a moment of realization after I was asked one of
-those seemingly naive but fundamental questions of the kind that can set
-research in motion down a long and winding path. A childhood friend who loves
-books asked about the difference between text in print and text on the screen.
-In my struggle to answer, I realized that some of my deepest assumptions about
-literature relied on the centuries-long stability of print media. Despite my
-professional experience as a programmer and academic training in literary
-studies, I could not readily explain the mechanisms by which keystrokes turned
-into pixels, pixels into letters, and letters into words. I could recount
-technical detail on some level, but my knowledge was also riddled with
-unexamined gaps. It did not amount to a coherent story. I was, despite my best
-efforts, surrounded by magical lanterns that cast shadows of code and poetry.
+The winding path that led to *Plain Text* stems from a productive tension
+between estrangement and habituation. In the background of a strictly
+historical materialist critique of computational media there lies also an
+existential argument about inhabiting media, in the way one lives with and
+within one's own bookshelves, closets, hard drives, and archives. The
+dialectics of media displacement constitute ultimately a method of making
+sense out of the conflicting and often contradictory logics of the virtual
+object. By these means, this book describes the grounds for textual space. It
+is a project theoretically contiguous to the philosophical poetics of Gaston
+Bachelard and Henri Lefebvre, extended into the realm of everyday computation.
+
+Writing surfaces multiply and establish themselves firmly among the
+furnishings of home, body, and mind. Think here of commercial products that
+occupy a central place in the living room, devices that listen, talk, and
+answer questions, smart personal assistants, pacemakers and brain implants,
+portable devices close to head and heart. One can call them computers, but
+what is a computer but a device for the reading, writing, and storing of
+information? The smart toaster and the electronic pacemaker alike are distinct
+from their dumb mechanical counterparts in that they give space to
+inscription. The contest for that space---the right to access and
+ownership---is therefore vitally crucial to a future of a literate humanities.
+I do not mean to suggest that everybody needs to learn how to code, although
+that would not be a bad thing. I mean to view computational culture apart from
+its instrumental uses, in the context of literary and civic thought. I am
+concerned with preserving the possibility of discourse formation (reading,
+writing) along surfaces that are not immediately available for critical
+reflection. Poetics, the construction of symbolic space (space containing
+symbols), physically limits the possibility of interpretation.
+
+To come to terms with the conditions of digital text *Plain Text* enacts a
+displacement of vocabularies. It is a response to a particular situation of a
+literary scholar encountering the field of software engineering. For a long
+stretch of my professional life, these two areas of activity remained
+separate. I worked at one and I studied the other. At the time, I simply did
+not think that code had much to do with poetry. The idea for the book came to
+me in a moment of realization after I was asked one of those seemingly naive
+but fundamental questions of the kind that can set research in motion down a
+long and winding path. A childhood friend who loves books asked about the
+difference between text in print and text on the screen.  In my struggle to
+answer, I realized that some of my deepest assumptions about literature relied
+on the centuries-long stability of print media. Despite my professional
+experience as a programmer and academic training in literary studies, I could
+not readily explain the mechanisms by which keystrokes turned into pixels,
+pixels into letters, and letters into words. I could recount technical detail
+on some level, but my knowledge was also riddled with unexamined gaps. It did
+not amount to a coherent story. I was, despite my best efforts, surrounded by
+magical lanterns that cast shadows of code and poetry.
 
 Initially, my two selves---the scholar and the engineer---spoke different
 languages. Reconciling them was and continues to be a disconcerting process by
@@ -215,6 +211,19 @@ specific language, down to its foundations, had to be examined for hidden
 assumptions that prevented dialog. With time, I saw that code and poetry have
 much to do with one another. Writing this book has taught me to embrace the
 incongruence.
+
+In making the case for computational poetics, I am helped by recent
+scholarship in historically- and philosophically-inflected studies of media,
+science, and technology.[^ln0-influences] My notion of poetics builds also on
+the long history of literary theory, combined here with practices borrowed
+from software engineering and computer science. Poetics, in the way I am using
+it here, concerns itself simply with the construction of literary media
+artifacts.  These are not however limited to the canonical, straight-ahead
+structuralisms of Roman Jakobson or Jonathan Culler. I am borrowing rather
+from a more peripheral tradition represented best by third culture thinkers
+like Viktor Shklovsky and Vilém Flusser, consummate immigrants both, who
+extracted a literary and a media theory respectively out of the fabric of
+their emigration.
 
 Two theorists of text, media, and displacement have shaped my general approach
 to computational poetics: the literary formalist Viktor Shklovsky and the
@@ -1110,6 +1119,11 @@ reach, and no further" [@iarkho_metodologia_2006, 363-364]. For Iarkho, the
 most quantitatively inclined of the Russian Formalists, microanalysis involved
 systematic application of statistical methods to the study of literature.
 
+[^ln0-influences]: Works by Finn Brunton, Wendy Chun, Matthew Fuller,
+Alexander Galloway, Lisa Gitelman, Yuk Hui, Helen Nissenbaum, Lev Manovich,
+John Durham Peters, Mary Poovey, and Jonathan Sterne among many others left
+their mark on this text.
+
 [^ln-kittler2]: *Gramophone, Film, Typewriter* ends as follows: "And while
 professors are still reluctantly trading in their typewriters for word
 processors, the NSA is preparing for the future: from nursery school
@@ -1126,6 +1140,8 @@ about which Robinson Crusoe would make no mistake" [@lacan_seminar_1997, 167].
 post-humanism. For more a more extended discussion on Kittler, Foucault, and
 post-humanism see for example @winthrop-young_silicon_2000; @wolfe_what_2010,
 104-128; @siegert_cultural_2013.
+
+[^ln0-manovich]: See @manovich_there_2011, 53-106.
 
 [^ln-pragmatism]: @ramsey_foundations_2013, 155. The intellectual legacy of
 pragmatism is wide-ranging and diffuse. It is perhaps most pronounced in the
