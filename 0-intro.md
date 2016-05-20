@@ -81,7 +81,7 @@ intrusion of computational culture in the everyday points to this fundamental
 reshaping of the sign, without naming it. The physical fracture of the overall
 inscription leads to its multivalence. The lattice opens a depth between the
 words, where forces of capital and control intervene to monitor, monetize,
-censor, or correct.
+censor, or correct.[^ln-capital]
 
 To come to terms with the novel conditions of text so fractured and refracted
 *Plain Text* enacts a displacement of vocabularies. It is a response to a
@@ -419,13 +419,18 @@ diverse practices of reverse engineering. Similar in method to what Matthew
 Kirschenbaum calls "forensic argumentation," reverse engineering recalls the
 formalist strategy of experiencing the "making of the thing" through careful,
 case study-based reconstructions of textual mechanism
-[@kirschenbaum_mechanisms_2008, 15]. The function of a case study in an
-engineer's education, as Henry Petroski explains in his *Invention by Design*,
-is to understand the ways by which one gets "from thought to thing"
-[@petroski_invention_1996, 3-7]. Along with an exposition of a metaphor, each
-of my chapters therefore also contains at least one literary "thought thing."
-Each chapter enacts a deconstruction---a literal taking apart---of that
-device.
+[@kirschenbaum_mechanisms_2008, 15].[^ln0-reverse] The function of a case
+study in an engineer's education, as Henry Petroski explains in his *Invention
+by Design*, is to understand the ways by which one gets "from thought to
+thing" [@petroski_invention_1996, 3-7]. From thought to thing would be another
+apt definition of poetics and fitting subtitle to this book. Along with an
+literary and historical exposition, each of my chapters contains at least one
+literary thought-thing. Each chapter enacts a deconstruction---a literal
+taking apart---of that device. The epistemic object is present to challenge
+the reader's and the author's theoretical intuitions.
+
+<!-- take care of this -->
+[^ln0-reverse]: See also Fuller, Evil Media page 9.
 
 The word processor, the operating system, and the electronic book are some of
 the sites that frame the encounter between literary theory and practice today.
@@ -441,25 +446,32 @@ remove the aura of fetishism that attaches itself to literary--computational
 artifacts and to complex systems that mediate the textual encounter. That is
 not to say that epistemic things can ever become wholly known or fully
 transparent. But neither should they remain forever out of reach. We must
-insist on entering them into a dialectic, by which our ideals align with our
-technological choices.
+insist on entering them into a dialectic, by which ideals reify and align with
+technological commitment.
 
 The reverse engineering of literary devices reveals that not all texts are
 created equal. In print, traditional distinctions between form and content lie
 flat. The printing press firmly embeds ink into paper, leaving no space
-between type and page. Media-minded critics like Johanna Drucker, Katherine
-Hayles, and Jerome McGann have urged literary scholars to re-evaluate
-textuality in its media-specific contexts [@drucker_digital_2001;
+between type and page. Materially-minded critics like Johanna Drucker,
+Katherine Hayles, and Jerome McGann have urged literary scholars to
+re-evaluate textuality in its media-specific contexts [@drucker_digital_2001;
 @mcgann_radiant_2001; @hayles_print_2004]. Their work reminds us that the
 flatness of digital text endures only in the guise of an illusion. Low-level
 operational intuitions governing textuality---ideas about form, content,
 style, letter, and word---change profoundly as text shifts its confines from
 paper to pixel. A substantial gap separates the visible text from the medium
-where it is stored. In other words, pixels on a screen are literally removed
-from the magnetic trace on the hard drive. The two sites of textuality---the
+where it is stored. Pixels on a screen are literally removed from the
+electromagnetic trace on the hard drive. The two sites of textuality---the
 visible image and the archived inscription---do not come into direct contact.
-Forces of capital and control exploit that gap, obscuring the workings of the
-device.[^ln-capital]
+The space between contains yet more text which specifies the rules for
+transformation from one medium, solid state storage, to another, the liquid
+crystal display. These rules contain the essence of control: before ideology,
+at the level of infrastructure. Censorship filters and surveilling apparatus
+are some of the starkest examples of governance that occupy the space between
+storage and presentation: what the text is and what it appears to be. I
+propose we begin with this obvious sense of difference between paper and
+digital text: Where print documents are controlled by legal instruments, like
+the Obscene Publication Acts in Victorian England,
 
 Changing material conditions of textual transmission push against familiar
 ideas of literary criticism. For example, the easy reproduction of digital
