@@ -138,3 +138,14 @@ persist when reading devices reconfigure the text to fit individual tastes,
 mood, or politics? How would we even agree on the fact that we are reading the
 same text? The very possibility of interpretation comes into question.
 
+I begin then where Bernard Harcourt's recent book on epistemic disobedience
+ends: with the possibility of localized dissent [@harcourt_exposed:_2015].
+Following itinerant theorists of the metaphor I propose to proceed by
+systematic estrangement of computational metaphors; metaphors that fade into
+transparency as if to escape the critical gaze. A strategy of deliberate
+defamiliarization reclaims the metaphor-device for analysis. To come to terms
+with the book as a device; to begin to understand the nature of the text
+simulation; to perceive the particularity of the computed sign, these are the
+aims of *Plain Text*.
+
+<!-- cite also mignolo -->

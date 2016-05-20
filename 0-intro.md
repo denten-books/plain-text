@@ -188,14 +188,13 @@ materialist critique of computational media there lies also an existential
 argument about inhabiting media. I mean inhabiting in the way one lives with
 and within one's own bookshelves, closets, hard drives, and archives. The
 dialectics of media displacement constitute a method of making sense out of
-the conflicting and often contradictory logics of the virtual object. We are
-confronted by spaces that are not spaces, or rather ersatz expanses that
-present themselves otherwise: glass that looks like paper, liquid crystal that
-flows to imitate ink. By such means, the electronic book delineates new
-grounds for textual inscription. Because *Plain Text* deals with the structure
-of intimate space, it is project theoretically contiguous to the philosophical
-poetics of Gaston Bachelard and Henri Lefebvre, extended into the realm of
-everyday computation.
+the often contradictory logics of the virtual object. We are confronted by
+spaces that are not spaces, or rather ersatz expanses that dissimulate: glass
+that looks like paper, liquid crystal that flows to imitate ink. By such
+means, the electronic book delineates a qualitatively new grounds for textual
+inscription. Because *Plain Text* deals with the structure of intimate space,
+it is project theoretically contiguous to the philosophical poetics of Gaston
+Bachelard and Henri Lefebvre, extended into the realm of everyday computation.
 
 <!-- insert footnotes to both -->
 
@@ -204,20 +203,20 @@ furnishings of home, body, and mind. Think here of commercial products that
 occupy a central place in the living room: devices that listen, talk, and
 answer questions, smart personal assistants, pacemakers and brain implants,
 portable gadgets close to head and heart. One can call them computers, but
-what is a computer but a machine for the reading, writing, and storing of
-information? The smart toaster and the electronic pacemaker alike are distinct
-from their dumb mechanical counterparts in that they give grounds to
-inscription. A contest for that space---the right to access and ownership---is
-therefore vitally crucial to the future of a literate humanities. I do not
-mean to suggest that everybody needs to learn how to code, although that would
-not be a bad thing. I mean to view computational culture apart from its
-instrumental uses, in the context of literary and civic thought. I am
-concerned here with the preservation of the basic possibility to form
-discourse---to read and write---along surfaces that are not available for
+what is a computer but a machine for the reading and writing---input and
+output---of information? The smart toaster and the electronic pacemaker alike
+are distinct from their dumb mechanical counterparts in that they give grounds
+to inscription. A contest for that space---the right to access and
+ownership---is therefore vitally crucial to the future of a literate
+humanities. I do not mean to suggest that everybody needs to learn how to
+code, although that would not be a bad thing. I mean to view computational
+culture apart from its instrumental uses, in the context of literary and civic
+thought. I am concerned here with the preservation of the basic possibility to
+form discourse---to read and write---along surfaces that are not available for
 immediate scrutiny. Poetics, the construction of symbolic space, space
 containing symbols, physically limits the possibility of interpretation. A
 sign invisible or rendered white on a white background is ultimately
-illegible. It never makes it into the hermeneutic circle.
+illegible. It never makes it into the hermeneutic circuit.
 
 In making the case for computational poetics, I am helped by recent
 scholarship in historically- and philosophically-inflected studies of media
@@ -251,35 +250,39 @@ fish, the habituated thing passes into the background of experience. Mediums
 become media. They disappear into the background, cease producing meaning,
 become a stage for meaning-making, and like the stage disappear from view.
 
-The condition of exile, by contrast, allows the displaced to once again
-transform habituated media into meaningful information. In exile, "everything
-is unusual," Flusser wrote [@flusser_does_2011, 81]. The migrant experiences
-the world as an ex-perience [*er-fahrung*], or literally a driving out.
-Discovery, he concluded "begins as soon as the blanket is pulled away," where
-the familiar objects can pass into view again [@flusser_does_2011, 86-7].
+Losing sight of the material contexts of knowledge production is politically
+perilous, because those who own the contexts set the terms of engagement.
+Estrangement arrests the process of material concealment. The condition of
+exile allows the displaced to once again transform habituated media into
+meaningful information. In exile, "everything is unusual," Flusser wrote
+[@flusser_does_2011, 81]. The migrant experiences the world as an ex-perience
+[*er-fahrung*], or literally a driving out. Discovery, he concluded "begins as
+soon as the blanket is pulled away," where the familiar objects can pass into
+view again [@flusser_does_2011, 86-7].
 
-One could write, for example, "a field of study," without much thought about
-figurative space. Shklovsky would have the reader pause to consider the
-implications [@shklovksy_sborniki_1917]. In what sense do ideas resemble (or
-not) a field? The poet could further make this metaphor strange. To evoke a
-light-hearted illustration one could write: "to scythe a verdant field of
-literary study." The verb (to scythe) and the adjective (verdant) create an
-unexpected transference of new qualities not present in the original image
-(intellectual field). These qualities "overdetermine" or "saturate" the
-metaphor, exposing its conceit. Subsequently, we realize that the two
-domains---intellectual and horticultural---do not map onto each other
-perfectly, leaving a semantic remainder: the stuff that does not fit. The
-reader discovers "intellectual fields" for what they are: habituated
-metaphors, neither natural nor self-apparent. The metaphor is made strange
-again through purposeful defamiliarization. To take the technique to its
-logical conclusion, a writer could depict several fictional characters in the
-act of scything a field of grass while discussing the relative merits of
-structuralism: a discussion about the field on a field. Such literary artifice
-would make actual the implied connections between fields of grass and fields
-of ideas. The writer now shows what was merely told before. The technique of
-defamiliarization finally renews the figure: discarding hardened clichés while
-suggesting novel linkages between constituent concepts: intellectual chaff,
-leaves of mental grass, the combines of thought.
+One could write, to take a simple example, "a field of study," without much
+thought about figurative space. Shklovsky would have the reader pause to
+consider the implications [@shklovksy_sborniki_1917]. In what sense do ideas
+resemble (or not) a field? The poet could further make this metaphor strange.
+To evoke a light-hearted illustration one could write: "to scythe a verdant
+field of literary study." The verb (to scythe) and the adjective (verdant)
+create an unexpected transference of new qualities not present in the original
+image (intellectual field). These qualities "overdetermine" or "saturate" the
+metaphor, exposing its conceit. One can do to fields of grass what one cannot
+to ideas. Subsequently, we realize that the two domains---intellectual and
+horticultural---do not map onto each other perfectly, leaving a semantic
+remainder: the stuff that does not fit. The reader discovers "intellectual
+fields" for what they are: habituated metaphors, neither natural nor
+self-apparent. The metaphor is made strange again through purposeful
+defamiliarization. To take the technique to its logical conclusion, a writer
+could depict several fictional characters in the act of scything a field of
+grass while discussing the relative merits of structuralism: a discussion
+about the field on a field. Such literary artifice would make actual the
+implied connections between fields of grass and fields of ideas. The writer
+now shows what was merely told before. The technique of defamiliarization
+finally renews the figure: discarding hardened clichés while suggesting novel
+linkages between constituent concepts: intellectual chaff, leaves of mental
+grass, the combines of thought.
 
 The formalists understood habituated metaphors to diminish the vitality of
 experience. Shklovsky quotes from the diaries of Lev Tolstoy, who, while
@@ -376,38 +379,22 @@ disempowerment. But where it is difficult to imagine or to enact strategies of
 digital disobedience on a universal scale, we can begin to address them
 through numerous minute transactions that in aggregate brace everyday literary
 exchange. This we can do now. Computational poetics begins with the machines
-in the immediate proximity, those closest to thought and touch.
+in the immediate proximity, closest to thought and touch.
 
 To pick up an electronic book and to take it apart may be against the law in
 some jurisdictions [@fry_circumventing_2009]. Given the extent to which
 emergent thought-things---epistemic artifacts---like electronic books and
 smart phones participate actively in the production of meaning, we can no
-longer employ strategies of interpretation at the levels of ideology and
-representation alone.[^ln-rhein] Close reading, critical theory, and literary
-analysis must reach down to the silicon bedrock: material entities and
-physical structures that bear the weight of interpretation. Literary theory, a
-discipline fundamentally engaged in the exegesis of figurative trope, is
-therefore crucial to the understanding of new computational environments,
-which have enveloped intellectual life through metaphoric substitution. To
-read the machine is to learn how it is made, but also to unpack the rich
-metaphors that guide our tactical engagement with the word: the boot in
-rebooting, the wares in software, the bug and the joy-stick, the interpreter
-and the shell.
-
-[^ln-rhein]: I am in influenced here by the discussion of epistemic things in
-@rheinberger_toward_1997, 24-37.
-
-I begin then where Bernard Harcourt's recent book on epistemic disobedience
-ends: with the possibility of localized dissent [@harcourt_exposed:_2015].
-Following itinerant theorists of the metaphor I propose to proceed by
-systematic estrangement of computational metaphors; metaphors that fade into
-transparency as if to escape the critical gaze. A strategy of deliberate
-defamiliarization reclaims the metaphor-device for analysis. To come to terms
-with the book as a device; to begin to understand the nature of the text
-simulation; to perceive the particularity of the computed sign, these are the
-aims of *Plain Text*.
-
-<!-- cite also mignolo -->
+longer employ strategies of interpretation at the levels of ideology or
+representation alone.[^ln-rhein] The praxis of close reading must reach down
+to the silicon bedrock: material entities and physical structures that bear
+the weight of interpretation. Literary theory, a discipline fundamentally
+engaged in the exegesis of figurative trope, is therefore crucial to the
+understanding of new computational environments, which have enveloped
+intellectual life through metaphoric substitution. To read the machine is to
+learn how it is made, but also to unpack the rich metaphors that guide our
+tactical engagement with the word: the boot in rebooting, the wares in
+software, the bug and the joystick, the interpreter and the shell.
 
 ### Settlement
 
@@ -421,7 +408,7 @@ Flusser wrote, "so that I can reach out toward the unfamiliar and create
 things yet unknown" [@flusser_freedom_2003, 12]. The expellee and the settled
 inhabitant need each other. The dialectics of exile lead to "informed renewal"
 of shared space through what Flusser called a "creative dialogue" between the
-settled and the unsettled [@flusser_freedom_2003, 84].  Without the protection
+settled and the unsettled [@flusser_freedom_2003, 84]. Without the protection
 of one's home, everything turns to noise. There can no information without a
 dwelling, Flusser wrote, "and without information, in a chaotic world, one can
 neither feel nor think nor act" [@flusser_does_2011, 12]. By this dynamic,
@@ -945,9 +932,21 @@ literary devices.
 
 [^ln-bernard]: On Bernard see @petit_claude_1987 and @sattar_aesthetics_2013.
 
+[^ln-bookreview]: I write "supplants the function" because I do not mean to
+imply that the book review disappears or becomes less vital. On massive market
+platforms like Amazon Books, the book review passes from the domain of an
+expert to the domain of the lay reader. Book reviews thus proliferate. Their
+function changes from universal aesthetic judgement to instrumental reasoning.
+In other words, we now find the book first then read the review. The review
+ceases to serve as a tool for discovery--a function now addressed by the
+search and recommendation engines.
+
 [^ln-brains]: For the first view see @putnam_minds_1960 and
 @fodor_language_1975. For the second view see @deutsch_quantum_1985 and
 @dyson_turings_2012.
+
+[^ln-brik]: @shklovksy_poetika_1919, 104. Translations are mine unless source cited explicitly in
+English.
 
 [^ln-capital]: Scholars like Alexander Galloway, David Golumbia, Bernard
 Harcourt have advanced critique along similar lines. See
@@ -1042,8 +1041,8 @@ things, but that they enact change in the world.
 
 [^ln-sweatshop]: See @freeman_high_2000 and @patel_working_2010.
 
-[^ln-brik]: @shklovksy_poetika_1919, 104. Translations are mine unless source cited explicitly in
-English.
+[^ln-rhein]: I am in influenced here by the discussion of epistemic things in
+@rheinberger_toward_1997, 24-37.
 
 [^ln-varela]: See @varela_autopoiesis_1974; @barthes_rustle_1989, 5;
 @nuttall_new_2007, 6-25.
@@ -1066,15 +1065,6 @@ of technological structure endow the creation with an anticipated *telos*"
 
 [^ln-witt]: @wittgenstein_philosophical_2001, 67-77. For more on the
 connection between Wittgenstein and James see @goodman_james_2004.
-
-[^ln-bookreview]: I write "supplants the function" because I do not mean to
-imply that the book review disappears or becomes less vital. On massive market
-platforms like Amazon Books, the book review passes from the domain of an
-expert to the domain of the lay reader. Book reviews thus proliferate. Their
-function changes from universal aesthetic judgement to instrumental reasoning.
-In other words, we now find the book first then read the review. The review
-ceases to serve as a tool for discovery--a function now addressed by the
-search and recommendation engines.
 
 [^ln-twobil]: Code metrics from @mccandless_million_2015.
 
