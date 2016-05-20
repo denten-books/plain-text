@@ -220,17 +220,14 @@ sign invisible or rendered white on a white background is ultimately
 illegible. It never makes it into the hermeneutic circle.
 
 In making the case for computational poetics, I am helped by recent
-scholarship in historically- and philosophically-inflected studies of media,
-software, hardware, science, and technology.[^ln0-influences] My notion of
-poetics builds also on the long history of literary theory, combined here with
-practices borrowed from software engineering and computer science. A
-materialist poetics, in the way I am using it here, concerns itself simply
-with the construction of literary space. My approach is not however limited to
-the canonical, straight-ahead structuralisms of Roman Jakobson or Jonathan
-Culler. I am borrowing rather from a more peripheral tradition represented
-best by third culture thinkers like Viktor Shklovsky and Vilém Flusser,
-consummate immigrants both, who extracted a literary and a media theory
-respectively out of the fabric of their migration.
+scholarship in historically- and philosophically-inflected studies of media
+and technology.[^ln0-influences] My notion of poetics builds also on the long
+history of literary theory, in the genealogy of formalist and structuralist
+schools. My approach is not however limited to the canonical, straight-ahead
+structuralisms of Roman Jakobson or Jonathan Culler. I am borrowing rather
+from a more peripheral tradition represented best by third culture thinkers
+like Viktor Shklovsky and Vilém Flusser, consummate immigrants both, who
+extracted a methodology out of the fabric of their migration.
 
 Flusser in particular considered the condition of unease that comes with
 migration, both physical and mental, to be a type of information processing.
@@ -241,18 +238,18 @@ now a lapsed engineer among humanists. These vantage points offer a singular
 view onto the material conditions of contemporary intellectual life.
 
 Both Shklovsky and Flusser wrote lucidly about the dynamics of habituation.
-Their work helps us see the irresistible compromise at the heart of all
-technology, a compromise by which we trade critical understanding for comfort.
-Habit covers the various homes we make for ourselves in the world "like a
-fluffy cotton wool blanket," Flusser wrote: "[i]t smoothes the sharp edges of
-all phenomena that it covers, so that I no longer bump against them, but I am
-able to make use of them blindly." When we sit at our desks, for example, we
-fail to see the "papers and the books that are lying all about." We are used
-to them being there [@flusser_freedom_2003, 13 and 82]. Consequently, we do
-not parse them as information. Like water that surrounds fish, the habituated
-thing passes into the background of experience. Mediums become media. They
-disappear into the background, cease producing meaning, become a stage for
-meaning-making, and like the stage disappear from view.
+Their work sheds light onto the irresistible compromise at the core of all
+technology---a compromise by which we trade critical understanding for
+comfort. Habit covers the various homes we make for ourselves in the world
+"like a fluffy cotton wool blanket," Flusser wrote: "[i]t smoothes the sharp
+edges of all phenomena that it covers, so that I no longer bump against them,
+but I am able to make use of them blindly." When we sit at our desks, for
+example, we fail to see the "papers and the books that are lying all about."
+We are used to them being there [@flusser_freedom_2003, 13 and 82].
+Consequently, we do not parse them as information. Like water that surrounds
+fish, the habituated thing passes into the background of experience. Mediums
+become media. They disappear into the background, cease producing meaning,
+become a stage for meaning-making, and like the stage disappear from view.
 
 The condition of exile, by contrast, allows the displaced to once again
 transform habituated media into meaningful information. In exile, "everything
@@ -278,7 +275,7 @@ again through purposeful defamiliarization. To take the technique to its
 logical conclusion, a writer could depict several fictional characters in the
 act of scything a field of grass while discussing the relative merits of
 structuralism: a discussion about the field on a field. Such literary artifice
-would make actual the implied connections between a field of grass and a field
+would make actual the implied connections between fields of grass and fields
 of ideas. The writer now shows what was merely told before. The technique of
 defamiliarization finally renews the figure: discarding hardened clichés while
 suggesting novel linkages between constituent concepts: intellectual chaff,
@@ -297,128 +294,25 @@ interlocutors [@lakoff_metaphors_1980, 3-14].
 
 Russian formalists of the early twentieth century understood estrangement as a
 matter of everyday practice, beyond linguistic analysis. Shklovsky and his
-fellow travellers were concerned with the automatization of human experience,
-a process by which metaphors lose their evocative power through repeated use.
-Such metaphors for them became mere automatons that convey meaning, no longer
-perceived, felt, or lived.  According to Kantian views on the free will, in
-vogue in Russia at the time, a reasoned being should act with the assumption
-of personal autonomy, structuring one's own experiences according to the
-principles of self-directed action. The habituated metaphor instead guides
-action from without and furtively. It is given rather than understood.
-Estrangement emerges therefore finally as a model of human liberation. It
-frees thought from the tyranny of automatism [@shklovksy_sborniki_1917,
-@shklovsky_hod_1923, @boym_estrangement_1996, @holquist_minding_2005]. By
-laying bare the mechanisms of the implicit metaphor, we are thus able to
-recover agency lost to the blind mechanization of thought. Through
-estrangement readers discover the principles that guide action: free to accept
-some parts of the conceptual transference (the intellectual field *is*
-"verdant"!) and to reject others (but let us not "use combines" to "harvest"
-it).
+fellow travellers were concerned more generally with the automatization of
+human experience, a process by which metaphors lose their evocative power
+through repeated use  Such metaphors for them became mere automatons that
+convey meaning, no longer perceived, felt, or lived. According to Kantian
+views on the free will, in vogue in Russia at the time, a reasoned being
+should act with the assumption of personal autonomy, structuring one's own
+experiences according to the principles of self-directed action. The
+habituated metaphor instead guides action from without and furtively. It is
+given rather than understood.  Estrangement emerges therefore finally as a
+model of human liberation. It frees thought from the tyranny of automatism
+[@shklovksy_sborniki_1917, @shklovsky_hod_1923, @boym_estrangement_1996,
+@holquist_minding_2005]. By laying bare the mechanisms of the implicit
+metaphor, we are thus able to recover agency lost to the blind mechanization
+of thought. Through estrangement readers discover the principles that guide
+action: free to accept some parts of the conceptual transference (the
+intellectual field *is* "verdant"!) and to reject others (but let us not "use
+combines" to "harvest" it).
 
-Our challenge today is to uproot ourselves from the comfort that rapidly
-descends on the dwellings of our intellectual life. Dulling the senses,
-seemingly inconspicuous conduits of agency---electronic books and smart
-desks---acquire a sense of intelligence of their own. Devices that "watch,"
-"hear," "see," and "think" give rise to object-oriented ontology and the
-internet of things. A new generation of objects clamours for participatory
-intelligence. They claim space in the home, near bed and hearth. Smart phones,
-smart light bulbs, smart thermostats, smart homes, and smart watches, enter
-the networked public sphere in the role of independent agents.[^ln-winner] A
-conversation begins about their personhood: their levels of trust,
-friendships, rights, and accountability [@bohn_living_2004;
-@jianhua_ma_towards_2005; @calverley_android_2006; @hildebrandt_ambient_2007;
-@atzori_smart_2014]. Marx's "table that evolves grotesque ideas out of its
-wooden brain" can now be re-branded into Surface and PixelSense, names from
-the product life cycle of an actual smart table made by Microsoft
-[@marx_captial_1906, 82; @wigdor_designing_2009].
-
-I will argue here that if we hope to understand digital culture, and
-especially literature, to repeat after Kittler, "under conditions of high
-technology," we can only do so from the position of humanism. One cannot
-otherwise lament the systematic erasure of the human from the literary process
-and, at the same time, advocate for a post- or anti-humanism. Unlike Kittler,
-who wrote that under conditions of high technology "literature has nothing
-more to say," I believe that literature and literary analysis continue to have
-a voice in contemporary life [@kittler_gramophone_1999, 263]. Technology does
-not determine literary silence. Rather, as the material grounds for all
-reflective textual activity recede from view, readers face the prospect of
-selective illiteracy. The command of technologies like networking and
-encryption separates those able to read and write under the conditions of high
-technology from those who no longer are: a true suppression of voice.
-
-To prevent the slide into illiteracy, instruments of literary analysis must
-continue to evolve to elicit meaning under new technological contingencies.
-Where texts are encrypted, we decrypt. If, as Kittler writes, automated
-discourse analysis threatens to take command, we will engineer automatons that
-command on our behalf. Together, small acts of resistance can mount to recover
-a measure of agency from the ruling determinism of, take your pick: markets,
-complex systems, unconscious drives, monistic universes, Gaia science, social
-networks, technology, the singularity, bureaucracy, war...  Indeed, the
-possibility of human erasure---the loss of all sense---is never far, "like the
-face drawn in the sand at the edge of the sea" [@foucault_order_1994, 387].
-The fragility of life compels the need to mobilize whatever modest means
-available for the human to persevere against daunting odds.
-
-<!-- quote Deleuze, Gilles. Breaking Things Open, Breaking Words
-Open. In Negotiations 1972-1990. Trans. Martin Joughin. New York:
-Columbia University Press, 1995. -->
-
-When we mistake things for animate actors, we ourselves become enmeshed in a
-system of digital production that commodifies human experience. Objects that
-surround us collect our reading habits, social interactions, and intimate
-conversations. The actual living agents that benefit from the trade in
-personal information are neither cyborgs nor post-human assemblages.  The
-bargain that trades critical understanding for comfort benefits specific
-interests, like multinational corporations and government intelligence
-agencies. To address objects as if they could respond in kind shifts our
-attention from the seats of power to things dumb, powerless, and indifferent
-to our protestations.
-
-The internal exile that we must undergo for smart books and smart desks to
-come into view cannot compare in difficulty to the experience of physical
-displacement that follows natural disaster, war, poverty, or political
-instability. Yet, our systematic reluctance to take on even those small
-intellectual discomforts that could lead to acts of localized dissent and
-disobedience---to write using free software, to build open archives, to share
-memories in private---cannot be said to exist apart from the complex systems
-that perpetuate inequity and violence globally. The emotional affirmation that
-accompanies exuberant social networking brings with it governing structures
-invoked widely in the name of law enforcement and national security. Comfort
-and security constitute the same ill-conceived bargain that leads to critical
-disempowerment. But where it is difficult to imagine or to enact strategies of
-digital disobedience on a universal scale, we can begin to address them
-through numerous minute transactions that in aggregate brace everyday literary
-exchange. This we can do now. Computational poetics begins with the machines
-in the immediate proximity, those closest to thought and touch.
-
-To pick up an electronic book and to take it apart may be against the law in
-some jurisdictions [@fry_circumventing_2009]. Given the extent to which
-emergent thought-things---epistemic objects---like electronic books and smart
-phones participate actively in the production of meaning, we can no longer
-employ strategies of interpretation at the levels of ideology and
-representation alone. Close reading, critical theory, and literary analysis
-must reach down to the silicon bedrock: material entities and physical
-structures that stage the act of interpretation.[^ln-rhein] Literary theory, a
-discipline fundamentally engaged in the exegesis of figurative trope, is
-therefore crucial to the understanding of new computational environments,
-which have enveloped intellectual life through metaphoric substitution. To
-read the machine is to learn how it is made, but also to unpack the rich
-metaphors that substitute familiarity: the boot in rebooting and the wares in
-software, the bug and the joy-stick, the interpreter and the shell.
-
-[^ln-rhein]: I am in influenced here by the discussion of epistemic things in
-@rheinberger_toward_1997, 24-37.
-
-I begin where Bernard Harcourt's recent book on digital disobedience ends:
-with the possibility of localized dissent [@harcourt_exposed:_2015]. Following
-itinerant theorists of the metaphor I propose to proceed by systematic
-estrangement of computational metaphors; metaphors that fade into transparency
-as if to escape the critical gaze. A strategy of deliberate defamiliarization
-reclaims the metaphor-device for analysis. To come to terms with the book as a
-device; to begin to understand the nature of the text simulation; to perceive
-the particularity of the computed sign, these are the aims of *Plain Text*.
-
-Computation advances into everyday life though metaphor. Like all tropes, such
+<!-- Computation advances into everyday life though metaphor. Like all tropes, such
 metaphors lose their evocative power with frequent use. The task of a literary
 scholar becomes then to explicate and to renew the trope, in search for
 parallelisms that, as George Lakoff and Mark Johnson explain, configure one
@@ -488,7 +382,7 @@ easy figurative tropes created shortcuts to knowledge. Once established, such
 shortcuts continue to prevent users from literal engagement with computational
 realities. Like Tolstoy's mindless dusting, life at the keyboard passes
 without reflection. Worse yet, the trope obscures forces of capital,
-governance, and control cloaked behind the innocuous figure.
+governance, and control cloaked behind the innocuous figure. -->
 
 Estrangement [*ostranenie*], sometimes also translated as "defamiliarization",
 was the formalist answer to the ossified metaphor. Estrangement was meant to
@@ -545,6 +439,115 @@ persist when reading devices reconfigure the text to fit individual tastes,
 mood, or politics? How would we even agree on the fact that we are reading the
 same text? The very possibility of interpretation comes into question.
 
+Our challenge today is to uproot ourselves from the comfort that rapidly
+descends on the dwellings of our intellectual life. Dulling the senses,
+seemingly inconspicuous conduits of agency---electronic books and smart
+desks---acquire a sense of intelligence of their own. Devices that "watch,"
+"hear," "see," and "think" give rise to object-oriented ontology and the
+internet of things. A new generation of objects clamours for participatory
+intelligence. They claim space in the home, near bed and hearth. Smart phones,
+smart light bulbs, smart thermostats, smart homes, and smart watches, enter
+the networked public sphere in the role of independent agents.[^ln-winner] A
+conversation begins about their personhood: their levels of trust,
+friendships, rights, and accountability [@bohn_living_2004;
+@jianhua_ma_towards_2005; @calverley_android_2006; @hildebrandt_ambient_2007;
+@atzori_smart_2014]. Marx's "table that evolves grotesque ideas out of its
+wooden brain" can now be re-branded into Surface and PixelSense, brand names
+of actual smart tables made by Microsoft [@marx_captial_1906, 82;
+@wigdor_designing_2009].
+
+If we hope to understand digital culture and especially literature, to repeat
+after Kittler, "under conditions of high technology," we can only do so from
+the position of humanism. One cannot otherwise lament the systematic erasure
+of the human from the literary process and, at the same time, advocate for a
+post- or anti-humanism. Unlike Kittler, who wrote that under conditions of
+high technology "literature has nothing more to say," I believe that
+literature and literary analysis continue to have a voice in contemporary life
+[@kittler_gramophone_1999, 263]. Technology does not determine literary
+silence. Rather, as the material grounds for all reflective textual activity
+recede from view, readers face the prospect of selective illiteracy. The
+command of technologies like networking and encryption separates those able to
+read and write under the conditions of high technology from those who no
+longer are: a true suppression of voice.
+
+To prevent the slide into illiteracy, instruments of literary analysis must
+continue to evolve to elicit meaning under new technological contingencies.
+Where texts are encrypted, we decrypt. If, as Kittler writes, automated
+discourse analysis threatens to take command, we will engineer automatons that
+command on our behalf. Together, small acts of resistance can mount to recover
+a measure of agency from the ruling determinism of, take your pick: markets,
+complex systems, unconscious drives, monistic universes, Gaia science, social
+networks, technology, the singularity, bureaucracy, war...  Indeed, the
+possibility of human erasure---the loss of all sense---is never far, "like the
+face drawn in the sand at the edge of the sea" [@foucault_order_1994, 387].
+The fragility of life compels the need to mobilize whatever modest means
+available for the human to persevere against daunting odds.
+
+<!-- quote Deleuze, Gilles. Breaking Things Open, Breaking Words
+Open. In Negotiations 1972-1990. Trans. Martin Joughin. New York:
+Columbia University Press, 1995. -->
+
+When we mistake things for animate actors, we ourselves become enmeshed in a
+system of digital production that commodifies human experience. Objects that
+surround us collect our reading habits, social interactions, and intimate
+conversations. The actual living agents that benefit from the trade in
+personal information are neither cyborgs nor post-human assemblages.  The
+bargain that trades critical understanding for comfort benefits specific
+interests, like multinational corporations and government intelligence
+agencies. To address objects as if they could respond in kind shifts our
+attention from the seats of power to things powerless, inarticulate, and
+indifferent to our protestations.
+
+The internal exile that we must undergo for smart books and smart desks to
+come into view cannot compare in difficulty to the experience of physical
+displacement that follows natural disaster, war, poverty, or political
+instability. Yet, our systematic reluctance to take on even those small
+intellectual discomforts that could lead to acts of localized dissent and
+disobedience---to write using free software, to build open archives, to share
+memories in private---cannot be said to exist apart from the complex systems
+that perpetuate inequity and violence globally. The emotional affirmation that
+accompanies exuberant social networking brings with it governing structures
+invoked widely in the name of law enforcement and national security. Comfort
+and security constitute the same ill-conceived bargain that leads to critical
+disempowerment. But where it is difficult to imagine or to enact strategies of
+digital disobedience on a universal scale, we can begin to address them
+through numerous minute transactions that in aggregate brace everyday literary
+exchange. This we can do now. Computational poetics begins with the machines
+in the immediate proximity, those closest to thought and touch.
+
+To pick up an electronic book and to take it apart may be against the law in
+some jurisdictions [@fry_circumventing_2009]. Given the extent to which
+emergent thought-things---epistemic artifacts---like electronic books and
+smart phones participate actively in the production of meaning, we can no
+longer employ strategies of interpretation at the levels of ideology and
+representation alone. Close reading, critical theory, and literary analysis
+must reach down to the silicon bedrock: material entities and physical
+structures that bear the weight of interpretation.[^ln-rhein] Literary theory,
+a discipline fundamentally engaged in the exegesis of figurative trope, is
+therefore crucial to the understanding of new computational environments,
+which have enveloped intellectual life through metaphoric substitution. To
+read the machine is to learn how it is made, but also to unpack the rich
+metaphors that guide our tactical engagement with the word: the boot in
+rebooting, the wares in software, the bug and the joy-stick, the interpreter
+and the shell.
+
+[^ln-rhein]: I am in influenced here by the discussion of epistemic things in
+@rheinberger_toward_1997, 24-37.
+
+I begin then where Bernard Harcourt's recent book on epistemic disobedience
+ends: with the possibility of localized dissent [@harcourt_exposed:_2015].
+Following itinerant theorists of the metaphor I propose to proceed by
+systematic estrangement of computational metaphors; metaphors that fade into
+transparency as if to escape the critical gaze. A strategy of deliberate
+defamiliarization reclaims the metaphor-device for analysis. To come to terms
+with the book as a device; to begin to understand the nature of the text
+simulation; to perceive the particularity of the computed sign, these are the
+aims of *Plain Text*.
+
+<!-- cite also mignolo -->
+
+### Settlement
+
 Estrangement cannot be practiced effectively in the mode of a monologue. To
 produce meaning, Flusser reminds us, it needs to become a dialogical practice.
 Perpetual exile is otherwise uninhabitable [@flusser_freedom_2003, 81].
@@ -561,8 +564,6 @@ dwelling, Flusser wrote, "and without information, in a chaotic world, one can
 neither feel nor think nor act" [@flusser_does_2011, 12]. By this dynamic,
 displacement and habituation enter into a continuing conversation.
 
-### Settlement
-
 In *Plain Text*, I model the reciprocal movement to making strange on the
 diverse practices of reverse engineering. Similar in method to what Matthew
 Kirschenbaum calls "forensic argumentation," reverse engineering recalls the
@@ -577,7 +578,7 @@ Each chapter enacts a deconstruction---a literal taking apart---of that
 device.
 
 The word processor, the operating system, and the electronic book are some of
-the sites that stage the encounter between literary theory and practice today.
+the sites that frame the encounter between literary theory and practice today.
 In *Plain Text* I introduce a method of computational poetics, which is a form
 of textual analysis strongly influenced by materialist critique. Where
 "distant reading" and cultural analytics perceive patterns across large-scale
