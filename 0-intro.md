@@ -469,31 +469,41 @@ space between storage and presentation: what the text is and what it appears
 to be. I propose we begin with this obvious sense of difference between paper
 and digital text: where print is governed by law from without, think for
 example of the Obscene Publication Acts in Victorian England, digital text is
-governed by code, capable of executing its edicts from within. In this way
-governance intertwines with text to become an organ in the same unified
-corpus.
+governed by code, capable of executing its edicts from within
+[@mccalman_unrespectable_1984; @roberts_morals_1985]. In this way governance
+intertwines with text to become an organ in the same unified corpus.
 
 Changing material conditions of textual transmission push against familiar
 ideas of literary criticism. For example, the easy reproduction of digital
 text weakens the material basis for authorship attribution. Text that is easy
 to copy is easy to cite and plagiarize. The weakening of the authorship
-function makes certain ways of talking about things like "authorial intent"
-and "fidelity to the original" difficult to sustain. The emergence of
-community based writing initiatives like Wikipedia and automated narrative
-generating machines like spam bots further erode notions of authorship based
-on individual genius. That is not say that the author is dead; authors
-continue to live and to collect royalties.[^ln-dead] Autopoiesis---the idea of
-literature writing itself or discourse speaking itself---cannot displace the
-institution of authorship.[^ln-varela] It merely makes the flows of creation,
-poiesis, less apparent. A discipline of close attention to the minute
-particulars of encoding, transmission, storage, and the decoding of text
-ultimately reclaims a measure of intent and therefore responsibility for
-creation. This may seem strange at first: to recover the subject in the
-physical minutiae of the textual-technological encounter. Yet the point of
-contact between human, text, and device is significant precisely because it is
-here, in the liminal zone of semiotic exchange, where the subject disappears
-into the machine and where the machine steps forth, an animated and seemingly
-intelligent actor.
+function makes certain ways of talking about ideas like "authorial intent" and
+"fidelity to the original" difficult to sustain. The emergence of community
+based writing initiatives like Wikipedia and narrative generating machines
+that write spam and summarize news automatically further erode notions of
+authorship based on individual genius. The author is not dead; authors
+continue to live and to collect royalties.[^ln-dead] Autopoiesis---a
+theoretical model of literature writing itself or discourse speaking
+itself---does not displace the social institution of authorship.[^ln-varela]
+It merely makes the flows of poiesis less apparent. A discipline of close
+attention to the minute particulars of encoding, transmission, storage, and
+the decoding of text ultimately reclaims a measure of intent and therefore
+responsibility for creation. The algorithmically derived advertisement (spam)
+nevertheless stems from specific economic interests, to take a pedestrian
+example. Another goal of computational poetics is also to trace the flows of
+agency through the long sequence of authorial delegation. The author's
+responsibility passes from the issuing agency to its instrument. The spammer
+writes code to spam on his behalf, yet he is still at fault. Under many
+circumstances I may not care to speak in this way: it seems ridiculous, for
+example, to find Tolstoy "at fault" for his *War and Peace*. At the same time,
+the work *is his*. Under differing circumstances we must hold the author
+accountable, as when unsolicited advertisement clutters the airways at the
+expense of other forms of speech. This may seem strange at first: to recover
+the subject in the physical minutiae of the encounter between text and
+machine. The point of contact between human, text, and device is significant
+precisely because it is here, in the liminal zone of semiotic exchange, where
+the subject disappears into the machine and where the machine steps forth, an
+animated and seemingly intelligent actor.
 
 Extant models of literary transmission assume movement through passive and
 immutable media. Paper constitutes the document of record, which, once
@@ -502,31 +512,31 @@ criticism and forensic reading make it possible to reconstruct if not
 "authorial intent," then at least a trace of the author's hand. In some
 contexts---think manuscripts and folios---we may even ascribe properties like
 "fidelity" to "original" works of art. When media are immutable, one imagines
-a sort of a causal chain of custody between works and their creators, which at
-some point must have occupied the same contiguous time and space. The printing
-press introduced a range of structures that mediate between readers and
+a causal chain of custody between works and their creators, which at some
+point must have occupied the same contiguous time and space. The printing
+press introduces a range of structures that mediate between readers and
 authors. Distance, time, and mediation subsequently weaken notions of
 authorial fidelity. In the least, we understand that such intermediaries as
 copy machines and printing presses inject an element of noise into the channel
 of communication.
 
-The transition between the Gutenberg press and "Project Gutenberg," an online
-library containing thousands of texts, reveals hitherto unexamined
-possibilities. Unlike pen and paper which come in direct contact with each
-other during writing, the contact between keyboard and screen passes through
-another complex chain of mediation. Writing in that sense in itself becomes an
-experience both programmed and simulated. We do not write in the conventional
-sense of inscribing marks into a static host. Rather, we are shown images of
-inscription superimposed onto a simulation of the medium. Neither the digital
-word nor digital page exist in the way they appear in the word processor. At
-best, such composite tropes attain a measure of similarity to the physical
-realities of typing, editing, and archiving paper. Simulated erasure for
-example, of the kind that happens when the writer presses the delete key, does
-not necessarily entail the corresponding erasure of content on the disk. The
-erased word could persist and even multiply across other storage drives and
-devices. In the worst case, the connection between keyboards and screens
-suffers from intractable "man-in-the-middle" attacks, by which third parties
-maliciously alter the content of intended communication [@needham_using_1978].
+The transition between the Gutenberg press and Project Gutenberg, an online
+library containing thousands of texts, further lengthens the linkages. Unlike
+pen and paper which come in direct contact with each other during writing, the
+contact between keyboard and screen passes through multiple mediating filters.
+Writing in that sense in itself becomes a programmed experience. We do not
+write in the conventional sense of inscribing marks into a static host.
+Rather, we are shown images of inscription superimposed onto a simulation of
+the medium. Neither the digital word nor digital page exist in the way they
+appear in the word processor or on the pages of an electronic book. At best,
+such composite tropes attain a measure of similarity to the physical realities
+of typing, editing, and archiving paper. Simulated erasure for example, of the
+kind that happens when the writer presses the delete key, does not necessarily
+entail the corresponding erasure of content on the disk. The erased word could
+persist and even multiply across other storage drives and devices. In the
+worst case, the connection between keyboards and screens suffers from
+intractable "man-in-the-middle" attacks, by which third parties maliciously
+alter the content of intended communication [@needham_using_1978].
 
 In this book, I will argue that some of the higher-level political afflictions
 of the contemporary public sphere---mass surveillance and online censorship,
@@ -553,7 +563,7 @@ The affordances of a literary device ultimately constrain the ways in which
 texts can be read and written [@hutchby_technologies_2001, 447]. The political
 struggle for meaning-making, the very opportunity to engage in the act of
 interpretation, thus begins and ends with the material affordances of the
-textual artifact.
+epistemic artifact.
 
 It is easy to forget the blunt effectiveness of physical control in the global
 North-west. Books that are burned or redacted cannot be read at all.
@@ -576,7 +586,7 @@ from tools to fetish. No longer comprehensible by the way of the pen or
 printing press we imbue them with magical powers. Thus we exist in the state
 of profound alienation from the material conditions closest to our mental
 activity. We read electronic books as they read us, without depth or
-reflection.
+comprehension.
 
 The future of reading and writing is inexorably intertwined with the
 development of computer science and software engineering. Even if you are not
