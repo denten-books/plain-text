@@ -73,15 +73,15 @@ connects the tactile sense of the letter beneath my fingers to its optic and
 electromagnetic traces. All of these sensualities are present at once. They
 incorporate the totality of the synchronic text only in aggregate. I cannot
 consequently pass a note to the reader digitally in the same sense that one
-passes notes class, on paper. It is impossible to give the entire structure
+passes notes in class, on paper. It is impossible to give the entire structure
 over to another. My text is irrevocably intertwined with my material contexts;
 it literally gains another shape when recreated under system configurations
 not fully congruent with my own. Much of the contemporary anxiety about the
-intrusion of computational culture in the everyday points to this fundamental
-reshaping of the sign, without naming it. The physical fracture of the overall
-inscription leads to its multivalence. The lattice opens a depth between the
-words, where forces of capital and control intervene to monitor, monetize,
-censor, or correct.[^ln-capital]
+intrusion of computational culture into the everyday points to this
+fundamental reshaping of the sign, without naming it. The physical fracture of
+the overall inscription leads to its multivalence. The lattice opens a depth
+between the words, where forces of capital and control intervene to monitor,
+monetize, censor, or correct.[^ln-capital]
 
 To come to terms with the novel conditions of text so fractured and refracted
 *Plain Text* enacts a displacement of vocabularies. It is a response to a
@@ -133,16 +133,16 @@ under the conditions tied to static print media. By contrast, digital text
 changes dynamically to suit its reader, political context, and geography.
 Consequently, I advocate for the development of computational poetics: a
 strategy of interpretation capable of reaching past surface content to reveal
-the platforms and infrastructures that stage the construction of meaning. A
+platforms and infrastructures that stage the construction of meaning. A
 computational poetics differentiates within the apparent unity of digital
 text. In the chapters that follow, I will trace a figure and describe its
-anatomy. If the very physical nature of the word has changed, I would like to
-ask: How? and How do these changes affect the diversity of interpretive
-practices? I draw on the annals of literary theory and software engineering to
-buttress the historical bases for a possible answer. In the process, I argue
-that even our most basic practices of intellectual production are profoundly
-alienated from their physical contexts. The object of study is the nature of
-that alienation.
+anatomy. If the physics of word have changed---qualitatively, materially---I
+would like to ask: How? and How do these changes affect the diversity of
+interpretive practices? I draw on the annals of literary theory and software
+engineering to buttress the historical bases for a possible answer. In the
+process, I argue that even our most basic practices of intellectual production
+are profoundly alienated from their physical contexts. The object of study is
+the nature of that alienation.
 
 I appeal to the idea of "plain text" in the title of this book to signal an
 affinity with a particular mode of computational meaning-making. Plain text
@@ -207,9 +207,9 @@ output---of information? The smart toaster and the electronic pacemaker alike
 are distinct from their dumb mechanical counterparts in that they give grounds
 to inscription. A contest for that space---the right to access and
 ownership---is therefore vitally crucial to the future of a literate
-humanities. I do not mean to suggest that everybody needs to learn how to
-code, although that would not be a bad thing. I mean to view computational
-culture apart from its instrumental uses, in the context of literary and civic
+humanities. I do not mean to suggest that everyone needs to learn how to code,
+although that would not be a bad thing. I mean to view computational culture
+apart from its instrumental uses, in the context of literary and civic
 thought. I am concerned here with the preservation of the basic possibility to
 form discourse---to read and write---along surfaces that are not available for
 immediate scrutiny. Poetics, the construction of symbolic space, space
@@ -217,15 +217,16 @@ containing symbols, physically limits the possibility of interpretation. A
 sign invisible or rendered white on a white background is ultimately
 illegible. It never makes it into the hermeneutic circuit.
 
-In making the case for computational poetics, I am helped by recent
-scholarship in historically- and philosophically-inflected studies of media
-and technology.[^ln0-influences] My notion of poetics builds also on the long
-history of literary theory, in the genealogy of formalist and structuralist
-schools. My approach is not however limited to the canonical, straight-ahead
-structuralisms of Roman Jakobson or Jonathan Culler. I am borrowing rather
-from a more peripheral tradition represented best by third culture thinkers
-like Viktor Shklovsky and Vilém Flusser, consummate immigrants both, who
-extracted a methodology out of the fabric of their migration.
+In making the case for a computational poetics, I am helped by recent
+scholarship in the historically- and philosophically-inflected studies of
+media and technology.[^ln0-influences] My notion of poetics builds also on the
+long history of literary theory, in the genealogy of formalist and
+structuralist schools. My approach is not however limited to the canonical,
+straight-ahead structuralisms of Roman Jakobson or Jonathan Culler. I am
+borrowing rather from a more peripheral tradition represented best by third
+culture thinkers like Viktor Shklovsky and Vilém Flusser, consummate
+immigrants both, who extracted a methodology out of the fabric of their
+migration.
 
 Flusser in particular considered the condition of unease that comes with
 migration, both physical and mental, to be a kind of information processing.
@@ -263,15 +264,15 @@ One could write, to take a simple example, "a field of study," without much
 thought about figurative space. Shklovsky would have the reader pause to
 consider the implications [@shklovksy_sborniki_1917]. In what sense do ideas
 resemble (or not) a field? The poet could further make this metaphor strange.
-To evoke a light-hearted illustration one could write: "to scythe a verdant
-field of literary study." The verb (to scythe) and the adjective (verdant)
-create an unexpected transference of new qualities not present in the original
-image (intellectual field). These qualities "overdetermine" or "saturate" the
-metaphor, exposing its conceit. One can do to fields of grass what one cannot
-to ideas. Subsequently, we realize that the two domains---intellectual and
+One could write, for example: "to scythe a verdant field of literary study."
+The verb (to scythe) and the adjective (verdant) create an unexpected
+transference of new qualities not present in the original image (intellectual
+field). These qualities "overdetermine" or "saturate" the metaphor, exposing
+its conceit. One can do to fields of grass what one cannot to ideas.
+Subsequently, we realize that the two domains---intellectual and
 horticultural---do not map onto each other perfectly, leaving a semantic
-remainder: the stuff that does not fit. The reader discovers "intellectual
-fields" for what they are: habituated metaphors, neither natural nor
+remainder: the stuff that does not fit. The reader discovers intellectual
+"fields" for what they are: habituated metaphors, neither natural nor
 self-apparent. The metaphor is made strange again through purposeful
 defamiliarization. To take the technique to its logical conclusion, a writer
 could depict several fictional characters in the act of scything a field of
@@ -298,19 +299,16 @@ Shklovsky goes on to add that life so habituated disappears into nothingness,
 when the automatization of experience "consumes things, clothing, furniture,
 your spouse, and the fear of war."[^ln-brik] The formalists rarely quoted Marx
 directly. Yet the echoes of Marx resonate throughout. The dead metaphor marks
-alienation [*Entfremdung*] from humanity.[^ln0-marx] The point at which
-material artifact disappears from individual conciousness is the also the
-point where it appears within the social sphere as fetish. Shklovksy inverts
-the Marxist idea of alienation, which for Marx always denies life, into a
+alienation from humanity.[^ln0-marx] The point at which material artifact
+disappears from individual conciousness is the also the point where it appears
+within the social sphere as fetish. Shklovksy inverts the Marxist idea of
+alienation [*Entfremdung*], which for Marx always denies life, into a
 technique of estrangement---literally othering [*ostranenie*]---of the kind
 that affirms it. The difference is one between one's own alienation---the
-forced perception of self as other---and the ability to externalize deadened
-images of received life outside of oneself. Formalist defamiliarization
-arrests the momentum of habit without reflection. Once extracted, the ossified
-image is revitalized.
-
-[^ln0-marx]: For more on alienation see the relevant discussion in
-@marx_economic_1964 and @marx_theories_1963].
+forced perception of self as fixed other---and the ability to externalize the
+other, lodged deeply within and calcified. Formalist defamiliarization arrests
+the momentum of tacitly received habit. Once extracted, the deadened image can
+be revitalized.
 
 Our challenge today is to uproot ourselves from the comfort that rapidly
 descends on the dwellings of our intellectual life. Dulling the senses,
@@ -329,19 +327,19 @@ wooden brain" can now be re-branded into Surface and PixelSense, product names
 of actual smart tables made by Microsoft [@marx_captial_1906, 82;
 @wigdor_designing_2009].
 
-If we hope to understand digital culture and especially literature, to repeat
-after Kittler, "under conditions of high technology," we can only do so from
-the position of humanism. One cannot otherwise lament the systematic erasure
-of the human from the literary process and, at the same time, advocate for a
-post- or anti-humanism. Unlike Kittler, who wrote that under conditions of
-high technology "literature has nothing more to say," I believe that
-literature and literary analysis continue to have a voice in contemporary life
-[@kittler_gramophone_1999, 263]. Technology does not determine literary
-silence. Rather, as the material grounds for all reflective textual activity
-recede from view, readers face the prospect of selective illiteracy. The
-command of technologies like networking and encryption separates those able to
-read and write under the conditions of high technology from those who no
-longer are: a true suppression of voice.
+If we hope to understand digital culture and especially literature, as
+Friedrich Kittler would write, "under conditions of high technology," we can
+only do so from the position of humanism. One cannot otherwise lament the
+systematic erasure of the human from the literary process and, at the same
+time, advocate for a post- or anti-humanism. Unlike Kittler, who wrote that
+under conditions of high technology "literature has nothing more to say," I
+believe that literature and literary analysis continue to have a voice in
+contemporary life [@kittler_gramophone_1999, 263]. Technology does not
+determine literary silence. Rather, as the material grounds for all reflective
+textual activity recede from view, readers face the prospect of selective
+illiteracy. The command of technologies like networking and encryption
+separates those able to read and write under the conditions of high technology
+from those who no longer are: a true suppression of voice.
 
 To prevent the slide into illiteracy, instruments of literary analysis must
 continue to evolve to elicit meaning under new technological contingencies.
@@ -362,13 +360,13 @@ human to persevere against daunting odds.
 When we mistake things for animate actors, we ourselves become enmeshed in a
 system of digital production that commodifies human experience. Objects that
 surround us collect our reading habits, social interactions, and intimate
-conversations. The actual living agents that benefit from the trade in
-personal information are neither cyborgs nor post-human assemblages. The
-bargain that trades critical understanding for comfort benefits specific
-interests, like multinational corporations and government intelligence
-agencies. To address objects as if they could respond in kind shifts our
-attention from the seats of power to things powerless, inarticulate, and
-indifferent to our protestations.
+conversations. The actual living agents that benefit from trade in personal
+data are neither cyborgs nor post-human assemblages. The bargain that trades
+critical understanding for comfort benefits specific interests, like
+multinational corporations and government intelligence agencies. To address
+objects as if they could respond in kind shifts our attention from the seats
+of power to things powerless, inarticulate, and indifferent to our
+protestations.
 
 The internal exile that we must undergo for smart books and smart desks to
 come into view cannot compare in difficulty to the experience of physical
@@ -379,7 +377,7 @@ disobedience---to write using free software, to build open archives, to share
 memories in private---cannot be said to exist apart from the complex systems
 that perpetuate inequity and violence globally. The emotional affirmation that
 accompanies exuberant social networking brings with it governing structures
-invoked widely in the name of law enforcement and national security. Comfort
+evoked widely in the name of law enforcement and national security. Comfort
 and security constitute the same ill-conceived bargain that leads to critical
 disempowerment. But where it is difficult to imagine or to enact strategies of
 digital disobedience on a universal scale, we can begin to address them
@@ -1029,6 +1027,9 @@ post-humanism see for example @winthrop-young_silicon_2000; @wolfe_what_2010,
 104-128; @siegert_cultural_2013.
 
 [^ln0-manovich]: See @manovich_there_2011, 53-106.
+
+[^ln0-marx]: For more on alienation see the relevant discussion in
+@marx_economic_1964 and @marx_theories_1963.
 
 [^ln-pragmatism]: @ramsey_foundations_2013, 155. The intellectual legacy of
 pragmatism is wide-ranging and diffuse. It is perhaps most pronounced in the
