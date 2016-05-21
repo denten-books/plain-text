@@ -194,9 +194,8 @@ that looks like paper, liquid crystal that flows to imitate ink. By such
 means, the electronic book delineates a qualitatively new grounds for textual
 inscription. Because *Plain Text* deals with the structure of intimate space,
 it is project theoretically contiguous to the philosophical poetics of Gaston
-Bachelard and Henri Lefebvre, extended into the realm of everyday computation.
-
-<!-- insert footnotes to both -->
+Bachelard and Henri Lefebvre, extended into the realm of everyday computation
+[@lefebvre_production_1991; @bachelard_poetics_1994].
 
 Writing surfaces multiply and establish themselves firmly among the
 furnishings of home, body, and mind. Think here of commercial products that
@@ -299,11 +298,19 @@ Shklovsky goes on to add that life so habituated disappears into nothingness,
 when the automatization of experience "consumes things, clothing, furniture,
 your spouse, and the fear of war."[^ln-brik] The formalists rarely quoted Marx
 directly. Yet the echoes of Marx resonate throughout. The dead metaphor marks
-alienation [*Entfremdung*] from humanity. The point at which material artifact
-disappears from individual conciousness is the also the point where it appears
-within the social sphere as fetish.
+alienation [*Entfremdung*] from humanity.[^ln0-marx] The point at which
+material artifact disappears from individual conciousness is the also the
+point where it appears within the social sphere as fetish. Shklovksy inverts
+the Marxist idea of alienation, which for Marx always denies life, into a
+technique of estrangement---literally othering [*ostranenie*]---of the kind
+that affirms it. The difference is one between one's own alienation---the
+forced perception of self as other---and the ability to externalize deadened
+images of received life outside of oneself. Formalist defamiliarization
+arrests the momentum of habit without reflection. Once extracted, the ossified
+image is revitalized.
 
-<!-- quote Marx here  Economic and Philosophic Manuscripts of 1844 -->
+[^ln0-marx]: For more on alienation see the relevant discussion in
+@marx_economic_1964 and @marx_theories_1963].
 
 Our challenge today is to uproot ourselves from the comfort that rapidly
 descends on the dwellings of our intellectual life. Dulling the senses,
@@ -345,13 +352,12 @@ a measure of agency from the ruling determinism of, take your pick: markets,
 complex systems, unconscious drives, monistic universes, Gaia science, social
 networks, technology, the singularity, bureaucracy, war...  Indeed, the
 possibility of human erasure---the loss of all sense---is never far, "like the
-face drawn in the sand at the edge of the sea" [@foucault_order_1994, 387].
-The fragility of life compels the need to mobilize whatever modest means
-available for the human to persevere against daunting odds.
+face drawn in the sand at the edge of the sea."[^ln0-foucault] The fragility
+of life compels the need to mobilize whatever modest means available for the
+human to persevere against daunting odds.
 
-<!-- quote Deleuze, Gilles. Breaking Things Open, Breaking Words
-Open. In Negotiations 1972-1990. Trans. Martin Joughin. New York:
-Columbia University Press, 1995. -->
+[^ln0-foucault]: I am purposefully misreading Foucault here. See
+@foucault_order_1994, 387; @deleuze_breaking_1995.
 
 When we mistake things for animate actors, we ourselves become enmeshed in a
 system of digital production that commodifies human experience. Objects that
@@ -429,8 +435,7 @@ literary thought-thing. Each chapter enacts a deconstruction---a literal
 taking apart---of that device. The epistemic object is present to challenge
 the reader's and the author's theoretical intuitions.
 
-<!-- take care of this -->
-[^ln0-reverse]: See also Fuller, Evil Media page 9.
+[^ln0-reverse]: See also @fuller_evil_2012, 9.
 
 The word processor, the operating system, and the electronic book are some of
 the sites that frame the encounter between literary theory and practice today.
