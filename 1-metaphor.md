@@ -87,7 +87,7 @@ bookmarks---under the purview of computational control. The simulation encodes
 political structures that should not be naturalized, lest we succumb to the
 complacency of technological determinism. Our goal in this chapter is to
 arrest the advance of the metaphor. We must begin to separate resemblances
-from their designations: the apparent shape from a command in the imperative.
+from their designations, the apparent shape from a command in the imperative.
 
 What does it mean to turn a page in a medium that sustains neither turning nor
 pages? In this chapter, we will use the tools of cognitive metaphor theory to
@@ -103,28 +103,26 @@ that come into direct contact in the 1970s, 1980s, and 1990s. The trajectory
 from the conversational to the "direct" model of human-computer interaction
 points to the speculative possibility of seemingly unmediated coupling between
 human and machine---a possibility that I acknowledge and finally reject
-outright in the conclusion of the chapter. The appeal to immediacy and
-immersion in the principles of "direct" manipulation conceals the nature of
-mediation.
+outright in the conclusion of the chapter.
 
 ## Verisimilitude
 
 From the many available theories of metaphor, in this chapter I rely on the
 ideas from the so called "cognitive metaphor" school developed extensively by
-George Lakoff, Mark Johnson, and Mark Turner among others in the 1980s. As we
-shall see later on in the chapter, this school of thought gained influence in
-the formative period in the history of human-computer interaction. It is
-therefore important for me to examine the vocabulary of that tradition on its
-own terms and to advance its critique from within. It also bares mentioning
-that in the language of cognitive metaphor theory all figurative tropes of
-comparison---hyperbole, metonymy, synecdoche, or simile---fall under the
-category of metaphor. To avoid confusions of the sort, to get onto the same
-page if you will, I plan to spend a few pages now delving into the technical
-vocabulary of metaphor theory. This language will later help us explore the
-ways by which metaphors make and unmake everyday computational environments of
-human habitation. I am interested here and throughout the book in a particular
-mode of virtual habitation and habituation, which by its very nature begins
-and ends with the technologies of metaphor.
+George Lakoff, Mark Johnson, and Mark Turner among others in the 1980s. This
+school of thought gained influence in the formative period in the history of
+human-computer interaction. It is therefore important for me to examine the
+vocabulary of that tradition on its own terms and to advance its critique from
+within. It bares mentioning at the outset that in the language of cognitive
+metaphor theory all figurative tropes of comparison---hyperbole, metonymy,
+synecdoche, or simile---fall under the category of metaphor. To avoid
+confusions of the sort, to get onto the same page if you will, I plan to spend
+a few pages now delving into the technical vocabulary of metaphor theory. This
+language will later help us explore the ways by which metaphors make and
+unmake everyday computational environments of human habitation. I am
+interested here and throughout the book in a particular mode of virtual
+habitation and habituation, which by its very nature begins and ends with the
+technologies of metaphor.
 
 In the 1980s, a number of influential publications in the field of
 human-computer interaction relied on insights from cognitive metaphor theory
@@ -139,8 +137,8 @@ symbolic transference, is capable of simulating anything that can be
 represented symbolically.[^ln1-database]
 
 The language of computation reveals its reliance on structural metaphor in
-practice.  Consider the following passage from a patent filed by Xerox in
-1991. It describes, in its own words, "an electronic library metaphor," which
+practice. Consider the following passage from a patent filed by Xerox in 1991.
+It describes, in its own words, "an electronic library metaphor," which
 includes:
 
 > a shared books with database metaphor, a reference books metaphor, and a
@@ -154,12 +152,12 @@ The invention ultimately enables the "organizing, accessing, and querying of
 information unique to physical libraries in an electronic workstation
 environment" [@pajak_electronic_1992, 1]. Setting aside, for a moment, the
 peculiarity of being able to patent a metaphor, note the idiosyncrasy of the
-technical language. What does it mean to "access" a metaphor? When someone
-"checks out" a book from the electronic library, do they gain access to the
-book or to the metaphor alone? What mechanisms assure the correspondence
-between a database and database metaphor, the book and book metaphor, or the
-catalog and catalog metaphor? Traditional metaphor theory strains to answer
-such questions.
+technical language. What does it mean to "access" a metaphor, for example?
+Were someone to "check out" a book from the electronic library, would they
+hold a book or its metaphor alone? What mechanisms would assure the integrity
+between a database and its metaphor? Is the visual hierarchy of related
+objects itself an object in that hierarchy? Traditional metaphor theory
+strains to answer such questions.
 
 In the so-called classical view, metaphors are simply a type of figurative
 language. To say "the day stands tiptoe on the misty mountain tops" is to use
@@ -171,13 +169,13 @@ distinct ontological categories across "conceptual domains"
 @searle_metaphor_1998]. In the modified view, even such basic semantic
 concepts as "state, quantity, action, cause, purpose, means, modality" are
 metaphorical in nature [@lakoff_metaphorical_1980; @lakoff_contemporary_1998,
-212]. Beyond figurative lyrical language, Lakoff and others have argued that
-metaphors broadly structure everyday experience. Thus the analysis of common
-phrases like "things are looking up" and "I can't get that tune out of my
-mind" reveals underlying figuration like "good things are up" and "the mind is
-a container." The idea that "good things are up" generates a multitude of
-metaphors like "profits are going up" and "moving on up," for example
-[@lakoff_metaphorical_1980, 195-198].
+212]. Lakoff and others have further argued that beyond figurative, lyrical
+language, metaphors more broadly structure everyday experience. Thus the
+analysis of common phrases like "things are looking up" and "I can't get that
+tune out of my mind" reveals the underlying figuration like "good things are
+up" and "the mind is a container." The idea that "good things are up"
+generates a multitude of metaphors like "profits are going up" and "moving on
+up," for example [@lakoff_metaphorical_1980, 195-198].
 
 !["An exemplary interface for viewing a three dimensional book"
 [@card_methods_2006, 3].](images/book-metaphor.png)
@@ -193,13 +191,13 @@ This metaphor implies that ideas about agency, emotion, and mental life
 usually attached to people can be extended to state actors. Similarly, to say
 that someone is "boiling mad," instantiates the common trope of "anger is a
 hot liquid in a container." In this case, common known properties attached to
-the domain of physics are mapped onto the domain of emotion. Lakoff further
-explains that such domain mappings tend to follow a few rules. They are
-usually partial and asymmetrical. "Mappings are not arbitrary," he writes,
-"but grounded in the body and in everyday experience and knowledge." Finally
-domain mappings obey what Lakoff calls the Invariance Principle, by which "the
-image schema structure of the source domain is projected onto the target
-domain in a way that is consistent with inherent target domain
+the domain of physics are mapped onto the domain of emotion. Lakoff explains
+that such domain mappings tend to also follow a few rules. They are usually
+partial and asymmetrical. "Mappings are not arbitrary," he writes, "but
+grounded in the body and in everyday experience and knowledge." Finally domain
+mappings obey what Lakoff calls the Invariance Principle, by which "the image
+schema structure of the source domain is projected onto the target domain in a
+way that is consistent with inherent target domain
 structure."[^ln1-metalakoff] Keep these rules in mind as they will become
 important later on in our conversation.
 
@@ -212,20 +210,23 @@ metaphors transfer organizing principles from one domain to another. Thus to
 say "the world is our oyster" is to suggest that something in our approach to
 interacting with oysters, likely in a gastronomical situation, resembles our
 approach to life [@lakoff_metaphors_1980, 65-8]. The ease of eating one
-transfers to the ease of living the other. The transferred property implies
+transfers to the ease of living in the other. The transferred property implies
 not just a semantic similarity, one of meaning, but a structural one, one of
 interface. The metaphor suggests the world is arranged like an oyster somehow,
 that it can be cracked, and that it contains a tasty hidden morsel within. In
 this way, structural metaphors organize one thing in the shape of another.
-They are a tool for extending insights from a known domain to a lesser known
-one, a tool for exploration: simple things like oysters shed light on complex
-things like worlds.
+They are tools for extending insight from a known domain to a lesser known
+one, holding great explanatory and exploratory power where simple things like
+oysters shed light on complex things like worlds.
+
+<!-- check on structural metaphors to make sure world-oyster is the correct
+example -->
 
 In their capacity for exploration and explanation, metaphor machines present
-us with a special case of conceptual domain blending. The transference of
-structuring principles from one system to another---from "physical libraries"
-to "electronic workstations environments," in our case---reveals the formative
-nature of the structural metaphor. Metaphors that can be touched and handled
+us with a special case of conceptual domain blending in that they enact,
+rather than merely suggest, the transference of structuring principles from
+one system to another---from "physical libraries" to "electronic workstations
+environments," in the above example. Metaphors that can be touched and handled
 in some way exist neither wholly in language nor wholly in the mind. Rather,
 they operate in action, at hand. John Carrol, one of the pioneers in the field
 of human-computer interaction, summarized the role of metaphors in the design
@@ -240,10 +241,10 @@ metaphors in learning about computing systems, the designers of those systems
 should anticipate and support likely metaphorical constructions to increase
 the ease of learning and using the system [@carroll_metaphor_1982, 107-108].
 
-In essence, Carroll imagines human-computer interfaces that enact Lakoff and
-Johnson's "conceptual blending" in practice. In this way, the familiar gesture
-of discarding a crumpled piece of paper into the waste bin can be simulated
-digitally to guide the deletion of electronic documents.
+In essence, Carroll imagines human-computer interfaces that incorporate
+Lakoff's and Johnson's "conceptual blending" in practice. In this way, the
+simulacrum of a familiar gesture of discarding a crumpled piece of paper into
+the waste bin can guide the deletion of electronic documents.
 
 Apple's influential *Human Interface Guidelines*, at the core of Apple's
 desktop interfaces in the 1980s and today, echoes Carroll's proscriptions:
