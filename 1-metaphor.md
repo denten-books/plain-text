@@ -574,13 +574,13 @@ oblivion.
 
 In poetics, a metaphor is said to be "motivated" when a number of concepts
 from one domain extends into another to produce insight
-[@lakoff_contemporary_1998, 210-1]. For example, Lakoff explains: that to say
-"to spin one's wheels" when referring to someone who is thinking, is to apply
-the reader's knowledge of automobiles to the mental realm. Wheels that spin
-without moving the car forward waste energy. The metaphor suggests that
+[@lakoff_contemporary_1998, 210-1]. Lakoff explains: that to say "to spin
+one's wheels" when referring to someone who is thinking is to apply the
+reader's knowledge of automobiles to the mental realm. Wheels that spin
+without moving the vehicle forward waste energy. The metaphor suggests that
 something similar happens mentally as well [@lakoff_contemporary_1998, 211]. A
-metaphor in a figurative genre, prose or poetry for example, suggests novel
-and hitherto unexplored connections between domains.
+metaphor in a figurative genre, prose or poetry, suggests novel and hitherto
+unexplored connections between domains.
 
 In his influential essay on metaphor the English literary critic I.A. Richards
 wrote that "when we use metaphor we have two thoughts of different things
@@ -595,10 +595,10 @@ motivated metaphor produces insight: a tool to explore and to make sense of
 the world. By such means the known sheds light onto the unknown.
 
 Some metaphors are, in this figurative way, more productive than others. The
-poetic use of the metaphor does not merely carry meaning across known domains,
-it produces new and unexpected connections between them. To this effect,
-Richards cites the poet Percy Shelley who wrote the following in defense of
-poetry:
+poetic use of the metaphor does not merely carry meaning across known
+domains---it produces new and unexpected connections between them. To this
+effect, Richards cites the poet Percy Shelley who wrote the following in
+defense of poetry:
 
 > [poetic] language is vitally metaphorical; that is, it marks the before
 > unapprehended relations of things and perpetuates their apprehension, until
@@ -612,25 +612,25 @@ In highlighting the continually regenerative power of the poetic metaphor,
 Shelley anticipated what the cognitive school of metaphor theory was to
 confirm by empirical means more than a century later [@mojtabai_delusion_2000;
 @billig_metaphor_2005]. Metaphors do not "die" as such. They continue to live,
-but also become naturalized: that is understood literally. They create
-connections that with time become habituated and invisible. Taken for literal
-truth, the metaphor loses its quality of mediation or literally "ferrying
-across."[^ln1-greek] For example, for many readers the idea of a "dead
-metaphor" itself no longer evokes death. The metaphor withers: once a
+but also become naturalized: that is, understood literally. They create
+connections, which with time become habituated and invisible. Taken for
+literal truth, the metaphor loses its quality of mediation or literally
+"ferrying across."[^ln1-greek] For example, for many readers the idea of a
+"dead metaphor" itself no longer evokes death. The metaphor withers: once the
 connotation is lost it becomes a denotative statement lacking any exploratory
-or explanatory potential, a commonplace. In Shelley's view, all metaphors are
-destined to become habituated in this way, only to be reborn again in poetry.
-In their most generative form, metaphors produce new meaning actively. The
-creative juxtaposition between two as before unrelated conceptual domains
-brings new aspects of experience to light. With time, the poetic metaphor
-degrades into a tired cliché. It no longer "perpetuates understanding." It
-dies in a sense of becoming an instrumental shortcut. In Viktor Shklovsky's
-words, we "cease to experience" the trope. The metaphor "dries up" when we
-begin recognizing it without apprehension [@shklovsky_voskreshenie_1914]. It
-no longer generates new connections between domains, but merely reinforces
-existing ones. Vilém Flusser put it another way in writing that habituated
-idiom proceeds "smoothly," giving us no pause, without "bumps or
-interruptions" [@flusser_freedom_2003, 13 and 82].
+or explanatory potential. In Shelley's view, all metaphors are destined to
+become habituated in this way, only to be reborn again in poetry. In their
+most generative form, metaphors produce new meaning. The creative
+juxtaposition between two as before unrelated conceptual domains brings novel
+aspects of experience to light. With time, the poetic metaphor degrades into a
+tired cliché. It no longer "perpetuates understanding." It dies in a sense of
+becoming an instrumental shortcut, a commonplace. In the words of Viktor
+Shklovsky: we "cease to experience" the trope. The metaphor "dries up" when we
+recognize it without apprehension [@shklovsky_voskreshenie_1914]. It no longer
+generates new connections between domains, but merely reinforces existing
+ones. Vilém Flusser put it another way in writing that habituated idiom
+proceeds "smoothly," giving us no pause, without "bumps or interruptions"
+[@flusser_freedom_2003, 13 and 82].
 
 Lakoff famously took exception to the idea of dead metaphors, arguing that
 even those metaphors that are thoroughly habituated can play a vital part in
@@ -649,70 +649,69 @@ being used at all.
 A truly dead metaphor for Lakoff is one in which the original source image no
 longer makes sense. He gives the example of the English word *pedigree*, which
 originally referred to the French for "crane's foot," or *pied de grue*. The
-foot was historically used in a typographical flourish to decorate family-tree
-diagrams. In the previous example, when we spoke of the metaphorical
+foot was historically used in a typographical flourish to decorate familial
+tree diagrams. In the previous example, when we spoke of the metaphorical
 "grasping" of ideas, both sides of the domain transference were readily
 available to us. We understood something about grasping things and extended it
-to the capacity of the mind to take hold of ideas. By contrast, the *pied de
-grue* contained within the English *pedigree* is no longer accessible to the
-average speaker. Most do not know what it means. In the first case the
-metaphor is merely tired from frequent use, where it is completely dead in the
-other. All habituated metaphors like "grasping" and "pedigree" lose a measure
-of their symbolic connotation with time. But unlike "pedigree," the
-metaphorical nature of "grasping ideas" is at least available for casual
-interpretation. One may reflect upon it with little effort. The underlying
-metaphor THE MIND IS LIKE A HAND generates other meaningful phrases like "you
-have to *let go* of this idea." The crane's foot in the English "pedigree" has
-stopped generating new metaphors. The conventional notion of dead metaphors
-does not appropriately differentiate between the two cases of metaphor
-dysfunction [@lakoff_death_1987; @muller_metaphors_2008]. The metaphor
-sometimes "dies" but continues to connect two disparate domains, as is the
-case with grasping ideas. At other times, the metaphor dies in the sense of
-one domain becoming no longer accessible to its user, as is the case with
-pedigree.
+to the capacity of the mind to take hold of ideas. By contrast, the average
+English speaker no longer perceives the *pied de grue* contained within the
+English *pedigree*. In the case of a commonplace, the metaphor is merely tired
+from frequent use, where it is completely dead in the crane's foot example.
+All habituated metaphors like "grasping ideas" and "pedigree" lose a measure
+of their symbolic connotation with time. Unlike "pedigree," the metaphorical
+nature of "grasping ideas" is at least available for casual interpretation.
+One may reflect upon it with little effort. According to Lakoff, the
+underlying metaphor "the mind is like a hand" generates other meaningful
+phrases like "you have to *let go* of this idea." The crane's foot in the
+English "pedigree" has stopped generating novel connections. The conventional
+notion of dead metaphors, Lakoff objects, does not appropriately differentiate
+between the two cases of metaphor dysfunction [@lakoff_death_1987;
+@muller_metaphors_2008]. The metaphor sometimes "dies" but continues to
+produce new linkages, as is the case with grasping ideas. At other times, the
+metaphor dies in the sense of one domain becoming no longer accessible to its
+user, as is the case with pedigree.
 
-Furthermore, I might add that a wholly unmotivated metaphor does not live at
-all. Thus the Mad Hatter poses his famous nonsensical riddle in Lewis
-Carroll's *Alice in Wonderland*: How is a raven like a writing desk? The
-complete dissimilarity between the two domains---of animals and
-furniture---prevents any productive congruence.[^ln1-carroll] No domain
-mapping happens between ravens and writing desks. Not having been born, the
-metaphor dies in yet another sense.
+Furthermore, note that a wholly unmotivated metaphor does not live at all.
+Thus the Mad Hatter poses his famous nonsensical riddle in Lewis Carroll's
+*Alice in Wonderland*: How is a raven like a writing desk? The complete
+dissimilarity between the two domains---of animals and furniture---prevents
+any productive congruence.[^ln1-carroll] No domain mapping happens between
+ravens and writing desks. Not having been born, the metaphor dies in yet
+another sense.
 
 With these comments on broken and dead metaphors in mind, I return to the kind
-of metaphors we have been discussing earlier in the chapter, the kind found on
-the computer screens. To what extent does the interface metaphor live or die
-by the above definitions?
+of metaphors we have been discussing earlier in the chapter---the kind found
+on computer screens---to ask: How does the interface metaphor live or die by
+the above definitions?
 
-When discarding a document into a trash bin, in our recurring example, users
-should theoretically map their knowledge of paper documents and paper waste
-baskets onto the computational domain. The icon should work similarly to the
-object it purports to simulate. Instead, the *idea* of discarding something
-substitutes for the *material reality* of the corresponding action. The
-concept (of discarding something physical) blends not with another conceptual
-domain (erasing data) but with the contingent material affordances of the
-target medium (solid state storage). Such material affordances---our ability
-to actually erase data, for example---stand in an arbitrary relationship to
-the depicted figure. We expect the thing to be deleted, but it is not. That
-trash can empties, but we have no way to verify if the transference of
-properties happened properly or not. This incongruence, a breakdown of trust
-in domain transference, violates Lakoff's Invariance Principle, which, if you
-would recall, describes the projection of structure from the source domain "in
-a way that is consistent with the inherent structure of target domain"
-[@lakoff_contemporary_1998, 215] Whatever structural changes we expect to
-happen in the source domain do not carry over to the target. The metaphor
-breaks almost as badly as the transference between desks and ravens. The
-appearance of taking out the trash without the corresponding erasure of data
-becomes a dead metaphor even under Lakoff's strict definitions. As was the
-case with the "crane's foot" in the English "pedigree," the user of the
-simulated document dustbin is missing one part of the metaphor equation.
-Where with "pedigrees" English speakers fail to grasp the source or the tenor
-of metaphoric substitution, the virtual dustbin is missing the target, or the
-vehicle of the action. Discarding a document into the virtual trash bin does
-not in fact correspond to a similar action in the target domain of the storage
-medium. In either case, in failing to achieve the full transference between
-source and target domains the metaphor ceases to function properly, by
-definition. The interface metaphor fails to achieve motivation. The
+When discarding a document into the wastepaper basket, to return to our
+recurring example, users should theoretically map their knowledge of paper
+documents and paper waste baskets onto the computational domain. The icon
+should work similarly to the object it purports to simulate. Instead, the
+*idea* of discarding something substitutes for the *material reality* of the
+corresponding action. The concept (of discarding something physical) blends
+not with another conceptual domain (erasing data) but with the contingent
+material affordances of the target medium (solid state storage). Such material
+affordances---our ability to actually erase data, for example---stand in an
+arbitrary relationship to the depicted figure. We expect the thing to be
+deleted, but it is not. One "empties the dustbin," but has no means to verify
+whether the transference of properties took place or not. This incongruence, a
+breakdown of trust in domain transference, violates Lakoff's Invariance
+Principle, which, if you would recall, describes the projection of structure
+from the source domain *in a way that is consistent with the inherent
+structure of target domain* @lakoff_contemporary_1998, 215] Whatever
+structural transformations visible in the source domain do not carry over to
+the target. The metaphor breaks almost as badly as the transference between
+desks and ravens. Absent the corresponding erasure of data, the act of
+"emptying the trashcan" ceases to be a metaphor at all; it illustrates nothing
+in particular. As was the case with the "crane's foot" in the English
+"pedigree," the handler of the simulated dustbin is missing one part of the
+metaphor equation.  Where with "pedigrees" English speakers fail to grasp the
+source or the tenor of metaphoric substitution, the virtual dustbin is missing
+the target, or the vehicle of the action. Discarding a document into the
+virtual dustbin may not in fact correspond to a similar action in the target
+domain of the storage medium. Failing to achieve transference between source
+and target domains, the metaphor ceases to function. Worse yet: the
 transferred properties are not simply missing in transit, they are manifestly
 misrepresented.
 
