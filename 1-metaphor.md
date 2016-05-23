@@ -272,7 +272,7 @@ the metaphor" [@apple_apple_1987, 5]. The user handling a virtual folder must
 recognize its capabilities beyond those suggested by its image. Some
 attributes of the paper domain map onto the virtual, while other do not.
 Furthermore, the virtual contains possibilities not conveyed by the original
-transference.
+vehicle.
 
 A number of patents from IBM, Xerox, and Microsoft similarly evoke the logics
 of structural metaphor and domain blending. Consider US Patent #5,907,854 by
@@ -301,10 +301,11 @@ metaphor," which are "displayed as a stack of sheets." "The interface [...]
 permits a user to directly manipulate the sheets in the notebook metaphor"
 [@glaser_graphical_1995]. In these words we begin to glimpse the trouble with
 the structural metaphor paradigm of human-computer interaction. The idea of
-"direct manipulation" refers to the im-mediate access to the metaphor, that
-is, paradoxically, the appearance of access without mediation---the occlusion
-of the document in favor of its representation. The issue of apparent
-immediacy will continue to haunt our conversation for the rest of the chapter.
+"direct manipulation" refers to its *immediate* availability to hand.
+Paradoxically, the user handles only the metaphor directly. The actual
+notebook is occluded in favor of its representation. This subtle sleight of
+hand, by which handling metaphors appears "direct," where metaphors subsume
+things, will continue to haunt our conversation.
 
 ## Dissimulation
 
