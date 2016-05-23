@@ -554,20 +554,21 @@ insists on recovering the shape of the inscription, across surfaces and
 domains, making the full extent of the dissimulating figure available for
 interpretation.
 
-What happens in the metaphorical transformation between a book as an object of
-art and the apparatus simulating that object? Estrangement, the exegesis of
-the metaphor, can help reveal the mechanisms of governance in the structural
-transference between one medium to another. Materialist poetics can
-subsequently allow one to consent, or, conversely, resist elements of imposed
-structure. That is not to say that meaning-making structures can ever become
-fully transparent or produce plain, unambiguous meaning. Unlike a cypher, the
-plain text is one that does not preclude the possibility of interpretation or
-misinterpretation. In the continuum between legibility and total illegibility,
-the texts we read today occupy a space somewhere right of center. They are
-illegible in part. The simulation of print, the digital metaphor, decays
-rapidly with time. Archivists know this problem well: digital texts from
-recent past can quickly become inaccessible as the software used to decode
-them itself passes into oblivion.
+What happens in the metaphorical transformation between a book---or any
+inscription---as cognitive artifact and the apparatus simulating that
+artifact? Estrangement, the exegesis of the metaphor, can help reveal the
+mechanisms of governance in the structural transference from one medium to
+another. Materialist poetics can subsequently allow one to consent, or,
+conversely, resist elements of imposed structure. That is not to say that
+meaning-making structures can ever become fully transparent or produce plain
+unambiguous meaning. Unlike a cypher, the plain text is one that does not
+preclude the possibility of interpretation or misinterpretation. In the
+continuum between total legibility and illegibility, the digital texts that we
+read today occupy a space somewhere right of center. They are illegible in
+part. The simulation of print, the digital metaphor, decays rapidly with time.
+Archivists know this problem well: digital texts from recent past can quickly
+become inaccessible as the software used to decode them itself passes into
+oblivion.
 
 ## Death and Incongruence
 
