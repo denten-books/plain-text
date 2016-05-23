@@ -265,12 +265,14 @@ real-world file folder, constrained by the size of its containing cabinet, a
 computer folder can hold a nearly unlimited amount of files. Or, to be more
 precise, the electronic folder metaphor is subject to different constraints
 than those that limit the use of paper files. The image of a paper file should
-not therefore limit the possibilities of the metaphor's implementation, the
-manual explains. It further advises its readers to "strike a balance between
-the metaphor's suggested use and the ability of the computer to support and
-extend the metaphor" [@apple_apple_1987, 5]. The domain blending property of
-the embodied structural metaphor is not perfect, in other words. Some parts
-map from the real world to the virtual, while others do not.
+not therefore restrict the possibilities of what can be done to a digital
+file, the manual explains. The designer is to "strike a balance between the
+metaphor's suggested use and the ability of the computer to support and extend
+the metaphor" [@apple_apple_1987, 5]. The user handling a virtual folder must
+recognize its capabilities beyond those suggested by its image. Some
+attributes of the paper domain map onto the virtual, while other do not.
+Furthermore, the virtual contains possibilities not conveyed by the original
+transference.
 
 A number of patents from IBM, Xerox, and Microsoft similarly evoke the logics
 of structural metaphor and domain blending. Consider US Patent #5,907,854 by
