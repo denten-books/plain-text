@@ -511,12 +511,6 @@ possibilities. What does it mean to read and to interpret a dynamic text,
 which changes depending on its context? How can literary analysis---close
 reading, philology, hermeneutics---persist without the fixity of print?
 
-Dissimulation is perhaps necessary, because the reading and writing of digital
-data can involve processes far outside of everyday experience. For example, in
-reading data from solid state (FLASH) memory, a circuit imparts electrical
-charge through quantum tunneling onto a connected series of floating gate
-transistors [@pavan_flash_1997; @bez_introduction_2003].
-
 ![Formal structures at the site of the inscription. "Perspective view of a
 portion of a charge translating device illustrating a preferred electrical
 contact arrangement. A quantum of charge carriers, representing an information
@@ -525,8 +519,13 @@ minority carriers with it. The quantum can be detected by a simple capacitive
 couple, e.g., a floating gate FET"
 [@boyle_information_1974].](images/floating-gate.png)
 
-Whatever the complexities of solid state storage architecture, the difference
-in the structure of information on pages and floating gates is apparent. The
+Dissimulation is perhaps necessary, because the reading and writing of digital
+data can involve processes far outside of everyday experience. For example, in
+reading data from solid state (FLASH) memory, a circuit imparts electrical
+charge through quantum tunneling onto a connected series of floating gate
+transistors [@pavan_flash_1997; @bez_introduction_2003]. Whatever the
+complexities of solid state storage architecture, the difference in the
+structure of information on pages and floating gates is apparent. The
 arrangement of one has only an arbitrary connection to the other. Consequently
 changes in the structure of the symbolic domain, which manifest in the erasure
 of words on the screen for example, do not necessitate corresponding changes
@@ -560,7 +559,7 @@ artifact? Estrangement, the exegesis of the metaphor, can help reveal the
 mechanisms of governance in the structural transference from one medium to
 another. Materialist poetics can subsequently allow one to consent, or,
 conversely, resist elements of imposed structure. That is not to say that
-meaning-making structures can ever become fully transparent or produce plain
+meaning-making structures can ever become fully transparent or produce plain,
 unambiguous meaning. Unlike a cypher, the plain text is one that does not
 preclude the possibility of interpretation or misinterpretation. In the
 continuum between total legibility and illegibility, the digital texts that we
@@ -574,13 +573,13 @@ oblivion.
 
 In poetics, a metaphor is said to be "motivated" when a number of concepts
 from one domain extends into another to produce insight
-[@lakoff_contemporary_1998, 210-1]. Lakoff explains: that to say "to spin
-one's wheels" when referring to someone who is thinking is to apply the
-reader's knowledge of automobiles to the mental realm. Wheels that spin
-without moving the vehicle forward waste energy. The metaphor suggests that
-something similar happens mentally as well [@lakoff_contemporary_1998, 211]. A
-metaphor in a figurative genre, prose or poetry, suggests novel and hitherto
-unexplored connections between domains.
+[@lakoff_contemporary_1998, 210-1]. Lakoff explains that to say "to spin one's
+wheels" when referring to someone who is thinking is to apply the reader's
+knowledge of automobiles to the mental realm. Wheels that spin without moving
+the vehicle forward waste energy. The metaphor suggests that something similar
+happens mentally as well [@lakoff_contemporary_1998, 211]. A metaphor in a
+figurative genre, prose or poetry, suggests novel and hitherto unexplored
+connections between domains.
 
 In his influential essay on metaphor the English literary critic I.A. Richards
 wrote that "when we use metaphor we have two thoughts of different things
@@ -725,19 +724,44 @@ ourselves of better illumination: the science of the mimetic arts, poetics"
 [@laurel_brenda_interface_1986, 67]. Laurel, who started her academic career
 in theater studies, went on to work for Apple, Activision, Atari, and Sun
 Microsystems among other companies. Her work, widely cited in technical
-literature, reminds us of the close connection between poetics and the design
-of human-computer interaction. It is all the more important today, as
-immersive computational environments begin to structure experience beyond the
-merely instrumental. Computers mediate in the interface between the public and
-the private, between art and politics, and between forces of capital and
-control. The simulacrum requires that we advance a reflective "science of the
+literature, reminds us of the close connection between poetics and the
+architecture of human-computer interaction. It is all the more important
+today, as immersive computational environments begin to structure experience
+beyond the merely instrumental. Computers increasingly mediate in the
+interface between the public and the private, art and politics, and mind and
+body. The simulacrum requires that we advance a reflective "science of the
 mimetic arts" lest we lose a sense of what Michael Taussig has called the
-space ulterior to mimesis [@taussig_mimesis_1993, 129-144]. The suspension of
-disbelief must remain, as it was in Samuel Coleridge's original formulation, a
-*willful* act, containing further a "semblance of truth" required to animate
-the shadows of imagination [@coleridge_biographia_1917, 6-7]. An involuntary
-or worse yet forced suspension of disbelief can only lead to total critical
-disempowerment.
+"space ulterior to mimesis" [@taussig_mimesis_1993, 129-144]. The suspension
+of disbelief must remain, as it was in Samuel Coleridge's original
+formulation, a willful act, containing further a "semblance of truth" required
+to animate the shadows of imagination [@coleridge_biographia_1917, 6-7]. An
+involuntary or worse yet forced suspension of disbelief can only lead to a
+state of total critical disempowerment.
+
+The history of human-computer interaction passes through several distinct
+stages, defined by their relationship to representation. Early computers were
+programmed by manipulating a complex arrangement of wires and relays. With
+time, that configuration could be abstracted into symbolic states, signified
+by marks on paper or tape. In the next stage of development, the physical
+arrangement of gates and relays was further codified into an artificial
+language. The programmer operated with a constrained vocabulary, receiving
+messages in response, in a dialog resembling human communication. Finally, as
+the use of computers spread, the paradigm of so called "direct interaction"
+shifted emphasis from verbal cues to visual and from symbol to icon. The
+communication was and continues to be direct in the sense of immediacy and
+immersion. By comparison to the verbal symbol, the icon appears to have
+relationship to the remote materialities of machine states less arbitrary than
+the symbol.  Finally, one imagines an indexical connection between human and
+machine, by which brain states and machine states could correspond by a
+physical rather than merely visual linkage. It would be a mistake however, to
+understand this historical trajectory as one of increasing immediacy. A
+grammar of transformations always intercedes in the transition between brain
+states and machine configurations. The ability to govern that grammar sets the
+rules of engagement. The growing immediacy of computational mimesis
+underscores the political importance of holding the mechanisms of mediation in
+critical view. In reflecting on the history of human-computer interaction, I
+find myself with Plato, increasingly suspicious of mimesis: the more
+compelling the simulation, the more concealed the rule book.
 
 Before the 1980s, the dominant paradigm of interacting with machines was the
 dialog [@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
