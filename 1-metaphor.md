@@ -760,8 +760,9 @@ states and machine configurations. The ability to govern that grammar sets the
 rules of engagement. The growing immediacy of computational mimesis
 underscores the political importance of holding the mechanisms of mediation in
 critical view. In reflecting on the history of human-computer interaction, I
-find myself with Plato, increasingly suspicious of mimesis: the more
-compelling the simulation, the more concealed the rule book.
+find myself with Plato, Baudrillard, and Taussig, increasingly suspicious of a
+totalizing mimesis: the more compelling the simulation, the more concealed the
+materialities of its production.
 
 Before the 1980s, the dominant paradigm of interacting with machines was the
 dialog [@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
