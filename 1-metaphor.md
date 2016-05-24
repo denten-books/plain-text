@@ -791,29 +791,30 @@ winter's day, rather than a special one like Christmas
 The goal of conversational programming was to provide a similarly naturalized
 dialog between the operator and the machine. Although machine understanding of
 informal human speech does not develop in earnest until the twenty-first
-century, interactive computing environments like DIALOG and JOSS attempted to
-simplify machine language into interfaces that understood a limited number of
-English words. JOSS, an experimental on-line computing system created by the
-RAND corporation in 1963, consisted of a typewriter connected to the JOHNNIAC
-computer. Prior to JOSS, programmers would interact with the JOHNNIAC machine
-via keyboard and punch card, initially using octal number notation and then
-binary assembly language [@gruenberger_history_1979]. These methods of
-programming were time consuming and prone to error. "An octal desk calculator
-was nice to have," a historian of the system would later quip
-[@gruenberger_history_1979, 58]. The JOSS experiment introduced an interpreter
-that sat between the human operator and the machine, facilitating
-communication in a friendly, conversational manner. Think of JOSS as the
-"user's computing aide and a single contact with the computer," the engineers
-wrote [@shaw_joss:_1964, 456]. Instead of feeding punch cards into a machine,
-as was done before, the operator would now use a standard typewriter. Instead
-of flipping switches the operator typed words. JOSS thus referred both to the
-"simple language" for machine instruction and to this new "remote console" way
-of interacting with the computer. JOSS and the user would "take turns
-controlling the typewriter" in the words of the documentation. The
-computerized aide understood simple commands like `do`, `go`, and `type`.
-Given a number of predetermined commands, it would attempt to respond with a
-result. When confused or when given an unfamiliar command its default for an
-unspecified error mimicked human confusion: "Eh? [@shaw_joss:_1964]"
+century, interactive computing environments like DIALOG and JOSS were designed
+to lessen the cognitive burden of speaking machine languages by translating
+them into dialog systems that understood a limited number of English words.
+JOSS, an experimental on-line computing system created by the RAND corporation
+in 1963, consisted of a typewriter connected to the JOHNNIAC computer. Prior
+to JOSS, programmers would interact with the JOHNNIAC machine via keyboard and
+punch card, initially using octal number notation and then binary assembly
+language [@gruenberger_history_1979]. These methods of programming were time
+consuming and prone to error. "An octal desk calculator was nice to have," a
+historian of the system would later quip [@gruenberger_history_1979, 58]. The
+JOSS experiment introduced an interpreter that sat between the human operator
+and the machine, facilitating communication in a friendly, conversational
+manner.  Think of JOSS as the "user's computing aide and a single contact with
+the computer," the engineers wrote [@shaw_joss:_1964, 456]. Instead of feeding
+punch cards into a machine, as was done before, the operator would now use a
+standard typewriter. Instead of flipping switches the operator typed words.
+JOSS thus referred both to the "simple language" for machine instruction and
+to this new "remote console" way of interacting with the computer. JOSS and
+the user would "take turns controlling the typewriter" in the words of the
+documentation. The computerized aide understood simple commands like `do`,
+`go`, and `type`.  Given a number of predetermined commands, it would attempt
+to respond with a result. When confused or when given an unfamiliar command
+its default for an unspecified error mimicked human confusion: "Eh?
+[@shaw_joss:_1964]"
 
 This mode of conversational interaction was captured also in one of the
 earliest text adventure games, the *Colossal Cave Adventure*, designed by Will
