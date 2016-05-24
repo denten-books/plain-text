@@ -728,41 +728,46 @@ literature, reminds us of the close connection between poetics and the
 architecture of human-computer interaction. It is all the more important
 today, as immersive computational environments begin to structure experience
 beyond the merely instrumental. Computers increasingly mediate in the
-interface between the public and the private, art and politics, and mind and
-body. The simulacrum requires that we advance a reflective "science of the
-mimetic arts" lest we lose a sense of what Michael Taussig has called the
-"space ulterior to mimesis" [@taussig_mimesis_1993, 129-144]. The suspension
-of disbelief must remain, as it was in Samuel Coleridge's original
-formulation, a willful act, containing further a "semblance of truth" required
-to animate the shadows of imagination [@coleridge_biographia_1917, 6-7]. An
-involuntary or worse yet forced suspension of disbelief can only lead to a
-state of total critical disempowerment.
+interface between the public and the private, art and politics, mind and body.
+The simulacrum requires that we advance a reflective "science of the mimetic
+arts" lest we lose a sense of what Michael Taussig has called the "space
+ulterior to mimesis" [@taussig_mimesis_1993, 129-144]. The suspension of
+disbelief must remain, as it was in Samuel Coleridge's original formulation, a
+willful act, containing further a "semblance of truth" required to animate the
+shadows of imagination [@coleridge_biographia_1917, 6-7]. An involuntary or
+worse yet forced suspension of disbelief can only lead to a state of total
+critical disempowerment.
 
 The history of human-computer interaction passes through several distinct
 stages, defined by their relationship to representation. Early computers were
-programmed by manipulating a complex arrangement of wires and relays. With
-time, that configuration could be abstracted into symbolic states, signified
-by marks on paper or tape. In the next stage of development, the physical
+programmed by physically manipulating a complex arrangement of wires and
+relays. With time, that configuration could be abstracted into symbolic
+states, signified by visible marks on paper and later invisible
+electromagnetic marks on tape. In the next stage of development, the physical
 arrangement of gates and relays was further codified into an artificial
 language. The programmer operated with a constrained vocabulary, receiving
-messages in response, in a dialog resembling human communication. Finally, as
-the use of computers spread, the paradigm of so called "direct interaction"
-shifted emphasis from verbal cues to visual and from symbol to icon. The
-communication was and continues to be direct in the sense of immediacy and
-immersion. By comparison to the verbal symbol, the icon appears to have
-relationship to the remote materialities of machine states less arbitrary than
-the symbol.  Finally, one imagines an indexical connection between human and
-machine, by which brain states and machine states could correspond by a
-physical rather than merely visual linkage. It would be a mistake however, to
-understand this historical trajectory as one of increasing immediacy. A
-grammar of transformations always intercedes in the transition between brain
-states and machine configurations. The ability to govern that grammar sets the
-rules of engagement. The growing immediacy of computational mimesis
-underscores the political importance of holding the mechanisms of mediation in
-critical view. In reflecting on the history of human-computer interaction, I
-find myself with Plato, Baudrillard, and Taussig, increasingly suspicious of a
-totalizing mimesis: the more compelling the simulation, the more concealed the
-materialities of its production.
+messages in response, in a dialog resembling human communication. As the use
+of computers spread, the paradigm of so called "direct interaction" shifted
+emphasis from verbal cues to visual and from symbol to icon. The communication
+was and continues to be direct in the sense of felt immediacy and immersion.
+By comparison to the verbal symbol, the icon appears to have a relationship to
+the remote materialities of machine states less arbitrary than the symbol.
+Finally, one imagines an indexical connection between human and machine, by
+which brain states and machine states could correspond through a physical
+rather than merely visual linkage. The so called direct neural interfaces
+bypass inscription---word and picture---altogether, making use of
+neuroprosthetics---implants and surface electrodes---to connect human and
+machine. It would be a mistake however to accept the insistence on
+"directness" at face value or to understand the arc of this historical
+trajectory as one that leads the gradual loss of mediation. In the transition
+between brain states and machine configurations, a morphological grammar
+always intercedes. The grammar sets the rules of engagement. The growing sense
+of immediacy of computational mimesis underscores the political importance of
+holding the mechanisms of mediation in critical view. Reflecting on the
+history of human-computer interaction in light of metaphor theory, I find
+myself with Plato, Baudrillard, and Taussig, suspicious of a totalizing
+mimesis: the more compelling the simulation, the more removed from its
+material contexts, the more concealed the logistics of its production.
 
 Before the 1980s, the dominant paradigm of interacting with machines was the
 dialog [@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
