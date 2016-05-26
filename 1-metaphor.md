@@ -801,20 +801,19 @@ punch card, initially using octal number notation and then binary assembly
 language [@gruenberger_history_1979]. These methods of programming were time
 consuming and prone to error. "An octal desk calculator was nice to have," a
 historian of the system would later quip [@gruenberger_history_1979, 58]. The
-JOSS experiment introduced an interpreter that sat between the human operator
-and the machine, facilitating communication in a friendly, conversational
-manner.  Think of JOSS as the "user's computing aide and a single contact with
-the computer," the engineers wrote [@shaw_joss:_1964, 456]. Instead of feeding
-punch cards into a machine, as was done before, the operator would now use a
-standard typewriter. Instead of flipping switches the operator typed words.
-JOSS thus referred both to the "simple language" for machine instruction and
-to this new "remote console" way of interacting with the computer. JOSS and
-the user would "take turns controlling the typewriter" in the words of the
-documentation. The computerized aide understood simple commands like `do`,
-`go`, and `type`.  Given a number of predetermined commands, it would attempt
-to respond with a result. When confused or when given an unfamiliar command
-its default for an unspecified error mimicked human confusion: "Eh?
-[@shaw_joss:_1964]"
+JOSS experiment introduced the idea of an "interpreter" that sat between the
+human operator and the machine, facilitating communication in a friendly,
+conversational manner. Think of JOSS as the "user's computing aide and a
+single contact with the computer," the engineers wrote [@shaw_joss:_1964,
+456]. Instead of feeding punch cards into the mechanism, as was done before,
+the operator would now use a standard typewriter. Instead of flipping switches
+the operator typed words. JOSS thus referred both to the "simple language" for
+machine instruction and to this new "remote console" way of interacting with
+the computer. JOSS and the user would "take turns controlling the typewriter"
+in the words of the documentation. The interpreter understood simple commands
+like `do`, `go`, and `type`, which it would then translate into machine
+instructions. When encountering an unspecified command, the interpreter
+mimicked human confusion, responding simply: "Eh?  [@shaw_joss:_1964]"
 
 This mode of conversational interaction was captured also in one of the
 earliest text adventure games, the *Colossal Cave Adventure*, designed by Will
@@ -847,7 +846,7 @@ binary machine code, the conversational model posed several significant
 challenges to the machine user. It resembled human communication in all its
 richness and variety, where in fact the machine "spoke" and "understood" only
 a limited number of words. Researchers from the U.S. Air Force academy would
-later write:
+write:
 
 > The lower cost of computer access and the proliferation of on-line systems
 produced a new breed of users, people whose expertise was in some area other
@@ -857,10 +856,10 @@ frustration and of being "manipulated" by a seemingly unyielding, rigid,
 intolerant dialogue partner [@walther_-line_1974, 379;
 @gaines_timesharing_1986, 15].
 
-The conversational intermediary of the Colossal Cave Adventure understood
-roughly 295 commands, and knew about 1,600 words in response arranged into
-several hundred canned phrases.[^ln1-count] Faced with an unfamiliar word, it
-could only repeat "That's not a verb I recognise."
+The conversational intermediary of Colossal Cave Adventure understood roughly
+295 commands, and knew about 1,600 words in response, arranged into several
+hundred canned phrases.[^ln1-count] Faced with an unfamiliar word, it could
+only repeat "That's not a verb I recognise."
 
 By the 1980s, a new breed of metaphorical interfaces gained widespread
 prominence. If *Colossal Cave Adventure* epitomized the conversational model
@@ -875,27 +874,28 @@ involved three key principles:
 interest is immediately visible [@shneiderman_future_1982, 251;
 @hutchins_direct_1986, 91].
 
-The goal of direct manipulation was therefore to achieve a perfect
+The primary goal of direct manipulation was therefore to achieve the
 correspondence between "representation" and the "object of interest."
-Shneiderman looked to Leibniz for guidance. He developed symbolic notation, at
-the root of his calculus, to "express the exact nature of a thing briefly and,
-as it were, picture it." For Leibniz, the symbol, an accurate and portable
-picture of an idea, could subsequently reduce the mental effort required for
-abstract thought, leading to a "great advantage for discovery"
-[@leibniz_briefwechsel_1899, 375; @shneiderman_direct_1983, 57]. By the means
-of symbolic notation mathematicians gained the ability to represent infinitely
-small and infinitely large numbers in print---ideas that would not otherwise
-fit on the page or in the mind [@cajori_history_1923; @thurston_leibnizs_1973;
-@grabiner_is_1974]. For Shneiderman and others, a computer game like *Pong*
-similarly enabled the direct manipulation of complex abstractions, allowing a
-player to control a virtual table-tennis paddle by rotating a physical knob on
-a gaming console. The movement of the physical knob corresponded directly to
-the movement of the paddle---clockwise for up and counter-clockwise for
-down---thus achieving the correspondence between "operation" and the "impact
-on the object of interest" [@shneiderman_direct_1983, 60]. Without such a
-"direct" linkage, the physics of the game simulation would be too complex for
-players to handle effectively, were they asked to play by writing formulas in
-code, for example, or to direct the paddle through dialog, in conversation.
+Shneiderman looked to Leibniz for guidance. He wrote: Leibniz developed a
+system of symbolic notation, at the root of his calculus, to "express the
+exact nature of a thing briefly and, as it were, picture it." For Leibniz, the
+symbol, an accurate and portable picture of an idea, could subsequently reduce
+the mental effort required for abstract thought, leading to a "great advantage
+for discovery" [@leibniz_briefwechsel_1899, 375; @shneiderman_direct_1983,
+57]. Symbolic notation made it possible for mathematicians to represent
+infinitely small and infinitely large numbers in print---ideas that would not
+otherwise fit on the page or in the mind [@cajori_history_1923;
+@thurston_leibnizs_1973; @grabiner_is_1974]. For Shneiderman and others, a
+computer game like *Pong* similarly enabled the direct manipulation of complex
+abstractions, making it possible for a player to control a virtual
+table-tennis paddle by rotating a physical knob on a gaming console. The
+movement of the physical knob corresponded "directly" to the movement of the
+paddle---clockwise for up and counter-clockwise for down---thus achieving the
+correspondence between "operation" and the "impact on the object of interest"
+[@shneiderman_direct_1983, 60]. Without such a "direct" linkage, the physics
+of the game simulation would be too complex for players to handle effectively,
+were they asked to play by writing formulas in code, for example, or to direct
+the paddle through dialog, in conversation.
 
 Direct manipulators argued that the arbitrary nature of the sign to its
 signifier hindered the conversational model of human-computer interaction. In
@@ -903,121 +903,83 @@ this way, when using *EMACS*, a text editor commonly found on UNIX systems of
 the time, one would enter the command `k` in combination with other keys to
 delete or to "kill" a file, while on other systems, Shneiderman complained,
 `k` stood for "keep a file," the opposite from killing it
-[@shneiderman_direct_1983, 65]. In the conversational model, the command stood
-in a contingent relationship to the intended effect, whereas in the direct
-manipulation model the knob and the movement of the paddle related
-mimetically. The direct manipulation paradigm favored the "iconic"
-relationship between representation and the object of interest, by which two
-related through shared elements of structure and composition
-[@norman_user_1986, 110]. Consider the Pong controller. The movement of the
-knob mimics the movement of the paddle t represents. Like an onomatopoeic
-word, the one resembles and imitates the other. The relationship between the
-two is somewhat less arbitrary than in ordinary language where words do not
-resemble the things they represent. In an attempt to move past such
-contingency, Edwin Hutchins, Donald Norman, and James Hollan wrote: "There is
-an economy here [referring to direct manipulation] in that the user's
-knowledge of the structure of the surface acoustical form has a non-arbitrary
-relationship to meaning [...] The same sort of thing can be done in the design
-of interface languages" [@norman_cognitive_1991, 123]. A mimetic icon requires
-less explanation than an arbitrary symbol. The transference of qualities is
-intuited.[^ln1-icon] Instead of searching for the right command, for example,
-the user relies on the habituated affordances of real-world objects, like
-table tennis paddles and paper trashcans, to manipulate virtual objects, like
-computer games and file systems. In this way, I understand the move between
-"conversational" and "direct" interaction models as a shift from a system of
-symbolic signs which stand in arbitrary relationship to their referents to a
-system of iconic signs that stand in a mimetic relationship.[^ln1-peirce]
-Crucially, the advocates of "direct manipulation" aimed to suspend disbelief.
-The feeling of directness came through complete immersion into the mimetic
-context of the virtual world [@laurel_brenda_interface_1986, 76]. In this way,
-the mimetic icon must usurp the "object of interest" through use. The icon of
-a document becomes the writer's object of interest and this at the expense of
-the inscription itself.
+[@shneiderman_direct_1983, 65]. In the conversational model, the command
+stands in a contingent relationship to the intended effect, whereas in the
+direct manipulation model the knob and the movement of the paddle relate
+mimetically. In the language of Peircean semiotics, the direct manipulation
+paradigm favors the "iconic" relationship between representation and the
+object of interest, by which two related through shared elements of structure
+and composition [@peirce_algebra_1992; @jakobson_few_1977; @norman_user_1986,
+110]. Consider the game controller for Pong. The movement of the knob mimics
+the movement of the paddle it represents. Like an onomatopoeic word, the one
+resembles and imitates the other. The relationship between the two is somewhat
+less arbitrary than in ordinary language, where words do not resemble the
+things they represent. The central idea of direct manipulation involved an
+attempt to move past conversational contingency. In their field-defining work
+on human-computer interaction, Edwin Hutchins, Donald Norman, and James Hollan
+wrote:
 
-Recall in this regard the Heideggerian insight into the mediated nature of
-tool use. In *Being and Time*, Heidegger wrote about the particular
-*handiness* of a tool, like a hammer. He writes, "the less we stare at the
-thing [...] the more actively we use it, the more original our relation to it
-becomes and the more undisguisedly it is encountered as what it is, a useful
-thing" [@heidegger_being_1996, 65]. For Heidegger, a tool like a hammer had to
-be understood through use. It was inaccessible to reason, reflection, or
-theory alone. The hammer comes into focus through what he called
-*circumspection* [*Umsicht*]---the peripheral awareness of the object
-ready-to-hand [*zuhanden*] [@heidegger_sein_1967, 69]. We relate to the tool
-in the process of manipulating it and while we concentrate on the task at
-hand; the seamster is not interested in the needle, only in the work of sewing
-[@heidegger_being_1996, 65]. Later, Heidegger would connect this account of
-tool use and technology in general with what he called a mode of unconcealment
-[@heidegger_question_1977, 319]. When used properly, the tool reveals some
-truth about the world, about itself, and about the person using it. In this
-sense the Greek *techne* is for Heidegger related to *poiesis*, or bringing
-forth. Contrary the kind of technology that reveals and brings forth Heidegger
-describes the use of machines and apparatus that conceals and blocks poiesis.
-He describes what can be understood in terms of technological determinism: the
-sort of "destined" revealing that can unfold only along a predetermined
-narrative, in which the answer is already given. The forester that walks the
-woods simply to cut them down can only reveal nature as a commodity, in what
-Heidegger calls a "standing reserve." The forester who measures the felled
-timber becomes subordinate to the organization of cellulose, he writes
-[@heidegger_question_1977, 323]. The wood is challenged forth by the need of
-paper, the paper to the press. The press consequently organizes the public,
-set on "swallowing what is printed, so that a set configuration of opinion
-becomes available on demand." In following the path of a determined narrative,
-technology turns the human into a human resource.  It is in that sense, that
-Heidegger concludes that modern technology is "no more a human doing"
-[@heidegger_question_1977, 323-4]. Nothing new can be learned in this
-predetermined way.
+> There is an economy here [referring to direct manipulation] in that
+the user's knowledge of the structure of the surface acoustical form has a
+non-arbitrary relationship to meaning [...] The same sort of thing can be done
+in the design of interface languages [@norman_cognitive_1991, 123].
 
-The metaphoric device frustrates the Heideggerian vision of technology that
-reveals. At hand, the device takes shape as a keyboard, a mouse, or a touch
-screen. But in the mind, as a simulation, it dissembles to behave similar to
-page, a folder, or a wastepaper bin. The tool---a keyboard or a touch
-screen---is not encountered for what it is. Nor does a simulated tool reveal
-anything about the material it affects. The simulation produces knowledge
-neither about the thing being simulated (paper or books, for example) nor
-about the medium giving rise to the simulation (computational device, in our
-example).
+Influenced by insights from cognitive metaphor theory about structural domain
+mapping, the direct manipulators thought the mimetic icon to require less
+explanation than an arbitrary symbol. The transference of iconic qualities is
+intuited; the icon presents its own explanation.[^ln1-icon] Instead of
+searching a "dictionary" of available commands for the right verb the user can
+rely on the habituated affordances of real-world objects, like table tennis
+paddles and paper trashcans, to manipulate virtual objects, like computer
+games and file systems. The move between "conversational" and "direct"
+interaction models of human-computer interaction can be viewed as a shift from
+a system of symbolic signs which stand in arbitrary relationship to their
+referents to a system of iconic signs that stand in a mimetic
+relationship.[^ln1-peirce] Crucially, the advocates of direct manipulation
+aimed to suspend disbelief. The feeling of directness came through the
+complete immersion into the mimetic context of a virtual world
+[@laurel_brenda_interface_1986, 76]. In this way, the mimetic icon usurps the
+"object of interest" through use. The icon of a document becomes the writer's
+object of interest, at the expense of the inscription itself.
 
-The simulation is rather designed to conceal the mediated nature of virtual
-experience. It manufactures what Laurel and others call an "interactive
-mimesis" and "first personness," the experience of "directly living and acting
-within the world established by the computer" [@laurel_brenda_interface_1986;
-@norman_user_1986, 490-1]. Hutchins, Hollan, and Norman write: "when an
-interface presents world of action rather than a language of description,
-manipulating a representation can have the same effects and the same feel as
-manipulating the thing being represented" [@hutchins_direct_1986, 98-99].
-Similar to Heidegger's distinction between practice and theory, the theorists
-of direct manipulation differentiate between action and description. Unlike
-Heidegger, who thought about tools at hand, direct manipulation theory
-imagines the handling of representations not objects---as evidenced by the
-somewhat strained language of metaphor machines in which "hierarchies allow
-access to metaphors within the library" and "users manipulate sheets in the
-notebook metaphor" [@pajak_electronic_1992; @glaser_graphical_1995]. The
-actual instruments enabling the manipulation of image or word on the screen
-disappear entirely, giving rise to the immersive, interactive, first-person
-experience, without the experience of mediation. "The user of a well-designed
-*model world* interface can willfully suspend disbelief that the objects
-depicted are artifacts of some program and can thereby directly engage the
-world of the objects," Norman et.al. write [@hutchins_direct_1986, 99]. In
-this view, the dialogic model of tool use encouraged by *Colossal Cave
-Adventure*---get keys, get lamp---is dismissed as nothing more than just
-"using the computer" [@laurel_brenda_interface_1986, 74]. "End users are not
-interested in *making* representations," Laurel writes. "They want to move
-around *inside* one," favoring the mimetic context over their actual, physical
+Direct manipulation theory imagines the handling of representations, not
+objects---as evidenced by the somewhat strained language of metaphor machines
+in which "hierarchies allow access to metaphors within the library" and "users
+manipulate sheets in the notebook metaphor" [@pajak_electronic_1992;
+@glaser_graphical_1995]. It is direct in the sense of concealing the mediated
+nature of virtual experience. The goal is to manufacture what Laurel and
+others call an "interactive mimesis" and "first personness," the experience of
+"directly living and acting within the world established by the computer"
+[@laurel_brenda_interface_1986; @norman_user_1986, 490-1]. Hutchins, Hollan,
+and Norman write: "when an interface presents world of action rather than a
+language of description, manipulating a representation can have the same
+effects and the same feel as manipulating the thing being represented"
+[@hutchins_direct_1986, 98-99]. The actual instruments enabling the
+manipulation of image or word---keyboards, screens, and machine
+instructions---are meant to disappear. "The user of a well-designed *model
+world* interface can willfully suspend disbelief that the objects depicted are
+artifacts of some program and can thereby directly engage the world of the
+objects," Norman et.al. write [@hutchins_direct_1986, 99]. In this view, the
+dialogic model of tool use encouraged by *Colossal Cave Adventure*---`get
+keys`, `get lamp`---stands in the way. Instead of working with objects of
+interest, instead of being a part of the story, the protagonist is "using the
+computer" [@laurel_brenda_interface_1986, 74]. "End users are not interested
+in *making* representations," Laurel writes. "They want to move around
+*inside* one," favoring the mimetic context over their actual, physical
 surroundings [@laurel_brenda_interface_1986, 75]. Verbal representations, like
-"get keys" or "get lamp," puncture the first-person illusion. By contrast, the
+`get keys` or `get lamp`, puncture the first-person illusion. By contrast, the
 fully immersive model supports the "sensation of directness," in which direct,
 that is iconic, expressions, "behave in such a way that a user can assume that
 they, in some sense, *are* the things they refer to" [@hutchins_direct_1986,
 110].
 
+<!--
 ![Direct manipulation of simulated objects, 1984. [@minsky_manipulating_1984,
 199]](images/minsky.png)
+-->
 
-<!--
 !["ViewPoint screen image." On screen menus for the Xerox 6085 Daybreak
 workstation, 1985 [@johnson_xerox_1989, 13].](images/xerox_star.png)
--->
 
 The principles of direct interaction that emerge in the 1980s stood against
 what Laurel called the "ill-formed" presence of the mediator, in the
@@ -1071,7 +1033,7 @@ driving a car to illustrate the type of an interface by which inputs and
 outputs correlate directly. Thus instead of giving complicated commands to a
 vehicle, a driver turns the wheel to the right, and the car immediately
 follows. A direct causal link exists between the steering wheel and the car's
-axle. Similarly, when operating a computer game like *Space Invaders* via a
+axle. Similarly, when operating a computer game like Space Invaders via a
 joystick, the player experiences the immediate correspondence between the
 movement of the controlling mechanism and movement of the player-controlled
 space ship on the screen. The car is the "direct object of interest" for a
