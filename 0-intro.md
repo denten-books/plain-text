@@ -1040,7 +1040,7 @@ things, but that they enact change in the world.
 [^ln-pragma-truth]: For a more thorough discussion on the topic see
 @seigfried_william_1990, @pihlstrom_structuring_1996, and @putnam_jamess_1997.
 
-[^ln0-reverse]: @kirschenbaum_mechanisms_2008, 15. On the role of reverse
+[^ln0-reverse]: @kirschenbaum_mechanisms:_2008, 15. On the role of reverse
 engineering in media studies see also @fuller_evil_2012, 9.
 
 [^ln-sarab]: See also @english_economy_2008; @brouillette_wither_2015 and
@@ -1057,7 +1057,7 @@ engineering in media studies see also @fuller_evil_2012, 9.
 [^ln-rhein]: I am in influenced here by the discussion of epistemic things in
 @rheinberger_toward_1997, 24-37.
 
-[^ln-varela]: See @varela_autopoiesis_1974; @barthes_rustle_1989, 5;
+[^ln-varela]: See @varela_autopoiesis:_1974; @barthes_rustle_1989, 5;
 @nuttall_new_2007, 6-25.
 
 [^ln-wark]: I use the term "vector" in somewhat more limited sense than it
