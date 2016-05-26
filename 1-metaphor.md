@@ -1032,41 +1032,7 @@ capabilities of virtual folders. Immersion precludes critical reflection
 beyond the pre-defined confines of the modeled world. The user has access only
 to what the simulated experience allows and can provide. Like a theme park
 ride it is a guided experience, which can only lead to predetermined
-results.[^ln1-heidegger]
-
-[^ln1-heiddegger]: Recall in this regard the Heideggerian insight into the
-mediated nature of tool use. In *Being and Time*, Heidegger wrote about the
-particular *handiness* of a tool, like a hammer. He writes, "the less we stare
-at the thing [...] the more actively we use it, the more original our relation
-to it becomes and the more undisguisedly it is encountered as what it is, a
-useful thing" [@heidegger_being_1996, 65]. For Heidegger, a tool like a hammer
-had to be understood through use. It was inaccessible to reason, reflection,
-or theory alone. The hammer comes into focus through what he called
-*circumspection* [*Umsicht*]---the peripheral awareness of the object
-ready-to-hand [*zuhanden*] [@heidegger_sein_1967, 69]. We relate to the tool
-in the process of manipulating it, while we concentrate on the task at hand:
-the seamster is not interested in the needle, only in the work of sewing
-[@heidegger_being_1996, 65]. Later, Heidegger would connect his account of
-tool use with philosophy itself, as a mode of truth seeking or unconcealment
-[@heidegger_question_1977, 319]. When used properly, the tool reveals some
-truth about the world, about itself, and about the person using it. In this
-sense the Greek *techne* is for Heidegger related to *poiesis*, or bringing
-forth. Contrary to the kind of technology that reveals and brings forth,
-Heidegger describes also the use of machines and apparatus that conceals and
-blocks poiesis. Such tools determine rather than reveal in the sort of a
-"destined" revealing that can unfold only along a predetermined narrative, in
-which the answer is already given. The forester that walks the woods simply to
-cut them down can only reveal its nature as a commodity, in what Heidegger
-calls a "standing reserve." The forester who measures the felled timber
-becomes subordinate to the organization of cellulose. The wood is challenged
-forth by the need of paper, the paper to the press. The press consequently
-organizes the public, set on "swallowing what is printed, so that a set
-configuration of opinion becomes available on demand." In following the path
-of a determined narrative, technology turns the human into a human resource.
-It is in that sense, that Heidegger concludes that modern technology is "no
-more a human doing" [@heidegger_question_1977, 323-4]. Ultimately, proscribed
-tool use strips users of their powers of self-determination. They can learn
-nothing new about themselves or the world.
+results.
 
 Problematically, ideas behind mimetic immersion contain a kind of a logical
 fallacy. The literature on direct manipulation often refers to the example of
@@ -1092,8 +1058,35 @@ object, the file itself.  Where in the conversational paradigm the nature of
 the mediation was at hand, open to circumspection, "direct manipulation"
 occludes the mechanisms of mimesis.
 
-In reflecting on the history of human-computer interaction in light of
-metaphor theory, I find myself with Plato, Baudrillard, and Taussig,
+The trajectory from direct *physical* manipulation to direct *virtual*
+manipulation leads to the totalizing loss of resemblances and designations
+that Baudrillard warned us about. At its logical extreme, the simulacrum
+supplants the thing being simulated. It appears as hyper-reality, the
+experience of unmediated interaction without awareness or sense of the
+underlying referent. All "objects of interest" within such a model world are
+fabricated objects. They are thus limited to the external, artificial
+constraints imposed by their makers. Manufactured experiences present us, the
+"users," with compelling, possibly cathartic, metaphors. The metaphor extends
+far beyond entertainment, subsuming all spheres of social activity mediated by
+computers. The manipulation of metaphors---a reflective, not merely
+circumspect inhabitance of virtual worlds---therefore requires not just a
+willing suspension of disbelief, but also a poetics: hermeneutics, close
+reading, distant reading, deconstruction, morphology, in short precisely the
+legacy of interpretive practice that stretches from Aristotle to Susan Sontag
+and beyond. The suspension of disbelief otherwise threatens to become a
+permanent condition, alienating as it is pleasurable or cathartic.
+
+The history of human-computer interaction began with the manipulation of
+physical switches, first by hand and then by proxy, through removable storage
+media like paper tape and punch card. The next phase was dialogic and
+conversational. Conversational computing introduced the idea of a mediating
+agent, an interpreter, who could translate from a limited number of natural
+human language commands into the specialized vocabulary of signals that
+changed machine configuration states. The "direct manipulation" school of
+human-computer interaction dispensed with visible machine states, leading us
+further towards immersive mimesis in which virtual environments resemble
+real-world objects and their properties. In reflecting on that history in
+light of metaphor theory, I find myself with Plato, Baudrillard, and Taussig,
 suspicious of a totalizing mimesis: the more compelling the simulation, the
 more removed from its material contexts, the more concealed the logistics of
 its production.
@@ -1108,36 +1101,6 @@ limits of [telegraph transmission] speed will also be limited by the ability
 of some human beings to operate a keyboard, until such time as electrical
 connection be made direct with the receiver's central nervous system"
 [@halstead_genesis_1949, 451].
-
-The history of human-computer interaction began with the manipulation of
-physical switches, first by hand and then by proxy, through removable storage
-media like paper tape and punch card. The next phase was dialogic and
-conversational. Conversational computing introduced the idea of a mediating
-agent, an interpreter, who could translate from a limited number of natural
-human language commands into the specialized vocabulary of signals that
-changed machine configuration states. The "direct manipulation" school of
-human-computer interaction dispensed with visible machine states, leading us
-further towards immersive mimesis in which virtual environments resemble
-real-world objects and their properties.
-
-The trajectory from direct *physical* manipulation to direct *virtual*
-manipulation leads to the totalizing loss of resemblances and designations
-that Baudrillard warned us about. At its logical extreme, the simulacrum
-supplants the thing being simulated. It appears as hyper-reality, the
-experience of unmediated interaction without awareness or sense of the
-underlying referent. All "objects of interest" within such a model world are
-fabricated objects. They are thus limited to the external, artificial
-constraints imposed by their makers. Manufactured experiences present us, the
-"users," a more modern word for a human resource, with compelling, possibly
-cathartic, metaphors. The metaphor extends far beyond entertainment, subsuming
-all spheres of social activity mediated by computers. The manipulation of
-metaphors---a reflective, not merely circumspect inhabitance of virtual
-worlds---therefore requires not just a willing suspension of disbelief, but
-also poetics: hermeneutics, close reading, distant reading, deconstruction,
-morphology, in short precisely the legacy of interpretive practice that
-stretches from Aristotle to Susan Sontag and beyond. The suspension of
-disbelief otherwise threatens to become a permanent condition, alienating as
-it is pleasurable or cathartic.
 
 At the time of writing this book, our society stands at the threshold of a new
 paradigm of interacting with computers and hence with each other. Direct brain
@@ -1163,7 +1126,7 @@ advancing this argument [@krug_dont_2014; @eyal_hooked:_2014;
 in affective, mystical arts, the ultimate loss of references and resemblances,
 where works of art are to be experienced emotively past the senses: literature
 without language or representation, painting beyond media,
-asemiosis---messages lacking a sign.
+*asemiosis*---messages lacking a sign.
 
 However futuristic such possibilities may seem to us today, we should not lose
 sight of the mediated nature of human-computer interaction in all of its
@@ -1199,28 +1162,68 @@ an economy of exchange between physical and mental resources. In this market
 there are those who extract rents from virtual, mimetic inhabitance and those
 whose dwelling becomes a commodity.
 
+Recall in this regard the Heideggerian insight into the mediated nature of
+tool use. In *Being and Time*, Heidegger wrote about the particular
+*handiness* of a tool, like a hammer. He writes, "the less we stare at the
+thing [...] the more actively we use it, the more original our relation to it
+becomes and the more undisguisedly it is encountered as what it is, a useful
+thing" [@heidegger_being_1996, 65]. For Heidegger, a tool like a hammer had to
+be understood through use. It was inaccessible to reason, reflection, or
+theory alone. The hammer comes into focus through what he called
+*circumspection* [*Umsicht*]---the peripheral awareness of the object
+ready-to-hand [*zuhanden*] [@heidegger_sein_1967, 69]. One relates to the tool
+in the process of manipulating it, while concentrating on the task at hand:
+the seamster is not interested in the needle, only in the work of sewing
+[@heidegger_being_1996, 65]. Later, Heidegger would connect his account of
+tool use with philosophy itself, as a mode of truth seeking or unconcealment
+[@heidegger_question_1977, 319]. When used properly, the tool reveals some
+truth about the world, about itself, and about the person using it. In this
+sense the Greek *techne* is for Heidegger related to *poiesis*, or bringing
+forth.
+
+Contrary to the kind of technology that reveals and brings forth, Heidegger
+describes also the use of machines and apparatus that conceals and blocks
+poiesis. Such tools determine rather than reveal in the sort of a "destined"
+revealing that can unfold only along a predetermined narrative, in which the
+answer is already given. The forester that walks the woods simply to cut them
+down can only reveal its nature as a commodity, in what Heidegger calls a
+"standing reserve." The forester who measures the felled timber becomes
+subordinate to the organization of cellulose. The wood is challenged forth by
+the need of paper, the paper to the press. The press consequently organizes
+the public, set on "swallowing what is printed, so that a set configuration of
+opinion becomes available on demand." In following the path of a determined
+narrative, technology turns the human into human resource. It is in that
+sense, that Heidegger concludes that modern technology is "no more a human
+doing" [@heidegger_question_1977, 323-4]. Ultimately, proscribed tool use
+strips users of their powers of self-determination. They learn nothing new
+about themselves or the world.
+
 To insist on mediation is to breach the continuity between body and
-prosthesis, human and machine, nature and technology. I would like to imagine
-in conclusion the possibility of indexical interfaces, the kind of signs that
-connect to their objects of interest through palpable causal linkages like
-smoke and fire, tissue damage and pain. Is it possible, in other words, to
-inhabit virtual worlds while keeping the scaffolding of the simulation in
-view, to connect viscerally to the material conditions of habit production?
-The question is of vital political importance, because whether we have answers
-or not, implements of symbolic manipulation---books and pens that once lay
-safely at an arm's length---move inevitably closer to the mind's eye. For now,
-the screen and the hard drive, mechanisms of memory storage and image
+prosthesis, human and machine, nature and technology. It is to hold the tool
+in view, to use in the active voice, to determine its aims, and to destine
+rather than to be destined.
+
+I would like to imagine in conclusion the possibility of indexical interfaces,
+the kind of signs that connect to their objects of interest through palpable
+causal linkages like smoke and fire, tissue damage and pain. Is it possible,
+in other words, to inhabit virtual worlds while keeping the scaffolding of the
+simulation in view, to connect viscerally to the material conditions of habit
+production? The question is of vital political importance, because whether we
+have answers or not, implements of symbolic manipulation---books and pens that
+once lay safely at an arm's length---move inevitably closer to the mind's eye.
+For now, the screen and the hard drive, mechanisms of memory storage and image
 projection, remain extrinsic to the body. They are at this moment still
 amenable to circumspection. But the gap is closing fast. The political
 consequences of our technological choices become more difficult to reveal in
 proportion to their habituation. Today, people who forego the use of
 electronic tablets, smart phones, laptops, and notebooks could seem merely
 whimsical or quaint. What if tomorrow they be judged mentally deficient or
-barred from participating fully in the public life? The human is endangered
-not by technology, Heidegger wrote, but by its determinism. At stake is
-precisely an insistence on drawing essential boundaries in a way that
-precludes revealment, the autonomous search for truth
-[@heidegger_question_1977, 331-4]. The ability to read and to write was
+barred from participating fully in the public life?
+
+The human is endangered not by technology, Heidegger wrote, but by its
+determination. At stake is precisely an insistence on drawing essential
+boundaries in a way that precludes revealment, the autonomous search for truth
+[@heidegger_question_1977, 331-4]. The ability to read and to write was always
 politically fraught because of its potential to determine the human
 experience. It is by no accident that the struggle for universal literacy
 accompanied most political revolutions. Poets are important to the revolution
