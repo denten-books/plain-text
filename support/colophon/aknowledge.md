@@ -1,7 +1,7 @@
 # Graduate Student Assistants
 
     Phil Polefrone (Summer 2015)
-    Brandon Wilner (Spring 2015)
+    Emily Furhman
 
 # Readers
 
