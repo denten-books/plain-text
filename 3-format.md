@@ -296,7 +296,7 @@ physical attributes of the text that can be omitted in the interpretation or
 the reproduction of texts. One can imagine a printer deciding to discard
 information about the color of a manuscript's ink for example or to do away
 with the idiosyncrasies of a writer's handwriting. Those parts of the text
-that are deemed insignificant are omitted, while those dimmed significant pass
+that are deemed insignificant are omitted, while those deemed significant pass
 from the category of contingent "formal" characteristics to its essential
 signifying "contents."
 
@@ -494,10 +494,10 @@ The dual motion of literary criticism at once towards the extrinsic shape and
 intrinsic formula---poetics and hermeneutics---is perhaps most starkly visible
 in the intellectual legacy of Russian formalism in the first few decades of
 the 20th century. The influential series of "OPOYAZ" publications, appearing
-between 1916 and 1920, gave voice to a unified program to a group of literary
-scholars that included Viktor Shklovsky, Osip Brik, Lev Yakubinsky, Boris
-Eichenbaum, and Roman Jakobson, among others. Collectively, the volumes strike
-out in two distinct, but complementary directions.
+between 1916 and 1920, gave voice to a collective of literary scholars that
+included Viktor Shklovsky, Osip Brik, Lev Yakubinsky, Boris Eichenbaum, and
+Roman Jakobson, among others. Collectively, the volumes strike out in two
+distinct, but complementary directions.
 
 Several essays by Brik, Shklovsky, Yakubinski, and others contrapose "sound"
 [*zvuk*] to "symbol" [*obraz*]. Brik writes: "I believe that elements of
@@ -543,7 +543,7 @@ Three of the sixteen essays in the seminal volumes I have discussed above
 strike in another direction, away from shape and towards formula. Shklovsky's
 "Art as Technique," "Linkages between Plot and Style Device," and Eichenbaum's
 "How the *Overcoat* Is Made," constitute a cluster of essays that deal with
-narrative structure rather than phonetic image.[ln3-propp] All three authors
+narrative structure rather than phonetic image.[^ln3-propp] All three authors
 cite a common source of influence for this direction of research: namely, the
 work of Alexander Veselovsky, the 19th century Russian historian of literature
 and founder of the comparative method in that tradition. Veselovsky, a scholar
@@ -570,7 +570,7 @@ development of literary particulars. Veselovsky calls these genetic constants
 > sentiments and concerns. This dynamic could be considered a kind of a law of
 > conservation of energy [@veselovsky_sobranie_1913, 475-47].
 
-[ln3-propp]: To this strain of formalism one could also adduce Vladimir
+[^ln3-propp]: To this strain of formalism one could also adduce Vladimir
 Propp's well-known *Morphology of the Folktale*, a text that finds a limited
 number of universal principles of composition in the multiplicity of folktale
 traditions.
@@ -699,7 +699,7 @@ To borrow from Tanselle's vocabulary, the format bridges the "physical
 structure of finished books" with their "intellectual content." This
 connection happens through what Tanselle calls "printing-shop routines" and
 what we began to identify in the previous chapter as a kind of a technique for
-the transformation of ideas into inscription things. The scholar interested in
+the transformation of ideas into inscription-things. The scholar interested in
 formatting traditionally arbitrated in the conflict between the extant textual
 witnesses that individually contain slightly differing versions of the same
 text, but in aggregate identify the sum total of a given work in the
@@ -757,20 +757,20 @@ example---whatever is meant by the "format" of the play belongs neither wholly
 to its physical medium (pixel or paper) nor to the ideational content of the
 work. Format, in that sense, lies somewhere between the two worlds: it is in
 the shape of the letters, in the structure of the narrative, and in the
-patterns of stress and intonation of word spoken on stage. We do not quite
-know which of these elements belong to the content of the play and which are
-linked to the contingent material artifacts of the printing or staging
-process: the way the fonts look, for example, or the way lines break on the
-page. Some matters of format matter to readers (line breaks in poetry, for
-example), while others usually do not (font kerning, for example). The
-tradition of textual criticism reminds the literary theorist of the transition
-that happens between literary texts and literary works. The transformation
-between ideas and things is always a fraught process, because whatever the
-theorist may believe about the dynamics of interpretation must be weighed
-against the material affordances of the specific textual witness. A word or
-comma omitted from text, a forgotten line, cannot ever become a part of the
-meaning making processes. Format stands at the gates of hermeneutics. It is
-the ultimate arbiter of interpretation.
+patterns of stress and the intonation of the spoken word. We do not quite know
+which of these elements belong to the content of the play and which are linked
+to the contingent material artifacts of the printing or staging process: the
+way the fonts look, for example, or the way lines break on the page. Some
+matters of format matter to readers (line breaks in poetry, for example),
+while others usually do not (font kerning, for example). The tradition of
+textual criticism reminds the literary theorist of the transition that happens
+between literary texts and literary works. The transformation between ideas
+and things is always a fraught process, because whatever the theorist may
+believe about the dynamics of interpretation must be weighed against the
+material affordances of the specific textual witness. A word or comma omitted
+from text, a forgotten line, cannot ever become a part of the meaning making
+processes. Format stands at the gates of hermeneutics. It is the ultimate
+arbiter of interpretation.
 
 [^ln3-remind]: See for example @shillingsburg_being_2006;
 @greetham_textual_1989.
@@ -825,7 +825,7 @@ medium must be made of a porous material, and not, for example, plastic, which
 would make marking the page difficult while affording other capabilities, like
 reading under water.[^ln3-notes]
 
-[ln3-notes]: See @blair_note_2004; @daston_taking_2004; @piper_note_2012.
+[^ln3-notes]: See @blair_note_2004; @daston_taking_2004; @piper_note_2012.
 
 The affordances of the electronic book are more diffuse. The format of the
 book has been replaced with a multitude of competing digital formats, each
@@ -833,7 +833,7 @@ vying to supplant print to become the singular, unified reading platform.
 Software made by Adobe Systems, the company behind the popular Portable
 Document Format, includes Adobe Digital Editions, which the reader can use "to
 download and purchase digital content, which can be read both online and
-offline. The platform's "features" include the ability to "download and
+offline." The platform's "features" include the ability to "download and
 transfer books between devices," "searching eBooks," support for multiple
 languages, the ability to borrow books, printing, limited support for visually
 impaired readers, bookmarking, highlights, notes, and file organization
@@ -860,28 +860,29 @@ family members, and other Kindle users who choose to follow them to get more
 from their reading. If someone you follow has highlighted a passage in a book
 and has turned on Public Notes for the book, you'll see that passage
 highlighted along with the name of the person who highlighted it. You'll also
-see the notes that they made in the book [@_amazon_2016] The Google Play Books
-platform does not have a public note features nor does it support book
-editing. It does however add the ability to translate words and passages and
-to search for selected phrases using the company's search engine
-[@_read_2016]. In short, the electronic book cannot be reduced to a single
-platform. The affordances of reading, taking notes, sharing, and storing books
-are determined by the software, governed by specific socio-economic
-contingencies. Thus a book available in North America, might be be available
-on other continents, or it could be available elsewhere in a redacted form,
-its content tailored to the reader's geography dynamically.
+see the notes that they made in the book [@_amazon_2016].
+
+The Google Play Books platform does not have the public note features nor does
+it support book editing. It does however add the ability to translate words
+and passages and to search for selected phrases using the company's search
+engine [@_read_2016]. In short, the electronic book cannot be reduced to a
+single platform. The affordances of reading, taking notes, sharing, and
+storing books are determined by the software, governed by specific
+socio-economic contingencies. Thus a book available in North America, might be
+be available on other continents, or it could be available elsewhere in a
+redacted form, its content tailored to the reader's geography dynamically.
 
 In each case, Adobe and Amazon, we observe an attempt to supplant the
 affordances of the book with a range of other, competing affordances
 particular to the company's proprietary document format. The Amazon book and
 the Kindle book are read in different ways. Where the mechanics of the book
-are relatively well-known---the way paper absorb ink or the hinge-like action
+are relatively well-known---the way paper absorbs ink or the hinge-like action
 of the spine and boards---we are yet to discover the potentialities of
 electronic reading. Or, rather, the potentialities of electronic reading
 change dynamically, day to day, with each software update. The electronic book
 is not one format, but many, each entailing a number of emendatory
-compromises. They require a book history and a poetics---how is it made---in
-another sense, on the material level, at the source of knowledge production.
+compromises. They require a book history and the poetics in another sense, on
+the material level, at the source of knowledge production.
 
 Contrary to the above remarks, my notes on the diffuse affordances of the
 electronic book hold true only for interaction through the sanctioned "front
@@ -896,7 +897,7 @@ electronic book or a document implies the ability to perform significantly
 differing actions depending on the specific affordances of the given platform.
 In another sense, to own a book in each case means to have access to the bits
 that bring the simulation of the book into existence. At some lower level of
-abstraction the variety of reading platforms rest on the same computational
+abstraction the variety of reading platforms rests on the same computational
 substratum. Both Amazon and Adobe books rely on the underlying capabilities of
 the personal computer. This hyper-media, as Lev Manovich calls it, at the base
 of all competing ebook formats, supports all simulacra, including the
@@ -922,8 +923,8 @@ exposition of electronic document structure. Reading for format involves the
 deconstruction, both literal and figuratively historical, of the literary
 device. Where paper books present the reader with a limited number of known
 affordances tied to the medium of print, electronic books contain a virtually
-limitless and for the most part unexamined simulated affordances. Whatever
-interpretive activity readers hope to enact at the level of textual
+limitless and for the most part unexamined number of simulated affordances.
+Whatever interpretive activity readers hope to enact at the level of textual
 representation, as when reading from a screen, is grounded in the deep
 material affordances of the simulated book. Further, the tasks of formatting
 are no longer the exclusive domain of the typesetter, the editor, or the
@@ -982,7 +983,7 @@ in this schema, constitutes content meaningful only to the user, whereas
 layout contains some elements meaningful to the human and some elements as
 code instructions intended for device control. Crucially: "no document text
 may appear in the layout file" [@kaiman_computer-aided_1968, 66-8]. Layout in
-that sense asks the human editor to make a distinction between semantic an
+that sense asks the human editor to make a distinction between semantic and
 spatial units: words and their coordinates. These two separate streams of data
 are then stored in two discrete locations, in effect embodying the dichotomy
 between format and content.
@@ -1033,7 +1034,7 @@ idea of "cat," which belongs to the class "word". Note that by this model,
 cats are not classified under the their semantic category of "felines."
 Rather, we are concerned with the abstract type of the identifier itself:
 "cat" belongs to the category "word." Other primitive classes include
-paragraphs, sections, paragraphs, and footnotes, for example. A document can
+paragraphs, chapters, titles, and footnotes, for example. A document can
 subsequently be expressed as a hierarchical ordering of such primitive
 objects. In this way, we may think of a "novel" as an abstract succession of
 "chapters," which in turn encapsulate "paragraphs" that contain "sentences and
@@ -1086,7 +1087,7 @@ objects that could be gleaned from the bibliographic image, which besides
 letters and words also includes paragraphs, tables, titles, and footnotes
 along with numerous other elements. These also must count as "content," in
 some sense of the word because they are semantic, rather than purely graphic
-units. They means something to the reader. It is essential therefore to know
+units. They mean something to the reader. It is essential therefore to know
 "where text resides on the page," since many elements of text positioning in
 themselves carry meaning. For instance, proper names carry different
 connotations depending on their positioning on the page. A name in the "author
@@ -1117,21 +1118,22 @@ arranged in space on a screen or ink on a page. Something called the Document
 Object Model describes that chain of transformations in detail, containing in
 essence an intermediary map or a blueprint of the intended document. The
 blueprint is not quite concrete, however, because the machine must anticipate
-number of possible two-dimensional spaces like pages and screens of differing
-sizes, signifying relationships between elements within a range of possible
-concrete objects."[^ln3-dom] In order to materialize, the hierarchical model
-must be arranged and fixed into the surface of an actual medium, according to
-predefined rules specified in the model. These media have actual dimensions.
-In this way, a footnote specified "at the bottom of the page" at the level of
-the model can then be rendered one way at the bottom of a specific page of a
-certain size, like A1 (841mm × 1,189mm) for example, and in another way at the
-bottom of another specific piece of paper of a much smaller A4-sized sheet
-(210mm × 297mm).[^ln3-iso216] Viewing and printing operations constitute a
-movement opposite to that of optical character recognition. In printing a
-document, the machine creates a static image, which flattens out the layers of
-content and visual style. Abstract objects specified by the abstract model are
-then reified into a set or relationships between specific concrete objects on
-the page [@furuta_document_1982, 419-20; @kimura_structure_1984].
+a number of possible two-dimensional spaces like pages and screens of
+differing sizes, signifying relationships between elements within a range of
+possible concrete objects.[^ln3-dom] In order to materialize, the hierarchical
+model must be arranged and fixed into the surface of an actual medium,
+according to predefined rules specified in the model. These media have actual
+dimensions.  In this way, a footnote specified "at the bottom of the page" at
+the level of the model can then be rendered one way at the bottom of a
+specific page of a certain size, like A1 (841mm × 1,189mm) for example, and in
+another way at the bottom of another specific piece of paper of a much smaller
+A4-sized sheet (210mm × 297mm).[^ln3-iso216] Viewing and printing operations
+constitute a movement opposite to that of optical character recognition. In
+printing a document, the machine creates a static image, which flattens out
+the layers of content and visual style. Abstract objects specified by the
+abstract model are then reified into a set of relationships between specific
+concrete objects on the page [@furuta_document_1982, 419-20;
+@kimura_structure_1984].
 
 SCRIPT and the related Generalized Markup Language (GML) developed in the late
 1960s by IBM (originally for use on the CP67/CMS time-sharing system), and now
@@ -1176,7 +1178,7 @@ signification, or ideology. In another, more literal sense, depth refers to
 the formation of literary laminates that hold the inscription in suspense
 between layers of glass, plastic, liquid crystal, aluminum, iridium, and
 oxide. The move between paper and such *composite media* carries with it a
-profound shift in the physical affordances of everyday document. Not much
+profound shift in the physical affordances of the everyday document. Not much
 space separates ink from paper. There, textuality lies flat, in two
 dimensions. What you see is truly what you get. Not so on the screen connected
 to other drives, keyboards, and screens. Networked textuality extends into the
@@ -1200,10 +1202,10 @@ than what you get.
 
 I would like to conclude this chapter with a glimpse of several obvious
 formatting structures that increasingly mediate in numerous everyday acts of
-of contemporary reading. The Open Systems Interconnection (OSI) reference
-model of communication, implemented in every computer including electronic
-book readers, describes no less than seven layers of communication involved in
-the simple act of sending an email, taking notes in the margins of a networked
+contemporary reading. The Open Systems Interconnection (OSI) reference model
+of communication, implemented in every computer including electronic book
+readers, describes no less than seven layers of communication involved in the
+simple act of sending an email, taking notes in the margins of a networked
 book, or reading a newspaper online.[^ln3-osi] It includes, among others, the
 Application Layer, concerned with the semantics of "all services directly
 comprehensible to the user," the Presentation Layer, which defines the syntax
@@ -1292,12 +1294,12 @@ write:
 
 > The data object owner may want to have permanent secure control over how,
 when, where, and by whom his property is used. Furthermore, he may want to
-define different rules of engagement for different types of users and different
-type of security depending on the value of particular objects. The rules
-defined by him shall govern the automated operations enabled by data services
-and networking. The owner may also sell composite objects with different rules
-governing each constituent objects. Thus, it is necessary to be able to
-implement variable and extensible control.
+define different rules of engagement for different types of users and
+different types of security depending on the value of particular objects. The
+rules defined by him shall govern the automated operations enabled by data
+services and networking. The owner may also sell composite objects with
+different rules governing each constituent object. Thus, it is necessary to be
+able to implement variable and extensible control.
 
 The data object, in this case, stands for any media content, from books to
 music, video, and software. Rather then legislating rules for copying and
@@ -1361,7 +1363,7 @@ authority of the copyright owner, to gain access to the work (17.1201.a.3.B)."
 For a literary scholar, that means that, when encountering a text on a digital
 device, reading sometimes *must* limit itself to surface phenomena. An attempt
 at reading for depth---to discover the implemented terms of a smart contract,
-for example---may carry with penalty, censure, and reprobation.[^ln3-fairuse]
+for example---may carry a penalty, censure, and reprobation.[^ln3-fairuse]
 
 The short history of DMCA "anti-circumvention" provisions is already littered
 with ambiguous case law, which the Electronic Frontiers Foundation believes to
