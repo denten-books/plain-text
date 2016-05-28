@@ -444,17 +444,17 @@ dissolution of the diegetic boundaries in a glimpse of the material reality
 
 In this way, formal literary technique gestures towards the real, arresting
 the illusion of mimesis and exposing the incapacity of the literary world to
-assume a physical form. Material properties of the book place a hard
-constraint on its ideational content. Nabokov liked to draw attention to that
-boundary throughout his career, through characters that struggle to escape the
-page.
+assume physical form. Material properties of the book place a hard constraint
+on its ideational content. Nabokov liked to draw attention to that boundary
+throughout his career, creating meta-literary characters that struggle to
+escape the page.
 
 The difficulty of pinpointing the area of transition between thoughts and
 objects leads to the critic's perpetual inability to capture the material
-contexts of literary production. The pen and paper are known to the writer
-only. By the time of consumption, they are hidden from view. Echoing his
-Soviet colleagues in his influential *The Craft of Fiction*, the English
-critic Percy Lubbock, himself a formalist of sorts, would write:
+contexts of literary production. Pen and paper are known to the writer only.
+By the time of consumption, they are hidden from view. Echoing his Soviet
+colleagues in his influential *The Craft of Fiction*, the English critic Percy
+Lubbock, himself a formalist of sorts, would write:
 
 > To grasp the shadowy and fantasmal form of the book, to hold it fast, to
 > turn it over and to survey it at leisure---that is the effort of a critic of
@@ -464,41 +464,42 @@ critic Percy Lubbock, himself a formalist of sorts, would write:
 
 Note the use of the object-oriented vocabulary in the above passage in a way
 that does not quite refer to objects. When Lubbock uses words like "form,"
-"book," "shape," and "design" or when he refers to "grasping," "holding," and
-"keeping the book motionless," he refers to these concepts metaphorically as
-in holding, grasping, and keeping the thing before the mind's eye. The book
+"book," "shape," and "design" or when he refers to grasping, holding, and
+keeping the book motionless, he refers to these concepts metaphorically as in
+"holding," "grasping," and "keeping" the thing before the mind's eye. The book
 continually escapes the reader's mental, not physical, grasp. Nor do his
 books, forms, shapes, and designs refer to the outward, material aspects of
 the literary artifact. These are again mental constructions, not material.
 
 Our unfamiliarity with what Lubbock calls the novel's "technical aspects"
 thereby hampers our ability to understand how it comes to present itself to
-the mind in its entirety [@lubbock_craft_1921, 272]. We grasp other more
-plastic art forms like sculpture or painting whole and at once.[ln2-herder]
-They exist at a time and place limited to their physical dimensions.
-Narratives unfold in time, by contrast. To perceive a book, to read a novel,
-critically, we must abstract from the physical object and extend it in working
-memory past immediate perception. Meaning-making of the sort involves reading
-past linguistic minutiae to construct a synthetic literary whole. Lubbock
-writes that the "real heart and substance of the book [...] stands out more
-clearly for the obscurity into which the less essential parts of it subside"
-[@lubbock_craft_1921, 4]. To read in this mode is precisely to deny the book
-its materiality. When reading for pleasure, lay readers lose themselves in the
-elements of narrative immediately available for observation. To read the novel
-for pleasure for Lubbock is to "forget, if we can, that the book is an object
-of art. [@lubbock_craft_1921, 6]" By object of art he means the transcendent
-idea of the novel as opposed to the immanent work itself. To "objectify the
-elements" of the novel that "strike us more keenly," as Lubbock phrases it,
-therefore means for him quite the opposite of what is usually meant by
-objectification. The complete mental idea of the novel congeals only at the
-conclusion of reading. Thus to read critically is again to arrest the
-coming-into-being of the work. Lubbock writes: "Far from losing ourselves in
-the world of the novel, we must hold it away from us, see it all in
-detachment, and use the whole of it to make the image we seek, the book
-itself" [@lubbock_craft_1921, 6]. But to hold away means actually to
-internalize completely, and by book he means the idea of a novel, not at all
-the thing itself. The difficulty of materialist poetics reflects in the
-language that continually conflates mental and physical constructs.
+the mind in its entirety [@lubbock_craft_1921, 272]. The viewer grasps other
+more plastic art forms like sculpture or painting whole and at
+once.[ln2-herder] These exist at a time and place limited to their physical
+dimensions. Narratives unfold in time, by contrast. To perceive a book, to
+read a novel, critically, we must abstract from the physical object and extend
+it in working memory, past immediate perception. Meaning-making of the sort
+involves the assemblage of linguistic minutiae to construct a synthetic
+literary whole. Lubbock writes that the "real heart and substance of the book
+[...] stands out more clearly for the obscurity into which the less essential
+parts of it subside" [@lubbock_craft_1921, 4]. To read in this mode is
+precisely to deny the book its materiality. When reading for pleasure, lay
+readers lose themselves in the elements of narrative immediately available for
+observation. To read the novel for pleasure for Lubbock is to "forget, if we
+can, that the book is an object of art. [@lubbock_craft_1921, 6]" By object of
+art he means the transcendent idea of the novel as opposed to the immanent
+work itself. To "objectify the elements" of the novel that "strike us more
+keenly," as Lubbock phrases it, therefore means for him quite the opposite of
+what is usually meant by objectification. The complete mental idea of the
+novel congeals only at the conclusion of reading. Lubbock writes: "Far from
+losing ourselves in the world of the novel, we must hold it away from us, see
+it all in detachment, and use the whole of it to make the image we seek, the
+book itself" [@lubbock_craft_1921, 6]. But to hold away means actually to
+internalize it completely. And by "book" he means the idea of a novel, not at
+all the thing itself. Thus to read critically is, paradoxically, also to
+arrest the coming-into-being of the work. The difficulty of materialist
+poetics reflects in the language that continually conflates mental and
+physical constructs.
 
 [^ln2-herder]: Lubbock collapses somewhat the difference between painting and
 sculpture. See for example @herder_sculpture_2002.
@@ -506,29 +507,31 @@ sculpture. See for example @herder_sculpture_2002.
 Critical reading in Lubbock's sense entails an account of the transformation
 from things to ideas: from words and sentences to stories, novels, and verse.
 Echoing Boris Eichenbaum in "How *The Overcoat* is Made," Lubbock is
-interested in literary craft---in how the thing is made. He promises to view a
-"handful of familiar novels [...] with some particularity," but without
-judgement or critique. "How they are made is the only question I ask," he
-writes [@shklovksy_poetika_1919; @lubbock_craft_1921, 12 & 28;
+interested in mechanics of literary craft---in how the thing is made. He
+promises to view a "handful of familiar novels [...] with some particularity,"
+but without judgement or critique. "How they are made is the only question I
+ask," he writes [@shklovksy_poetika_1919; @lubbock_craft_1921, 12 & 28;
 @eichenbaum_how_1995]. Since the author of the book was a "craftsman" it is
 therefore the critic's role to "overtake him at his work and see how the book
-was made" [@lubbock_craft_1921, 274]. Lubbock's usage of the object-oriented
-vocabulary---his "parts," "forms," "shapes," "proportions," and
-"designs"---nevertheless refers to ideational, mental constructs, just as it
-was for Shklovsky and Eichenbaum. "The book vanishes as we lay our hands on
-it," Lubbock wrote [@lubbock_craft_1921, 273]. Critics must chose to see
+was made," Lubbock repeats elsewhere [@lubbock_craft_1921, 274]. His usage of
+object-oriented vocabulary---his "parts," "forms," "shapes," "proportions,"
+and "designs"---nevertheless refers to constructs mental and ideational, just
+as it was for Shklovsky or Eichenbaum. "The book vanishes as we lay our hands
+on it," Lubbock writes [@lubbock_craft_1921, 273]. Critics must chose to see
 either the trees or the forest. As the totality of the work comes into view,
 the technical details of craft---and therefore the book itself---disappear.
 Conversely, when viewed up close, the technical particulates obscure sight of
-the work as a whole. *The Craft of Fiction* ends on an ambivalent note.
-Lubbock senses the inadequacy of his materialism: "if only there was one
-single tangible and measurable fact about the book," he writes. If only it
-could be "weighed like a statue" or "measured like a picture, it would be a
-support in the world of shadows [@lubbock_craft_1921, 273-4].
+the work as a whole.
 
-I want to end the section here with a momentary failure of materialist poetics
-to pick up another concomitant thread, one that will take us through some of
-the same concerns about the nature of symbolic representation and its
+*The Craft of Fiction* ends on an ambivalent note.  Lubbock senses the
+inadequacy of his materialism: "if only there was one single tangible and
+measurable fact about the book," he writes. If only it could be "weighed like
+a statue" or "measured like a picture, it would be a support in the world of
+shadows [@lubbock_craft_1921, 273-4].
+
+I want to end the section here, with the momentary failure of materialist
+poetics, to pick up another concomitant thread, one that will take us through
+some of the same concerns about the nature of symbolic representation and its
 relationship to the physical world. My aim in this disruption is to disconnect
 the history of modern computing from its expected contexts of calculating
 machinery and to join it with literary theory, where as we will see, it also
