@@ -938,7 +938,8 @@ can move away from speaking of "intended effects" or "proper obedience," and
 rather concentrate on this interpretive and mediating layer, which describes
 the rules of engagement [@wittgenstein_philosophical_1974, 197]. One can then
 verify function against grammar, bringing us closer to closing the hermeneutic
-feedback circuit.
+feedback circuit. Wittgenstein would further complicate this picture in his
+later work.
 
 ## Thought Experiment III
 
