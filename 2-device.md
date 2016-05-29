@@ -854,16 +854,15 @@ that answer to distinct physics.
 
 In thinking of the various ways in which the process of translation between
 divergent symbolisms breaks, Wittgenstein continually returns to the pianola,
-a type of a player piano. The mechanism of the player piano defines the
-relationship between music score sheet and the keyboard in a rigid way.
-Perforated sheet music passes through the machine, activating the
-corresponding pins. When functioning properly, the pins have no other option
-but to respond appropriately. The symbolism of music notation and the
-symbolism of the mechanism stand in accord with one another.  The rigidity of
-the connection assures correspondence. The machine enacts an exacting
-translation from one medium to the next. We are guaranteed correspondence
-between the two through mechanical means as the actuating mechanism of the
-player piano fits into the grooves of the piano roll.
+a type an automatic player piano. A player piano connects the music score to
+the mechanism in a rigid way. The mechanism and symbolic notation become one.
+The mechanism does not "interpret." Perforated paper physically actuates the
+appropriate pins and gears and always in the same manner. As long as the
+mechanism functions properly, musical notation and the internal arrangement of
+instrument parts stand in accord. The rigidity of the connection assures a
+correspondence in symbolisms. The machine enacts an exacting translation from
+one medium to the next by mechanical means, as the actuating mechanisms of the
+player piano fit into the grooves of a music roll.
 
 ![Electrically operated musical instrument by Clyde Coleman of Chicago, Il.
 1914, US1107495A. Wittgenstein returns to the image of pianola throughout his
@@ -893,16 +892,17 @@ Wittgenstein again substitutes a physical mechanism for the process of
 symbolic interpretation. In this view, words and music notation alike contain
 a "purpose" to elicit some "effects" in the interpretive mechanism. As before,
 we cannot always expect the mechanism of interpretation to function properly,
-nor do we have a reliable way to check its operation. "Suppose the pianola is
-in bad condition," Wittgenstein repeats. The signs on the roll could produce
-"hisses and bangs" instead of music, for example. One could object that notes
-are always "meant" to play on a mechanism in perfect working order. But to
-explain what is meant, we would need to draw yet another diagram or build
-another machine. Wittgenstein elaborates by another analogy: the "sense" of an
-"order"---the programming instructions of the piano roll---lies in its "effect
-on an obedient man," he writes [@wittgenstein_philosophical_1974, 60-70]. The
-pianola thus exemplifies a class of controlling mechanisms. In good working
-condition it is exactly obedient to the instructions printed on a piano roll.
+nor do we have a reliable way to verify its correct operation. "Suppose the
+pianola is in bad condition," Wittgenstein repeats. The signs on the roll
+could produce "hisses and bangs" instead of music, for example. One could
+object that notes are always "meant" to play on a mechanism in perfect working
+order. But to explain what is meant by a working order, we would need to draw
+yet another diagram or build another machine. Wittgenstein elaborates by
+another analogy: the "sense" of an "order"---the programming instructions of
+the piano roll---lies in its "effect on an obedient man"
+[@wittgenstein_philosophical_1974, 60-70]. The pianola thus exemplifies a
+class of perfect controlling mechanisms. In good working condition it is
+exactly obedient to the instructions printed on a piano roll.
 
 When drawing the analogy between mental and mechanical processes, Wittgenstein
 explicitly rejects the model of language as a "psychophysical" mechanism.
@@ -911,30 +911,34 @@ Rather, as the title of the work suggests, Wittgenstein is in search for the
 and writers, player pianos and musical scores. By the end of the work, grammar
 emerges as a batch of "conventions." Wittgenstein complicates the mechanism by
 inserting an extra layer of "rules" that mediate between symbol and machine or
-mental state. A convention could be agreed upon and transcribed in a chart,
-for example. And it is possible that "there is a part of the mechanism which
-resembles the chart, and is inserted between the language-part of the
-mechanism and the rest of it," he writes [@wittgenstein_philosophical_1974,
-190]. Again we imagine instructions that could enforce strict compliance
-between the musical score and the actuating parts of the piano mechanism.
+mental state. We can agree upon a convention formally, by transcribing into a
+protocol: a chart of appropriate correspondences that describes the exact
+rules of engagement. Wittgenstein writes that it would be then possible to
+imagine a "part of the mechanism which resembles the chart [...] inserted
+between the language-part of the mechanism and the rest of it"
+[@wittgenstein_philosophical_1974, 190]. Such instructions would enforce
+strict compliance between the musical score and the actuating parts of the
+piano mechanism, sounding a warning bell for example, if any part of the
+mechanism was out of compliance.
 
 A programmer would say that Wittgenstein's "set of instructions that ensure
 correspondence" resemble modern programming language interpreters and
 assemblers, exactly the parts of the machine that connect codified
 instructions to their execution [@mccarthy_lisp_1962; @bashkow_system_1967].
 The interpreter "defines the semantics of a programming language" where the
-assembler "accepts a set of a set of symbolically-coded instructions" and
-"translates them into machine language" [@elbourn_evolution_1962, 1060;
-@neuhold_formal_1971, 95].[^ln2-compile] Wittgenstein imagines something like
-a programming language along with an interpreter and a compiler when he
-writes, "imagine a language consisting of commands." It is to direct a human
-"forwards," "back," "right," and "left," "quickly" and "slowly." Add to it a
-grammar, a table of correspondences, which explains the meaning of the signs.
-The grammar "means" in the sense of specifying the rules by which meaning
-succeeds or fails, Wittgenstein explains. In this way, we can move away from
-speaking of "intended effects" or "proper obedience," and rather concentrate
-on this interpretive, translative layer, which describes the rules of
-engagement [@wittgenstein_philosophical_1974, 197].
+assembler "accepts a set of symbolically-coded instructions" and "translates
+them into machine language" [@elbourn_evolution_1962, 1060;
+@neuhold_formal_1971, 95].[^ln2-compile] Wittgenstein describes a similar
+arrangement of parts when he writes, "imagine a language consisting of
+commands;" it is to direct a human "forwards," "back," "right," and "left,"
+"quickly" and "slowly;" add to it a grammar, a table of correspondences, which
+explains the meaning of the signs. Wittgenstein's grammar "means" in the sense
+of specifying the rules by which meaning succeeds or fails. In this way, we
+can move away from speaking of "intended effects" or "proper obedience," and
+rather concentrate on this interpretive and mediating layer, which describes
+the rules of engagement [@wittgenstein_philosophical_1974, 197]. One can then
+verify function against grammar, bringing us closer to closing the hermeneutic
+feedback circuit.
 
 ## Thought Experiment III
 
