@@ -921,25 +921,28 @@ strict compliance between the musical score and the actuating parts of the
 piano mechanism, sounding a warning bell for example, if any part of the
 mechanism was out of compliance.
 
-A programmer would say that Wittgenstein's "set of instructions that ensure
-correspondence" resemble modern programming language interpreters and
-assemblers, exactly the parts of the machine that connect codified
-instructions to their execution [@mccarthy_lisp_1962; @bashkow_system_1967].
-The interpreter "defines the semantics of a programming language" where the
-assembler "accepts a set of symbolically-coded instructions" and "translates
-them into machine language" [@elbourn_evolution_1962, 1060;
-@neuhold_formal_1971, 95].[^ln2-compile] Wittgenstein describes a similar
-arrangement of parts when he writes, "imagine a language consisting of
-commands;" it is to direct a human "forwards," "back," "right," and "left,"
-"quickly" and "slowly;" add to it a grammar, a table of correspondences, which
-explains the meaning of the signs. Wittgenstein's grammar "means" in the sense
+"Can one say that grammar describes language?" Wittgenstein writes:
+
+> If we consider language as part of the psycho-physical mechanism which we
+use when we utter words---like pressing keys on a keyboard---to make a human
+machine work for us, then we can say that grammar describes that part of the
+machine.
+
+The grammar sets up a "connection between word and a thing," in order for the
+mechanism to "function in a certain way." "So the definition can make it work
+properly, like the connection between the keys and the hammers in a piano"
+Wittgenstein writes.  Crucially, it is that "connection not the effect that
+determines the meaning" [@wittgenstein_philosophical_1974, 190]. A programmer
+would say that Wittgenstein's "grammatical layer" resembles modern programming
+language interpreters and assemblers, exactly the parts of the machine that
+connect codified instructions to their execution [@mccarthy_lisp_1962;
+@bashkow_system_1967]. Similarly, Wittgenstein's grammar "means" in the sense
 of specifying the rules by which meaning succeeds or fails. In this way, we
 can move away from speaking of "intended effects" or "proper obedience," and
 rather concentrate on this interpretive and mediating layer, which describes
-the rules of engagement [@wittgenstein_philosophical_1974, 197]. One can then
-verify function against grammar, bringing us closer to closing the hermeneutic
-feedback circuit. Wittgenstein would further complicate this picture in his
-later work.
+the rules of engagement [@wittgenstein_philosophical_1974, 194-6]. To learn a
+language in that sense is not to learn individual words, but to understand the
+rules of engagement: the mechanical linkages of meaning-making.
 
 ## Thought Experiment III
 
@@ -1565,7 +1568,8 @@ antecedents such as the development of radio, motion pictures, and photography"
 [@ceruzzi_computing_2012, 11].
 
 [^ln2-compile]: I am forgoing the distinction between interpreters and
-compilers for simplicity's sake.
+compilers for simplicity's sake. See @elbourn_evolution_1962, 1060;
+@neuhold_formal_1971, 95.
 
 [^ln1-consensus]: The literature on consensual governance, for example, going
 back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
