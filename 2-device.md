@@ -990,79 +990,81 @@ Wittgenstein writes. But once again, how do we know if a mechanism is
 functioning properly? I may drop the clock, for example, Wittgenstein
 explains, "so that the machinery is broken, or a lighting may strike it.
 [@wittgenstein_wittgensteins_1976, 195]" To check the mechanism for damage we
-need "a picture," a diagram, or some sort of schematics that describe what the
-properly functional mechanism looks like. The mechanism is in fact itself a
-type of a symbol for the perfected behavior of the sort that we expect. We
-can, for example, compare the broken clock with a clock that works. Where we
-tried to find the mechanism behind the symbol, we found also the symbol behind
-the mechanism. But again we struggle to complete the circuit of interpretation
-between intent and effect, which never quite manage to explain and to verify
-each other. How do we know that our "gold standard" clock schematics are
-themselves golden, that is that they leads to the construction of properly
-functioning clocks? We are again faced with a series of receding analogies.
+need "a picture," a diagram, or schematics that describe what the properly
+functional mechanism looks like. In the form of a schema, the mechanism is
+itself a type of a symbol for the perfected behavior of the sort that we
+expect. We can, for example, compare the broken clock with a clock that works.
+Where we tried to find the mechanism behind the symbol, we found also the
+symbol behind the mechanism. But again we struggle to complete the circuit of
+interpretation between intent and effect, which never quite manage to explain
+and to verify each other. How do we know that our "gold standard" clock
+schematics are themselves golden, that is that they lead to the construction
+of properly functioning clocks? We are again faced with a series of receding
+analogies: a diagram that explains a diagram.
 
 In his lectures on mathematics, Wittgenstein never finds a way out of this
-conundrum. The foundations of mathematics rely on some such mutually dependent
-relationship between the physical and the symbolic worlds. Whether it is in
-math or in ordinary language, some magic happens at the coupling of matter and
-sign. The precise point of contact concerns Wittgenstein in all fields of
-human activity, from literature to psychology and mathematics. In all of these
-fields, Wittgenstein finds an implicit analogy between "symbol" and
-"mechanism." A type of metaphor, the analogy itself is atomic. It cannot be
-split further into something like sign and referent, or signifier and
+recursive conundrum. The foundations of mathematics rely on some such mutually
+dependent relationship between the physical and the symbolic worlds. Whether
+it is in math or in ordinary language, some magic happens at the coupling of
+matter and sign. The precise point of contact concerns Wittgenstein in all
+fields of human activity, from literature to psychology and mathematics. In
+all of these fields, Wittgenstein finds an implicit analogy between "symbol"
+and "mechanism." A type of a metaphor, the analogy itself is atomic. It cannot
+be split further into something like sign and referent, or signifier and
 signified. Considered apart, the two parts of the metaphor are strictly
-meaningless. In his lectures on aesthetics, Wittgenstein describes such a
-semiotic relationship as the "concomitance between mechanism and its trace"
-[@wittgenstein_lectures_1966, 16]. In giving an account of one's aesthetic
-judgment, the best we can do is to "trace a mechanism," Wittgenstein writes
-[@wittgenstein_lectures_1966, 13].
+meaningless. In his lectures on aesthetics, Wittgenstein describes the
+dependency as the "concomitance between mechanism and its trace." The best we
+can do in describing aesthetics is therefore to "trace a mechanism"
+[@wittgenstein_lectures_1966, 13-16].
 
-It would be a mistake however to reduce Wittgenstein's semiotics simply to the
-mechanical theory of language or the mind. Rather, in presenting his students
-and readers with a number of hypothetical machines, Wittgenstein attempts to
-discover the "rule book" of what he later calls a language game---or at least
-to suggest that such a rulebook might exist. Much has been written on this
-aspect of Wittgenstein's thought and its relation to Bertrand Russel's
-symbolic logic and subsequently to Chomsky's universal grammar.
-[^ln2-chomchom] In the context of our conversation, Wittgenstein's "middle
-period" is important for its direct influence on Turing's model of
-computation.
+One expects Turing's seminal paper on computable numbers to contain a strictly
+technical discussion in the narrow field of number theory. Instead, we
+encounter also a number of excess features, which do not fit neatly into
+mathematics. The excess accounts for the perplexing, for some, undercurrent of
+cognitive theory always present in Turing's writing. His machines "think,"
+they are "aware," and they "remember," where his humans "calculate" and
+"compute." The cognitive excess reflects the heritage of Wittgenstein's
+thought, concerned more broadly with theory of mind and the passage of
+inscription into understanding. Turing's machine thinks in a particularly
+literate way: by ingesting and regurgitating symbols. Turing inherits these
+traits from Wittgenstein's menagerie of comprehension automata in various
+states of disrepair. In the wilderness of Wittgenstein's thought he locates
+the concise coordinates for a universal mechanism, placed at the liminal space
+between thing and symbol. The Turing machine mediates in the metaphoric
+transference from intrinsic "hard" states to their extrinsic "soft"
+representations. Like its predecessors it reflects a concern with the grammar
+of that transformation, and ultimately with the mechanisms of exacting
+obedience: fully deterministic systems that are nevertheless capable of
+transgressing their formal constraints. "How can the rules of operation of the
+machine change?" Turing asks later, in his "Computing Machinery and
+Intelligence" [@turing_computing_1950]. What begins as a blueprint for a
+computing machine in the 1930s by 1950s matures into a conversation between a
+poet and her critic; into the possibility of an evolving artificial
+intelligence; and into an imitation game, by which the computer misrepresents
+its assigned gender. How does a machine escape its programming? How can a poet
+transcend the rules of composition? How do humans become more than the sum of
+their nature and nurture? The Turing machine challenges not only the limits of
+computable numbers but also the limits of determinism.
 
-[^ln2-chomchom]: I make this connection with many caveats and with the
-acknowledgement of the complexity involved. See for example Ch. 6-8 in
-@hacking_why_1975; @waller_chomsky_1977; @green_bertrand_2007, 103-43.
-
-Several prominent characteristics pass from Wittgenstein's reading to Turing's
-universal machines. First, the symbolic machine emerges from the metaphor-like
-correspondence between intrinsic machine state and its extrinsic
-representation. Second, Wittgenstein discusses symbolic representation in
-terms of its delayed effects, that is, ultimately, a type of a control
-mechanism. And finally, Wittgenstein imagines a mediating layer that holds
-rules for translation between machine state and symbol. All of these features,
-along with a collection of hypothetical machines in various states of
-disrepair, pass directly from Wittgenstein to Turing.
-
-Turing's machine offers a strikingly minimalist response to the legacy of
-automated hermeneutics, which I have began to outline above. His universal
-machine subsumes all of Wittgenstein's examples, forming the minimally viable
-blueprint for generalized symbolic manipulation. To function, Turing's machine
-needs only the following three components: (a) a storage medium capable of
-holding symbolic inscription, (b) a reading and writing mechanism to operate
-on the symbols, and (c) a way to transform external symbolic states into
-internal states of the mechanism. Given these three characteristics, the
-machine becomes a universal mechanism. The universal Turing machine can assume
-the function of any other machine, as long as that machine's internal states
-are amenable to symbolic representation. Dwell on that thought because it is
-key to understanding Turing machines. Is a hammer, for example, capable of
-holding internal states? I can imagine a hammering robot but not a robotic
-hammer. Why? The robotic hammer immediately presupposes a machine within the
-instrument. The sense of inferiority makes the hammer into something else,
-namely a machine capable of following hammering instructions. The ability to
-follow instructions, to imitate technique, is what separates a simple tool
-from a Turing machine. A number of such possible symbolic machine states
-comprise the input of Turing's universal machine. In Wittgenstein's terms,
-Turing imagines a mechanism able to "trace the mechanism" of all other
-mechanisms. In this lies the essence of universal Turing computation.
+Turing's universal machine distills a number of Wittgenstein's experiments
+into a minimally viable formula. It needs the following three components to
+function: (a) a storage medium capable of holding symbolic inscription, (b) a
+reading and writing mechanism to operate on the symbols, and (c) a way to
+transform external symbolic states into internal states of the mechanism.
+Given these three characteristics, the machine becomes a universal mechanism.
+The universal Turing machine can assume the function of any other machine, as
+long as that machine's internal states are amenable to symbolic
+representation.  Dwell on that thought because it is key to understanding
+Turing machines. Is a hammer, for example, capable of holding internal states?
+I can imagine a hammering robot but not a robotic hammer.  Why? The robotic
+hammer immediately presupposes a machine within the instrument. The sense of
+inferiority makes the hammer into something else, namely a machine capable of
+following hammering instructions. The ability to follow instructions, to
+imitate technique, is what separates a simple tool from a Turing machine. A
+number of such possible symbolic machine states comprise the input of Turing's
+universal machine. In Wittgenstein's terms, Turing imagines a mechanism able
+to "trace the mechanism" of all other mechanisms. In this lies the essence of
+universal Turing computation.
 
 Let us examine the universal machine more carefully. Turing begins his paper
 as we would expect from Wittgenstein's student, with an analogy: "we may
@@ -1568,6 +1570,10 @@ with its own rich tradition of technological history." "One could add other
 antecedents such as the development of radio, motion pictures, and photography"
 [@ceruzzi_computing_2012, 11].
 
+[^ln2-chomchom]: I make this connection with many caveats and with the
+acknowledgement of the complexity involved. See for example Ch. 6-8 in
+@hacking_why_1975; @waller_chomsky_1977; @green_bertrand_2007, 103-43.
+
 [^ln2-compile]: I am forgoing the distinction between interpreters and
 compilers for simplicity's sake. See @elbourn_evolution_1962, 1060;
 @neuhold_formal_1971, 95.
@@ -1656,6 +1662,7 @@ Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
 [^ln1-turingcog]: Turing's later work suggests that his use of cognitive
 language throughout "On Computable Numbers" was not accidental, and that he
 meant it to define sentience more generally [@turing_computing_1950].
+
 [^ln1-abstraction]: This is a topic of some contention in the literature. In
 his influential paper on the topic, James Moor includes the immateriality of
 software as one of the "three myths" of computer science. "As a practical
