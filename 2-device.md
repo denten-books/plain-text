@@ -931,7 +931,7 @@ machine.
 The grammar sets up a "connection between word and a thing," in order for the
 mechanism to "function in a certain way." "So the definition can make it work
 properly, like the connection between the keys and the hammers in a piano"
-Wittgenstein writes.  Crucially, it is that "connection not the effect that
+Wittgenstein writes. Crucially, it is that "connection not the effect that
 determines the meaning" [@wittgenstein_philosophical_1974, 190]. A programmer
 would say that Wittgenstein's "grammatical layer" resembles modern programming
 language interpreters and assemblers, exactly the parts of the machine that
@@ -966,7 +966,7 @@ lectures around the problem of symbolic interpretation. "I am going to talk
 about the interrelation of mathematical symbols," Wittgenstein begins. We
 imagine that logical laws represent some sort of "fixed" mechanisms "behind"
 the symbols used to express them. "I am speaking against the idea of logical
-machinery," Wittgenstein says in lecture XX. "The idea of logical machinery
+machinery," Wittgenstein says in Lecture XX. "The idea of logical machinery
 would suppose that there was something behind our symbols"
 [@wittgenstein_wittgensteins_1976, 194]. We imagine logic to be a sort of a
 "rigid mechanism" that can only turn this way or the other. "Any rule can be
@@ -979,7 +979,8 @@ the mechanical parts are connected. We say that the mechanism is rigid or the
 law is inexorable when the results of an action are absolutely fixed.
 Wittgenstein calls such a relationship "super-hardness." Where a judge can be
 lenient, he explains, the law is compulsory. What we would now call an
-"algorithm" compels predictable execution.
+"algorithm" compels predictable execution, not subject to the vagrancies of
+interpretation.
 
 We are tempted, as before, to privilege the inner workings of the symbolic
 mechanism, also at the core of meaning making in mathematics. "If I show you
