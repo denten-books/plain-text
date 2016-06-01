@@ -1019,8 +1019,8 @@ can do in describing aesthetics is therefore to "trace a mechanism"
 
 One expects Turing's seminal paper on computable numbers to contain a strictly
 technical discussion in the narrow field of number theory. Instead, we
-encounter also a number of excess features, which do not fit neatly into
-mathematics. The excess accounts for the perplexing, for some, undercurrent of
+encounter also a number of surfeit features, which do not fit neatly into
+mathematics. These account for the perplexing, for some, undercurrent of
 cognitive theory always present in Turing's writing. His machines "think,"
 they are "aware," and they "remember," where his humans "calculate" and
 "compute." The cognitive excess reflects the heritage of Wittgenstein's
@@ -1030,56 +1030,73 @@ literate way: by ingesting and regurgitating symbols. Turing inherits these
 traits from Wittgenstein's menagerie of comprehension automata in various
 states of disrepair. In the wilderness of Wittgenstein's thought he locates
 the concise coordinates for a universal mechanism, placed at the liminal space
-between thing and symbol. The Turing machine mediates in the metaphoric
-transference from intrinsic "hard" states to their extrinsic "soft"
-representations. Like its predecessors it reflects a concern with the grammar
-of that transformation, and ultimately with the mechanisms of exacting
-obedience: fully deterministic systems that are nevertheless capable of
-transgressing their formal constraints. "How can the rules of operation of the
-machine change?" Turing asks later, in his "Computing Machinery and
-Intelligence" [@turing_computing_1950]. What begins as a blueprint for a
-computing machine in the 1930s by 1950s matures into a conversation between a
-poet and her critic; into the possibility of an evolving artificial
-intelligence; and into an imitation game, by which the computer misrepresents
-its assigned gender. How does a machine escape its programming? How can a poet
-transcend the rules of composition? How do humans become more than the sum of
-their nature and nurture? The Turing machine challenges not only the limits of
-computable numbers but also the limits of determinism.
+between thing and symbol.
 
-Turing's universal machine distills a number of Wittgenstein's experiments
-into a minimally viable formula. It needs the following three components to
-function: (a) a storage medium capable of holding symbolic inscription, (b) a
-reading and writing mechanism to operate on the symbols, and (c) a way to
-transform external symbolic states into internal states of the mechanism.
-Given these three characteristics, the machine becomes a universal mechanism.
-The universal Turing machine can assume the function of any other machine, as
-long as that machine's internal states are amenable to symbolic
-representation.  Dwell on that thought because it is key to understanding
-Turing machines. Is a hammer, for example, capable of holding internal states?
-I can imagine a hammering robot but not a robotic hammer.  Why? The robotic
-hammer immediately presupposes a machine within the instrument. The sense of
-inferiority makes the hammer into something else, namely a machine capable of
-following hammering instructions. The ability to follow instructions, to
-imitate technique, is what separates a simple tool from a Turing machine. A
-number of such possible symbolic machine states comprise the input of Turing's
-universal machine. In Wittgenstein's terms, Turing imagines a mechanism able
-to "trace the mechanism" of all other mechanisms. In this lies the essence of
-universal Turing computation.
+The Turing machine mediates in the metaphoric transference from intrinsic
+"hard" states to their extrinsic "soft" representations. Like its predecessors
+it reflects a concern with the grammar of that transformation, and ultimately
+with the mechanisms of exacting obedience: fully deterministic systems that
+are nevertheless capable of transgressing their formal constraints. "How can
+the rules of operation of the machine change?" Turing asks later, in his
+"Computing Machinery and Intelligence" [@turing_computing_1950]. What begins
+as a blueprint for a computing machine in the 1930s by 1950s matures into a
+conversation between a poet and her critic; into the possibility of an
+evolving artificial intelligence; and into an imitation game, by which the
+computer misrepresents its assigned gender. How does a machine escape its
+programming? How can a poet transcend the rules of composition? How do humans
+become more than the sum of their nature and nurture? The Turing machine
+challenges not only the limits of computable numbers but also the limits of
+determinism.
 
-Let us examine the universal machine more carefully. Turing begins his paper
-as we would expect from Wittgenstein's student, with an analogy: "we may
-compare a man in the process of computing a real number to a machine that is
-only capable of a finite number of conditions" [@turing_computable_1937, 231].
-In effect, he asks his readers to compare computation, a human mental process,
-to the mechanical action of a machine. As Charles Petzold explained it in his
-book-length annotation on Turing's paper, Turing "makes reference to 'states
-of mind' that are analogous to machine states" [@petzold_annotated_2008, 67].
-When read in the context of Wittgenstein's thought experiments, the analogy
-sounds like a provocation. Neither mathematicians nor philosophers of mind
-agreed then nor do they now on the extent to which states of mind can be
-compared to discrete machine states. Turing provocatively slides into the
-language of cognition to reinforce the analogy between mind and mechanism. His
-machines "think" and his humans "compute" throughout.
+Turing's universal machine distills the diversity of Wittgenstein's
+experiments into a single concise formula. It needs the following three
+components to function: (a) a system of notation that represents machine
+states, (b) a storage medium capable of bearing its inscription, and (c) a
+reading and writing mechanism to transform the notation into machine states.
+Given these three characteristics, the machine becomes a universal mechanism,
+capable of assuming the function of any other symbolic system. If the mystery
+of comprehension lay in the exchange of symbolic grammars, from one system of
+representation into another, as Wittgenstein had it, the Turing machine became
+a universal tool for symbolic transformation.
+
+In theory, the universal Turing machine therefore can assume the function of
+any other system of symbolic exchange. It can trace, in other words, the
+outlines of any other mechanism capable of tracing outlines. To put it in
+practical terms, think about the lower limits of modern computation. What
+simple things can't computers do? The Turing machine can simulate the physics
+of using a hammer, for example, but not the hammer itself. Physics in that
+sense can be thought of as a system of notation and a logic that approximates
+natural phenomena. The Turing machine is universally capable of imitating
+other representational logics, but obviously not the underlying physical
+conditions. The idea of a robotic hammer presupposes a symbolic system within
+the instrument. The Turing machine opens the space of interiority within, by
+which the actions of a mechanism are traced into its notational equivalents.
+Once assimilated in this way, the symbols are amenable to grammatical
+transformation. The Turing machine can unfold the logic of tool use, that is
+the technique of any given instrument. More complicated logics of higher level
+functions like solving physical formulas or writing poetry are similarly
+amenable to Turing simulation, provided a grammar of transformations. The
+extent to which Turing machines penetrate everyday life belies their function
+beyond mere calculation. The computer extends its reach not because it
+quantifies life, but because it symbolises it. And because human thought is in
+essence a system of symbolic manipulation, the Turing machine readily avails
+itself to the language of cognition.
+
+Let us examine the mechanics of such a universal machine more carefully.
+Turing begins his paper as we would expect from Wittgenstein's student, with
+an analogy: "we may compare a man in the process of computing a real number to
+a machine that is only capable of a finite number of conditions"
+[@turing_computable_1937, 231].  In effect, he asks his readers to compare
+computation, a human mental process, to the mechanical action of a machine. As
+Charles Petzold explained it in his book-length annotation on Turing's paper,
+Turing "makes reference to 'states of mind' that are analogous to machine
+states" [@petzold_annotated_2008, 67].  When read in the context of
+Wittgenstein's thought experiments, the analogy sounds like a provocation.
+Neither mathematicians nor philosophers of mind agreed then nor do they now on
+the extent to which states of mind can be compared to discrete machine states.
+Turing provocatively slides into the language of cognition to reinforce the
+analogy between mind and mechanism. His machines "think" and his humans
+"compute" throughout.
 
 Turing further imagines a machine "supplied with a 'tape' (the analogue of
 paper) running through it, and divided into sections (called 'squares') each
