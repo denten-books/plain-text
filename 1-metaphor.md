@@ -1294,6 +1294,6 @@ from speaking to writing: "The most obvious change from speaking to writing
 concerns the relation between message and its medium or channel. At first
 glance, it concerns only this relation, but upon closer examination, the first
 alteration irradiates in every direction, affecting in decisive manner all the
-factors and functions" [@ricur_interpretation_1976, 25].
+factors and functions" [@ricoeur_interpretation_1976, 25].
 
 \newpage
