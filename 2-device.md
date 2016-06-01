@@ -945,43 +945,26 @@ the rules of engagement [@wittgenstein_philosophical_1974, 194-6]. To learn a
 language in that sense is not to learn individual words, but to understand the
 rules of engagement: the mechanical linkages of meaning-making.
 
-## Thought Experiment III
-
-Turing met Wittgenstein at King's College sometime in the 1930s. Although
-there are no records of them meeting explicitly until Turing's attendance of
-Wittgenstein's lectures on the foundation of mathematics in 1939, both men's
-work exhibits sustained attention to computing machines narrowly and to the
-mechanical manipulation of symbols more generally
-[@wittgenstein_wittgensteins_1976, 7]. From the notes on Wittgenstein's
-lectures complied and published by Cora Diamond, it is clear that Turing was a
-vociferous presence in the class. His name is mentioned eighty-six times in
-the text, more than any other student by a wide margin.[^ln1-margin] At some
-point of the course Wittgenstein concludes his lecture in saying:
-"Unfortunately, Turing will be away from the next lecture, and therefore that
-lecture will have to be somewhat parenthetical. For it is not good my getting
-the rest to agree to something that Turing would not agree to"
-[@wittgenstein_wittgensteins_1976, 67-68].
-
 Like he did with the notebooks beforehand, Wittgenstein structured his
 lectures around the problem of symbolic interpretation. "I am going to talk
-about the interrelation of mathematical symbols," Wittgenstein begins. We
-imagine that logical laws represent some sort of "fixed" mechanisms "behind"
-the symbols used to express them. "I am speaking against the idea of logical
-machinery," Wittgenstein says in Lecture XX. "The idea of logical machinery
-would suppose that there was something behind our symbols"
-[@wittgenstein_wittgensteins_1976, 194]. We imagine logic to be a sort of a
-"rigid mechanism" that can only turn this way or the other. "Any rule can be
-imagined to be a description of a mechanism---even the rule which says a pawn
-must not be moved in a certain way," Wittgenstein writes
-[@wittgenstein_wittgensteins_1976, 282]. The parts of the mechanism
-subsequently exist in a causal relationship to one another. Pushing this or
-that lever will always result in such and such movement, because of the way
-the mechanical parts are connected. We say that the mechanism is rigid or the
-law is inexorable when the results of an action are absolutely fixed.
-Wittgenstein calls such a relationship "super-hardness." Where a judge can be
-lenient, he explains, the law is compulsory. What we would now call an
-"algorithm" compels predictable execution, not subject to the vagrancies of
-interpretation.
+about the interrelation of mathematical symbols," Wittgenstein began his
+lectures on the foundations of mathematics. We imagine that logical laws
+represent some sort of "fixed" mechanisms "behind" the symbols used to express
+them. "I am speaking against the idea of logical machinery," Wittgenstein says
+in Lecture XX. "The idea of logical machinery would suppose that there was
+something behind our symbols" [@wittgenstein_wittgensteins_1976, 194]. We
+imagine logic to be a sort of a "rigid mechanism" that can only turn this way
+or the other. "Any rule can be imagined to be a description of a
+mechanism---even the rule which says a pawn must not be moved in a certain
+way," Wittgenstein writes [@wittgenstein_wittgensteins_1976, 282]. The parts
+of the mechanism subsequently exist in a causal relationship to one another.
+Pushing this or that lever will always result in such and such movement,
+because of the way the mechanical parts are connected. We say that the
+mechanism is rigid or the law is inexorable when the results of an action are
+absolutely fixed.  Wittgenstein calls such a relationship "super-hardness."
+Where a judge can be lenient, he explains, the law is compulsory. What we
+would now call an "algorithm" compels predictable execution, not subject to
+the vagrancies of interpretation.
 
 We are tempted, as before, to privilege the inner workings of the symbolic
 mechanism, also at the core of meaning making in mathematics. "If I show you
@@ -1018,6 +1001,23 @@ dependency as the "concomitance between mechanism and its trace." The best we
 can do in describing aesthetics is therefore to "trace a mechanism"
 [@wittgenstein_lectures_1966, 13-16].
 
+## Thought Experiment III
+
+Turing met Wittgenstein at King's College sometime in the 1930s. Although
+there are no records of them meeting explicitly until Turing's attendance of
+Wittgenstein's lectures on the foundation of mathematics in 1939, both men's
+work exhibits sustained attention to computing machines narrowly and to the
+mechanical manipulation of symbols more generally
+[@wittgenstein_wittgensteins_1976, 7]. From the notes on Wittgenstein's
+lectures complied and published by Cora Diamond, it is clear that Turing was a
+vociferous presence in the class. His name is mentioned eighty-six times in
+the text, more than any other student by a wide margin.[^ln1-margin] At some
+point of the course Wittgenstein concludes his lecture in saying:
+"Unfortunately, Turing will be away from the next lecture, and therefore that
+lecture will have to be somewhat parenthetical. For it is not good my getting
+the rest to agree to something that Turing would not agree to"
+[@wittgenstein_wittgensteins_1976, 67-68].
+
 One expects Turing's seminal paper on computable numbers to contain a strictly
 technical discussion in the narrow field of number theory. Instead, we
 encounter also a number of surfeit features, which do not fit neatly into
@@ -1035,66 +1035,71 @@ between thing and symbol.
 
 The Turing machine mediates in the metaphoric transference from intrinsic
 "hard" states to their extrinsic "soft" representations. Like its predecessors
-it concerns the grammar of that transformation, and ultimately with the
-mechanisms of exacting obedience: fully deterministic systems that are
-nevertheless capable of transgressing their formal constraints. "How can the
-rules of operation of the machine change?" Turing asks later, in his
-"Computing Machinery and Intelligence" [@turing_computing_1950]. What begins
-as a blueprint for a computing machine in the 1930s by 1950s matures into a
-conversation between a poet and her critic; into the possibility of an
+it concerns the grammar of that transformation and, ultimately, the mechanisms
+of exacting obedience: fully deterministic systems that are nevertheless
+capable of transgressing their formal constraints. "How can the rules of
+operation of the machine change?" Turing asks later, in his "Computing
+Machinery and Intelligence" [@turing_computing_1950]. What begins as a
+blueprint for a narrowly computational machine in the 1930s, by 1950s blossoms
+into a conversation between a poet and her critic; into the possibility of an
 evolving artificial intelligence; and into an imitation game, by which the
-computer misrepresents its assigned gender. How does a machine escape its
-programming? How can a poet transcend the rules of composition? How do humans
-become more than the sum of their nature and nurture? The Turing machine
-challenges not only the limits of computable numbers but also the limits of
-determinism.
+computer misrepresents its assigned gender. The very formulation of the Turing
+machine poses a number questions related to the problem of free will and
+determinism more broadly. How does a machine escape its programming? How can a
+poet transcend the rules of composition? How do humans become more than the
+sum of their nature and nurture? The Turing machine probes not only the limits
+of computable numbers but also the limits human and artificial autonomy.
 
-Turing's universal machine distills the diversity of Wittgenstein's
+Turing's universal machine finally distills the diversity of Wittgenstein's
 experiments into a single concise formula. It needs the following three
 components to function: (a) a system of notation that represents machine
 states, (b) a storage medium capable of bearing its inscription, and (c) a
 reading and writing mechanism to transform the notation into machine states.
 Given these three characteristics, the machine becomes a universal mechanism,
-capable of assuming the function of any other symbolic system. If the mystery
-of comprehension lay in the exchange of symbolic grammars, from one system of
-representation into another, as Wittgenstein had it, the Turing machine became
-a universal tool for symbolic transformation.
+capable of assuming the function of any other symbolic system. If, as
+Wittgenstein had it, the mystery of comprehension lay in the exchange of
+symbolic grammars, from one system of representation into another, the Turing
+machine became a universal tool for symbolic transformation.
 
-In theory, the universal Turing machine therefore can assume the function of
-any other system of symbolic exchange. It can trace, in other words, the
-outlines of any other mechanism capable of tracing outlines. To put it in
-practical terms, think about the lower limits of modern computation. What
-simple things can't computers do? The Turing machine can simulate the physics
-of using a hammer, for example, but not the hammer itself. Physics in that
-sense can be thought of as a system of notation and a logic that approximates
-natural phenomena. The Turing machine is universally capable of imitating
-other representational logics, but obviously not the underlying physical
-conditions. The idea of a robotic hammer presupposes a symbolic system within
-the instrument. The Turing machine opens the space of interiority within, by
-which the actions of a mechanism are traced into its notational equivalents.
-Once assimilated in this way, the symbols are amenable to grammatical
-transformation. The Turing machine can unfold the logic of tool use, that is
-the technique of any given instrument. More complicated logics of higher level
-functions like solving physical formulas or writing poetry are similarly
-amenable to Turing simulation, provided a grammar of transformations. The
-extent to which Turing machines penetrate everyday life belies their function
-beyond mere calculation. The computer extends its reach not because it
-quantifies life, but because it symbolises it. And because human thought is in
-essence a system of symbolic manipulation, the Turing machine readily avails
-itself to the language of cognition.
+In theory, the universal Turing machine can assume the function of any system
+that involves symbolic exchange. It can trace, in other words, the outlines of
+any other mechanism capable of tracing outlines. To put it in practical terms,
+think about the lower limits of modern computation. What simple things can't
+computers do?[^ln2-assume] A Turing machine is capable, for example, of
+simulating the physics of using a hammer, but not the hammer itself. Physics
+in that sense can be thought of as a system of notation and a logic that
+approximates natural phenomena. The Turing machine operates on such notational
+logics. The contemporary idea of a "smart" hammer, or any other smart thing
+for that matter, thus presupposes a system of symbolic exchange within the
+instrument. The Turing machine opens a space of interiority, by which the
+actions of a mechanism (hammering, in our case) can be traced into its
+notational equivalents (instructions for hammering). Once assimilated in this
+way, the symbols are amenable to grammatical transformation. The Turing
+machine unfolds the logic of tool use, that is, the technique of any given
+instrument. More complicated logics of higher level activity like solving
+physical formulas or writing poetry are similarly amenable to Turing
+simulation, provided a grammar. Technique, if you recall from our earlier
+discussion, is a mode of production abstracted from its material contexts.
+The extent to which Turing machines penetrate everyday life belies their
+involvement in the general mechanism of such abstraction, beyond computation.
+The computer extends its reach broadly not because it quantifies life, but
+because much of human cultural and cognitive activity is symbolic in nature.
 
-Let us examine the mechanics of such a universal machine more carefully.
-Turing begins his paper as we would expect from Wittgenstein's student, with
-an analogy: "we may compare a man in the process of computing a real number to
-a machine that is only capable of a finite number of conditions"
-[@turing_computable_1937, 231].  In effect, he asks his readers to compare
-computation, a human mental process, to the mechanical action of a machine. As
-Charles Petzold explained it in his book-length annotation on Turing's paper,
-Turing "makes reference to 'states of mind' that are analogous to machine
-states" [@petzold_annotated_2008, 67].  When read in the context of
-Wittgenstein's thought experiments, the analogy sounds like a provocation.
-Neither mathematicians nor philosophers of mind agreed then nor do they now on
-the extent to which states of mind can be compared to discrete machine states.
+[^ln2-assume]: Assume for the moment that "computers" are a subtype of Turing
+computation.
+
+Let us examine the mechanics of a Turing machine more closely. Turing begins
+his paper as we would expect from Wittgenstein's student, with an analogy: "we
+may compare a man in the process of computing a real number to a machine that
+is only capable of a finite number of conditions" [@turing_computable_1937,
+231].  In effect, he asks his readers to compare computation, a human mental
+process, to the mechanical action of a machine. As Charles Petzold explained
+it in his book-length annotation on Turing's paper, Turing "makes reference to
+'states of mind' that are analogous to machine states"
+[@petzold_annotated_2008, 67].  When read in the context of Wittgenstein's
+thought experiments, the analogy sounds like a provocation.  Neither
+mathematicians nor philosophers of mind agreed then nor do they now on the
+extent to which states of mind can be compared to discrete machine states.
 Turing provocatively slides into the language of cognition to reinforce the
 analogy between mind and mechanism. His machines "think" and his humans
 "compute" throughout.
