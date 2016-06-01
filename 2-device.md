@@ -119,14 +119,15 @@ simulation or imitation [*homoiōmata*] of knowledge [@plato_phaedrus_1999,
 
 The above might appear a curious way of putting things, but not unusual in the
 larger context of post-Kantian humanism at the turn of the twentieth century.
-Moreno's work reflects the influence of Marx's critique of the fetishism of
-commodities, a dynamic by which "definite social relation between men" assumes
-"the fantastic form of a relation between things" [@marx_capital_1967, 72].
-Moreno arrives at a similar conclusion by another logic. In creating some of
-the earliest examples of social network graphs, he finds (and objects to) the
-presence of things in the position of social actors. His objections to
-automatism echo also those of his near contemporaries like Viktor Shklovsky,
-Martin Heidegger, Walter Benjamin, and Hannah Arendt.
+In Moreno's work one discerns the influence of Marx's critique of the
+fetishism of commodities, a dynamic by which "definite social relation between
+men" assumes "the fantastic form of a relation between things"
+[@marx_capital_1967, 72].  Moreno arrives at a similar conclusion by another
+logic. In creating some of the earliest examples of social network graphs, he
+finds (and objects to) the presence of things in the position of social
+actors. His objections to automatism echo also those of his near
+contemporaries like Viktor Shklovsky, Martin Heidegger, Walter Benjamin, and
+Hannah Arendt.
 
 ***
 
@@ -245,12 +246,12 @@ traditions---literary theory, philosophy, and electrical engineering---which
 intertwine to form the fabric of contemporary computational culture.
 
 Viewed in the context of technological development, the emergence of technique
-as a critical category reflects the broader concerns of the machine age. The
-notion of *technology* itself does not fully find its place in the critical
-literature until the 1950-1970s, judging by the rash of titles like like
-Martin Heidegger's *Die Frage nach der Technik* (1954), Jacques Ellul's *La
-technique ou l'enjeu du siècle* (1954), Lynn White's *Medieval Technology and
-Social Change* (1966), and Viktor Fekiss's *The Technological Man* (1969),
+as a critical category illustrates the broader concerns of the machine age.
+The notion of *technology* itself does not fully find its place in the
+critical literature until the 1950-1970s, judging by the rash of titles like
+like Martin Heidegger's *Die Frage nach der Technik* (1954), Jacques Ellul's
+*La technique ou l'enjeu du siècle* (1954), Lynn White's *Medieval Technology
+and Social Change* (1966), and Viktor Fekiss's *The Technological Man* (1969),
 among many similar volumes appearing in the period. Calling for the
 institution of a new field in 1959, the editors of the inaugural issue of the
 journal *Technology and Culture* would write about the "neglect of study of
@@ -1034,10 +1035,10 @@ between thing and symbol.
 
 The Turing machine mediates in the metaphoric transference from intrinsic
 "hard" states to their extrinsic "soft" representations. Like its predecessors
-it reflects a concern with the grammar of that transformation, and ultimately
-with the mechanisms of exacting obedience: fully deterministic systems that
-are nevertheless capable of transgressing their formal constraints. "How can
-the rules of operation of the machine change?" Turing asks later, in his
+it concerns the grammar of that transformation, and ultimately with the
+mechanisms of exacting obedience: fully deterministic systems that are
+nevertheless capable of transgressing their formal constraints. "How can the
+rules of operation of the machine change?" Turing asks later, in his
 "Computing Machinery and Intelligence" [@turing_computing_1950]. What begins
 as a blueprint for a computing machine in the 1930s by 1950s matures into a
 conversation between a poet and her critic; into the possibility of an
@@ -1499,9 +1500,9 @@ transference between at least three discrete systems: one inorganic, the book,
 one symbolic, text, and one biological, body. There is of course a way in
 which the three are one: we are all in a sense cyborgs, in an assemblage of
 organs, instruments, and inscriptions. But in another sense, poetics asks us
-to reflect on the constructed nature of the coupling: the point of contact
-being governed by rules of engagement, protocols, and translation tables.
-These constructed entities grow and proliferate in a seemingly organic, ad-hoc
+to consider the constructed nature of the coupling: the point of contact being
+governed by rules of engagement, protocols, and translation tables.  These
+constructed entities grow and proliferate in a seemingly organic, ad-hoc
 manner escaping our attempts at rationalization. They comprise a part of our
 received technological a priori. This does not mean that they should be
 naturalized or treated with a reverence afforded to endangered species or to

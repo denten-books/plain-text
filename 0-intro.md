@@ -722,19 +722,19 @@ workshop.
 
 In an approach to *doing* theory, *Plain Text* joins the experimental turn
 steering the academy toward critical practice, especially in fields
-long-dominated by purely speculative reflection. The experimental turn
-represents a generation's dissatisfaction with armchair philosophizing.
-Recall the burning armchair, the symbol of the experimental philosophy
-movement. Joshua Knobe and Shaun Nichols, some of the early proponents of the
-movement, explain that "many of the deepest questions of philosophy can only
-be properly addressed by immersing oneself in the messy, contingent, highly
-variable truths about how human beings really are" [@knobe_experimental_2008,
-3]. The emergence of spaces where research in the humanities is done
-exemplifies the same trend. In naming the locations of their practice
-"laboratories,"  "studios," and "workshops," humanists reach for new metaphors
-of labor. These metaphors aim to reorganize the relationship between body,
-space, artifact, knowledge, and inscription. In my lab and elsewhere,
-researchers have taken to calling this approach the "experimental humanities."
+long-dominated by purely speculative thought. The experimental turn represents
+a generation's dissatisfaction with armchair philosophizing.  Recall the
+burning armchair, the symbol of the experimental philosophy movement. Joshua
+Knobe and Shaun Nichols, some of the early proponents of the movement, explain
+that "many of the deepest questions of philosophy can only be properly
+addressed by immersing oneself in the messy, contingent, highly variable
+truths about how human beings really are" [@knobe_experimental_2008, 3]. The
+emergence of spaces where research in the humanities is done exemplifies the
+same trend. In naming the locations of their practice "laboratories,"
+"studios," and "workshops," humanists reach for new metaphors of labor. These
+metaphors aim to reorganize the relationship between body, space, artifact,
+knowledge, and inscription. In my lab and elsewhere, researchers have taken to
+calling this approach the "experimental humanities."
 
 As an example of what I have been calling here the "experimental turn" in the
 field of early modern history consider the preface to a recent volume on *Ways

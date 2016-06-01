@@ -13,7 +13,7 @@ readers advance from paragraph to paragraph, creating a "fingerprint" that
 points to markers of gender, age, race, ethnicity, and economic status.
 Algorithmic agents follow the movement of the eye and the finger to anticipate
 what the reader is likely to be interested in next and to understand how the
-human brain makes connections between topics. Heat maps are drawn to reflect
+human brain makes connections between topics. Heat maps are drawn to represent
 the dynamics of boredom, fatigue, focus, attention, and desire. Supervised
 training algorithms use our collective philological output---tagging and
 commenting---to learn how to sort information autonomously and to curate
@@ -481,14 +481,14 @@ often persist in making statements that understand a work of literary art to
 be, in a peculiar way, "a very individual thing or a very universal thing or
 both" [@wimsatt_structure_1947, 262]. A work of art, a poem, understood as
 something which "cannot be expressed in other terms" leads to the kind of
-criticism that emphasizes the reflection upon the outward, affective, palpable
-elements of the text. The function of such criticism, according to Wimsatt, is
-to create "approximate descriptions of poems" and "multiple restatements of
-their meaning," which aid the reader in coming to their own "intuitive and
-full realizations" of literature [@wimsatt_structure_1947, 280]. Understood as
-an end product of a living ideal or formula, the analysis of literature seeks
-to recover latent universal mechanisms, laws, and deep structures that give
-rise to surface phenomena.
+criticism that emphasizes the contemplation of the outward, affective,
+palpable elements of the text. The function of such criticism, according to
+Wimsatt, is to create "approximate descriptions of poems" and "multiple
+restatements of their meaning," which aid the reader in coming to their own
+"intuitive and full realizations" of literature [@wimsatt_structure_1947,
+280]. Understood as an end product of a living ideal or formula, the analysis
+of literature seeks to recover latent universal mechanisms, laws, and deep
+structures that give rise to surface phenomena.
 
 The dual motion of literary criticism at once towards the extrinsic shape and
 intrinsic formula---poetics and hermeneutics---is perhaps most starkly visible

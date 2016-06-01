@@ -538,7 +538,7 @@ particulars of the simulation. At times, "erased" data is simply hidden from
 view. At other times, instead of disappearing it proliferates across deep
 surfaces, shared without consent with agents not privy to the original
 contexts of inscription. As was the case with Baudrillard's map, the metaphor
-or reading and writing digitally breaks in that it no longer reflects any
+or reading and writing digitally breaks in that it no longer resembles any
 familiar terrain. Dissimulation mimics familiar materialities absent their
 actual physics. It suggests a structuring of one kind, while enacting the
 structure of another.
@@ -659,16 +659,15 @@ from frequent use, where it is completely dead in the crane's foot example.
 All habituated metaphors like "grasping ideas" and "pedigree" lose a measure
 of their symbolic connotation with time. Unlike "pedigree," the metaphorical
 nature of "grasping ideas" is at least available for casual interpretation.
-One may reflect upon it with little effort. According to Lakoff, the
-underlying metaphor "the mind is like a hand" generates other meaningful
-phrases like "you have to *let go* of this idea." The crane's foot in the
-English "pedigree" has stopped generating novel connections. The conventional
-notion of dead metaphors, Lakoff objects, does not appropriately differentiate
-between the two cases of metaphor dysfunction [@lakoff_death_1987;
-@muller_metaphors_2008]. The metaphor sometimes "dies" but continues to
-produce new linkages, as is the case with grasping ideas. At other times, the
-metaphor dies in the sense of one domain becoming no longer accessible to its
-user, as is the case with pedigree.
+According to Lakoff, the underlying metaphor "the mind is like a hand"
+generates other meaningful phrases like "you have to *let go* of this idea."
+The crane's foot in the English "pedigree" has stopped generating novel
+connections. The conventional notion of dead metaphors, Lakoff objects, does
+not appropriately differentiate between the two cases of metaphor dysfunction
+[@lakoff_death_1987; @muller_metaphors_2008]. The metaphor sometimes "dies"
+but continues to produce new linkages, as is the case with grasping ideas. At
+other times, the metaphor dies in the sense of one domain becoming no longer
+accessible to its user, as is the case with pedigree.
 
 Furthermore, note that a wholly unmotivated metaphor does not live at all.
 Thus the Mad Hatter poses his famous nonsensical riddle in Lewis Carroll's
@@ -1085,8 +1084,8 @@ human language commands into the specialized vocabulary of signals that
 changed machine configuration states. The "direct manipulation" school of
 human-computer interaction dispensed with visible machine states, leading us
 further towards immersive mimesis in which virtual environments resemble
-real-world objects and their properties. In reflecting on that history in
-light of metaphor theory, I find myself with Plato, Baudrillard, and Taussig,
+real-world objects and their properties. Viewing that history in light of
+metaphor theory, I find myself with Plato, Baudrillard, and Taussig,
 suspicious of a totalizing mimesis: the more compelling the simulation, the
 more removed from its material contexts, the more concealed the logistics of
 its production.
@@ -1137,10 +1136,10 @@ of irreconcilability between human and machine. The tool recedes from view,
 beginning to seem a natural and direct extension of the body. I do not mean to
 dismiss the mastery of those engaged in creating the illusion of directness.
 Pleasure and catharsis are important in some contexts. In other contexts, we
-must privilege reflection, analysis, and interruption. Computational poetics
-aims to arrest the encounter: to make it seem less natural, to bring the
-receding media to light, and to expose the mediating systems supporting the
-simulation.
+must privilege critical thought, analysis, and interruption. Computational
+poetics aims to arrest the encounter: to make it seem less natural, to bring
+the receding media to light, and to expose the mediating systems supporting
+the simulation.
 
 Heidegger calls such a process the disruption of reference or a *breach*. He
 writes:
@@ -1168,12 +1167,12 @@ tool use. In *Being and Time*, Heidegger wrote about the particular
 thing [...] the more actively we use it, the more original our relation to it
 becomes and the more undisguisedly it is encountered as what it is, a useful
 thing" [@heidegger_being_1996, 65]. For Heidegger, a tool like a hammer had to
-be understood through use. It was inaccessible to reason, reflection, or
-theory alone. The hammer comes into focus through what he called
-*circumspection* [*Umsicht*]---the peripheral awareness of the object
-ready-to-hand [*zuhanden*] [@heidegger_sein_1967, 69]. One relates to the tool
-in the process of manipulating it, while concentrating on the task at hand:
-the seamster is not interested in the needle, only in the work of sewing
+be understood through use. It was inaccessible to reason or theory alone. The
+hammer comes into focus through what he called *circumspection*
+[*Umsicht*]---the peripheral awareness of the object ready-to-hand
+[*zuhanden*] [@heidegger_sein_1967, 69]. One relates to the tool in the
+process of manipulating it, while concentrating on the task at hand: the
+seamster is not interested in the needle, only in the work of sewing
 [@heidegger_being_1996, 65]. Later, Heidegger would connect his account of
 tool use with philosophy itself, as a mode of truth seeking or unconcealment
 [@heidegger_question_1977, 319]. When used properly, the tool reveals some
