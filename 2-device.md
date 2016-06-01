@@ -1200,25 +1200,24 @@ our more general sense of it it means to read, write, and think. Besides
 offering mathematical proofs, Turing's work embarks on an experimental, ludic
 even, enterprise in the spirit of Wittgenstein's playful experimentation,
 which often involved altered states of mind, drugs, delirium, madness, and
-outright deception. Turing's machine thinks in the way all computers are
-commonly said to think, read, or write, that is to internalize symbolic states
-in a manner that resembles human processes of cognition and comprehension.
+outright deception.
 
-Reconstructing the influence of Wittgenstein's thought on Turing affirms the
-unexpected place of Turing's "On Computability" in the conversation about
-language, reading, and the structure of comprehension. Seen in the light of
+My reconstruction of Wittgenstein's influence on Turing affirms the unexpected
+place of Turing's rather technical "On Computability" in the conversation
+about language, cognition, and comprehension. Seen in the light of
 Wittgenstein's philosophy, Turing's work and consequently the early history of
 computing acquires a broader significance, beyond the narrow confines of the
-*Entscheidungsproblem*, the problem the paper addressed explicitly. In 1936,
+*Entscheidungsproblem*, the problem the paper addresses explicitly. In 1936,
 on the eve of World War II, Turing imagined more than a formula: it was a
-thing that could explore the limits of theory, and a theory that identified a
+thing that could explore the limits of theory and a theory that identified a
 new class of emerging things. Through Turing's well-documented involvement in
 Government Code and Cypher School (GC&CS) at Bletchley Park, actual Turing
 machines changed the nature of warfare: used at first to break encrypted
 military communications and then to compute missile trajectories. But as I
 have argued here, Turing machines also changed humanity's relationship to
 symbolic thought. They belong also to an intellectual tradition of distinctly
-humanist thinking about reading, writing, text, and interpretation.
+humanist thinking about reading and writing: philology, poetics, and
+interpretation.
 
 ## Device
 
