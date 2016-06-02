@@ -3,5 +3,4 @@ archive/
 *.un*
 *~*
 print-plates/
-print.sh
 adventure/
