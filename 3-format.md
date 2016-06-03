@@ -11,7 +11,7 @@ electronic literary devices, while the electronic literary devices are reading
 and interpreting us. Machine learning algorithms track the speed by which
 readers advance from paragraph to paragraph, creating a "fingerprint" that
 points to markers of gender, age, race, ethnicity, and economic status.
-Algorithmic agents follow the movement of the eye and the finger to anticipate
+Algorithmic agents follow the movement of the eye and finger to anticipate
 what the reader is likely to be interested in next and to understand how the
 human brain makes connections between topics. Heat maps are drawn to represent
 the dynamics of boredom, fatigue, focus, attention, and desire. Supervised
@@ -19,9 +19,10 @@ training algorithms use our collective philological output---tagging and
 commenting---to learn how to sort information autonomously and to curate
 content that better suits our predilections. Deep neural networks mimic the
 brain to build models of human behavior. These models are notoriously
-difficult to interpret, as they are not meant for human comprehension
-[@andrews_survey_1995; @karim_x-trepan:_2015]. A vast archive of literature by
-machines and for machines thus supports the corpus of human-compatible texts.
+difficult to interpret, as they are not themselves meant for human
+comprehension [@andrews_survey_1995; @karim_x-trepan:_2015]. A vast archive of
+texts written by machines and for machines supports the tiny by comparison
+corpus of human-compatible literature.
 
 Despite its formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
@@ -39,8 +40,7 @@ the programmatic sign acquires its non-representational, tactical character.
 Stripped of references, resemblances, and designations the programmatic sign
 commands and controls.[^ln3-bdrld]
 
-[^ln3-bdrld]: Recall the Baudrillard quote from the beginning of the last
-chapter [@baudrillard_simulacra_1994, 139-40].
+[^ln3-bdrld]: Recall @baudrillard_simulacra_1994, 139-40.
 
 Unlike figurative description, machine control languages function in the
 imperative. They do not stand for action---they are action. More binding than
@@ -57,33 +57,34 @@ the restraints draw an empty shape.
 
 Code acts similarly to shape the word. Located somewhere between the screen
 and the storage medium, formats relate matter to content. They are techniques
-by which an immanent inscription is transformed into a transcendent digital
-object: a novel, song, film, or poem. Formatting imposes structure. Think of a
-paragraph, for example. By convention, writers use paragraphs to break up the
-flow of monolithic thought on a page. The paragraph contains information. Can
-one imagine an empty paragraph? Could the shape of a paragraph persist outside
-of the material confines of a page or screen? Can one imagine paragraphs that
-unfold spatially not in two dimensions, but in one, along a straight line?
-What about a structure of words and sentences that extend into the third
-dimension: the paragraph in the shape of a cube, instead of a rectangle? These
-questions boggle the mind because paragraphs draw a singular figure. They are
-a textual container of a type. Any other shape less or more than the paragraph
-would go by another name; it would constitute another format. To imagine
-something like a one-dimensional paragraph is akin to imagining a flat
-shoebox. A flat shoebox would no longer house shoes. It could contain only the
-images of footwear. A paragraph identifies a similarly singular arrangement of
-elements. It is a container or a data structure of a kind, made to hold a
-certain amount of words and sentences. We may liken paragraphs, words, and
-sentences to nesting dolls: data structures that contain within them further,
-smaller arrangements of information. A word fits inside of a sentence, the
-sentence within a paragraph, the paragraph within a chapter, the chapter
-within a book, the book within an archive, and so on.
+by which immanent inscription, the electromagnetic charge, is transformed into
+a transcendent digital object: novels, songs, films, or poems. Formatting
+imposes structure. Think of a paragraph, for example. By convention, writers
+use paragraphs to break up the flow of monolithic thought on a page. The
+paragraph contains information. Can one imagine an empty paragraph? Could the
+shape of a paragraph persist outside of the material confines of a page or
+screen? Can one imagine paragraphs that unfold spatially not in two
+dimensions, but in one, along a straight line?  What about a structure of
+words and sentences that extends into the third dimension: a paragraph in the
+shape of a cube, instead of a rectangle? These questions boggle the mind
+because paragraphs draw a singular figure. They are a textual container of a
+type. Any other shape less or more than the paragraph would go by another
+name; it would constitute another format. To imagine something like a
+one-dimensional paragraph is akin to imagining a flat shoebox. A flat shoebox
+would no longer hold shoes. It could contain only the images of footwear. A
+paragraph identifies a similarly singular arrangement of elements. It is a
+container or a data structure of a kind, made to hold a certain amount of
+words and sentences. We may liken paragraphs, words, and sentences to nesting
+dolls: data structures that contain within them further, smaller arrangements
+of information: a word fits inside of a sentence, the sentence within a
+paragraph, the paragraph within a chapter, the chapter within a book, the book
+within an archive, and so on.
 
-One could say, what of such arrangements?  Who cares about paragraphs? It is
-merely one type of a container among many. It has only the instrumental
-function to help get the point across. The meat of interpretation lies within.
-Words can also be packaged otherwise. The outer container is disposable and
-therefore insignificant.
+One could say, what of such arrangements? Who cares about the shape of
+paragraphs? They are merely one type of a container among many. They perform
+only the instrumental function to help get the point across. The meat of
+interpretation lies within. Words can also be packaged otherwise. The outer
+container is disposable and therefore insignificant.
 
 Formats could only seem insignificant in the past when they were few, simple,
 and relatively consistent. The book or the broadsheet newspaper are known
@@ -144,25 +145,25 @@ entorhinal grid.[^ln3-hex]
 ![Forms and formats.](images/forms.png)
 
 Just like there is nothing inherently paragraph-like in the neural arrangement
-of the brain, there is also nothing inherently paragraph-like or page-like in
-the arrangement of bits along the surface of the magnetic disk or the solid
-state drive. If we could peek inside the machine, we would see forms and
-structures particular to those media. The back of the traditional paragraph
-form faces the paper. Things get significantly more complicated when the same
-rectangular shape begins to mediate between the mind and the page on the one
+of neurons in the brain, there is also nothing inherently paragraph-like or
+page-like in the arrangement of bits along the surface of electromagnetic
+storage. If we could peek inside the machine, we would see forms and
+structures particular to computational media. The back of the traditional
+paragraph form faces paper. Things get significantly more complicated when the
+same rectangular shape begins to mediate between the mind and the page on one
 side of comprehension, and the page and the machine on the other. The analysis
 of computational forms requires new formalisms and new critical vocabularies
 capable of drawing correspondences between disparate systems of ordering and
 signification. We are at the moment presented with metaphors of order:
 paragraphs, pages, files, and folders. Images of such ordering structures on
 the screen look like their paper counterparts, but they represent other, less
-familiar ordering structures on the disk. These two ways of ordering are not
+familiar ordering structures on disk. These ways of ordering are not
 equivalent to each other. They imply differing possibilities and affordances.
 Formats mediate between data structures, transforming one into the other
-according to predefined rules. The screen projection---content arranged on the
-screen---which represents a mental image---information stored in the
-head---becomes inscription---information stored in the machine. The complexity
-of the interface between these disparate symbolisms stems from the fundamental
+according to predefined rules. The projection---content arranged on the
+screen---represents mental image---information stored in the head---which
+becomes inscription---information stored in the machine. The complexity of the
+interface between these disparate symbolisms stems from the fundamental
 incompatibility between incommensurate physicalities. Format specifications
 govern the transference of data structures from one medium into the other, at
 the point of contact between human, symbol, and machine.
