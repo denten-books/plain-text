@@ -21,7 +21,7 @@ truth to power---one must be able to perceive its codification. Traditional
 literary theory must therefore connect to the material contexts of textual
 production which emanate from the fields of computer science and software
 engineering. Conversely, a tighter coupling with the critical tradition in the
-humanities reveals the often occluded political implications technological
+humanities reveals the often occluded political implications of technological
 progress, which so often appears in the guise of the apolitical. To create a
 novel algorithm that predicts crime by analyzing social media, for example, is
 also to invite the dystopian possibility of thought and language policing,
