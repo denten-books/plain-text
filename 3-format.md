@@ -197,11 +197,11 @@ affective aesthetics or even "erotics" of art [@sontag_against_1966]. In this
 view, the sign is forever embedded into the specific contexts of inscription,
 or alternatively, in the contexts of its reception. The individual peculiarity
 of the word in context makes it forever different from the same word on a
-different page. Formalism in this sense is concerned with the unique,
-distinctive, palpable, and outward physical attributes of a text. Understood
-as formula, form suggests a more analytical approach, aimed at explicating the
-inward structures---universal rules, patterns, and archetypes---that shape the
-production of text from within.  Formal analysis so conceived studies not
+different page. Formalism in this sense is concerned with the distinctive,
+palpable, and outward physical attributes of a text. Understood as formula,
+form suggests a more analytical approach, aimed at explicating the inward
+structures---universal rules, patterns, and archetypes---that shape the
+production of text from within. Formal analysis so conceived studies not
 specific traces or utterances, but rather the development of ideal forms,
 which exist somewhat independently of their specific instantiations. Form in
 the sense of formula embodies an abstraction, leading to generalized

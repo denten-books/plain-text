@@ -1125,7 +1125,7 @@ advancing this argument [@krug_dont_2014; @eyal_hooked:_2014;
 in affective, mystical arts, the ultimate loss of references and resemblances,
 where works of art are to be experienced emotively past the senses: literature
 without language or representation, painting beyond media,
-*asemiosis*---messages lacking a sign.
+asemiosis---messages lacking a sign.
 
 However futuristic such possibilities may seem to us today, we should not lose
 sight of the mediated nature of human-computer interaction in all of its
