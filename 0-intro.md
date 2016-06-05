@@ -54,10 +54,10 @@ nature of digital inscription---the material trace that gives rise to textual
 phenomena, and, more broadly to all other cultural artifacts in which the
 computer mediates. Today we find ourselves in an unprecedented, since the
 Middle Ages, position of selective illiteracy and *asemiosis*: the loss of
-signification.  Many contemporary texts---like poems inscribed into bacteria
+signification. Many contemporary texts---like poems inscribed into bacteria
 and encrypted software---exist simply beyond the reach of human
 senses.[^ln-dna] Other forms of writing are illegible in ways that prevent
-access or comprehension.  Increasingly, we write not in the sense of making
+access or comprehension. Increasingly, we write not in the sense of making
 marks on paper but in simulation. The key press leaves a trace in computer
 memory, which then appears on the screen as its representation. There, the
 trace is visible but ephemeral. On disk, the mark endures in a form legible
@@ -69,8 +69,8 @@ stands to reason that to retain the civic potential for critique---to speak
 truth to power---one must be able to perceive its codification. Traditional
 literary theory must therefore connect to the material contexts of textual
 production which emanate from the fields of computer science and software
-engineering.  Conversely, a tighter coupling with the critical tradition in
-the humanities can reveal the often occluded political implications of
+engineering. Conversely, a tighter coupling with the critical tradition in the
+humanities can reveal the often occluded political implications of
 technological progress, which so often appears in the guise of the apolitical.
 To create a novel algorithm that predicts crime by analyzing social media, for
 example, is also to invite the dystopian possibility of thought and language
@@ -81,7 +81,7 @@ under continual scrutiny.
 striving to write a short verse about language and genetics, whereupon I use a
 'chemical alphabet' to translate this poem into a sequence of DNA for
 subsequent implantation into the genome of a bacterium (in this case, a
-microbe called Deinococcus radiodurans---an extremophile, capable of
+microbe called *Deinococcus radiodurans*---an extremophile, capable of
 surviving, without mutation, in even the most hostile milieus, including the
 vacuum of outer space)."
 
