@@ -3,22 +3,38 @@
 *Plain Text* is a book about literary devices. It concerns the nature of
 digital inscription---the material trace that gives rise to literary
 phenomena, and, more broadly to all other cultural artifacts in which the
-computer mediates. Practices of textual exegesis, commentary, and
-interpretation are crucial for whatever political ideal of an engaged populace
-one may wish to advance. Yet, today we find ourselves in an unprecedented,
-since the Middle Ages, position of losing the basic capacity to read and
-write. Many contemporary texts---like poems inscribed into bacteria and
-encrypted software---are simply beyond the human sensory reach.[^ln-dna] Other
-forms of writing are merely obfuscated or made illegible to prevent access and
-comprehension.  Increasingly, we write not in the sense of making marks on
-paper but in simulation. The key press produces on sort of an inscription in
-computer memory and yet another kind of inscription on the screen. On one
-surface the mark is visible but temporary. It disappears without power. On the
-other surface the mark endures, but in a form legible only to those who
-possess the specialized tools and the training to decipher it. As a literary
-scholar, I am concerned with the selective growth of illiteracy. 
+computer mediates. Today we find ourselves in an unprecedented, since the
+Middle Ages, position of selective illiteracy and *asemiosis*: the loss of
+signification. Many contemporary texts---like poems inscribed into bacteria
+and encrypted software---exist simply beyond the reach of human
+senses.[^ln-dna] Other forms of writing are illegible in ways that prevent
+access or comprehension. Increasingly, we write not in the sense of making
+marks on paper but in simulation. The key press leaves a trace in computer
+memory, which then appears on the screen as its representation. There, the
+trace is visible but ephemeral. On disk, the mark endures in a form legible
+only to those who possess the specialized tools and the training necessary to
+decipher it. A vibrant discursive practice of textual exegesis---commentary,
+interpretation, dialog---is crucial to whatever political ideals that demand
+an engaged populace. Codes embody governance through explicit instruction. It
+stands to reason that to retain the civic potential for critique---to speak
+truth to power---one must be able to perceive its codification. Traditional
+literary theory must therefore connect to the material contexts of textual
+production which emanate from the fields of computer science and software
+engineering. Conversely, a tighter coupling with the critical tradition in the
+humanities reveals the often occluded political implications technological
+progress, which so often appears in the guise of the apolitical. To create a
+novel algorithm that predicts crime by analyzing social media, for example, is
+also to invite the dystopian possibility of thought and language policing,
+unless, that is, such algorithms remain firmly in public view and under
+continual scrutiny.
 
-[^ln-dna]: See p @bok_xenotext._2015
+[^ln-dna]: See @bok_xenotext:_2015 and @bok_xenotext_2011: "I have been
+striving to write a short verse about language and genetics, whereupon I use a
+'chemical alphabet' to translate this poem into a sequence of DNA for
+subsequent implantation into the genome of a bacterium (in this case, a
+microbe called Deinococcus radiodurans---an extremophile, capable of
+surviving, without mutation, in even the most hostile milieus, including the
+vacuum of outer space)."
 
 While I write these introductory remarks, a ceiling-mounted smoke detector in
 my kitchen emits a loud noise every three minutes or so. A pleasant female
