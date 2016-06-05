@@ -5,24 +5,22 @@ shoulders acquire a stooped countenance, as if the book was exerting pressure
 against the solar plexus. Eyesight deteriorates through continual exertion.
 Tendons and other supporting structures in the wrist swell from the repetitive
 stress of striking keys, working against the resistance of the mechanical
-letter. Reading and writing take their toll. A further profound change happens
-when we read and write along with the machine. We read and interpret
-electronic literary devices, while the electronic literary devices are reading
-and interpreting us. Machine learning algorithms track the speed by which
-readers advance from paragraph to paragraph, creating a "fingerprint" that
-points to markers of gender, age, race, ethnicity, and economic status.
-Algorithmic agents follow the movement of the eye and finger to anticipate
-what the reader is likely to be interested in next and to understand how the
-human brain makes connections between topics. Heat maps are drawn to represent
-the dynamics of boredom, fatigue, focus, attention, and desire. Supervised
-training algorithms use our collective philological output---tagging and
-commenting---to learn how to sort information autonomously and to curate
-content that better suits our predilections. Deep neural networks mimic the
-brain to build models of human behavior. These models are notoriously
-difficult to interpret, as they are not themselves meant for human
-comprehension [@andrews_survey_1995; @karim_x-trepan:_2015]. A vast archive of
-texts written by machines and for machines supports the tiny by comparison
-corpus of human-compatible literature.
+letter. The word takes its toll. A further profound change happens when we
+read and write along with the machine. As we interpret it, it interprets us.
+Machine learning algorithms track the speed by which readers advance from
+paragraph to paragraph, creating a "fingerprint" that points to markers of
+gender, age, race, ethnicity, and economic status. Algorithmic agents follow
+the movement of the eye and finger to direct the reader's attention and to
+understand how the human brain makes connections between topics. Heat maps are
+drawn to represent the dynamics of boredom, fatigue, focus, and desire.
+Supervised training algorithms use our collective philological
+output---sorting and commenting---to learn how to classify information
+autonomously and to curate content that better suits our predilections. Deep
+neural networks mimic the brain to build models of human behavior. These
+models are notoriously difficult to interpret, as they are not themselves
+meant for human comprehension [@andrews_survey_1995; @karim_x-trepan:_2015]. A
+vast archive of texts written by machines and for machines supports the tiny
+by comparison corpus of human-compatible literature.
 
 Despite its formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
@@ -33,12 +31,12 @@ sign actively molds text to context. At the maximally blunt limit of its
 capabilities, format governs access. For example, a command can selectively
 render some words and sentences visible on the screen while suppressing
 others. The ability to hide text from view completely or to make it so small
-as to be illegible affects not just the style but the politics of text. Code,
-in that sense, can determine its audience, privileging certain voices and
-modes of reading over others. It is in the sense of audience selection that
-the programmatic sign acquires its non-representational, tactical character.
-Stripped of references, resemblances, and designations the programmatic sign
-commands and controls.[^ln3-bdrld]
+as to be illegible affects not just the style but the politics of text. Code
+determines its audience, privileging certain voices and modes of reading over
+others. It is in the sense of audience selection that the programmatic sign
+acquires its non-representational, tactical character. Stripped of references,
+resemblances, and designations the programmatic sign commands and
+controls.[^ln3-bdrld]
 
 [^ln3-bdrld]: Recall @baudrillard_simulacra_1994, 139-40.
 
@@ -53,74 +51,70 @@ physical restraint. A restraining order *signifies* the calling forth of
 codified power. Physical restraints like handcuffs *enact* the exercise of
 codified power. Like all violence they do not stand for anything. The
 handcuffs simply contort the body into the shape of submission. Absent a body,
-the restraints draw an empty shape.
+the restraints draw an empty shape. Code acts similarly to shape the word.
+Located somewhere between the screen and the storage medium, formats relate
+matter to content. They are techniques by which immanent inscription, the
+electromagnetic charge, is transformed into transcendent digital objects:
+novels, songs, films, or poems. Formatting imposes structure.
 
-Code acts similarly to shape the word. Located somewhere between the screen
-and the storage medium, formats relate matter to content. They are techniques
-by which immanent inscription, the electromagnetic charge, is transformed into
-a transcendent digital object: novels, songs, films, or poems. Formatting
-imposes structure. Think of a paragraph, for example. By convention, writers
-use paragraphs to break up the flow of monolithic thought on a page. The
-paragraph contains information. Can one imagine an empty paragraph? Could the
-shape of a paragraph persist outside of the material confines of a page or
-screen? Can one imagine paragraphs that unfold spatially not in two
-dimensions, but in one, along a straight line?  What about a structure of
-words and sentences that extends into the third dimension: a paragraph in the
-shape of a cube, instead of a rectangle? These questions boggle the mind
-because paragraphs draw a singular figure. They are a textual container of a
-type. Any other shape less or more than the paragraph would go by another
-name; it would constitute another format. To imagine something like a
-one-dimensional paragraph is akin to imagining a flat shoebox. A flat shoebox
-would no longer hold shoes. It could contain only the images of footwear. A
-paragraph identifies a similarly singular arrangement of elements. It is a
-container or a data structure of a kind, made to hold a certain amount of
-words and sentences. We may liken paragraphs, words, and sentences to nesting
-dolls: data structures that contain within them further, smaller arrangements
-of information: a word fits inside of a sentence, the sentence within a
+Think of a paragraph, for example. By convention, writers use paragraphs to
+break up the flow of monolithic thought on a page. The paragraph contains
+information. Can one imagine an empty paragraph? Could the shape of a
+paragraph persist outside of the material confines of a page or screen? Can
+one imagine paragraphs that unfold spatially not in two dimensions, but in
+one, along a straight line?  What about a structure of words and sentences
+that extends into the third dimension: a paragraph in the shape of a cube,
+instead of a rectangle? These questions boggle the mind because paragraphs
+draw a singular figure. They are a textual container of a type. Any other
+shape less or more than the paragraph would go by another name; it would
+constitute another format. To imagine something like a one-dimensional
+paragraph is akin to imagining a flat shoebox. A flat shoebox would no longer
+hold shoes. It could contain only the images of footwear. A paragraph
+identifies a similarly singular arrangement of elements. It is a container or
+a data structure of a kind, made to hold a certain amount of words and
+sentences. We may liken paragraphs, words, and sentences to nesting dolls:
+data structures that contain within them further, smaller arrangements of
+information: a word fits inside of a sentence, the sentence within a
 paragraph, the paragraph within a chapter, the chapter within a book, the book
 within an archive, and so on.
 
 One could say, what of such arrangements? Who cares about the shape of
 paragraphs? They are merely one type of a container among many. They perform
 only the instrumental function to help get the point across. The meat of
-interpretation lies within. Words can also be packaged otherwise. The outer
-container is disposable and therefore insignificant.
+interpretation lies in the content within. Words can also be packaged
+otherwise. The outer container is disposable and therefore insignificant.
 
 Formats could only seem insignificant in the past when they were few, simple,
-and relatively consistent. The book or the broadsheet newspaper are known
-entities: we understand how they are made and how to unfold them in space.
-Composite computational formats change rapidly and proliferate. They contain
-further, as yet unexplored structural possibilities: shapes like the paragraph
-on paper, but native to new media. What you saw is what you got on the page.
-On the screen, what you see is but a small part of what you could get. We are
-presented with *thick content*---beyond the visible image, all that is
-contained within the three-dimensional page. In print, content can be gleaned
-from the surface; there is nothing but surface on a page. The screen is a
-layered composite. Light and liquid crystal---the preferred media for
-contemporary text---surge between the substrates in response to electrical
-signal. Screen surfaces conceal further strata of codification, inscribed onto
-recondite planes of inscription: hard disks, solid state drives, platters,
-drums, memory sticks, layers of oxide. A byte, made up of eight binary bits,
-holds a letter. The string of letters spelling out "hello world" occupies
-eleven bytes on the hard drive.[^ln3-space] A file in the Portable Document
-Format (`.pdf`) containing nothing but "hello world" takes up 24,335 bytes on
-my system. Thick content accounts for the disparity between plain text and
-fancy text, the latter defined as "text representation consisting of plain
-text plus added information" [@unicode_consortium_unicode_1990]. The
-explication of thick content requires thick description, replete with
-technical detail which acquires metaphysical significance.
+and remaining relatively consistent across media. The book or the broadsheet
+newspaper are known entities: we understand how they are made and how to
+unfold them in space. Computational formats change rapidly and proliferate.
+They contain further, as yet unexplored structural possibilities: shapes like
+the paragraph on paper, but native to new media. What you saw is what you got
+on the page. On the screen, what you see is but a small part of what you could
+get. We are presented with *thick content*, beyond the visible image, the
+composite of all the stuff that is contained within the three-dimensional
+page. In print, content can be gleaned from the surface; there is nothing but
+surface on a page. The screen is a laminate. Light and liquid crystal---the
+preferred media for contemporary text---surge between the substrates in
+response to electrical signal. Screen surfaces conceal further strata of
+codification, inscribed onto recondite planes of inscription: hard disks,
+solid state drives, platters, drums, memory sticks, layers of copper and
+oxide.
 
-[^ln3-space]: Ten bytes for the letters and one byte for the space character.
+A byte, made up of eight binary bits, holds a letter. The string of letters
+spelling out "hello world" occupies eleven bytes on the hard drive: ten bytes
+for the letters and one byte for the space character. A file in the Portable
+Document Format (PDF) containing the same "hello world" takes up 24,335 bytes
+on my system. What is the nature of the information added to text?
+Historically, such data included machine instructions for the viewing and
+printing of text along with cypher codes used for clandestine communication.
+The PDF specification describes features that include "accessibility of
+content to those with disabilities," "digital signatures to certify
+authenticity," "electronic forms to gather data," "preservation of document
+fidelity independent of the device, platform, and software," and "security and
+permission to allow the creator to retain control of the document and
+associated rights" [@iso_portable_2008, vii].
 
-What is the nature of the information added to text? Historically, such data
-included machine instructions for the viewing and printing of text along with
-cypher codes used for clandestine communication. The common Portable Document
-Format (PDF) contains features that enable--and I quote the exact
-specifications here---"accessibility of content to those with disabilities,"
-"digital signatures to certify authenticity," "electronic forms to gather
-data," "preservation of document fidelity independent of the device, platform,
-and software," and "security and permission to allow the creator to retain
-control of the document and associated rights" [@iso_portable_2008, vii].
 These capabilities mediate between visible image and stored information: one
 surface facing the human, the other, the machine. The formatting layer
 specifies the *affordances* of electronic text. More than passive conduits of
@@ -132,7 +126,12 @@ reader brings to the process of interpretation must therefore meet the
 affordances encoded into the electronic text itself. Such an encounter happens
 not on the level of representation or ideology, but on the level of the
 physical, the phatic, and the imperative, where formatting and control codes
-reside.
+reside. Thick content accounts for the disparity between plain text and fancy
+text, the latter defined as "text representation consisting of plain text plus
+added information" [@unicode_consortium_unicode_1990]. The explication of such
+thick content requires thick description, replete with material detail which
+acquires metaphysical significance in practice. The text that edits itself or
+one that collects its own fees necessitates new strategies of interpretation.
 
 In this chapter I would like to move us towards a systematic study of format.
 The familiar paper paragraph structure already presents several interesting
@@ -140,7 +139,7 @@ problems for analysis. In claiming typographical space on a page the paragraph
 suggests corresponding mental units. A unit of text becomes also a unit of
 thought. But no such structures as paragraphs exist in the mind.
 Physiologically, the brain arranges information hexagonally, along the
-entorhinal grid.[^ln3-hex]
+entorhinal grid [@stensola_entorhinal_2012].
 
 ![Forms and formats.](images/forms.png)
 
@@ -940,9 +939,6 @@ the transformation between media: the liquid crystal, the floating gate, and
 the entorhinal grid. The format governs and controls in the sense of shaping
 the encounter between otherwise incommensurate systems, hardware and
 wetware---storage, screen, and brain.
-
-[^ln3-hex]: In this last regard see @stensola_entorhinal_2012. This
-ground-breaking work describes the structure of data in the human brain.
 
 A notion of a format underlies all contemporary digital documents. The history
 of format reveals a structure that emerges initially for the purposes of
