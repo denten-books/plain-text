@@ -1,9 +1,29 @@
 # Computational Poetics: An Introduction
 
-As I write these introductory remarks, a ceiling-mounted smoke detector in my
-kitchen emits a loud noise every three minutes or so. A pleasant female voice
-announces also "low battery." This is, I learn, a precaution stipulated by US
-National Fire Alarm Code 72-108 11.6.6 (2013). The clause requiring a
+*Plain Text* is a book about literary devices. It concerns the nature of
+digital inscription---the material trace that gives rise to literary
+phenomena, and, more broadly to all other cultural artifacts in which the
+computer mediates. Practices of textual exegesis, commentary, and
+interpretation are crucial for whatever political ideal of an engaged populace
+one may wish to advance. Yet, today we find ourselves in an unprecedented,
+since the Middle Ages, position of losing the basic capacity to read and
+write. Many contemporary texts---like poems inscribed into bacteria and
+encrypted software---are simply beyond the human sensory reach.[^ln-dna] Other
+forms of writing are merely obfuscated or made illegible to prevent access and
+comprehension.  Increasingly, we write not in the sense of making marks on
+paper but in simulation. The key press produces on sort of an inscription in
+computer memory and yet another kind of inscription on the screen. On one
+surface the mark is visible but temporary. It disappears without power. On the
+other surface the mark endures, but in a form legible only to those who
+possess the specialized tools and the training to decipher it. As a literary
+scholar, I am concerned with the selective growth of illiteracy. 
+
+[^ln-dna]: See p @bok_xenotext._2015
+
+While I write these introductory remarks, a ceiling-mounted smoke detector in
+my kitchen emits a loud noise every three minutes or so. A pleasant female
+voice announces also "low battery." This is, I learn, a precaution stipulated
+by US National Fire Alarm Code 72-108 11.6.6 (2013). The clause requiring a
 "distinct audible signal before the battery is incapable of operating" is
 encoded into the device. The smoke detector literally embodies that piece of
 legislation in its circuitry. We thus obtain a condition where two meanings of
@@ -48,8 +68,6 @@ and thoughts. It records my reading, sleeping, and consumption habits. It
 tries to sell me things, showing me advertisements for cars, jewelry, and
 pills. It comes with a manual and terms of service. It is my confidant, my
 dealer, my spy.
-
-<!-- consider adding a paragraph -->
 
 ## Thesis and Scope
 

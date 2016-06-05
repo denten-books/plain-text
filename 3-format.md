@@ -188,29 +188,29 @@ encoded rules of reader engagement: what can be read, how, and where.
 
 ## Concrete and Universal
 
-The intellectual history of formalist thought in literary theory contains
-within it at least these two distinct and contradictory ideas about form: one
-about the outward shape of the sign and another about the inward structure or
-formula that governs semiosis. The distinction is important because it leads
-to several conflicting strategies of interpretation. Taken in the sense of
-"outward shape," form suggests an aesthetics or even "erotics" of art
-[@sontag_against_1966]. In this view, the sign is forever embedded into the
-specific contexts of inscription, or alternatively, in the contexts of its
-reception. The individual peculiarity of the word in context makes it forever
-different from the same word on a different page. Formalism in this sense is
-concerned with the unique, distinctive, palpable, and outward physical
-attributes of a text. Understood as formula, form suggests a more analytical
-approach, aimed at explicating the inward structures---universal rules,
-patterns, and archetypes---that shape the production of text from within.
-Formal analysis so conceived studies not specific traces or utterances, but
-rather the development of ideal forms, which exist somewhat independently of
-their specific instantiations. Form in the sense of formula embodies an
-abstraction, leading to generalized historical categories like genre and
-period. Our ideas about "the novel," for example, or "modernism," or
-"post-colonial theory" reflect formal groupings of that kind. The genre
-"science fiction" indicates an abstract collection of specific literary works
-in that genre. Where palpable form leads to immanent material artifacts, the
-abstracted notion of form leads to transcendent ideal categories.
+The intellectual history of formalist literary theory contains within it at
+least these two distinct and contradictory ideas about form: one about the
+outward shape of the sign and another about the inward structure or formula
+that governs semiosis. The distinction leads to several conflicting strategies
+of interpretation. Taken in the sense of "outward shape," form suggests the
+affective aesthetics or even "erotics" of art [@sontag_against_1966]. In this
+view, the sign is forever embedded into the specific contexts of inscription,
+or alternatively, in the contexts of its reception. The individual peculiarity
+of the word in context makes it forever different from the same word on a
+different page. Formalism in this sense is concerned with the unique,
+distinctive, palpable, and outward physical attributes of a text. Understood
+as formula, form suggests a more analytical approach, aimed at explicating the
+inward structures---universal rules, patterns, and archetypes---that shape the
+production of text from within.  Formal analysis so conceived studies not
+specific traces or utterances, but rather the development of ideal forms,
+which exist somewhat independently of their specific instantiations. Form in
+the sense of formula embodies an abstraction, leading to generalized
+historical categories like genre and period. Our ideas about "the novel," for
+example, or "modernism," or "post-colonial theory" reflect formal groupings of
+that kind. The genre "science fiction" indicates an abstract collection of
+specific literary works in that genre. Where palpable form leads to immanent
+material artifacts, the abstracted notion of form leads to transcendent ideal
+categories.
 
 The notion of a "format" occupies the conceptual space somewhere between form
 as intrinsic formula and form as extrinsic shape. In what remains a singular
