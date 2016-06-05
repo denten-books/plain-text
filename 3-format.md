@@ -165,7 +165,7 @@ of contact between human, symbol, and machine.
 [^ln3-symbolisms]: See @wittgenstein_philosophical_1974, 45.
 
 In this chapter I would like to move us towards a systematic study of format.
-The history of formalism, as I will outline it in the few few sections,
+The history of formalism, as I will outline it in the next few sections,
 contains within it at least these two contradictory intuitions about the
 nature of literary form. Going back to the reception of Plato, Hegel, and the
 Russian formalists, the English "form" renders at times the material, outward,
@@ -180,14 +180,11 @@ we will observe formats develop from simple machine instructions for
 typographical layout to complex meta-literary directives related to the
 protection of intellectual property rights, constraints on speech, trade
 agreements, the politics of surveillance, and clandestine communication. The
-intellectual history of form so considered and based on early twentieth
-century documents in aesthetic philosophy will meet the material history of
-format in computer science at an early, decisive period in the development of
-the discipline. The language of formalism will allow us to perceive an
-important structure at the heart of every digital text. The chapter ends with
-the notion of a "smart document," an increasingly common instrument of record
-capable of policing its own encoded rules of reader engagement: what can be
-read, how, and where.
+intellectual history of form drawn from the annals of literary theory will
+meet the material history of format drawn from computer science in the second
+half of the chapter. The chapter ends with the notion of a "smart document,"
+an increasingly common instrument of record capable of policing its own
+encoded rules of reader engagement: what can be read, how, and where.
 
 ## Concrete and Universal
 
