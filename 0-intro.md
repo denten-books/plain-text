@@ -1,41 +1,5 @@
 # Computational Poetics: An Introduction
 
-*Plain Text* is a book about literary devices. It concerns the nature of
-digital inscription---the material trace that gives rise to literary
-phenomena, and, more broadly to all other cultural artifacts in which the
-computer mediates. Today we find ourselves in an unprecedented, since the
-Middle Ages, position of selective illiteracy and *asemiosis*: the loss of
-signification. Many contemporary texts---like poems inscribed into bacteria
-and encrypted software---exist simply beyond the reach of human
-senses.[^ln-dna] Other forms of writing are illegible in ways that prevent
-access or comprehension. Increasingly, we write not in the sense of making
-marks on paper but in simulation. The key press leaves a trace in computer
-memory, which then appears on the screen as its representation. There, the
-trace is visible but ephemeral. On disk, the mark endures in a form legible
-only to those who possess the specialized tools and the training necessary to
-decipher it. A vibrant discursive practice of textual exegesis---commentary,
-interpretation, dialog---is crucial to whatever political ideals that demand
-an engaged populace. Codes embody governance through explicit instruction. It
-stands to reason that to retain the civic potential for critique---to speak
-truth to power---one must be able to perceive its codification. Traditional
-literary theory must therefore connect to the material contexts of textual
-production which emanate from the fields of computer science and software
-engineering. Conversely, a tighter coupling with the critical tradition in the
-humanities reveals the often occluded political implications of technological
-progress, which so often appears in the guise of the apolitical. To create a
-novel algorithm that predicts crime by analyzing social media, for example, is
-also to invite the dystopian possibility of thought and language policing,
-unless, that is, such algorithms remain firmly in public view and under
-continual scrutiny.
-
-[^ln-dna]: See @bok_xenotext:_2015 and @bok_xenotext_2011: "I have been
-striving to write a short verse about language and genetics, whereupon I use a
-'chemical alphabet' to translate this poem into a sequence of DNA for
-subsequent implantation into the genome of a bacterium (in this case, a
-microbe called Deinococcus radiodurans---an extremophile, capable of
-surviving, without mutation, in even the most hostile milieus, including the
-vacuum of outer space)."
-
 While I write these introductory remarks, a ceiling-mounted smoke detector in
 my kitchen emits a loud noise every three minutes or so. A pleasant female
 voice announces also "low battery." This is, I learn, a precaution stipulated
@@ -85,31 +49,67 @@ tries to sell me things, showing me advertisements for cars, jewelry, and
 pills. It comes with a manual and terms of service. It is my confidant, my
 dealer, my spy.
 
+*Plain Text* is broadly a book about such literary devices. It concerns the
+nature of digital inscription---the material trace that gives rise to textual
+phenomena, and, more broadly to all other cultural artifacts in which the
+computer mediates. Today we find ourselves in an unprecedented, since the
+Middle Ages, position of selective illiteracy and *asemiosis*: the loss of
+signification.  Many contemporary texts---like poems inscribed into bacteria
+and encrypted software---exist simply beyond the reach of human
+senses.[^ln-dna] Other forms of writing are illegible in ways that prevent
+access or comprehension.  Increasingly, we write not in the sense of making
+marks on paper but in simulation. The key press leaves a trace in computer
+memory, which then appears on the screen as its representation. There, the
+trace is visible but ephemeral. On disk, the mark endures in a form legible
+only to those who possess the specialized tools and the training necessary to
+decipher it. A vibrant discursive practice of textual exegesis---commentary,
+interpretation, dialog---is crucial to whatever political ideals that demand
+an engaged populace. Codes embody governance through explicit instruction. It
+stands to reason that to retain the civic potential for critique---to speak
+truth to power---one must be able to perceive its codification. Traditional
+literary theory must therefore connect to the material contexts of textual
+production which emanate from the fields of computer science and software
+engineering.  Conversely, a tighter coupling with the critical tradition in
+the humanities can reveal the often occluded political implications of
+technological progress, which so often appears in the guise of the apolitical.
+To create a novel algorithm that predicts crime by analyzing social media, for
+example, is also to invite the dystopian possibility of thought and language
+policing, unless, that is, such algorithms remain firmly in public view and
+under continual scrutiny.
+
+[^ln-dna]: See @bok_xenotext:_2015 and @bok_xenotext_2011: "I have been
+striving to write a short verse about language and genetics, whereupon I use a
+'chemical alphabet' to translate this poem into a sequence of DNA for
+subsequent implantation into the genome of a bacterium (in this case, a
+microbe called Deinococcus radiodurans---an extremophile, capable of
+surviving, without mutation, in even the most hostile milieus, including the
+vacuum of outer space)."
+
 ## Thesis and Scope
 
-*Plain Text* tells a story of a major morphological shift affecting culture
-production in general and textuality in particular. If I were to interrupt
-someone in the process of writing something on a computer and ask---Where do
-these words reside?---I would likely receive several conflicting answers in
-response. In some sense, the words reside on the screen, where they appear to
-view. In another sense, they live somewhere within the machine, on remote and
-often hermeneutically sealed surfaces: silicone chips, hard drives, flash
-memory cards. In yet another sense, the visible sign is still further removed
-from the contexts of its production. The word is in the wires.  It spreads
-across servers, routers, and data centers. One no longer reads or writes
-alone. What was once apparent now takes on a more complex shape, stretched
-between surfaces, across time and space. The book---this book, any
-book---gains a new structure. I do not mean the above figuratively. In the
-case of my writing words on a screen, using a keyboard, the text forms a kind
-of a live lattice---a multidimensional grid---which connects the tactile sense
-of the letter beneath my fingers to its optic and electromagnetic traces. All
-of these sensualities are present at once. They incorporate the totality of
-the synchronic text only in aggregate. I cannot consequently pass a note to
-the reader digitally in the same sense that one passes notes in class, on
-paper. It is impossible to give the entire structure over to another. My text
-is irrevocably intertwined with my material contexts; it literally gains
-another shape when recreated under system configurations not fully congruent
-with my own.
+More narrowly, *Plain Text* tells a story of a major morphological shift
+affecting culture production in general and textuality in particular. If I
+were to interrupt someone in the process of writing something on a computer
+and ask---Where do these words reside?---I would likely receive several
+conflicting answers in response. In some sense, the words reside on the
+screen, where they appear to view. In another sense, they live somewhere
+within the machine, on remote and often hermeneutically sealed surfaces:
+silicone chips, hard drives, flash memory cards. In yet another sense, the
+visible sign is still further removed from the contexts of its production. The
+word is in the wires. It spreads across servers, routers, and data centers.
+One no longer reads or writes alone. What was once apparent now takes on a
+more complex shape, stretched between surfaces, across time and space. The
+book---this book, any book---gains a new structure. I do not mean the above
+figuratively. In the case of my writing words on a screen, using a keyboard,
+the text forms a kind of a live lattice---a multidimensional grid---which
+connects the tactile sense of the letter beneath my fingers to its optic and
+electromagnetic traces. All of these sensualities are present at once. They
+incorporate the totality of the synchronic text only in aggregate. I cannot
+consequently pass a note to the reader digitally in the same sense that one
+passes notes in class, on paper. It is impossible to give the entire structure
+over to another. My text is irrevocably intertwined with my material contexts;
+it literally gains another shape when recreated under system configurations
+not fully congruent with my own.
 
 Much of the contemporary anxiety about the intrusion of computational culture
 into the everyday points to this fundamental reshaping of the sign, without
