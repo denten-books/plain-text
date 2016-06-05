@@ -131,9 +131,9 @@ text, the latter defined as "text representation consisting of plain text plus
 added information" [@unicode_consortium_unicode_1990]. The explication of such
 thick content requires thick description, replete with material detail which
 acquires metaphysical significance in practice. The text that edits itself or
-one that collects its own fees necessitates new strategies of interpretation.
+one that collects its own fees necessitates new formalisms and new strategies
+of interpretation.
 
-In this chapter I would like to move us towards a systematic study of format.
 The familiar paper paragraph structure already presents several interesting
 problems for analysis. In claiming typographical space on a page the paragraph
 suggests corresponding mental units. A unit of text becomes also a unit of
@@ -146,45 +146,33 @@ entorhinal grid [@stensola_entorhinal_2012].
 Just like there is nothing inherently paragraph-like in the neural arrangement
 of neurons in the brain, there is also nothing inherently paragraph-like or
 page-like in the arrangement of bits along the surface of electromagnetic
-storage. If we could peek inside the machine, we would see forms and
-structures particular to computational media. The back of the traditional
-paragraph form faces paper. Things get significantly more complicated when the
-same rectangular shape begins to mediate between the mind and the page on one
-side of comprehension, and the page and the machine on the other. The analysis
-of computational forms requires new formalisms and new critical vocabularies
-capable of drawing correspondences between disparate systems of ordering and
-signification. We are at the moment presented with metaphors of order:
-paragraphs, pages, files, and folders. Images of such ordering structures on
-the screen look like their paper counterparts, but they represent other, less
-familiar ordering structures on disk. These ways of ordering are not
-equivalent to each other. They imply differing possibilities and affordances.
-Formats mediate between data structures, transforming one into the other
-according to predefined rules. The projection---content arranged on the
-screen---represents mental image---information stored in the head---which
-becomes inscription---information stored in the machine. The complexity of the
-interface between these disparate symbolisms stems from the fundamental
-incompatibility between incommensurate physicalities. Format specifications
-govern the transference of data structures from one medium into the other, at
-the point of contact between human, symbol, and machine.
+storage. The format translates between disparate systems of ordering and
+signification.[^ln3-symbolisms] We are at the moment presented with metaphors
+of order on the screen: paragraphs, pages, files, and folders. These resemble
+their paper counterparts, but they represent other, less familiar ordering
+structures on disk. These ways of ordering are not equivalent to each other.
+They imply differing possibilities and affordances. Formats mediate between
+data structures, transforming one into the other according to predefined
+rules. The projection---content arranged on the screen---represents mental
+image---information stored in the head---which becomes
+inscription---information stored in the machine. The complexity of the
+transformation stems from the fundamental incompatibility between what the
+media scholar Alexander Galloway calls "incommensurate physicalities.
+[@galloway_interface_2012, viii]" Format specifications govern the
+transference of data structures from one medium into the other, at the point
+of contact between human, symbol, and machine.
 
-[^ln3-symbolisms]: I am interlacing language from Wittgenstein and Alexander
-Galloway. On disparate symbolisms see @wittgenstein_philosophical_1974, 45.
-On incommensurate physicalities see @galloway_interface_2012, viii.
+[^ln3-symbolisms]: See @wittgenstein_philosophical_1974, 45.
 
-Formatting rules facilitate the conversion of machine-readable codes into
-human-readable text. The structure of such transformations governs the
-production, storage, reception, and the dissemination of textual artifacts.
-Despite their formative powers, formats continue to elude the critical gaze
-because our very concept of form, central to literary analysis, has always
-drifted between several contradictory intuitions. The history of formalism, as
-I will outline it in the first part of this chapter, contains within it at
-least these two conflicting ideas about the nature of literary form. Going
-back to the reception of Plato, Hegel, and the Russian formalists, the English
-"form" renders at times the material, outward, and apparent shape of something
-said, written, or pictured. Yet just as often, critics use "form" in the sense
-of a Platonic ideal: abstracted from matter, inward-facing, and in need of
-explication. Form in that sense is closer to the idea of an algorithm or
-formula: it signifies according to implicit rules.
+In this chapter I would like to move us towards a systematic study of format.
+The history of formalism, as I will outline it in the few few sections,
+contains within it at least these two contradictory intuitions about the
+nature of literary form. Going back to the reception of Plato, Hegel, and the
+Russian formalists, the English "form" renders at times the material, outward,
+and apparent shape of something said, written, or pictured. Yet just as often,
+critics use "form" in the sense of a Platonic ideal: abstracted from matter,
+inward-facing, and in need of explication. Form in that sense is closer to the
+idea of an algorithm or formula: it signifies according to implicit rules.
 
 Here, I would like to augment these two senses of form with a third,
 introducing the concept of format into the critical discourse. In the process,
