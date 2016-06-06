@@ -41,13 +41,14 @@ Both require firmware updates and both are governed by codes, political and
 computational. The smoke alarm and the mobile phone connect to the internet.
 They communicate with remote data centers and with each other. And yet, I
 continue to read electronic books as if they were familiar, immutable, and
-passive objects: just books. I think of them as intimate artifacts---friends
-even---wholly known to me, comforting, and warm. The electronic book is none
-of those things. Besides prose, it keeps my memories, pictures, words, sounds,
-and thoughts. It records my reading, sleeping, and consumption habits. It
-tries to sell me things, showing me advertisements for cars, jewelry, and
-pills. It comes with a manual and terms of service. It is my confidant, my
-dealer, my spy.
+passive objects: just books. I think of them<!--does "them" refer to physical
+books or electronic books? Or your phone/smoke alarm? PRP--> as intimate
+artifacts---friends even---wholly known to me, comforting, and warm. The
+electronic book is none of those things. Besides prose, it keeps my memories,
+pictures, words, sounds, and thoughts. It records my reading, sleeping, and
+consumption habits. It tries to sell me things, showing me advertisements for
+cars, jewelry, and pills. It comes with a manual and terms of service. It is my
+confidant, my dealer, my spy.
 
 *Plain Text* is broadly a book about such literary devices. It concerns the
 nature of digital inscription---the material trace that gives rise to textual
@@ -185,16 +186,17 @@ affinity with a particular mode of computational meaning-making. Plain text
 identifies a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." Plain text stands in
 opposition to "fancy text," "text representation consisting of plain text plus
-added information" [@unicode_consortium_unicode_1990]. In the tradition of
-American textual criticism, "plain text" alludes to an editorial method of
-text transcription which is both "faithful to the source" and is "easier to
-read than the original document" [@cook_considerations_1988]. Combining these
-two traditions, I mean ultimately to build a case for a kind of a systematic
-minimalism when it comes to our use of computers---a minimalism that
-privileges access to source materials, ensuring legibility and comprehension.
-I do so in contrast with other available modes of human-computer interaction,
-which instead privilege maximizing system-centric ideals like efficiency,
-speed, performance, or security.
+added information" [@unicode_consortium_unicode_1990].<!--need page number? If
+so, page 9--> In the tradition of American textual criticism, "plain text"
+alludes to an editorial method of text transcription which is both "faithful to
+the text of its source" and is "easier to read than the original document"
+[@cook_considerations_1988].<!--corrected first quote--> Combining these two
+traditions, I mean ultimately to build a case for a kind of a systematic
+minimalism when it comes to our use of computers---a minimalism that privileges
+access to source materials, ensuring legibility and comprehension.  I do so in
+contrast with other available modes of human-computer interaction, which
+instead privilege maximizing system-centric ideals like efficiency, speed,
+performance, or security.
 
 The title further identifies an interpretive stance one can assume in relation
 to the making and the unmaking of literary artifacts. Besides visible content,
@@ -202,18 +204,17 @@ all contemporary documents carry with them a layer of hidden information.
 Originally used for typesetting, that layer affects more than innocuous
 document attributes like "font size" or "line spacing." Increasingly, devices
 that mediate literary activity also embody governing structures. For example,
-the Digital Millennium Copyright act, passed in the United States in 1996,
-goes beyond written injunction to require in some cases the management of
-digital rights (DRM) at the level of hardware. An electronic book governed by
-DRM may subsequently prevent the reader from copying or sharing stored
-content, even for the purposes of academic study.[^ln-dmca] In some
-situations, it may report the reader's activity to the authorities. Attempts
-to silence print through book burning or censorship are viscerally apparent.
-Unlike these, the dominion of computation proceeds by clandestine means.
-Simulated text preserves the outward appearance of print, while concealing the
-material specifics of digital production and distribution. The challenge of
-*Plain Text* will be in the description of such emerging but often occluded
-technological possibilities.
+the Digital Millennium Copyright act, passed in the United States in 1996, goes
+beyond written injunction to require in some cases the management of digital
+rights (DRM) at the level of hardware. An electronic book governed by DRM may
+subsequently prevent the reader from copying or sharing stored content, even
+for the purposes of academic study.[^ln-dmca] In some situations, it may report
+the reader's activity to the authorities. Attempts to silence print through
+book burning or censorship are viscerally apparent.  Unlike these, the dominion
+of computation proceeds by clandestine means.  Simulated text preserves the
+outward appearance of print, while concealing the material specifics of digital
+production and distribution. The challenge of *Plain Text* will be in the
+description of such emerging but often occluded technological possibilities.
 
 ## Theory
 ### Displacement
@@ -274,13 +275,15 @@ onto the material conditions of contemporary intellectual life.
 
 Both Shklovsky and Flusser wrote lucidly about the dynamics of habituation.
 Their work sheds light onto the irresistible compromise at the core of all
-technology---a compromise by which we trade critical understanding for
-comfort. Habit covers the various homes we make for ourselves in the world
-"like a fluffy cotton wool blanket," Flusser wrote: "[i]t smoothes the sharp
-edges of all phenomena that it covers, so that I no longer bump against them,
-but I am able to make use of them blindly." When we sit at our desks, for
-example, we fail to see the "papers and the books that are lying all about."
-We are used to them being there [@flusser_freedom_2003, 13 and 82].
+technology---a compromise by which we trade critical understanding for comfort.
+Habit covers the various homes we make for ourselves in the world "like a
+blanket of cotton wool,"<!--fixed quote; could also have "Habit is like a
+fluffy blanket" from the translation in Vilém Flusser: An Introduction
+(Minnesota UP 2011) 132; PRP--> Flusser wrote: "[i]t smoothes the sharp edges
+of all phenomena that it covers, so that I no longer bump against them, but I
+am able to make use of them blindly." When we sit at our desks, for example, we
+fail to see the "papers and the books that are lying all about." We are used to
+them being there [@flusser_freedom_2003, 13].<!--no ref to p.82 here; PRP-->
 Consequently, we do not parse them as information. Like water that surrounds
 fish, the habituated thing passes into the background of experience. Mediums
 become media. They disappear into the background, cease producing meaning,
@@ -291,10 +294,11 @@ perilous, because those who own the contexts set the terms of engagement.
 Estrangement arrests the process of material concealment. The condition of
 exile allows the displaced to once again transform habituated media into
 meaningful information. In exile, "everything is unusual," Flusser wrote
-[@flusser_does_2011, 81]. The migrant experiences the world as an ex-perience
-[*er-fahrung*], or literally a driving out. Discovery, he concluded "begins as
-soon as the blanket is pulled away," where the familiar objects can pass into
-view again [@flusser_does_2011, 86-7].
+[@flusser_freedom_2003, 81].<!--in FM not "Does Writing Have a Future"; PRP-->
+The migrant experiences the world as an ex-perience [*er-fahrung*], or
+literally a driving out. Discovery, he concluded "begins as soon as the blanket
+is pulled away," where the familiar objects can pass into view again
+[@flusser_does_2011, 86-7].
 
 <!-- perhaps more or less on exile, this is why i am bringing it in and how i
 want you think about it -->
@@ -995,19 +999,19 @@ orientation toward the liminally small. But under no circumstances do I
 advocate working with hypothetical quantities, like molecules, atoms,
 positrons, and so on, which are located beyond the limits of perception. That
 this applied mythology gave us such splendid results in chemistry, should not
-conceal its true nature. Tomorrow, all such explanations of visible through
-the invisible could give way to other hypotheses, as was the case with their
-no less fertile predecessors (elemental spirits, phlogiston, and light ether).
-But the cell, the nucleus, and the chromosome endure as lasting
-accomplishments of microanalysis. I suggest to move as far as a microscope can
-reach, and no further" [@iarkho_metodologia_2006, 363-364]. For Iarkho, the
-most quantitatively inclined of the Russian Formalists, microanalysis involved
+conceal its true nature. Tomorrow, all such explanations of visible through the
+invisible could give way to other hypotheses, as was the case with their no
+less fertile predecessors (elemental spirits, phlogiston, and light ether).
+But the cell, the nucleus, and the chromosome endure as lasting accomplishments
+of microanalysis. I suggest to move as far as a microscope can reach, and no
+further" [@iarkho_metodologia_2006, 363-364]. For Iarkho, the most
+quantitatively inclined of the Russian Formalists, microanalysis involved
 systematic application of statistical methods to the study of literature.
 
-[^ln0-influences]: Works by Finn Brunton, Wendy Chun, Matthew Fuller,
-Alexander Galloway, Lisa Gitelman, Yuk Hui, Helen Nissenbaum, Lev Manovich,
-John Durham Peters, Mary Poovey, and Jonathan Sterne among many others left
-their mark on this text.
+[^ln0-influences]: Works by Finn Brunton, Wendy Chun, Matthew Fuller, Alexander
+Galloway, Lisa Gitelman, Yuk Hui, Helen Nissenbaum, Lev Manovich, John Durham
+Peters, Mary Poovey, and Jonathan Sterne among many others left their mark on
+this text.
 
 [^ln-kittler2]: *Gramophone, Film, Typewriter* ends as follows: "And while
 professors are still reluctantly trading in their typewriters for word
