@@ -298,7 +298,10 @@ meaningful information. In exile, "everything is unusual," Flusser wrote
 The migrant experiences the world as an ex-perience [*er-fahrung*], or
 literally a driving out. Discovery, he concluded "begins as soon as the blanket
 is pulled away," where the familiar objects can pass into view again
-[@flusser_does_2011, 86-7].
+[@flusser_does_2011, 86-7]<!--this is also only quoted in Vilém Flusser: An
+Introduction, their translation; qtd. on page 132; not sure how you want to
+handle the citation, but I added Finger's introduction to the Zotero file;
+PRP-->.
 
 <!-- perhaps more or less on exile, this is why i am bringing it in and how i
 want you think about it -->
@@ -359,15 +362,14 @@ desks---acquire a sense of intelligence of their own. Devices that "watch,"
 "hear," "see," and "think" give rise to object-oriented ontology and the
 internet of things. A new generation of objects clamours for participatory
 intelligence. They claim space in the home, near bed and hearth. Smart phones,
-smart light bulbs, smart thermostats, smart homes, and smart watches, enter
-the networked public sphere in the role of independent agents.[^ln-winner] A
-conversation begins about their personhood: their levels of trust,
-friendships, rights, and accountability [@bohn_living_2004;
-@jianhua_ma_towards_2005; @calverley_android_2006; @hildebrandt_ambient_2007;
-@atzori_smart_2014]. Marx's "table that evolves grotesque ideas out of its
-wooden brain" now becomes Surface and PixelSense, product names of actual
-smart tables made by Microsoft [@marx_captial_1906, 82;
-@wigdor_designing_2009].
+smart light bulbs, smart thermostats, smart homes, and smart watches, enter the
+networked public sphere in the role of independent agents.[^ln-winner] A
+conversation begins about their personhood: their levels of trust, friendships,
+rights, and accountability [@bohn_living_2004; @jianhua_ma_towards_2005;
+@calverley_android_2006; @hildebrandt_ambient_2007; @atzori_smart_2014]. Marx's
+table that "evolves out of its wooden brain grotesque ideas" now becomes
+Surface and PixelSense, product names of actual smart tables made by Microsoft
+[@marx_capital_1906, 82; @wigdor_designing_2009].
 
 If we hope to understand digital culture and especially literature, as
 Friedrich Kittler would write, "under conditions of high technology," we can
@@ -1033,7 +1035,8 @@ post-humanism see for example @winthrop-young_silicon_2000; @wolfe_what_2010,
 [^ln0-manovich]: See @manovich_there_2011, 53-106.
 
 [^ln0-marx]: For more on alienation see the relevant discussion in
-@marx_economic_1964 and @marx_theories_1963.
+@marx_economic_1964 and @marx_theories_1963.<!--Do you want more recent
+editions of these? -->
 
 [^ln-pragmatism]: @ramsey_foundations_2013, 155. The intellectual legacy of
 pragmatism is wide-ranging and diffuse. It is perhaps most pronounced in the
@@ -1081,12 +1084,12 @@ as a three-dimensional rather than a two-dimensional object, with the extra
 dimension extending in time. Similar to Jerome McGann's idea of the "editorial
 horizon." See @mcgann_textual_1991.
 
-[^ln-winner]: See for example: "Writers concerned with with problems of
-technology-out-of-control have frequently echoed Hobbes in suggesting that
-such an artifact---the Leviathan of interconnected technical systems---has a
-soul of its own [...] A ghost appears in the network.  Unanticipated aspects
-of technological structure endow the creation with an anticipated *telos*"
-[@winner_autonomous_1978, 280].
+[^ln-winner]: See for example: "[w]riters concerned with with problems of
+technology-out-of-control have frequently echoed Hobbes in suggesting that such
+an artifact---the Leviathan of interconnected technical systems---has a soul of
+its own [...] A ghost appears in the network.  Unanticipated aspects of
+technological structure endow the creation with an unanticipated *telos*"
+[@winner_autonomous_1978, 280]. <!--fixed quote; PRP-->
 
 [^ln-witt]: @wittgenstein_philosophical_2001, 67-77. For more on the
 connection between Wittgenstein and James see @goodman_james_2004.
