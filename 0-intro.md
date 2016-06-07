@@ -436,29 +436,31 @@ Perpetual exile is otherwise uninhabitable [@flusser_freedom_2003, 81].
 Estrangement thrusts the displaced into the chaos of unsettled existence. With
 time, the displaced make a new home, from which they can once again "receive
 noise as information" and produce meaning. "I am embedded in the familiar,"
-Flusser wrote, "so that I can reach out toward the unfamiliar and create
-things yet unknown" [@flusser_freedom_2003, 12]. The displaced and the settled
-need each other. The dialectics of exile lead to "informed renewal" of shared
-space through what Flusser called a "creative dialogue" between the settled
-and the displaced [@flusser_freedom_2003, 84]. Without the protection of one's
-home, everything turns to noise. Information cannot exist without a dwelling,
-Flusser wrote, "and without information, in a chaotic world, one can neither
-feel nor think nor act" [@flusser_does_2011, 12]. By this dynamic,
-displacement and settlement enter into a continuing dialectic.
+Flusser wrote, "so that I can reach out toward the unfamiliar and create things
+yet unknown" [@flusser_freedom_2003, 12]. The displaced and the settled need
+each other. The dialectics of exile lead to "informed renewal" of shared space
+through what Flusser called a "creative dialogue" between the settled and the
+displaced [@flusser_freedom_2003, 84]. Without the protection of one's home,
+everything turns to noise. Information cannot exist without a dwelling, Flusser
+wrote, "and without information, in a chaotic world, one can neither feel nor
+think nor act" [@flusser_freedom_2003, 12].<!--right page, wrong book;PRP--> By
+this dynamic, displacement and settlement enter into a continuing dialectic.
 
 In *Plain Text*, I model the reciprocal movement to "making strange" on the
 diverse practices of reverse engineering. Similar in method to what Matthew
 Kirschenbaum calls "forensic argumentation," reverse engineering recalls the
-formalist strategy of experiencing the "making of the thing" through careful,
-case study-based reconstructions of textual mechanism.[^ln0-reverse] The
-function of a case study in an engineer's education, as Henry Petroski
-explains in his *Invention by Design*, is to understand the ways by which one
-gets "from thought to thing" [@petroski_invention_1996, 3-7]. From thought to
-thing would be another apt definition of poetics and an alternative subtitle
-to this book. Along with an literary and historical exposition, each of my
-chapters contains at least one literary thought-thing. Each chapter enacts a
-deconstruction---a literal taking apart---of that device. The epistemic object
-is present to challenge the reader's and the author's theoretical intuitions.
+formalist strategy of experiencing the "making of the thing"<!--note, this does
+not appear in Kirschenbaum---are these meant to be scare quotes? A bit unclear;
+PRP--> through careful, case study-based reconstructions of textual
+mechanism.[^ln0-reverse] The function of a case study in an engineer's
+education, as Henry Petroski explains in his *Invention by Design*, is to
+understand the ways by which one gets "from thought to thing"
+[@petroski_invention_1996, 3-7]. From thought to thing would be another apt
+definition of poetics and an alternative subtitle to this book. Along with an
+literary and historical exposition, each of my chapters contains at least one
+literary thought-thing. Each chapter enacts a deconstruction---a literal taking
+apart---of that device. The epistemic object is present to challenge the
+reader's and the author's theoretical intuitions.
 
 Computational poetics, a mode of materialist critique, is concerned with the
 transition of theory into practice. Where "distant reading" and cultural
@@ -476,29 +478,30 @@ which ideals reify and align with specific technological commitments.
 
 The reverse engineering of literary devices reveals that not all texts are
 created equal. In print, traditional distinctions between form and content lie
-flat. The printing press firmly embeds ink into paper, leaving no space
-between type and page. Materially-minded critics like Johanna Drucker,
-Katherine Hayles, and Jerome McGann have urged literary scholars to
-re-evaluate textuality in its media-specific contexts [@drucker_digital_2001;
+flat. The printing press firmly embeds ink into paper, leaving no space between
+type and page. Materially-minded critics like Johanna Drucker, Katherine
+Hayles, and Jerome McGann have urged literary scholars to re-evaluate
+textuality in its media-specific contexts [@drucker_digital_2001;
 @mcgann_radiant_2001; @hayles_print_2004]. Their work reminds us that the
 flatness of digital text endures only in the guise of an illusion. Low-level
-operational intuitions governing textuality---ideas about form, content,
-style, letter, and word---change profoundly as text shifts its confines from
-paper to pixel. A substantial gap separates the visible text from the medium
-where it is stored. Pixels on a screen are literally removed from the
-electromagnetic trace on the hard drive. The two sites of textuality---the
-visible image and the archived inscription---do not come into direct contact.
-The space between gives ground to more text, of the kind that specifies rules
-for transformation: from one medium, solid state storage, to another, the
-liquid crystal display. These rules contain the essence of control, before
-ideology, at the level of infrastructure. Censorship filters and surveilling
-apparatus are some of the starkest examples of governance that occupy the
-space between storage and presentation: what the text is and what it appears
-to be. I propose we begin with this obvious sense of difference between paper
-and digital text: where print is governed by law from without, think for
-example of the Obscene Publication Acts in Victorian England, digital text is
-governed by code, capable of executing its edicts from within
-[@mccalman_unrespectable_1984; @roberts_morals_1985]. In this way governance
+operational intuitions governing textuality---ideas about form, content, style,
+letter, and word---change profoundly as text shifts its confines from paper to
+pixel. A substantial gap separates the visible text from the medium where it is
+stored. Pixels on a screen are literally removed from the electromagnetic trace
+on the hard drive. The two sites of textuality---the visible image and the
+archived inscription---do not come into direct contact.  The space between
+gives ground to more text, of the kind that specifies rules for transformation:
+from one medium, solid state storage, to another, the liquid crystal display.
+These rules contain the essence of control, before ideology, at the level of
+infrastructure. Censorship filters and surveilling apparatus are some of the
+starkest examples of governance that occupy the space between storage and
+presentation: what the text is and what it appears to be. I propose we begin
+with this obvious sense of difference between paper and digital text: where
+print is governed by law from without, think for example of the Obscene
+Publication Acts in Victorian England, digital text is governed by code,
+capable of executing its edicts from within [@mccalman_unrespectable_1984;
+@roberts_morals_1985].<!--Should this footnote include a short quote from one
+fo the sources? It might help clarify the point; PRP--> In this way governance
 intertwines with text to become an organ in the same unified corpus.
 
 Changing material conditions of textual transmission push against familiar
@@ -560,10 +563,15 @@ such composite tropes attain a measure of similarity to the physical realities
 of typing, editing, and archiving paper. Simulated erasure for example, of the
 kind that happens when the writer presses the delete key, does not necessarily
 entail the corresponding erasure of content on the disk. The erased word could
-persist and even multiply across other storage drives and devices. In the
-worst case, the connection between keyboards and screens suffers from
-intractable "man-in-the-middle" attacks, by which third parties maliciously
-alter the content of intended communication [@needham_using_1978].
+persist and even multiply across other storage drives and devices. In the worst
+case, the connection between keyboards and screens suffers from intractable
+"man-in-the-middle" attacks, by which third parties maliciously alter the
+content of intended communication [@needham_using_1978].<!--the combination of
+phrasing and citation here is a bit confusing/misleading: where does encryption
+of transmitted messages come into the "connection between keyboards and
+screens"? It isn't yet clear how man-in-the-middle attacks relate to this---you
+might either explain more or get into the issue of secure communications
+elsewhere, imo. PRP-->
 
 In this book, I will argue that some of the higher-level political afflictions
 of the contemporary public sphere---mass surveillance and online censorship,
@@ -587,10 +595,11 @@ literary artifact.[^ln0-levine] The political struggle for meaning-making, the
 very opportunity to engage in the act of interpretation, thus begins and ends
 with the material affordances of the epistemic artifact.
 
-[^ln0-levine]: Affordances, as Caroline Levine explains, "describe potential
-uses or actions latent in materials and designs." For example, glass affords
-transparency where steel affords strength [@levine_forms:_2015, 6].  See also
-@hutchby_technologies_2001, 447.
+[^ln0-levine]: Affordances, as Caroline Levine explains, "describe the
+potential uses or actions latent in materials and designs." For example,
+"[g]lass affords transparency" where "[s]teel affords strength"
+[@levine_forms:_2015, 6].  See also @hutchby_technologies_2001, 447.<!--fixed
+first quote, added quotation marks thereafter for verbatim language. PRP-->
 
 It is easy to forget the blunt effectiveness of physical control in the global
 North-west. Books that are burned or redacted cannot be read at all.
@@ -663,12 +672,13 @@ and new media studies take root.
 
 ## Method
 
-> We cannot separate the two things, head and hand [...] the science of life
-> is a superb and dazzlingly lighted hall which may be reached only by passing
-> through a long and ghastly kitchen [...] We shall reach really fruitful and
-> luminous generalizations about vital phenomena only in so far as we
-> ourselves experiment and, in hospitals, amphitheaters, or laboratories stir
-> the fetid or throbbing ground of life [@bernard_introduction_1957, 3-15].
+> We cannot separate the two things: head and hand [...] the science of life
+> [...] is a superb and dazzlingly lighted hall which may be reached only by
+> passing through a long and ghastly kitchen [...] [W]e shall reach really
+> fruitful and luminous generalizations about vital phenomena only in so far as
+> we ourselves experiment and, in hospitals, amphitheaters, or laboratories,
+> stir the fetid or throbbing ground of life [@bernard_introduction_1957,
+> 3,15].<!--fixed quote. PRP-->
 
 My approach to writing *Plain Text* stems from the desire to enact theory
 capable of addressing the grim picture Friedrich Kittler paints at the end of
@@ -681,26 +691,26 @@ statement of fact but the articulation of a question: What can one do to
 counteract technological determinism? In what follows, I outline several
 intellectual lineages, materialist and experimental, which frame my answer.
 
-Critical theory at its best aims to see "the human bottom of non-human things"
-[@horkheimer_critical_1982, 143]. As such, it is one of our most powerful
-tools for analysis and resistance against technological determinism. As Max
-Horkheimer wrote, "the issue is not simply the theory of emancipation; it is
+Critical theory at its best aims to see "the human bottom of nonhuman things"
+[@horkheimer_critical_1982, 143]. As such, it is one of our most powerful tools
+for analysis and resistance against technological determinism. As Max
+Horkheimer wrote, the issue "is not simply the theory of emancipation; it is
 the practice of it as well" [@horkheimer_critical_1982, 233]. Recently,
 scholars like Kathleen Fitzpatrick, Tiziana Terranova, and Trebor Scholz have
-began to turn the tools of critical theory towards the instrumental contexts
-of knowledge production [@scholz_digital_2013; @fitzpatrick_planned_2011;
-@terranova_network_2004]. I join them to argue that in treating the
-instruments of intellectual production and consumption uncritically, all of
-us---readers and writers---accumulate an ethical debt. It is one thing to
-theorize about the free movement of literary tropes across cultures and
-continents, and quite another to have that theory appear in print behind
-paywalls inaccessible to most global reading publics.[^ln-sarab] Similarly, a
-theoretical distinction between form and content, when instantiated in
-specific file formats like Microsoft Word (`.docx`) or Adobe Reader (`.pdf`),
-establishes divisions of labor between editors, book sellers, and offshore
-typesetting firms.[^ln-sweatshop] One group trades content in the economy of
-prestige, another formatting in the economy of survival, and yet another
-controls distribution in the market economy.
+began to turn the tools of critical theory towards the instrumental contexts of
+knowledge production [@scholz_digital_2013; @fitzpatrick_planned_2011;
+@terranova_network_2004]. I join them to argue that in treating the instruments
+of intellectual production and consumption uncritically, all of us---readers
+and writers---accumulate an ethical debt. It is one thing to theorize about the
+free movement of literary tropes across cultures and continents, and quite
+another to have that theory appear in print behind paywalls inaccessible to
+most global reading publics.[^ln-sarab] Similarly, a theoretical distinction
+between form and content, when instantiated in specific file formats like
+Microsoft Word (`.docx`) or Adobe Reader (`.pdf`), establishes divisions of
+labor between editors, book sellers, and offshore typesetting
+firms.[^ln-sweatshop] One group trades content in the economy of prestige,
+another formatting in the economy of survival, and yet another controls
+distribution in the market economy.
 
 <!-- insert materialist critique sentence elsewhere -->
 
@@ -710,19 +720,20 @@ material contexts. Similarly, a materialist critique cannot achieve its stated
 aims without purchase on the material world. Contemporary knowledge workers
 stare into rectangular black boxes for a considerable part of their days,
 suspecting, in the absence of other feedback, that their gaze is met in bad
-faith. Connecting theories of meaning-making to their practice offers a way
-out of the conundrum. Bad faith identifies a misalignment between thought and
+faith. Connecting theories of meaning-making to their practice offers a way out
+of the conundrum. Bad faith identifies a misalignment between thought and
 action.[^ln-sartre] The solution to connect "meaning" with "operational
 meaning" belongs to a species of pragmatism.  William James articulated the
 approach concisely when he wrote that "reality is seen to be grounded in a
-perfect jungle of concrete expediencies" [@james_pragmatisms_1907]. For James
-and other pragmatists, truth could not exist in the abstract alone. It also
-entailed causes and effects that operate in the world.[^ln-pragma-truth] In
-his essay "Pragmatism's Conception of Truth," James asked: "How will the truth
-be realized? What concrete difference will its being true make in anyone's
-actual life? What experiences will be different from those which would obtain
-if the belief were false?" Frank Ramsey, the young British philosopher close
-to Ludwig Wittgenstein would later write in a similar vein about meaning
+perfect jungle of concrete expediencies" [@james_pragmatisms_1907 233]. For
+James and other pragmatists, truth could not exist in the abstract alone. It
+also entailed causes and effects that operate in the world.[^ln-pragma-truth]
+In his essay "Pragmatism's Conception of Truth," James asked: "How will the
+truth be realized? [...] [W]hat concrete difference will its being true make in
+anyone's actual life? [...] What experiences will be different from those which
+would obtain if the belief were false?"[@james_pragmatisms_1907 200] <!--fixed
+quote, added citation. PRP-->Frank Ramsey, the young British philosopher close
+to Ludwig Wittgenstein, would later write in a similar vein about meaning
 "defined by reference to the actions."[^ln-pragmatism]
 
 For a pragmatist, truth-carrying propositions of the shape "X is Y" (as in,
@@ -758,10 +769,12 @@ field of early modern history consider the preface to a recent volume on *Ways
 of Making and Knowing*, edited by Pamela Smith, Amy Meyers, and Harold Cook.
 They write that the "history of science is not a history of concepts, or at
 least not that alone, but a history of the making and using of objects to
-understand the world" [@smith_ways_2014, 12]. Smith translates that insight in
-the laboratory, where, together with her students, she bakes bread and smelts
-iron to recreate long-lost artisanal techniques. For those who experiment,
-"book knowledge" and "artifactual knowledge" connect in practice.
+understand the world" [@smith_ways_2014, 12].<!-- I will need to find a
+physical copy to verify this. Assume OK unless I circle back PRP --> Smith
+translates that insight in the laboratory, where, together with her students,
+she bakes bread and smelts iron to recreate long-lost artisanal techniques. For
+those who experiment, "book knowledge" and "artifactual knowledge" connect in
+practice.
 
 Artifactual knowledge---from typesetting software to e-book readers and word
 processors---shapes our everyday encounter with literature. Such technologies
@@ -1040,17 +1053,19 @@ editions of these? -->
 
 [^ln-pragmatism]: @ramsey_foundations_2013, 155. The intellectual legacy of
 pragmatism is wide-ranging and diffuse. It is perhaps most pronounced in the
-teacher colleges, where James and Dewey are still read widely, which could
+teachers colleges, where James and Dewey are still read widely, which could
 explain the ascendancy of such pedagogical terms as "situated
 cognition"[@brown_situated_1988, @lave_situated_1991] and "experiential
-learning"[@kolb_hegel_1981]: both terms denoting some sense of necessary
-synthesis between of knowing and doing. In the field of linguistics,
-philosophy of language, and communication studies, pragmatics are
-well-encapsulated by the "language-as-action tradition," which harkens back to
-the Oxford language philosophers like J.L. Austin, Paul Grice, and John Searle
+learning"[@kolb_hegel_1981]: both terms denote some sense of necessary
+synthesis between of knowing and doing. In the field of linguistics, philosophy
+of language, and communication studies, pragmatics are well-encapsulated by the
+"language-as-action tradition," which harkens back to the Oxford language
+philosophers like J.L. Austin, Paul Grice, and John Searle
 [@trueswell_approaches_2005]. Austin's *How to Do Things with Words,* is
 perhaps the paradigmatic formulation of the idea that words don't just mean
-things, but that they enact change in the world.
+things, but that they enact change in the world.<!--I'm not sure this footnote
+is needed. Is anyone else writing about pragmatism and modern communication
+specifically? PRP-->
 
 [^ln-pragma-truth]: For a more thorough discussion on the topic see
 @seigfried_william_1990, @pihlstrom_structuring_1996, and @putnam_jamess_1997.
@@ -1079,9 +1094,9 @@ engineering in media studies see also @fuller_evil_2012, 9.
 appears in the idea of "vectoralist class" coined by McKenzie Wark. By
 "vectoralist class" Wark means something like the group of interests that
 control the distribution of information. See for example
-@wark_information_2006. In understanding the document as a vector I posit it
-as a three-dimensional rather than a two-dimensional object, with the extra
-dimension extending in time. Similar to Jerome McGann's idea of the "editorial
+@wark_information_2006. In understanding the document as a vector I posit it as
+a three-dimensional rather than a two-dimensional object, with the extra
+dimension extending in time, similar to Jerome McGann's idea of the "editorial
 horizon." See @mcgann_textual_1991.
 
 [^ln-winner]: See for example: "[w]riters concerned with with problems of
