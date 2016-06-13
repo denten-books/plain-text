@@ -72,10 +72,10 @@ production which emanate from the fields of computer science and software
 engineering. Conversely, a tighter coupling with the critical tradition in the
 humanities can reveal the often occluded political implications of
 technological progress, which so often appears in the guise of the apolitical.
-To create a novel algorithm that predicts crime by analyzing social media, for
-example, is also to invite the dystopian possibility of thought and language
-policing, unless, that is, such algorithms remain firmly in public view and
-under continual scrutiny.
+To create a novel algorithm that predicts crime by analyzing one's reading
+habits, for example, is also to invite the dystopian possibility of thought
+policing, unless, that is, such algorithms remain legible, in public view, and
+under continual counter-scrutiny.
 
 [^ln-dna]: See @bok_xenotext:_2015 and @bok_xenotext_2011: "I have been
 striving to write a short verse about language and genetics, whereupon I use a

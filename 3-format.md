@@ -191,47 +191,52 @@ encoded rules of reader engagement: what can be read, how, and where.
 The intellectual history of formalist literary theory contains within it at
 least these two distinct and contradictory ideas about form: one about the
 outward shape of the sign and another about the inward structure or formula
-that governs semiosis. The distinction leads to several conflicting strategies
-of interpretation. Taken in the sense of "outward shape," form suggests the
-affective aesthetics or even "erotics" of art [@sontag_against_1966]. In this
-view, the sign is forever embedded into the specific contexts of inscription,
-or alternatively, in the contexts of its reception. The individual peculiarity
-of the word in context makes it forever different from the same word on a
-different page. Formalism in this sense is concerned with the distinctive,
-palpable, and outward physical attributes of a text. Understood as formula,
-form suggests a more analytical approach, aimed at explicating the inward
+that governs semiosis.
+
+The distinction leads to several conflicting strategies of interpretation.
+Taken in the sense of "outward shape," form suggests the affective aesthetics
+or even "erotics" of art [@sontag_against_1966]. In this view, the sign is
+forever embedded into the specific contexts of inscription, or alternatively,
+in the contexts of its reception. The individual peculiarity of the word in
+context makes it forever different from the same word on a different page.
+Formalism in this sense is concerned with the distinctive, palpable, and
+outward physical attributes of a text. Understood as formula, form suggests a
+more analytical approach, aimed at explicating the inward
 structures---universal rules, patterns, and archetypes---that shape the
 production of text from within. Formal analysis so conceived studies not
 specific traces or utterances, but rather the development of ideal forms,
-which exist somewhat independently of their specific instantiations. Form in
-the sense of formula embodies an abstraction, leading to generalized
-historical categories like genre and period. Our ideas about "the novel," for
-example, or "modernism," or "post-colonial theory" reflect formal groupings of
-that kind. The genre "science fiction" indicates an abstract collection of
-specific literary works in that genre. Where palpable form leads to immanent
-material artifacts, the abstracted notion of form leads to transcendent ideal
-categories.
+which exist somewhat independently of their specific
+instantiations.[^ln3-levine] Form in the sense of formula embodies an
+abstraction, leading to generalized historical categories like genre and
+period.[^ln3-gitelman] Our ideas about "the novel," for example, or
+"modernism," or "post-colonial theory" reflect formal groupings of the kind
+Lisa Gitelman has called "a mode of recognition instantiated in discourse"
+[@gitelman_paper_2014, loc224]. The genre "science fiction" indicates an
+abstract collection of specific literary works in that genre. Where palpable
+form leads to immanent material artifacts, the abstracted notion of form leads
+to transcendent ideal categories.
+
+[^ln3-levine]: See the Introduction to @levine_forms:_2015, for example.
 
 The notion of a "format" occupies the conceptual space somewhere between form
-as intrinsic formula and form as extrinsic shape. In what remains a singular
-article-length treatment on the topic in literary studies, G. Thomas Tanselle
-approaches the concept of formatting from the point of view of textual
-criticism---the practice of compiling, editing, annotating, preserving, and
-publishing scholarly critical editions of canonical texts. For Tanselle's
-purposes, the concept of formatting addresses narrowly something like "the
-number of page units placed on the press at one time" [@tanselle_concept_2000,
-112-3]. He acknowledges, however, that more broadly speaking, formats refer
-also to the "nature and the order of the contents" [@tanselle_concept_2000,
-67-8]. In this way, soap operas refer to a format for daytime television. The
-format of a journal may be "broadsheet daily" or "tabloid." We could also say
-that a soap opera is a kind of a *genre* for television, just like the tabloid
-is also in some sense a genre for print publication. Unlike "genre" however,
-the notion of formats identifies matter both of particular shape and content.
-The soap opera is a kind of a daytime melodrama of a certain length, for
-example. It has certain audiences in mind. The format thus speaks both to the
-physical properties and to the ideational subject matter of the thing. The
-novel is a genre, where the paperback its common format. The novel is
-infinitely malleable, where the paperback is fixed by its methods of
+as intrinsic formula and form as extrinsic shape. In what remains, to my
+knowledge, a singular article-length treatment on the topic in literary
+studies, G. Thomas Tanselle approaches the concept of formatting from the
+point of view of textual criticism---the practice of compiling, editing,
+annotating, preserving, and publishing scholarly critical editions of
+canonical texts. For Tanselle's purposes, the concept of formatting addresses
+narrowly something like "the number of page units placed on the press at one
+time" [@tanselle_concept_2000, 112-3]. He acknowledges, however, that more
+broadly speaking, formats refer also to the "nature and the order of the
+contents" [@tanselle_concept_2000, 67-8]. In this way, "soap opera" evokes
+both a medium, daytime television and the specific kind of a story told in
+that medium, pulp. The format of a journal may be "broadsheet daily" or
+"tabloid." The notion of a format identifies matter both of particular shape
+and content.  The soap opera is a kind of a daytime melodrama of a certain
+length, for example. It has certain audiences in mind.  The format thus speaks
+both to the physical properties and to the ideational subject matter of the
+thing. The novel is a genre, where the paperback its common format. The novel
+is infinitely malleable, where the paperback is fixed by its methods of
 manufacturing and distribution. We do not expect scientific textbooks in
 paperback, for example, just as we would not expect tabloids to be printed on
 expensive stock or to support long-form investigative journalism. The format
