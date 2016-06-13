@@ -76,7 +76,7 @@ habits, for example, is also to invite the dystopian possibility of thought
 policing, unless, that is, such algorithms remain legible, in public view, and
 under continual counter-scrutiny.
 
-[^ln-dna]: See @bok_xenotext:_2015 and @bok_xenotext_2011: "I have been
+[^ln-dna]: See @bok_xenotext_2011 and @bok_xenotext:_2015: "I have been
 striving to write a short verse about language and genetics, whereupon I use a
 'chemical alphabet' to translate this poem into a sequence of DNA for
 subsequent implantation into the genome of a bacterium (in this case, a
@@ -360,7 +360,7 @@ rights, and accountability [@bohn_living_2004; @jianhua_ma_towards_2005;
 @calverley_android_2006; @hildebrandt_ambient_2007; @atzori_smart_2014]. Marx's
 table that "evolves out of its wooden brain grotesque ideas" now becomes
 Surface and PixelSense, product names of actual smart tables made by Microsoft
-[@marx_capital_1906, 82; @wigdor_designing_2009].
+[@marx_capital:_1906, 82; @wigdor_designing_2009].
 
 If we hope to understand digital culture and especially literature, as
 Friedrich Kittler would write, "under conditions of high technology," we can
