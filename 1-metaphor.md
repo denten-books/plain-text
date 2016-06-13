@@ -17,9 +17,7 @@ precisely in the totalizing mediation of code:
 > find the digital and programmatic sign, whose "value" is purely *tactical*,
 > at the intersection of other signals ("bits" of information/tests) whose
 > structure is that of a micromolecular code of command and control
-> [@baudrillard_symbolic_1988, 139-140].<!--wrong text. PRP-->
-
-<!-- check the page numbers -->
+> [@baudrillard_symbolic_1988, 139-140].
 
 My concern here is with the structure of code, the programmatic sign, which
 splits its energies between the screen and hard drive. On the screen, at the
@@ -177,13 +175,11 @@ The idea that "good things are up" generates a multitude of metaphors like
 "profits are going up" and "moving on up," for example
 [@lakoff_metaphorical_1980, 195-198].
 
-!["An exemplary interface for viewing a three dimensional book"
-.](images/book-metaphor.png)[@card_methods_2006, 3]<!--note, doc build crashes
-with footnote in caption. See https://github.com/jgm/pandoc/issues/1506 for
-detail-->
+!["An exemplary interface for viewing a three dimensional
+book."](images/book-metaphor.png)[@card_methods_2006, 3]
 
-!["Alternate display techniques for information about a big book"
-.](images/book-3d.png)[@card_methods_2006,4]
+!["Alternate display techniques for information about a big
+book."](images/book-3d.png)[@card_methods_2006,4]
 
 In the cognitive view, the metaphor performs a number of "conventional
 mappings from one domain to another" [@lakoff_contemporary_1998, 239]. Lakoff
@@ -208,23 +204,18 @@ document and its icon, for example---are further referred to as *structural
 metaphors*. "Structural metaphors allow us to do much more than just orient
 concepts," Lakoff and Johnson wrote in the 1980s. Grounded in "systematic
 correlations within our experience," structural metaphors transfer organizing
-principles from one domain to another.[@lakoff_metaphors_1980, 61] Thus to say
-"the world is our oyster" is to suggest that something in our approach to
+principles from one domain to another [@lakoff_metaphors_1980, 61-8]. Thus to
+say "the world is our oyster" is to suggest that something in our approach to
 interacting with oysters, likely in a gastronomical situation, resembles our
-approach to life [C.f. @lakoff_metaphors_1980, 65-8].<!--The citation makes it
-sound like the oyster thing is Lakoff's/Johnson's, but they talk about
-time/labor/resource. PRP--> The ease of eating one transfers to the ease of
-living in the other. The transferred property implies not just a semantic
-similarity, one of meaning, but a structural one, one of interface. The
-metaphor suggests the world is arranged like an oyster somehow, that it can be
-cracked, and that it contains a tasty hidden morsel within. In this way,
-structural metaphors organize one thing in the shape of another. They are tools
-for extending insight from a known domain to a lesser known one, holding great
-explanatory and exploratory power where simple things like oysters shed light
-on complex things like worlds.
-
-<!-- check on structural metaphors to make sure world-oyster is the correct
-example -->
+approach to life. The ease of eating one transfers to the ease of living in
+the other. The transferred property implies not just a semantic similarity,
+one of meaning, but a structural one, one of interface. The metaphor suggests
+the world is arranged like an oyster somehow, that it can be cracked, and that
+it contains a tasty hidden morsel within. In this way, structural metaphors
+organize one thing in the shape of another. They are tools for extending
+insight from a known domain to a lesser known one, holding great explanatory
+and exploratory power where simple things like oysters shed light on complex
+things like worlds.
 
 In their capacity for exploration and explanation, metaphor machines present
 us with a special case of conceptual domain blending in that they enact,
@@ -978,9 +969,6 @@ illusion. By contrast, the fully immersive model supports the "sensation of
 directness," in which direct, that is iconic, expressions, "behave in such a
 way that a user can assume that they, in some sense, *are* the things they
 refer to" [@hutchins_direct_1986, 110].
-
-<!-- ![Direct manipulation of simulated objects,
-1984.](images/minsky.png)[@minsky_manipulating_1984, 199] -->
 
 !["ViewPoint screen image." On screen menus for the Xerox 6085 Daybreak
 workstation, 1985.](images/xerox_star.png)[@johnson_xerox_1989, 13]
