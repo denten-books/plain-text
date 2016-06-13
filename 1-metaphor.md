@@ -17,7 +17,7 @@ precisely in the totalizing mediation of code:
 > find the digital and programmatic sign, whose "value" is purely *tactical*,
 > at the intersection of other signals ("bits" of information/tests) whose
 > structure is that of a micromolecular code of command and control
-> [@baudrillard_simulacra_1994, 139-140].
+> [@baudrillard_symbolic_1988, 139-140].<!--wrong text. PRP-->
 
 <!-- check the page numbers -->
 
@@ -141,8 +141,8 @@ practice. Consider the following passage from a patent filed by Xerox in 1991.
 It describes, in its own words, "an electronic library metaphor," which
 includes:
 
-> a shared books with database metaphor, a reference books metaphor, and a
-> card catalog metaphor in one system that allows large object oriented data
+> a shared books with data base metaphor, a reference books metaphor, and
+> a card catalog metaphor in one system that allows large object oriented data
 > bases to be organized and accessed in an exclusive environment and in
 > addition allows access to screen icons, creates a visual hierarchy of
 > related and shared objects, and allows mutually exclusive access to the
@@ -163,25 +163,27 @@ In the so-called classical view, metaphors are simply a type of figurative
 language. To say "the day stands tiptoe on the misty mountain tops" is to use
 the verb "stand" in a novel linguistic context. Days have no literal legs to
 stand on. John Searle, George Lakoff, and Mark Turner, among others, have
-argued that metaphors are more broadly a cognitive phenomenon, mapping
-distinct ontological categories across "conceptual domains"
-[@lakoff_metaphors_1980; @turner_death_1987; @lakoff_contemporary_1998,
-@searle_metaphor_1998]. In the modified view, even such basic semantic
-concepts as "state, quantity, action, cause, purpose, means, modality" are
-metaphorical in nature [@lakoff_metaphorical_1980; @lakoff_contemporary_1998,
-212]. Lakoff and others have further argued that beyond figurative, lyrical
-language, metaphors more broadly structure everyday experience. Thus the
-analysis of common phrases like "things are looking up" and "I can't get that
-tune out of my mind" reveals the underlying figuration like "good things are
-up" and "the mind is a container." The idea that "good things are up"
-generates a multitude of metaphors like "profits are going up" and "moving on
-up," for example [@lakoff_metaphorical_1980, 195-198].
+argued that metaphors are more broadly a cognitive phenomenon, mapping distinct
+ontological categories across "conceptual domains" [@lakoff_metaphors_1980;
+@turner_death_1987; @lakoff_contemporary_1998, @searle_metaphor_1998]. In the
+modified view, even such basic semantic concepts as "quantity, state, change,
+action, cause, purpose, means, modality" are metaphorical in nature
+[@lakoff_metaphorical_1980; @lakoff_contemporary_1998, 212]. Lakoff and others
+have further argued that beyond figurative, lyrical language, metaphors more
+broadly structure everyday experience. Thus the analysis of common phrases like
+"things are looking up" and "I can't get that tune out of my mind" reveals the
+underlying figuration like "good things are up" and "the mind is a container."
+The idea that "good things are up" generates a multitude of metaphors like
+"profits are going up" and "moving on up," for example
+[@lakoff_metaphorical_1980, 195-198].
 
 !["An exemplary interface for viewing a three dimensional book"
-[@card_methods_2006, 3].](images/book-metaphor.png)
+.](images/book-metaphor.png)[@card_methods_2006, 3]<!--note, doc build crashes
+with footnote in caption. See https://github.com/jgm/pandoc/issues/1506 for
+detail-->
 
 !["Alternate display techniques for information about a big book"
-[@card_methods_2006,4].](images/book-3d.png)
+.](images/book-3d.png)[@card_methods_2006,4]
 
 In the cognitive view, the metaphor performs a number of "conventional
 mappings from one domain to another" [@lakoff_contemporary_1998, 239]. Lakoff
@@ -204,20 +206,22 @@ conversation.
 The kind of resemblances that we have been discussing so far---between the
 document and its icon, for example---are further referred to as *structural
 metaphors*. "Structural metaphors allow us to do much more than just orient
-concepts," Lakoff and Johnson wrote in the 1980s [@lakoff_metaphors_1980, 61].
-Grounded in "systematic correlations within our experience," structural
-metaphors transfer organizing principles from one domain to another. Thus to
-say "the world is our oyster" is to suggest that something in our approach to
+concepts," Lakoff and Johnson wrote in the 1980s. Grounded in "systematic
+correlations within our experience," structural metaphors transfer organizing
+principles from one domain to another.[@lakoff_metaphors_1980, 61] Thus to say
+"the world is our oyster" is to suggest that something in our approach to
 interacting with oysters, likely in a gastronomical situation, resembles our
-approach to life [@lakoff_metaphors_1980, 65-8]. The ease of eating one
-transfers to the ease of living in the other. The transferred property implies
-not just a semantic similarity, one of meaning, but a structural one, one of
-interface. The metaphor suggests the world is arranged like an oyster somehow,
-that it can be cracked, and that it contains a tasty hidden morsel within. In
-this way, structural metaphors organize one thing in the shape of another.
-They are tools for extending insight from a known domain to a lesser known
-one, holding great explanatory and exploratory power where simple things like
-oysters shed light on complex things like worlds.
+approach to life [C.f. @lakoff_metaphors_1980, 65-8].<!--The citation makes it
+sound like the oyster thing is Lakoff's/Johnson's, but they talk about
+time/labor/resource. PRP--> The ease of eating one transfers to the ease of
+living in the other. The transferred property implies not just a semantic
+similarity, one of meaning, but a structural one, one of interface. The
+metaphor suggests the world is arranged like an oyster somehow, that it can be
+cracked, and that it contains a tasty hidden morsel within. In this way,
+structural metaphors organize one thing in the shape of another. They are tools
+for extending insight from a known domain to a lesser known one, holding great
+explanatory and exploratory power where simple things like oysters shed light
+on complex things like worlds.
 
 <!-- check on structural metaphors to make sure world-oyster is the correct
 example -->
@@ -232,14 +236,14 @@ they operate in action, at hand. John Carrol, one of the pioneers in the field
 of human-computer interaction, summarized the role of metaphors in the design
 of computing systems as follows:
 
-> Professional programmers might learn a new system X by metaphorizing at
-least initially from what they already know about system Y. More casual or
-naive end-users might rely on metaphors drawn from more distant knowledge
-domains, e.g. on what they have already learned about electric typewriters.
-The implications of this proposal are simple and direct. If people employ
-metaphors in learning about computing systems, the designers of those systems
-should anticipate and support likely metaphorical constructions to increase
-the ease of learning and using the system [@carroll_metaphor_1982, 107-108].
+> Professional programmers might learn a new system X by metaphorizing at least
+initially from what they already know about system Y. More casual or naive
+end-users might rely on metaphors drawn from more distant knowledge domains,
+e.g. on what they have already learned about electric typewriters. [...] The
+implications of this proposal are simple and direct. If people employ metaphors
+in learning about computing systems, the designers of those systems should
+anticipate and support likely metaphorical constructions to increase the ease
+of learning and using the system [@carroll_metaphor_1982, 107-108].
 
 In essence, Carroll imagines human-computer interfaces that incorporate
 Lakoff's and Johnson's "conceptual blending" in practice. In this way, the
@@ -253,11 +257,11 @@ desktop interfaces in the 1980s and today, echoes Carroll's proscriptions:
 using metaphors to convey concepts and features of your application. Use
 metaphors involving concrete, familiar ideas and make the metaphors plain, so
 that users have a set of expectations to apply to computer environments.  For
-example, people often use folders to store paper documents in their offices.
-Therefore, it makes sense to people to store computer documents in
-computer-generated folders that look like files and folders. People can
-organize their hard disks in a way that's analogous to the way they organize
-their file cabinets [@apple_apple_1987, 4].
+example, people often use file folders to store paper documents in their
+offices. Therefore, it makes sense to people to store computer documents in
+computer-generated folders that look like file folders. People can organize
+their hard disks in a way that's analogous to the way they organize their file
+cabinets [@apple_apple_1987, 4].
 
 Apple's designers understood that the mapping of concepts between the physical
 and the computer-generated worlds is imperfect. For example, unlike a
@@ -276,16 +280,15 @@ vehicle.
 
 A number of patents from IBM, Xerox, and Microsoft similarly evoke the logics
 of structural metaphor and domain blending. Consider US Patent #5,907,854 by
-Paula J. Cox et.al. of International Business Machines. The invention
-describes "a library metaphor that allows a user to organize the online books
-in a manner that has meaning and utility." The authors continue to explain
-that "while the actual books may be stored in many separate and distinct
-locations [...] the bookcase provides a familiar classification system."
-Further, they write that the creation of bookcase metaphors must involve "the
-creation of appropriate links to the actual online book/bookshelf/bookcase."
-The "book metaphor" ultimately "provides an easy to understand and intuitive
-model for a user who might not be familiar with on-line viewing tools"
-[@cox_method_1999].
+Paula J. Cox et.al. of International Business Machines. The invention describes
+"a library metaphor that allows a user to organize the online books in a manner
+that has meaning and utility." The authors continue to explain that while "the
+actual books may be stored in many separate and distinct locations [...] the
+bookcase provides a familiar classification system." Further, they write that
+the creation of bookcase metaphors must involve "the creation of appropriate
+links to the actual online book/bookshelf/bookcase." The "book metaphor"
+ultimately "provides an easy to understand and intuitive model for a user who
+might not be familiar with on-line viewing tools" [@cox_method_1999].
 
 Another metaphor machine can be found in the collaboration between the
 influential product design firm IDEO and Xerox in the 1990s. The two worked on
@@ -295,7 +298,7 @@ elements of the metaphor" contained in the image of "tabs" and "catalogs."
 "The book *cover*," they wrote, "opened to display three *rings* binding a set
 of divider *tabs*, each containing one or more *pages*." Pages, in turn
 contained *items* or "icons representing documents or applications"
-[@moll-carrillo_articulating_1995, 1-7]. In a similar binder-based software
+[@moll-carrillo_articulating_1995, 572]. In a similar binder-based software
 application, the engineers at IBM describe the "contents of the notebook
 metaphor," which are "displayed as a stack of sheets." "The interface [...]
 permits a user to directly manipulate the sheets in the notebook metaphor"
@@ -373,18 +376,18 @@ in two diverging and dynamically composed versions. Whatever is meant by
 "today's edition of the *New York Times*" in that sense, denotes differing
 surface phenomena that emanate from the same source.
 
-The key to understanding the "loss of resemblances" that accompanies
-ubiquitous simulation lies in the inner dynamics of the metaphor machinery. A
-functioning metaphor, if you would recall from Lakoff, is one which transfers
-structural properties of one domain into another. Thus to say "life is a
-stage" is to transpose something about theater onto life. In literary terms,
-the theater is "tenor" where "life" is "vehicle" of the composite figure
-[@richards_philosophy_1936]. Simulations work differently. Where the tenor of
-the literary metaphor *transfers* properties across domains, the computational
-metaphor *substitutes* them, confusing the "signs of the real for the real"
-[@baudrillard_simulacra_1994, 2]. It is a subtle difference that engenders
-not-so-subtle effects. For example, it would be one thing to say "you are the
-apple of my eye" and quite another to confuse apples for eye pupils.
+The key to understanding the "loss of resemblances" that accompanies ubiquitous
+simulation lies in the inner dynamics of the metaphor machinery. A functioning
+metaphor, if you would recall from Lakoff, is one which transfers structural
+properties of one domain into another. Thus to say "life is a stage" is to
+transpose something about theater onto life. In literary terms, the theater is
+"tenor" where "life" is "vehicle" of the composite figure
+[@richards_philosophy_1936, 96-7]. Simulations work differently. Where the
+tenor of the literary metaphor *transfers* properties across domains, the
+computational metaphor *substitutes* them, confusing the "signs of the real for
+the real" [@baudrillard_simulacra_1994, 2]. It is a subtle difference that
+engenders not-so-subtle effects. For example, it would be one thing to say "you
+are the apple of my eye" and quite another to confuse apples for eye pupils.
 Baudrillard gives us the example of a map that no longer corresponds to any
 territory. He calls such a condition of pure simulation without a referent
 hyperreality.
@@ -428,20 +431,20 @@ correspond to an analogous set of data manipulations on the disk. Yet,
 "discarding a file" in this manner does not necessarily include deletion of
 data from the storage medium, as expected. The representation of the document
 may disappear visually where the electromagnetic inscription endures. Such
-"loss of resemblances" could remain insignificant. Does one care whether a
-file was actually erased or not when performing deletion? Perhaps not. But in
-some cases, when it really matters---under the threat of censorship or
-prosecution, for example---the incongruence exposes the frailty of our
-alienation from the material contexts of digital labor. Under duress, facing
-unjust prosecution for example, one may demand the thing to stay deeply
-deleted. The problem of metaphoric immediacy reappears in the unfulfilled
-promise of mimesis. The poet and the critic may celebrate the free play of the
-signifier where the journalist or the accused would not. In many contexts, the
-metaphoric vehicle claims to bridge domains and to ferry content across
-faithfully, without meddling or damaging its contents. But if the metaphor
-does meddle---if it mediates while dissembling and dissimulating---by what
-process can one ensure the efficacy of transference? What entity makes good on
-the promise of verisimilitude?
+"loss of resemblances" could remain insignificant. Does one care whether a file
+was actually erased or not when performing deletion? Perhaps not. But in some
+cases, when it really matters---under the threat of censorship or prosecution,
+for example---the incongruence exposes the frailty of our alienation from the
+material contexts of digital labor. Under duress, facing unjust prosecution for
+example, one may demand the thing to stay deeply deleted. The problem of
+metaphoric immediacy reappears in the unfulfilled promise of mimesis. The poet
+and the critic may celebrate the free play of the signifier where the
+journalist or the accused would not. In many contexts, the metaphoric vehicle
+claims to bridge domains and to ferry content across faithfully, without
+meddling or damaging its contents. But if the metaphor does meddle---if it
+mediates while dissembling and dissimulating---by what process can one ensure
+the efficacy of transference? What entity makes good on the promise of
+verisimilitude?
 
 Readers ultimately bear the burden of such unverified conceptual transference.
 In pretending to turn virtual pages, we lose sight of the mechanisms that give
@@ -458,8 +461,8 @@ and silicone.
 
 Why would readers engage in such a charade? Why not simply make use of novel
 interfaces afforded by new technology? The literature from the field of
-human-computer interaction suggests a formalist answer: habituation
-[@carroll_metaphor_1982; @carroll_interface_1987; @spolsky_user_2001]. The
+human-computer interaction suggests a formalist answer: habituation [See
+@carroll_metaphor_1982; @carroll_interface_1987; @spolsky_user_2001]. The
 initial effort it takes to learn to read in a new environment may discourage
 potential readers from adopting a new technology. Smart designers therefore
 rely on acculturated practice, the turning of pages in our case, to minimize
@@ -471,21 +474,20 @@ paper pages, the reading appliance also monitors, adjusts, warns, and
 controls.
 
 Dissimulation conceals structuring principles large and small. Some of the
-occluded details remain inconsequential, like the limit on how many keys can
-be pressed at once without overwhelming the circuitry of the keyboard when
-typing. Other concealed details are of paramount importance, like digital
-rights management chips and censorship filters, for example. Electronic books
-are governed and internalize governing structures in ways that are often
+occluded details remain inconsequential, like the limit on how many keys can be
+pressed at once without overwhelming the circuitry of the keyboard when typing.
+Other concealed details are of paramount importance, like digital rights
+management chips and censorship filters, for example. Electronic books are
+governed and internalize governing structures in ways that are often
 purposefully hidden from the reader. For example, the US Digital Millennium
 Copyright Act prohibits the physical circumvention of copyright protections
-[@ku_critique_2004; @ginsburg_legal_2005; @perzanowski_rethinking_2008;
+[See @ku_critique_2004; @ginsburg_legal_2005; @perzanowski_rethinking_2008;
 @fry_circumventing_2009; @von_lohmann_unintended_2010]. This means that if an
-electronic book is encrypted in some way to prevent copyright infringement,
-the reader may also be prevented from examining codes and codices embedded
-into the device---rules governing accessibility, preservation, or freedom of
-speech. The material affordances of inscription at that deep, bottom-most
-meaning-bearing medium influence all higher-level practices of
-interpretation.[^ln1-rmedium]
+electronic book is encrypted in some way to prevent copyright infringement, the
+reader may also be prevented from examining codes and codices embedded into the
+device---rules governing accessibility, preservation, or freedom of speech. The
+material affordances of inscription at that deep, bottom-most meaning-bearing
+medium influence all higher-level practices of interpretation.[^ln1-rmedium]
 
 Traditional theories of textual interpretation rely on properties and
 assumptions attached to print media. For example, in Hans-Georg Gadamer's
@@ -494,11 +496,11 @@ into material structure [*Gebilde*] that is both "repeatable" and "permanent"
 [@gadamer_truth_1975, 110]. Similarly, in his *Interpretation Theory*, Paul
 Ricoeur wrote about the "range of social and political changes" related to the
 invention of writing. To the stability of communication in print Ricoeur
-attributes the "birth of political rule exercised by a remote state" and "the
+attributes the "birth of political rule exercised by a distant state" and "the
 birth of market relationships." The constitution of archives enables history,
 where the fixity of law, justice. "Such an immense range of effects suggests
-that human discourse is not merely preserved from destruction," Ricoeur
-writes. It is also "deeply affected in its communicative function"
+that human discourse is not merely preserved from destruction," Ricoeur writes.
+It is also "deeply affected in its communicative function"
 [@ricoeur_interpretation_1976, 26-8]. The electronic literary device offers no
 such permanence. What is meant by "fixed," "permanent," and "repeatable"
 changes with the device. Such properties come to us under the guise of surface
@@ -507,9 +509,9 @@ one pair of hands into another. Formatting expands its purview far beyond
 typographical convention. The erasure of words, word substitution, automatic
 summarization, wholesale generation of discourse by algorithmic means---the
 command and control layer implicit in all digital media contains all such
-possibilities. What does it mean to read and to interpret a dynamic text,
-which changes depending on its context? How can literary analysis---close
-reading, philology, hermeneutics---persist without the fixity of print?
+possibilities. What does it mean to read and to interpret a dynamic text, which
+changes depending on its context? How can literary analysis---close reading,
+philology, hermeneutics---persist without the fixity of print?
 
 ![Formal structures at the site of the inscription. "Perspective view of a
 portion of a charge translating device illustrating a preferred electrical
@@ -517,13 +519,13 @@ contact arrangement. A quantum of charge carriers, representing an information
 bit [...] can be translated along the semiconductor [...] sweeping the
 minority carriers with it. The quantum can be detected by a simple capacitive
 couple, e.g., a floating gate FET"
-[@boyle_information_1974].](images/floating-gate.png)
+.](images/floating-gate.png)[@boyle_information_1974]
 
 Dissimulation is perhaps necessary, because the reading and writing of digital
 data can involve processes far outside of everyday experience. For example, in
 reading data from solid state (FLASH) memory, a circuit imparts electrical
 charge through quantum tunneling onto a connected series of floating gate
-transistors [@pavan_flash_1997; @bez_introduction_2003]. Whatever the
+transistors [See @pavan_flash_1997; @bez_introduction_2003]. Whatever the
 complexities of solid state storage architecture, the difference in the
 structure of information on pages and floating gates is apparent. The
 arrangement of one has only an arbitrary connection to the other. Consequently
@@ -554,20 +556,19 @@ domains, making the full extent of the dissimulating figure available for
 interpretation.
 
 What happens in the metaphorical transformation between a book---or any
-inscription---as cognitive artifact and the apparatus simulating that
-artifact? Estrangement, the exegesis of the metaphor, can help reveal the
-mechanisms of governance in the structural transference from one medium to
-another. Materialist poetics can subsequently allow one to consent, or,
-conversely, resist elements of imposed structure. That is not to say that
-meaning-making structures can ever become fully transparent or produce plain,
-unambiguous meaning. Unlike a cypher, the plain text is one that does not
-preclude the possibility of interpretation or misinterpretation. In the
-continuum between total legibility and illegibility, the digital texts that we
-read today occupy a space somewhere right of center. They are illegible in
-part. The simulation of print, the digital metaphor, decays rapidly with time.
-Archivists know this problem well: digital texts from recent past can quickly
-become inaccessible as the software used to decode them itself passes into
-oblivion.
+inscription---as cognitive artifact and the apparatus simulating that artifact?
+Estrangement, the exegesis of the metaphor, can help reveal the mechanisms of
+governance in the structural transference from one medium to another.
+Materialist poetics can subsequently allow one to consent, or, conversely,
+resist elements of imposed structure. That is not to say that meaning-making
+structures can ever become fully transparent or produce plain, unambiguous
+meaning. Unlike a cypher, the plain text is one that does not preclude the
+possibility of interpretation or misinterpretation. In the continuum between
+total legibility and illegibility, the digital texts that we read today occupy
+a space somewhere right of center. They are illegible in part. The simulation
+of print, the digital metaphor, decays rapidly with time. Archivists know this
+problem well: digital texts from the recent past can quickly become
+inaccessible as the software used to decode them itself passes into oblivion.
 
 ## Death and Incongruence
 
@@ -978,13 +979,11 @@ directness," in which direct, that is iconic, expressions, "behave in such a
 way that a user can assume that they, in some sense, *are* the things they
 refer to" [@hutchins_direct_1986, 110].
 
-<!--
-![Direct manipulation of simulated objects, 1984. [@minsky_manipulating_1984,
-199]](images/minsky.png)
--->
+<!-- ![Direct manipulation of simulated objects,
+1984.](images/minsky.png)[@minsky_manipulating_1984, 199] -->
 
 !["ViewPoint screen image." On screen menus for the Xerox 6085 Daybreak
-workstation, 1985 [@johnson_xerox_1989, 13].](images/xerox_star.png)
+workstation, 1985.](images/xerox_star.png)[@johnson_xerox_1989, 13]
 
 The principles of direct interaction that emerge in the 1980s stood against
 what Laurel called the "ill-formed" presence of the mediator, in the
@@ -1265,7 +1264,7 @@ icon, and index. Peirce writes "icons are are so completely substituted for
 their objects as hardly to be distinguished from them" [@peirce_algebra_1992,
 226].
 
-[^ln1-metalakoff]: [@lakoff_contemporary_1998] See also
+[^ln1-metalakoff]: [@lakoff_contemporary_1998, 245] See also
 @turner_conceptual_1995; @ruiz_de_mendoza_ibanez_nature_1998;
 @lakoff_invariance_2009.
 
@@ -1292,7 +1291,7 @@ imitation [@peirce_excerpts_1998, 481; @plato_euthyphro._1999, 250a-b].
 from speaking to writing: "The most obvious change from speaking to writing
 concerns the relation between message and its medium or channel. At first
 glance, it concerns only this relation, but upon closer examination, the first
-alteration irradiates in every direction, affecting in decisive manner all the
-factors and functions" [@ricoeur_interpretation_1976, 25].
+alteration irradiates in every direction, affecting in a decisive manner all
+the factors and functions" [@ricoeur_interpretation_1976, 26].
 
 \newpage
