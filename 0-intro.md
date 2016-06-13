@@ -18,7 +18,7 @@ inches tall, and barely a few millimeters thick. A slab of polished glass
 covers the front of the device, where the tiny eyes of a camera and a light
 sensor also protrude. At the back, made of smooth soft plastic, we find
 another, larger camera. At the foot of the device a grid of small perforations
-indicate breathing room for a speaker and several microphones. To "open" a
+indicates breathing room for a speaker and several microphones. To "open" a
 book I touch the glass. The machine recognizes my fingerprint almost
 instantly. I then tap and poke at the surface until I find a small image that
 represents both my library and a book store, where I can "buy books." Buying
@@ -49,13 +49,12 @@ tries to sell me things, showing me advertisements for cars, jewelry, and
 pills. It comes with a manual and terms of service. It is my confidant, my
 dealer, my spy.
 
-*Plain Text* is broadly a book about such literary devices. It concerns the
-nature of digital inscription---the material trace that gives rise to textual
-phenomena, and, more broadly to all other cultural artifacts in which the
-computer mediates. Today we find ourselves in an unprecedented, since the
-Middle Ages, position of selective illiteracy and *asemiosis*: the loss of
-signification. Many contemporary texts---like poems inscribed into bacteria
-and encrypted software---exist simply beyond the reach of human
+*Plain Text* concerns the nature of digital inscription---the material trace
+that gives rise to textual phenomena, and, more broadly, to all cultural
+artifacts in which the computer mediates. We find ourselves today in an
+unprecedented, since the Middle Ages, position of selective *asemiosis*: the
+loss of signification. Many contemporary texts---like poems inscribed into
+bacteria and encrypted software---exist simply beyond the reach of human
 senses.[^ln-dna] Other forms of writing are illegible in ways that prevent
 access or comprehension. Increasingly, we write not in the sense of making
 marks on paper but in simulation. The key press leaves a trace in computer
@@ -172,13 +171,13 @@ strategy of interpretation capable of reaching past surface content to reveal
 platforms and infrastructures that stage the construction of meaning. A
 computational poetics differentiates within the apparent unity of digital
 text. In the chapters that follow, I will trace a figure and describe its
-anatomy. If the physics of word have changed---qualitatively, materially---I
-would like to ask: How? and How do these changes affect the diversity of
-interpretive practices? I draw on the annals of literary theory and software
-engineering to buttress the historical bases for a possible answer. In the
-process, I argue that even our most basic practices of intellectual production
-are profoundly alienated from their physical contexts. The object of study is
-the nature of that alienation.
+anatomy. If the physics of the word have changed---qualitatively,
+materially---I would like to ask: How? and How do these changes affect the
+diversity of interpretive practices? I draw on the annals of literary theory
+and software engineering to buttress the historical bases for a possible
+answer. In the process, I argue that even our most basic practices of
+intellectual production are profoundly alienated from their physical contexts.
+The object of study is the nature of that alienation.
 
 I appeal to the idea of "plain text" in the title of this book to signal an
 affinity with a particular mode of computational meaning-making. Plain text
@@ -189,12 +188,12 @@ added information" [@unicode_consortium_unicode_1990]. In the tradition of
 American textual criticism, "plain text" alludes to an editorial method of
 text transcription which is both "faithful to the source" and is "easier to
 read than the original document" [@cook_considerations_1988]. Combining these
-two traditions, I mean ultimately to build a case for a kind of a systematic
-minimalism when it comes to our use of computers---a minimalism that
-privileges access to source materials, ensuring legibility and comprehension.
-I do so in contrast with other available modes of human-computer interaction,
-which instead privilege maximizing system-centric ideals like efficiency,
-speed, performance, or security.
+two traditions, I mean ultimately to build a case for a systematic minimalism
+when it comes to our use of computers---a minimalism that privileges access to
+source materials, ensuring legibility and comprehension.  I do so in contrast
+with other available modes of human-computer interaction, which instead
+privilege maximizing system-centric ideals like efficiency, speed,
+performance, or security.
 
 The title further identifies an interpretive stance one can assume in relation
 to the making and the unmaking of literary artifacts. Besides visible content,
@@ -229,9 +228,9 @@ are not spaces, or rather ersatz expanses that dissimulate: glass that looks
 like paper, liquid crystal that flows to imitate ink. By such means, the
 electronic book delineates a qualitatively new grounds for textual
 inscription. Because *Plain Text* deals with the structure of intimate space,
-it is project theoretically contiguous to the philosophical poetics of Gaston
-Bachelard and Henri Lefebvre, extended into the realm of everyday computation
-[@lefebvre_production_1991; @bachelard_poetics_1994].
+it is a project theoretically contiguous with the philosophical poetics of
+Gaston Bachelard and Henri Lefebvre, extended into the realm of everyday
+computation [@lefebvre_production_1991; @bachelard_poetics_1994].
 
 Writing surfaces multiply and establish themselves firmly among the
 furnishings of home, body, and mind. Think here of commercial products that
@@ -339,7 +338,7 @@ when the automatization of experience "consumes things, clothing, furniture,
 your spouse, and the fear of war."[^ln-brik] The formalists rarely quoted Marx
 directly. Yet the echoes of Marx resonate throughout. The dead metaphor marks
 alienation from humanity.[^ln0-marx] The point at which material artifact
-disappears from individual conciousness is the also the point where it appears
+disappears from individual conciousness is also the point where it appears
 within the social sphere as fetish. Shklovksy however inverts the Marxist idea
 of alienation [*Entfremdung*], which for Marx always denies life, into a
 technique of estrangement---literally othering [*ostranenie*]---of the kind
@@ -449,7 +448,7 @@ function of a case study in an engineer's education, as Henry Petroski
 explains in his *Invention by Design*, is to understand the ways by which one
 gets "from thought to thing" [@petroski_invention_1996, 3-7]. From thought to
 thing would be another apt definition of poetics and an alternative subtitle
-to this book. Along with an literary and historical exposition, each of my
+to this book. Along with literary and historical exposition, each of my
 chapters contains at least one literary thought-thing. Each chapter enacts a
 deconstruction---a literal taking apart---of that device. The epistemic object
 is present to challenge the reader's and the author's theoretical intuitions.
@@ -591,7 +590,7 @@ North-west. Books that are burned or redacted cannot be read at all.
 Elsewhere, inequities of access to knowledge compel readers to print their own
 books and build their own libraries. Witness the so-called "shadow libraries"
 of Eastern Europe and Central Asia, the street book vendors of India and
-Pakistan, and the gray market presses of Nigeria arising form the country's
+Pakistan, and the gray market presses of Nigeria arising from the country's
 "book famine"[@mahmood_copyright_2005; @okiy_photocopying_2005;
 @liang_piracy_2009; @bodo_short_2014; @nkiko_book_2014; @_elsevier_2015]. More
 than mere piracy, such *samizdat*-like practices preserve the literary sphere
