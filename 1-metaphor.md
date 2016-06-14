@@ -792,26 +792,27 @@ century, interactive computing environments like DIALOG and JOSS were designed
 to lessen the cognitive burden of speaking machine languages by translating
 them into dialog systems that understood a limited number of English words.
 JOSS, an experimental on-line computing system created by the RAND corporation
-in 1963, consisted of a typewriter connected to the JOHNNIAC computer. Prior
-to JOSS, programmers would interact with the JOHNNIAC machine via keyboard and
+in 1963, consisted of a typewriter connected to the JOHNNIAC computer. Prior to
+JOSS, programmers would interact with the JOHNNIAC machine via keyboard and
 punch card, initially using octal number notation and then binary assembly
 language [@gruenberger_history_1979]. These methods of programming were time
-consuming and prone to error. "An octal desk calculator was nice to have," a
-historian of the system would later quip [@gruenberger_history_1979, 58]. 
+consuming and prone to error. "[A]n octal desk calculator was nice to have,"
+a historian of the system would later quip [@gruenberger_history_1979, 58]. 
 
 The JOSS experiment introduced the idea of an "interpreter" that sat between
 the human operator and the machine, facilitating communication in a friendly,
-conversational manner. Think of JOSS as the "user's computing aide and a
-single contact with the computer," the engineers wrote [@shaw_joss:_1964,
-456]. Instead of feeding punch cards into the mechanism, as was done before,
-the operator would now use a standard typewriter. Instead of flipping switches
-the operator typed words. JOSS thus referred both to the "simple language" for
+conversational manner. Think of JOSS as the "user's computing aide and single
+contact with the computer," the engineers wrote [@shaw_joss:_1964, 456].
+Instead of feeding punch cards into the mechanism, as was done before, the
+operator would now use a standard typewriter. Instead of flipping switches the
+operator typed words. JOSS thus referred both to the "simple language" for
 machine instruction and to this new "remote console" way of interacting with
-the computer. JOSS and the user would "take turns controlling the typewriter"
-in the words of the documentation. The interpreter understood simple commands
-like `do`, `go`, and `type`, which it would then translate into machine
-instructions. When encountering an unspecified command, the interpreter
-mimicked human confusion, responding simply: "Eh?  [@shaw_joss:_1964]"
+the computer.[@shaw_joss:_1964, 455-6] JOSS and the user would "take turns
+controlling the typewriter" in the words of the
+documentation.[@shaw_joss:_1964, 461] The interpreter understood simple
+commands like `do`, `go`, and `type`, which it would then translate into
+machine instructions. When encountering an unspecified command, the interpreter
+mimicked human confusion, responding simply: "Eh?" [@shaw_joss:_1964, 462]
 
 This mode of conversational interaction was captured also in one of the
 earliest text adventure games, the *Colossal Cave Adventure*, designed by Will
