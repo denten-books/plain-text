@@ -669,21 +669,19 @@ present even in the most mundane acts of reading and writing.
 
 ## Thought Experiment II
 
-I propose now to view Turing's machine first within the broader tradition of
-questioning the correspondence between outward signs of thought and its inward
-structure, and second as a specific response to a series of thought
-experiments proposed by Ludwig Wittgenstein in the 1930s at Cambridge, where
-Turing studied in his early career and later taught.[^ln1-timeline]
+I propose now to view Turing's machine first within the broader tradition
+formalism and second as a specific response to a series of thought experiments
+proposed by Ludwig Wittgenstein in the 1930s at Cambridge, where Turing
+studied in his early career and later taught.[^ln1-timeline]
 
-Wittgenstein broached the problem of reading machines and comprehension
-initially in his *Blue and Brown Books* along with *Philosophical Grammar*
-(all compiled in the early 1930s), then in his lectures and remarks on the
-foundations of psychology and mathematics from the late 1930s, and finally in
-*Philosophical Investigations*, written between 1945 and 1949. The earliest of
-these documents, *The Blue Book*, begins with a question of interpretation.
-"What is a meaning of a word?" Wittgenstein asks. And from the start, he
-cautions his students against choosing the easy answer, which holds that
-meaning resides in the head. Wittgenstein writes:
+Wittgenstein broached the problem of reading machines and comprehension in his
+*Blue and Brown Books* and *Philosophical Grammar* (all compiled in the early
+1930s), then in his lectures and remarks on the foundations of psychology and
+mathematics from the late 1930s, and finally in *Philosophical
+Investigations*, written between 1945 and 1949. The earliest of these
+documents, *The Blue Book*, opens with the question of interpretation: "What
+is a meaning of a word?" Wittgenstein cautions his students against choosing
+the easy answer, which holds that meaning resides in the head:
 
 > It is misleading then to talk of thinking as of a "mental activity". We may
 > say that thinking is essentially the activity of operating with signs. This
@@ -695,78 +693,77 @@ meaning resides in the head. Wittgenstein writes:
 > from that in which the hand can be said to be the agent in writing
 [@wittgenstein_blue_1965, 6-7].
 
-Wittgenstein explains that when we see a sentence on paper, the external
-manifestation of a thought, we assume that some analogous structure exists
-somewhere in the mind. Perhaps, Wittgenstein speculates, we could even observe
-the brain directly, in the process of writing, to check whether mental states
-could correspond in some way to the inscription. Both phenomena, brain- and
-paper- bound, express thought. Yet neither makes sense in isolation. Rather,
-we are witnessing the workings of a metaphor: the transference of properties
-between two distinct locations, one in the head and one on paper. Neither
-physical nor mental descriptions of these processes alone are sufficient for
-Wittgenstein to locate cognition. The subject escapes depending on our point
-of view. When the hand writes, it is the brain that thinks. But when the hand
-thinks, it is the brain that writes. One must understand both sides of the
-equation. Meaning in that sense lies in the transition from hand to head and
-from mind to paper. "Where does thinking take place?" he asks. It takes place
-"on paper, in our head, in the mind." Crucially, "none of these statements of
-locality gives *the* locality of thinking" [@wittgenstein_blue_1965, 16].
-Thought is rather distributed throughout the body and among the its
-extensions. We think by the pen, hand, mouth, and sign.
+Wittgenstein explains that when we see a sentence on paper we assume that some
+structure analogous to that sentence exists in the mind. Perhaps, he
+speculates, we could even observe the brain directly, in the process of
+writing, to check whether mental states correspond to the inscription, as a
+sort of a linguistic Magnetic Resonance Imaging (MRI) machine. Both thought
+structures, mental and written, embody thought. Yet neither exists in
+isolation.
+
+Rather, we are witnessing the workings of a metaphor: the transference of
+properties between two distinct locations, one in the head and one on paper.
+Neither physical nor mental descriptions of these processes alone are
+sufficient for Wittgenstein to locate cognition. The subject escapes depending
+on our point of view. When the hand writes, it is the brain that thinks. But
+when the hand thinks, it is the brain that writes. Meaning thus lies in the
+transition from hand to head and from mind to paper. We might state that
+thinking takes place "on paper, in our head, in the mind," but crucially,
+"none of these statements of locality gives *the* locality of thinking"
+[@wittgenstein_blue_1965, 16]. Thought is rather distributed throughout the
+body and among its extensions. We think by the sign, hand, and pen.
 
 "Can a machine think?" Wittgenstein asks later on in the first notebook
-[@wittgenstein_blue_1965, 16]. The problem, as he explains, is not one of
+[@wittgenstein_blue_1965, 16]. The challenge, as he explains it, is not one of
 finding a machine that can do the job---of manipulating signs, for example.
 It lies in the ability of the machine to enact both sides of the metaphoric
 equation. "Doing the job," the manipulation of external signs, must correspond
-to something else. Severed from some other analogical structure, the "blind"
+to something else. Severed from an analogical structure, the "blind"
 manipulation of signs is a meaningless activity. Meaning, Wittgenstein
-suggests, resides simply in this analogy between something (symbol) and
-something else (physical state of a system). The question then can be better
-rephrased as "can a machine have private mental states?" Can it feel pain in
-the sense of pain being a state of internal affairs not accessible to others
-[@wittgenstein_blue_1965, 16, 46-9]? If we believe machines to be capable of
-having internal private states, we can then imagine something like machine
-intelligence, by which a spoken word or letter could find the appropriate
-inward representation for the machine. We return to the sense of accord,
-however vague, between the internal and external.
+suggests, resides precisely in the metaphorical transference between something
+(symbol) and something else (physical state of a system). The question then
+can be better rephrased as "can a machine have private mental states?" Can it
+feel pain in the sense of pain being a state of internal affairs not
+accessible to others [@wittgenstein_blue_1965, 16, 46-9]? If we believe
+machines to be capable of having internal private states, we can then imagine
+something like machine intelligence, by which a spoken word or letter could
+find the appropriate inward representation for the machine. We return to the
+sense of accord between the internal and external.
 
-Wittgenstein extends his thought experiments about thinking machines in his
-*Brown Notebook.* Let us study what is meant by "reading," he suggests early
-on. By reading, he means the activity of "translating script into sounds," "of
-writing according to dictation," or "of copying in writing a page of print"
-[@wittgenstein_blue_1965, 119]. Reading once again is "mechanical" reading,
-without a sense of "understanding" or interpretation. What happens when a
-child reads a newspaper, for example?, Wittgenstein asks echoing Kuhlman and
-Descartes. The child's eyes "glide along the printed words, he pronounces them
-aloud or to himself, but other words he pronounces after having seen their
-first few letters only, others again he reads out letter by letter." The child
-acts as a "reading machine" when he pays no attention to what he reads, even
-when he speaks the words out loud. He reads "faultlessly like a reliable
-machine," Wittgenstein repeats, emphasising the mechanical property of
-colloquially "mechanistic" reading. Another hypothetical child merely pretends
-to read. She guesses at the words and on occasion repeats things "by heart,"
-without actually seeing them on the page [@wittgenstein_blue_1965, 121-22].
-Would any of these hypothetical scenarios rise to our understanding of what
-reading should entail?
+Wittgenstein takes up the question of reading and interpretation again in his
+*Brown Notebook.* He defines reading as the activity of "translating script
+into sounds," "of writing according to dictation," or "of copying in writing a
+page of print" [@wittgenstein_blue_1965, 119]. Reading, for him, is a
+mechanical task devoid of understanding. What happens when a child reads a
+newspaper? Wittgenstein asks, echoing Kuhlman and Descartes. The child's eyes,
+he answers, "glide along the printed words, he pronounces them aloud or to
+himself, but other words he pronounces after having seen their first few
+letters only, others again he reads out letter by letter." The child acts as a
+"reading machine" when he pays no attention to what he reads, even when he
+speaks the words out loud. He reads "faultlessly like a reliable machine,"
+Wittgenstein repeats, emphasising the mechanical property of colloquially
+"mechanistic" reading. Another hypothetical child merely pretends to read. She
+guesses at the words and on occasion repeats things "by heart," without
+actually seeing them on the page [@wittgenstein_blue_1965, 121-22]. Would any
+of these hypothetical scenarios rise to our conventional understanding of
+reading?
 
-Wittgenstein continues to complicate such edge cases, challenging his
-audience's intuitions of what it means to read and to understand. He gives
-also the example of a hallucinating patient, who "reads" what to us looks like
-gibberish, and the case of a man who fakes reading Cyrillic by memorizing the
-lines phonetically. He talks of machines too, which produce random sounds that
-occasionally, by accident, correspond to some existing texts. In each case, we
-envision two mechanisms, Wittgenstein writes, one visible and external and one
-hidden and internal. To read, the reader must do more than go through the
-motions of reading. Outward signs of reading are insufficient to indicate
-comprehension. The physical motions---of gliding one's eyes across the page
-and saying the words out loud---must connect in some way with appropriate
-internal, mental representations.
+Wittgenstein continues to complicate such edge cases. He gives the example of
+a hallucinating patient, who "reads" what to us looks like gibberish, and the
+case of a man who fakes reading Cyrillic by memorizing the lines phonetically.
+He talks of machines too, which produce random sounds that occasionally, by
+accident, correspond to some existing texts. In each case, we envision two
+mechanisms, Wittgenstein writes, one visible and external and one hidden and
+internal. To read, the reader must do more than go through the motions of
+reading. Outward signs of reading are insufficient to indicate comprehension.
+The physical motions---of gliding one's eyes across the page and saying the
+words out loud---must connect in some way with appropriate internal, mental
+representations.
 
 We are tempted then to privilege the inward-facing signs of comprehension as
 the "real criterion for a person's reading or not reading." However, no such
 internal mechanisms can be known to us or communicated to others properly,
-Wittgenstein writes [@wittgenstein_blue_1965, 120]. We can only intuit the
+Wittgenstein argues [@wittgenstein_blue_1965, 120]. We can only intuit the
 reader's private experience of reading. Absent first-hand access to private
 mental states of another, a reading pupil must convince his teacher that the
 scanned sign had the intended effect through language. This requires even more
@@ -815,24 +812,23 @@ words, and the understanding of words as a translation into gestures [emphasis
 mine]" [@wittgenstein_philosophical_1974, 42]. In conclusion, he again
 describes what we mean by "understanding" as a "process of translation from
 one symbolism into another; tracing a picture, copying something, or
-translating into another mode of representation." To understand something said
-is thus akin to modeling it in clay or drawing it
-[@wittgenstein_philosophical_1974, 45]. Whatever is meant by "understanding"
-comes through the comparative transference between media: a translation or
-trans-mediation. In this way we may imagine explaining the rules of basketball
-to someone who only knows how to play hockey by analogy: the puck bares a
-grammatical resemblance to the ball, the goal net to the basketball hoop.
+translating into another mode of representation.
+[@wittgenstein_philosophical_1974, 45]" To understand something said is thus
+akin to modeling it in clay or drawing it. Similarly, we may imagine
+explaining the rules of basketball to someone who only knows how to play
+hockey by analogy: the puck bares a grammatical resemblance to the ball, the
+goal net to the basketball hoop.
 
-It is insufficient however to merely paraphrase something: to show
-understanding one must "draw a picture" or "model" in a way that reveals the
-correspondence of equivalent structures. Language cannot be explained in
-language, for example.  One must trade symbolisms in a sense, creating a model
-that explains one representational system in terms of another. This process is
-not exact. For example, how would one account for the differences between
-balls and pucks, or explain to what extent a "clay model" corresponds to a
-"language model" of something? The media are not fully equivalent: air and
-clay, ice and grass. Consequently, the games are played by different rules
-that answer to distinct physics.
+It is insufficient however to merely paraphrase: to show understanding one
+must "draw a picture" or "model" in a way that reveals the correspondence of
+equivalent structures. Language cannot, in this view, be explained in
+language, for example. We must trade symbolisms to create a model that
+explains one representational system in terms of another. The process is not
+exact. For example, how would we account for the differences between balls and
+pucks, or explain to what extent a "clay model" corresponds to a "language
+model" of something? The media are not fully equivalent: air and clay, ice and
+grass. Consequently, the games are played by different rules that answer to
+distinct physics.
 
 In thinking of the various ways in which the process of translation between
 divergent symbolisms breaks, Wittgenstein continually returns to the pianola,
@@ -850,38 +846,39 @@ player piano fit into the grooves of a music roll.
 1914, US1107495A. Wittgenstein returns to the image of pianola throughout his
 writings.](images/pianola.png)
 
-This sort of a rigid correspondence brings us closer to an answer to the
-"proper interpretation" problem. But, like the other, less exacting,
-mechanisms of comprehension, the pianola can break too. In the early passages
-of *Philosophical Grammar*, Wittgenstein explains: "Aren't our sentences parts
-of a mechanism? As in a pianola? But suppose it is in bad condition? So it is
-not the effect but the purpose of the signs (the holes in the pianola roll).
+This sort of a rigid correspondence brings us closer to solving the challenge
+of "proper" interpretation. But, like the other, less exacting, mechanisms of
+comprehension, the pianola can break too. In the early passages of
+*Philosophical Grammar*, Wittgenstein explains: "Aren't our sentences parts of
+a mechanism? As in a pianola? But suppose it is in bad condition? So it is not
+the effect but the purpose of the signs (the holes in the pianola roll).
 Their purpose *within* the mechanism" [@wittgenstein_philosophical_1974, 10].
-Wittgenstein elaborates a few pages later:
+"The sentences that we utter have a particular purpose," Wittgenstein
+elaborates:
 
-> The sentences that we utter have a particular purpose, they are to produce
-> certain effects. They are parts of a mechanism, perhaps a psychological
-> mechanism, and the words of the sentences are also parts of the mechanism
-> (levers, cogwheels, and so on). The example that seems to illustrate what
-> we're thinking of here is an automatic music player, a pianola. It contains
-> a roll, rollers, etc., on which the piece of music is written in some kind
-> of notation (the position of holes, pegs, and so on). It's as if the written
-> sign gave orders which are carried out by keys and hammers
-> [@wittgenstein_philosophical_1974, 69].
+> They are to produce certain effects. They are parts of a mechanism, perhaps
+> a psychological mechanism, and the words of the sentences are also parts of
+> the mechanism (levers, cogwheels, and so on). The example that seems to
+> illustrate what we're thinking of here is an automatic music player, a
+> pianola. It contains a roll, rollers, etc., on which the piece of music is
+> written in some kind of notation (the position of holes, pegs, and so on).
+> It's as if the written sign gave orders which are carried out by keys and
+> hammers [@wittgenstein_philosophical_1974, 69].
 
 As was the case with reading automata in *The Blue and Brown Notebooks*,
 Wittgenstein again substitutes a physical mechanism for the process of
 symbolic interpretation. In this view, words and music notation alike contain
-a "purpose" to elicit some "effects" in the interpretive mechanism. As before,
-we cannot always expect the mechanism of interpretation to function properly,
-nor do we have a reliable way to verify its correct operation. "Suppose the
-pianola is in bad condition," Wittgenstein repeats. The signs on the roll
-could produce "hisses and bangs" instead of music, for example. One could
-object that notes are always "meant" to play on a mechanism in perfect working
-order. But to explain what is meant by a working order, we would need to draw
-yet another diagram or build another machine. Wittgenstein elaborates by
-another analogy: the "sense" of an "order"---the programming instructions of
-the piano roll---lies in its "effect on an obedient man"
+a "purpose" to elicit some "effects" in the interpretive mechanism.
+
+As before, we cannot always expect the mechanism of interpretation to function
+properly, nor do we have a reliable way to verify its correct operation.
+"Suppose the pianola is in bad condition," Wittgenstein repeats. The signs on
+the roll could produce "hisses and bangs" instead of music, for example. One
+could object that notes are always "meant" to play on a mechanism in perfect
+working order. But to explain what is meant by a working order, we would need
+to draw yet another diagram or build another machine. Wittgenstein elaborates
+by another analogy: the "sense" of an "order"---the programming instructions
+of the piano roll---lies in its "effect on an obedient man"
 [@wittgenstein_philosophical_1974, 60-70]. The pianola thus exemplifies a
 class of perfect controlling mechanisms. In good working condition it is
 exactly obedient to the instructions printed on a piano roll.
@@ -911,9 +908,9 @@ machine work for us, then we can say that grammar describes that part of the
 machine.
 
 The grammar sets up a "connection between word and a thing," in order for the
-mechanism to "function in a certain way." "So the definition can make it work
-properly, like the connection between the keys and the hammers in a piano"
-Wittgenstein writes. Crucially, it is that "connection not the effect that
+mechanism to function in a certain way. "The definition," Wittgenstein writes,
+"can make it work properly, like the connection between the keys and the
+hammers in a piano." Crucially, it is that "connection not the effect that
 determines the meaning" [@wittgenstein_philosophical_1974, 190]. A programmer
 would say that Wittgenstein's "grammatical layer" resembles modern programming
 language interpreters and assemblers, exactly the parts of the machine that
@@ -926,34 +923,23 @@ the rules of engagement [@wittgenstein_philosophical_1974, 194-6]. To learn a
 language in that sense is not to learn individual words, but to understand the
 rules of engagement: the mechanical linkages of meaning-making.
 
-Like he did with the notebooks beforehand, Wittgenstein structured his
-lectures around the problem of symbolic interpretation. "I am going to talk
-about the interrelation of mathematical symbols," Wittgenstein began his
-lectures on the foundations of mathematics. We imagine that logical laws
-represent some sort of "fixed" mechanisms "behind" the symbols used to express
-them. "I am speaking against the idea of logical machinery," Wittgenstein says
-in Lecture XX. "The idea of logical machinery would suppose that there was
-something behind our symbols" [@wittgenstein_wittgensteins_1976, 194]. We
-imagine logic to be a sort of a "rigid mechanism" that can only turn this way
-or the other. "Any rule can be imagined to be a description of a
-mechanism---even the rule which says a pawn must not be moved in a certain
-way," Wittgenstein writes [@wittgenstein_wittgensteins_1976, 282]. The parts
-of the mechanism subsequently exist in a causal relationship to one another.
-Pushing this or that lever will always result in such and such movement,
-because of the way the mechanical parts are connected. We say that the
-mechanism is rigid or the law is inexorable when the results of an action are
-absolutely fixed.  Wittgenstein calls such a relationship "super-hardness."
-Where a judge can be lenient, he explains, the law is compulsory. What we
-would now call an "algorithm" compels predictable execution, not subject to
-the vagrancies of interpretation.
+We say that the mechanism is rigid or the law is inexorable when the results
+of an action are fixed. Wittgenstein calls such a relationship
+"super-hardness." Where a judge can be lenient, he explains, the law is
+compulsory. What we would now call an "algorithm" compels predictable
+execution, not subject to the vagrancies of interpretation
+[@wittgenstein_wittgensteins_1976, 282]. The parts of the mechanism
+subsequently exist in a causal relationship to one another. Pushing this or
+that lever will always result in such and such movement, because of the way
+the mechanical parts are connected.
 
 We are tempted, as before, to privilege the inner workings of the symbolic
 mechanism, also at the core of meaning making in mathematics. "If I show you
 the mechanism behind the [watch] dial, you will be able to predict the
 movement of the hour hand for any given movement of the minute hand,"
 Wittgenstein writes. But once again, how do we know if a mechanism is
-functioning properly? I may drop the clock, for example, Wittgenstein
-explains, "so that the machinery is broken, or a lighting may strike it.
+functioning properly? I may drop the clock, for example, he explains, "so that
+the machinery is broken, or a lighting may strike it.
 [@wittgenstein_wittgensteins_1976, 195]" To check the mechanism for damage we
 need "a picture," a diagram, or schematics that describe what the properly
 functional mechanism looks like. In the form of a schema, the mechanism is
@@ -973,9 +959,9 @@ dependent relationship between the physical and the symbolic worlds. Whether
 it is in math or in ordinary language, some magic happens at the coupling of
 matter and sign. The precise point of contact concerns Wittgenstein in all
 fields of human activity, from literature to psychology and mathematics. In
-all of these fields, Wittgenstein finds an implicit analogy between "symbol"
-and "mechanism." A type of a metaphor, the analogy itself is atomic. It cannot
-be split further into something like sign and referent, or signifier and
+all of these fields, he finds an implicit analogy between "symbol" and
+"mechanism." A type of a metaphor, the analogy itself is atomic. It cannot be
+split further into something like sign and referent, or signifier and
 signified. Considered apart, the two parts of the metaphor are strictly
 meaningless. In his lectures on aesthetics, Wittgenstein describes the
 dependency as the "concomitance between mechanism and its trace." The best we
