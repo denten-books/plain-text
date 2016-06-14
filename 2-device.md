@@ -532,34 +532,33 @@ materialist poetics, posed in the liminal space between thought and thing.
 Modern computers---and by extension the electronic book---harken back to a
 cluster of related thought experiments prevalent in the philosophy of Ludwig
 Wittgenstein and subsequently Alan Turing, his long-time student and
-colleague. The story of Turing machines has been told before in many guises,
-but never with an eye towards literary machines that nevertheless occupy a
-central place in the early development of modern computing. To confront the
-computer as a literary device one must first understand its peculiar
-relationship to universal Turing machines. I would like to frame the
-discussion by drawing two further as yet unexplored historical genealogies
-that lead to Turing's seminal essay on computable numbers: the first
-intellectual, stemming back to his tutelage under Ludwig Wittgenstein, and the
-second material, highlighting the physical similarities between Turing's
-design and a number of concomitant developments in printing and communication.
-To read Turing and Wittgenstein together is to recover a legacy of humanities
-computing that often gets overlooked in the history of computer science and
-software engineering. The literary perspective is important because it allows
-us to see the computer in a new light: more than a byproduct of
-quantification, a metaphor machine. Turing machines should interest literary
-scholars because they embody a minimally viable model for generalized symbolic
-manipulation: reading and writing. Poetics should interest electrical and
-software engineers for the same reason, because it grounds computation in the
-long history of the word. Turing's thought experiments were meant to solve a
-mathematical problem, but their pedigree lies also in the fields of philology
-and hermeneutics, the study of textual meaning-making and interpretation.
+colleague. The story of Turing machines has been told before in many contexts,
+but never with an eye towards literary machines. The history of literary
+interpretation nevertheless occupies a central place in the early development
+of modern computing. To confront the computer as a literary device one must
+first understand its peculiar relationship to universal Turing machines. I
+would like to frame the discussion by drawing two further as yet unexplored
+historical genealogies that lead to Turing's seminal essay on computable
+numbers: the first intellectual, stemming back to his tutelage under Ludwig
+Wittgenstein, and the second material, highlighting the physical similarities
+between Turing's design and a number of concomitant developments in printing
+and communication.  To read Turing and Wittgenstein together is to recover a
+legacy of humanities computing that often gets overlooked in the history of
+computer science and software engineering. The literary perspective is
+important because it allows us to see the computer in a new light: more than a
+byproduct of quantification, a metaphor machine. Turing machines should
+interest literary scholars because they embody a minimally viable model for
+generalized symbolic manipulation: reading and writing. Poetics should
+interest electrical and software engineers for the same reason, because it
+grounds computation in the long history of the word. Turing's thought
+experiments were meant to solve a mathematical problem, but their pedigree
+lies also in the study of textual meaning-making and interpretation.
 
-In his seminal 1936 paper on computable numbers, Alan Turing, then a student
-at King's College, proposed a peculiar thought experiment to appear on the
-pages of a mathematical journal. The experiment addressed a problem in the
-field of elementary number theory [@church_computable_1937]. His solution
-involved more than a formula. Instead, he imagined a machine that would in
-some real sense take the place of the calculation. Ultimately, Turing
+In his seminal 1936 paper on computable numbers, Alan Turing proposed a
+peculiar (for a mathematical treatise) thought experiment that addressed a
+problem in the field of elementary number theory [@church_computable_1937].
+His solution involved more than a formula. Instead, he imagined a machine that
+would in some real sense take the place of the calculation. Ultimately, Turing
 described a device that was meant to embody the symbol: it transformed
 external abstractions into physical states, internal to the device. In doing
 so, this imagined machine was designed to breach the boundary between idea and
@@ -651,19 +650,22 @@ Greek *tupōn*, related to the English "type," literally means an impression.
 In this case it is also "foreign" or "othered" [*allotrion*]. It comes from
 without. Like Moreno after him, Thamus finds thought externalized through
 typography problematic. True memory and thought for them both must come from
-within. For this reason, Socrates asks the young man to stop reciting the
-speech by heart in the beginning of the dialog. He wants Phaedrus to think for
-himself and not to merely regurgitate the thought of another--- to stop being,
-in other words, a mere parrot or automaton. To truly understand something and
-to make a show of their comprehension, readers must do more than read: they
-must internalize.  Much can go wrong in that process, but we expect for
-reading to ultimately leave an appropriate impression [*tupōn*] on the
-reader's mind. For understanding to take place, writing must produce "true,"
-in the words of Descartes, feelings and appetites. But what is true,
-appropriate, or proper? What impressions does type leave on the soul? What
-does it take to internalize or ingest an inscription properly?---these are the
-profound mysteries always present even in the most mundane acts of reading and
-writing.
+within.
+
+<!-- consider cutting -->
+
+For this reason, Socrates asks the young man to stop reciting the speech by
+heart in the beginning of the dialog. He wants Phaedrus to think for himself
+and not to merely regurgitate the thought of another---to stop being, in other
+words, a mere parrot or automaton. To truly understand something and to make a
+show of their comprehension, readers must do more than read: they must
+internalize. Much can go wrong in that process, but we expect for reading to
+ultimately leave an appropriate impression [*tupōn*] on the reader's mind. For
+understanding to take place, writing must produce "true," in the words of
+Descartes, feelings and appetites. But what is true, appropriate, or proper?
+What impressions does type leave on the soul? What does it take to internalize
+or ingest an inscription properly?---these are the profound mysteries always
+present even in the most mundane acts of reading and writing.
 
 ## Thought Experiment II
 
