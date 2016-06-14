@@ -571,20 +571,19 @@ inaccessible as the software used to decode them itself passes into oblivion.
 
 ## Death and Incongruence
 
-In poetics, a metaphor is said to be "motivated" when a number of concepts
-from one domain extends into another to produce insight
-[@lakoff_contemporary_1998, 210-1]. Lakoff explains that to say "to spin one's
-wheels" when referring to someone who is thinking is to apply the reader's
-knowledge of automobiles to the mental realm. Wheels that spin without moving
-the vehicle forward waste energy. The metaphor suggests that something similar
-happens mentally as well [@lakoff_contemporary_1998, 211]. A metaphor in a
-figurative genre, prose or poetry, suggests novel and hitherto unexplored
-connections between domains.
+In poetics, a metaphor is said to be "motivated" when a number of concepts from
+one domain extends into another to produce insight [@lakoff_contemporary_1998,
+210-1]. Lakoff explains that to say "spinning one's wheels" when referring to
+someone who is thinking is to apply the reader's knowledge of automobiles to
+the mental realm. Wheels that spin without moving the vehicle forward waste
+energy. The metaphor suggests that something similar happens mentally as well
+[@lakoff_contemporary_1998, 211]. A metaphor in a figurative genre, prose or
+poetry, suggests novel and hitherto unexplored connections between domains.
 
 In his influential essay on metaphor the English literary critic I.A. Richards
 wrote that "when we use metaphor we have two thoughts of different things
 active together and supported by a single word, or phrase, whose meaning is a
-resultant of their interaction" [@richards_philosophy_1936, 95]. Richards's
+resultant of their interaction" [@richards_philosophy_1936, 93]. Richards's
 radical contribution to the study of metaphor lay in the observation that
 metaphor operates in language, thought, and action ubiquitously. It does not,
 as previously thought, exist merely in the realm of poetic language. Thought
@@ -599,74 +598,77 @@ domains---it produces new and unexpected connections between them. To this
 effect, Richards cites the poet Percy Shelley who wrote the following in
 defense of poetry:
 
-> [poetic] language is vitally metaphorical; that is, it marks the before
+> [poetic l]anguage is vitally metaphorical; that is, it marks the before
 > unapprehended relations of things and perpetuates their apprehension, until
-> the words which represent them, become, through time, signs for portions or
-> classes of thoughts instead of pictures of integral thoughts; and then if no
+> words, which represent them, become, through time, signs for portions or
+> classes of thoughts instead of pictures of integral thoughts; and then, if no
 > new poets should arise to create afresh the associations which have been
-> thus disorganized, language will be dead to all the nobler purposes of human
-> intercourse [@shelley_essays_1840].
+> thus disorganised, language will be dead to all the nobler purposes of human
+> intercourse [@shelley_essays_1840, qtd. in @richards_philosophy_1936, 90-1].
 
 In highlighting the continually regenerative power of the poetic metaphor,
-Shelley anticipated what the cognitive school of metaphor theory was to
-confirm by empirical means more than a century later [@mojtabai_delusion_2000;
+Shelley anticipated what the cognitive school of metaphor theory was to confirm
+by empirical means more than a century later [@mojtabai_delusion_2000;
 @billig_metaphor_2005]. Metaphors do not "die" as such. They continue to live,
 but also become naturalized: that is, understood literally. They create
-connections, which with time become habituated and invisible. Taken for
-literal truth, the metaphor loses its quality of mediation or literally
-"ferrying across."[^ln1-greek] For example, for many readers the idea of a
-"dead metaphor" itself no longer evokes death. The metaphor withers: once the
+connections, which with time become habituated and invisible. Taken for literal
+truth, the metaphor loses its quality of mediation or literally "ferrying
+across."[^ln1-greek] For example, for many readers the idea of a "dead
+metaphor" itself no longer evokes death. The metaphor withers: once the
 connotation is lost it becomes a denotative statement lacking any exploratory
 or explanatory potential. In Shelley's view, all metaphors are destined to
-become habituated in this way, only to be reborn again in poetry. In their
-most generative form, metaphors produce new meaning. The creative
-juxtaposition between two as before unrelated conceptual domains brings novel
-aspects of experience to light. With time, the poetic metaphor degrades into a
-tired cliché. It no longer "perpetuates understanding." It dies in a sense of
+become habituated in this way, only to be reborn again in poetry. In their most
+generative form, metaphors produce new meaning. The creative juxtaposition
+between two as before unrelated conceptual domains brings novel aspects of
+experience to light. With time, the poetic metaphor degrades into a tired
+cliché. It no longer "perpetuates understanding." It dies in a sense of
 becoming an instrumental shortcut, a commonplace. In the words of Viktor
 Shklovsky: we "cease to experience" the trope. The metaphor "dries up" when we
-recognize it without apprehension [@shklovsky_voskreshenie_1914]. It no longer
-generates new connections between domains, but merely reinforces existing
-ones. Vilém Flusser put it another way in writing that habituated idiom
-proceeds "smoothly," giving us no pause, without "bumps or interruptions"
-[@flusser_freedom_2003, 13 and 82].
+recognize it without apprehension [@shklovsky_voskreshenie_1914].<!--unable to
+check quote/find page numbers as cited edition is in Russian. PRP--> It no
+longer generates new connections between domains, but merely reinforces
+existing ones. Vilém Flusser put it another way in writing that habituated
+idiom proceeds "smoothly," giving us no pause, without "bumps or interruptions"
+[@flusser_freedom_2003, 13 and 82].<!--I can't find these references in FM or
+any of the other referenced Flusser texts---may need hard copy to confirm.
+PRP-->
 
-Lakoff famously took exception to the idea of dead metaphors, arguing that
-even those metaphors that are thoroughly habituated can play a vital part in
-structuring everyday experience. He gave the example of the sentence: *He
-still can't quite grasp the basic ideas of quantum mechanics*. Grasping, in
-this case, is used as a synonym to "understanding." It indicates a
-transference of properties between physical (grasping) and mental
+Lakoff famously took exception to the idea of dead metaphors, arguing that even
+those metaphors that are thoroughly habituated can play a vital part in
+structuring everyday experience. He gave the example of the sentence: *He still
+can't quite grasp the basic ideas of quantum mechanics*.[@lakoff_death_1987
+145] Grasping, in this case, is used as a synonym to "understanding." It
+indicates a transference of properties between physical (grasping) and mental
 (understanding) realms. Despite being commonplace, the metaphor is alive,
 Lakoff argued, because it continues to perform a function, naming a mental
-activity that we would otherwise find difficult to explain with precision.
-Such a metaphor is less dead than other, perhaps more novel, "one off" poetic
-tropes that fail to circulate widely [@lakoff_death_1987]. The metaphor dies
-in the sense of being overused, but it dies also in another sense for not
+activity that we would otherwise find difficult to explain with precision. Such
+a metaphor is less dead than other, perhaps more novel, "one-shot" poetic
+tropes that fail to circulate widely [@lakoff_death_1987 145]. The metaphor
+dies in the sense of being overused, but it dies also in another sense for not
 being used at all.
 
 A truly dead metaphor for Lakoff is one in which the original source image no
 longer makes sense. He gives the example of the English word *pedigree*, which
 originally referred to the French for "crane's foot," or *pied de grue*. The
 foot was historically used in a typographical flourish to decorate familial
-tree diagrams. In the previous example, when we spoke of the metaphorical
-"grasping" of ideas, both sides of the domain transference were readily
-available to us. We understood something about grasping things and extended it
-to the capacity of the mind to take hold of ideas. By contrast, the average
-English speaker no longer perceives the *pied de grue* contained within the
-English *pedigree*. In the case of a commonplace, the metaphor is merely tired
-from frequent use, where it is completely dead in the crane's foot example.
-All habituated metaphors like "grasping ideas" and "pedigree" lose a measure
-of their symbolic connotation with time. Unlike "pedigree," the metaphorical
-nature of "grasping ideas" is at least available for casual interpretation.
-According to Lakoff, the underlying metaphor "the mind is like a hand"
-generates other meaningful phrases like "you have to *let go* of this idea."
-The crane's foot in the English "pedigree" has stopped generating novel
+tree diagrams.[@lakoff_death_1987 143-4] In the previous example, when we spoke
+of the metaphorical "grasping" of ideas, both sides of the domain transference
+were readily available to us. We understood something about grasping things and
+extended it to the capacity of the mind to take hold of ideas. By contrast, the
+average English speaker no longer perceives the *pied de grue* contained within
+the English *pedigree*. In the case of a commonplace, the metaphor is merely
+tired from frequent use, where it is completely dead in the crane's foot
+example. All habituated metaphors like "grasping ideas" and "pedigree" lose
+a measure of their symbolic connotation with time. Unlike "pedigree," the
+metaphorical nature of "grasping ideas" is at least available for casual
+interpretation. According to Lakoff, the underlying metaphor "the mind is like
+a hand" generates other meaningful phrases like "you have to *let go* of this
+idea." The crane's foot in the English "pedigree" has stopped generating novel
 connections. The conventional notion of dead metaphors, Lakoff objects, does
 not appropriately differentiate between the two cases of metaphor dysfunction
-[@lakoff_death_1987; @muller_metaphors_2008]. The metaphor sometimes "dies"
-but continues to produce new linkages, as is the case with grasping ideas. At
-other times, the metaphor dies in the sense of one domain becoming no longer
+[@lakoff_death_1987; @muller_metaphors_2008]. The metaphor sometimes "dies" but
+continues to produce new linkages, as is the case with grasping ideas. At other
+times, the metaphor dies in the sense of one domain becoming no longer
 accessible to its user, as is the case with pedigree.
 
 Furthermore, note that a wholly unmotivated metaphor does not live at all.
