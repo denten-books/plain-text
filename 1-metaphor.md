@@ -666,10 +666,10 @@ a hand" generates other meaningful phrases like "you have to *let go* of this
 idea." The crane's foot in the English "pedigree" has stopped generating novel
 connections. The conventional notion of dead metaphors, Lakoff objects, does
 not appropriately differentiate between the two cases of metaphor dysfunction
-[@lakoff_death_1987; @muller_metaphors_2008]. The metaphor sometimes "dies" but
-continues to produce new linkages, as is the case with grasping ideas. At other
-times, the metaphor dies in the sense of one domain becoming no longer
-accessible to its user, as is the case with pedigree.
+[@lakoff_death_1987 146-7; see also @muller_metaphors_2008]. The metaphor
+sometimes "dies" but continues to produce new linkages, as is the case with
+grasping ideas. At other times, the metaphor dies in the sense of one domain
+becoming no longer accessible to its user, as is the case with pedigree.
 
 Furthermore, note that a wholly unmotivated metaphor does not live at all.
 Thus the Mad Hatter poses his famous nonsensical riddle in Lewis Carroll's
@@ -689,54 +689,59 @@ recurring example, users should theoretically map their knowledge of paper
 documents and paper waste baskets onto the computational domain. The icon
 should work similarly to the object it purports to simulate. Instead, the
 *idea* of discarding something substitutes for the *material reality* of the
-corresponding action. The concept (of discarding something physical) blends
-not with another conceptual domain (erasing data) but with the contingent
-material affordances of the target medium (solid state storage). Such material
+corresponding action. The concept (of discarding something physical) blends not
+with another conceptual domain (erasing data) but with the contingent material
+affordances of the target medium (solid state storage). Such material
 affordances---our ability to actually erase data, for example---stand in an
 arbitrary relationship to the depicted figure. We expect the thing to be
 deleted, but it is not. One "empties the dustbin," but has no means to verify
-whether the transference of properties took place or not. This incongruence, a
-breakdown of trust in domain transference, violates Lakoff's Invariance
+whether the transference of properties took place or not. This incongruence,
+a breakdown of trust in domain transference, violates Lakoff's Invariance
 Principle, which, if you would recall, describes the projection of structure
-from the source domain *in a way that is consistent with the inherent
-structure of target domain* @lakoff_contemporary_1998, 215] Whatever
-structural transformations visible in the source domain do not carry over to
-the target. The metaphor breaks almost as badly as the transference between
-desks and ravens. Absent the corresponding erasure of data, the act of
-"emptying the trashcan" ceases to be a metaphor at all; it illustrates nothing
-in particular. As was the case with the "crane's foot" in the English
-"pedigree," the handler of the simulated dustbin is missing one part of the
-metaphor equation.  Where with "pedigrees" English speakers fail to grasp the
-source or the tenor of metaphoric substitution, the virtual dustbin is missing
-the target, or the vehicle of the action. Discarding a document into the
-virtual dustbin may not in fact correspond to a similar action in the target
-domain of the storage medium. Failing to achieve transference between source
-and target domains, the metaphor ceases to function. Worse yet: the
-transferred properties are not simply missing in transit, they are manifestly
-misrepresented.
+from the source domain *in a way that is consistent with the inherent structure
+of target domain* [@lakoff_contemporary_1998, 215] Whatever structural
+transformations visible in the source domain do not carry over to the target.
+The metaphor breaks almost as badly as the transference between desks and
+ravens. Absent the corresponding erasure of data, the act of "emptying the
+trashcan" ceases to be a metaphor at all; it illustrates nothing in particular.
+As was the case with the "crane's foot" in the English "pedigree," the handler
+of the simulated dustbin is missing one part of the metaphor equation.  Where
+with "pedigrees" English speakers fail to grasp the source or the tenor of
+metaphoric substitution, the virtual dustbin is missing the target, or the
+vehicle of the action. Discarding a document into the virtual dustbin may not
+in fact correspond to a similar action in the target domain of the storage
+medium. Failing to achieve transference between source and target domains, the
+metaphor ceases to function. Worse yet: the transferred properties are not
+simply missing in transit, they are manifestly misrepresented.
 
 ## Mimesis
 
-"An interface is by nature a form of artistic imitation: a *mimesis*," Brenda
-Laurel wrote in her important 1984 essay "Interface as Mimesis." She went on
-to write that "if designing interfaces feels like painting on cave walls by
+"[A]n interface is by nature a form of artistic imitation: a *mimesis*," Brenda
+Laurel wrote in her important 1984 essay "Interface as Mimesis." She went on to
+write that "if designing interfaces feels like painting on cave walls by
 flickering torchlight, it is only because we, the designers, have not availed
 ourselves of better illumination: the science of the mimetic arts, poetics"
-[@laurel_brenda_interface_1986, 67]. Laurel, who started her academic career
-in theater studies, went on to work for Apple, Activision, Atari, and Sun
-Microsystems among other companies. Her work, widely cited in technical
-literature, reminds us of the close connection between poetics and the
-architecture of human-computer interaction. It is all the more important
-today, as immersive computational environments begin to structure experience
-beyond the merely instrumental. Computers increasingly mediate in the
-interface between the public and the private, art and politics, mind and body.
-The simulacrum requires that we advance a reflective "science of the mimetic
-arts" lest we lose a sense of what Michael Taussig has called the "space
-ulterior to mimesis" [@taussig_mimesis_1993, 129-144]. The suspension of
-disbelief must remain, as it was in Samuel Coleridge's original formulation, a
-willful act, containing further a "semblance of truth" required to animate the
-shadows of imagination [@coleridge_biographia_1917, 6-7]. An involuntary or
-worse yet forced suspension of disbelief can only lead to a state of total
+[@laurel_brenda_interface_1986, 67]. Laurel, who started her academic career in
+theater studies, went on to work or consult <!--technically consulted for
+Apple, according to her resume; not sure if that matters. PRP-->for Apple,
+Activision, Atari, and Sun Microsystems among other companies. Her work, widely
+cited in technical literature, reminds us of the close connection between
+poetics and the architecture of human-computer interaction. It is all the more
+important today, as immersive computational environments begin to structure
+experience beyond the merely instrumental. Computers increasingly mediate in
+the interface between the public and the private, art and politics, mind and
+body. The simulacrum requires that we advance a reflective "science of the
+mimetic arts" lest we lose a sense of what Michael Taussig has called the
+"space ulterior to mimesis" [@taussig_mimesis_1993, 129-144].<!--I've looked
+through the Alterity and Mimesis and Alterity chapters of Taussig but can't
+find any record of this phrase---the only hit I can find for it is in
+a presentation you gave on Metaphor Machines. The sense of this phrase exists
+in Taussig, if not the language, so maybe just take it out of quotes? PRP -->
+The suspension of disbelief must remain, as it was in Samuel Coleridge's
+original formulation, a willful act, containing further a "semblance of truth"
+required to animate the shadows of imagination [@coleridge_biographia_1985,
+308].<!--had to change to modern edition to confirm citation--> An involuntary
+or worse yet forced suspension of disbelief can only lead to a state of total
 critical disempowerment.
 
 The history of human-computer interaction passes through several distinct
@@ -773,7 +778,7 @@ mimesis underscores the political importance of holding the mechanisms of
 mediation in critical view.
 
 Before the 1980s, the dominant paradigm of interacting with machines was the
-dialog [@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
+dialog [See @shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
 @martin_computerized_1970; @martin_design_1973]. Already in 1950, Alan Turing
 imagined a conversation between an artificially intelligent poet and its
 critic:
@@ -781,15 +786,15 @@ critic:
 >`Interrogator:` In the first line of your sonnet which reads "Shall I compare
 thee to a summer's day," would not "a spring day" do as well or better?  
 >`Witness:` It wouldn't scan.  
->`Interrogator:` How about "a winter's day," That would scan all right.  
+>`Interrogator:` How about "a winter's day[,]" That would scan all right.  
 >`Witness:` Yes, but nobody wants to be compared to a winter's day.  
 >`Interrogator:` Would you say Mr. Pickwick reminded you of Christmas?  
->`Witness: In a way.  
+>`Witness:` In a way.  
 >`Interrogator:` Yet Christmas is a winter's day, and I do not think Mr. Pickwick
 would mind the comparison.  
 >`Witness:` I don't think you're serious. By a winter's day one means a typical
-winter's day, rather than a special one like Christmas
-[@turing_computing_1950].
+winter's day, rather than a special one like Christmas. 
+[@turing_computing_1950, 446]
 
 The goal of conversational programming was to provide a similarly naturalized
 dialog between the operator and the machine. Although machine understanding of
@@ -1240,8 +1245,8 @@ emptiness signify: for whom and who with?
 
 [^ln1-carroll]: @carroll_annotated_1960, 55. See @huxley_raven_1976 and
 @susina_why_2001 for a range of possible answers, including Carroll's own:
-"Because it can produce a few notes, though they are very flat; and it is
-nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
+"Because it can produce a few notes, though they are *very* flat; and it is
+nevar [sic] put with the wrong end in front!" [@carroll_alices_1971, xv;
 @susina_why_2001, 16-7].
 
 [^ln1-count]: Rick Adams maintains the source code for a number of early
