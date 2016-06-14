@@ -18,7 +18,7 @@ inches tall, and barely a few millimeters thick. A slab of polished glass
 covers the front of the device, where the tiny eyes of a camera and a light
 sensor also protrude. At the back, made of smooth soft plastic, we find
 another, larger camera. At the foot of the device a grid of small perforations
-indicate breathing room for a speaker and several microphones. To "open" a
+indicates breathing room for a speaker and several microphones. To "open" a
 book I touch the glass. The machine recognizes my fingerprint almost
 instantly. I then tap and poke at the surface until I find a small image that
 represents both my library and a book store, where I can "buy books." Buying
@@ -50,13 +50,12 @@ consumption habits. It tries to sell me things, showing me advertisements for
 cars, jewelry, and pills. It comes with a manual and terms of service. It is my
 confidant, my dealer, my spy.
 
-*Plain Text* is broadly a book about such literary devices. It concerns the
-nature of digital inscription---the material trace that gives rise to textual
-phenomena, and, more broadly to all other cultural artifacts in which the
-computer mediates. Today we find ourselves in an unprecedented, since the
-Middle Ages, position of selective illiteracy and *asemiosis*: the loss of
-signification. Many contemporary texts---like poems inscribed into bacteria
-and encrypted software---exist simply beyond the reach of human
+*Plain Text* concerns the nature of digital inscription---the material trace
+that gives rise to textual phenomena, and, more broadly, to all cultural
+artifacts in which the computer mediates. We find ourselves today in an
+unprecedented, since the Middle Ages, position of selective *asemiosis*: the
+loss of signification. Many contemporary texts---like poems inscribed into
+bacteria and encrypted software---exist simply beyond the reach of human
 senses.[^ln-dna] Other forms of writing are illegible in ways that prevent
 access or comprehension. Increasingly, we write not in the sense of making
 marks on paper but in simulation. The key press leaves a trace in computer
@@ -73,12 +72,12 @@ production which emanate from the fields of computer science and software
 engineering. Conversely, a tighter coupling with the critical tradition in the
 humanities can reveal the often occluded political implications of
 technological progress, which so often appears in the guise of the apolitical.
-To create a novel algorithm that predicts crime by analyzing social media, for
-example, is also to invite the dystopian possibility of thought and language
-policing, unless, that is, such algorithms remain firmly in public view and
-under continual scrutiny.
+To create a novel algorithm that predicts crime by analyzing one's reading
+habits, for example, is also to invite the dystopian possibility of thought
+policing, unless, that is, such algorithms remain legible, in public view, and
+under continual counter-scrutiny.
 
-[^ln-dna]: See @bok_xenotext:_2015 and @bok_xenotext_2011: "I have been
+[^ln-dna]: See @bok_xenotext_2011 and @bok_xenotext:_2015: "I have been
 striving to write a short verse about language and genetics, whereupon I use a
 'chemical alphabet' to translate this poem into a sequence of DNA for
 subsequent implantation into the genome of a bacterium (in this case, a
@@ -186,17 +185,16 @@ affinity with a particular mode of computational meaning-making. Plain text
 identifies a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." Plain text stands in
 opposition to "fancy text," "text representation consisting of plain text plus
-added information" [@unicode_consortium_unicode_1990].<!--need page number? If
-so, page 9--> In the tradition of American textual criticism, "plain text"
-alludes to an editorial method of text transcription which is both "faithful to
-the text of its source" and is "easier to read than the original document"
-[@cook_considerations_1988].<!--corrected first quote--> Combining these two
-traditions, I mean ultimately to build a case for a kind of a systematic
-minimalism when it comes to our use of computers---a minimalism that privileges
-access to source materials, ensuring legibility and comprehension.  I do so in
-contrast with other available modes of human-computer interaction, which
-instead privilege maximizing system-centric ideals like efficiency, speed,
-performance, or security.
+added information" [@unicode_consortium_unicode_1990, 9-10]. In the tradition
+of American textual criticism, "plain text" alludes to an editorial method of
+text transcription which is both "faithful to the text of its source" and is
+"easier to read than the original document" [@cook_considerations_1988].
+Combining these two traditions, I mean ultimately to build a case for a kind
+of a systematic minimalism when it comes to our use of computers---a
+minimalism that privileges access to source materials, ensuring legibility and
+comprehension.  I do so in contrast with other available modes of
+human-computer interaction, which instead privilege maximizing system-centric
+ideals like efficiency, speed, performance, or security.
 
 The title further identifies an interpretive stance one can assume in relation
 to the making and the unmaking of literary artifacts. Besides visible content,
@@ -230,9 +228,9 @@ are not spaces, or rather ersatz expanses that dissimulate: glass that looks
 like paper, liquid crystal that flows to imitate ink. By such means, the
 electronic book delineates a qualitatively new grounds for textual
 inscription. Because *Plain Text* deals with the structure of intimate space,
-it is project theoretically contiguous to the philosophical poetics of Gaston
-Bachelard and Henri Lefebvre, extended into the realm of everyday computation
-[@lefebvre_production_1991; @bachelard_poetics_1994].
+it is a project theoretically contiguous with the philosophical poetics of
+Gaston Bachelard and Henri Lefebvre, extended into the realm of everyday
+computation [@lefebvre_production_1991; @bachelard_poetics_1994].
 
 Writing surfaces multiply and establish themselves firmly among the
 furnishings of home, body, and mind. Think here of commercial products that
@@ -275,15 +273,13 @@ onto the material conditions of contemporary intellectual life.
 
 Both Shklovsky and Flusser wrote lucidly about the dynamics of habituation.
 Their work sheds light onto the irresistible compromise at the core of all
-technology---a compromise by which we trade critical understanding for comfort.
-Habit covers the various homes we make for ourselves in the world "like a
-blanket of cotton wool,"<!--fixed quote; could also have "Habit is like a
-fluffy blanket" from the translation in Vilém Flusser: An Introduction
-(Minnesota UP 2011) 132; PRP--> Flusser wrote: "[i]t smoothes the sharp edges
-of all phenomena that it covers, so that I no longer bump against them, but I
-am able to make use of them blindly." When we sit at our desks, for example, we
-fail to see the "papers and the books that are lying all about." We are used to
-them being there [@flusser_freedom_2003, 13].<!--no ref to p.82 here; PRP-->
+technology---a compromise by which we trade critical understanding for
+comfort. Habit covers the various homes we make for ourselves in the world
+"like a fluffy blanket," Flusser wrote: "[i]t smoothes the sharp edges of all
+phenomena that it covers, so that I no longer bump against them, but I am able
+to make use of them blindly." When we sit at our desks, for example, we fail
+to see the "papers and the books that are lying all about." We are used to
+them being there [@flusser_freedom_2003, 13; @finger_vilem_2011, 132].
 Consequently, we do not parse them as information. Like water that surrounds
 fish, the habituated thing passes into the background of experience. Mediums
 become media. They disappear into the background, cease producing meaning,
@@ -294,14 +290,10 @@ perilous, because those who own the contexts set the terms of engagement.
 Estrangement arrests the process of material concealment. The condition of
 exile allows the displaced to once again transform habituated media into
 meaningful information. In exile, "everything is unusual," Flusser wrote
-[@flusser_freedom_2003, 81].<!--in FM not "Does Writing Have a Future"; PRP-->
-The migrant experiences the world as an ex-perience [*er-fahrung*], or
-literally a driving out. Discovery, he concluded "begins as soon as the blanket
-is pulled away," where the familiar objects can pass into view again
-[@flusser_does_2011, 86-7]<!--this is also only quoted in Vilém Flusser: An
-Introduction, their translation; qtd. on page 132; not sure how you want to
-handle the citation, but I added Finger's introduction to the Zotero file;
-PRP-->.
+[@flusser_freedom_2003, 81]. The migrant experiences the world as an
+ex-perience [*er-fahrung*], or literally a driving out. Discovery, he
+concluded "begins as soon as the blanket is pulled away," where the familiar
+objects can pass into view again [@flusser_freedom_2003, 82-3].
 
 <!-- perhaps more or less on exile, this is why i am bringing it in and how i
 want you think about it -->
@@ -346,7 +338,7 @@ when the automatization of experience "consumes things, clothing, furniture,
 your spouse, and the fear of war."[^ln-brik] The formalists rarely quoted Marx
 directly. Yet the echoes of Marx resonate throughout. The dead metaphor marks
 alienation from humanity.[^ln0-marx] The point at which material artifact
-disappears from individual conciousness is the also the point where it appears
+disappears from individual conciousness is also the point where it appears
 within the social sphere as fetish. Shklovksy however inverts the Marxist idea
 of alienation [*Entfremdung*], which for Marx always denies life, into a
 technique of estrangement---literally othering [*ostranenie*]---of the kind
@@ -369,7 +361,7 @@ rights, and accountability [@bohn_living_2004; @jianhua_ma_towards_2005;
 @calverley_android_2006; @hildebrandt_ambient_2007; @atzori_smart_2014]. Marx's
 table that "evolves out of its wooden brain grotesque ideas" now becomes
 Surface and PixelSense, product names of actual smart tables made by Microsoft
-[@marx_capital_1906, 82; @wigdor_designing_2009].
+[@marx_capital:_1906, 82; @wigdor_designing_2009].
 
 If we hope to understand digital culture and especially literature, as
 Friedrich Kittler would write, "under conditions of high technology," we can
@@ -436,31 +428,29 @@ Perpetual exile is otherwise uninhabitable [@flusser_freedom_2003, 81].
 Estrangement thrusts the displaced into the chaos of unsettled existence. With
 time, the displaced make a new home, from which they can once again "receive
 noise as information" and produce meaning. "I am embedded in the familiar,"
-Flusser wrote, "so that I can reach out toward the unfamiliar and create things
-yet unknown" [@flusser_freedom_2003, 12]. The displaced and the settled need
-each other. The dialectics of exile lead to "informed renewal" of shared space
-through what Flusser called a "creative dialogue" between the settled and the
-displaced [@flusser_freedom_2003, 84]. Without the protection of one's home,
-everything turns to noise. Information cannot exist without a dwelling, Flusser
-wrote, "and without information, in a chaotic world, one can neither feel nor
-think nor act" [@flusser_freedom_2003, 12].<!--right page, wrong book;PRP--> By
-this dynamic, displacement and settlement enter into a continuing dialectic.
+Flusser wrote, "so that I can reach out toward the unfamiliar and create
+things yet unknown" [@flusser_freedom_2003, 12]. The displaced and the settled
+need each other. The dialectics of exile lead to "informed renewal" of shared
+space through what Flusser called a "creative dialogue" between the settled
+and the displaced [@flusser_freedom_2003, 84]. Without the protection of one's
+home, everything turns to noise. Information cannot exist without a dwelling,
+Flusser wrote, "and without information, in a chaotic world, one can neither
+feel nor think nor act" [@flusser_freedom_2003, 12]. By this dynamic,
+displacement and settlement enter into a continuing dialectic.
 
 In *Plain Text*, I model the reciprocal movement to "making strange" on the
 diverse practices of reverse engineering. Similar in method to what Matthew
 Kirschenbaum calls "forensic argumentation," reverse engineering recalls the
-formalist strategy of experiencing the "making of the thing"<!--note, this does
-not appear in Kirschenbaum---are these meant to be scare quotes? A bit unclear;
-PRP--> through careful, case study-based reconstructions of textual
-mechanism.[^ln0-reverse] The function of a case study in an engineer's
-education, as Henry Petroski explains in his *Invention by Design*, is to
-understand the ways by which one gets "from thought to thing"
-[@petroski_invention_1996, 3-7]. From thought to thing would be another apt
-definition of poetics and an alternative subtitle to this book. Along with an
-literary and historical exposition, each of my chapters contains at least one
-literary thought-thing. Each chapter enacts a deconstruction---a literal taking
-apart---of that device. The epistemic object is present to challenge the
-reader's and the author's theoretical intuitions.
+formalist strategy of experiencing the making of the thing through careful,
+case study-based reconstructions of textual mechanism.[^ln0-reverse] The
+function of a case study in an engineer's education, as Henry Petroski
+explains in his *Invention by Design*, is to understand the ways by which one
+gets "from thought to thing" [@petroski_invention_1996, 3-7]. From thought to
+thing would be another apt definition of poetics and an alternative subtitle
+to this book. Along with an literary and historical exposition, each of my
+chapters contains at least one literary thought-thing. Each chapter enacts a
+deconstruction---a literal taking apart---of that device. The epistemic object
+is present to challenge the reader's and the author's theoretical intuitions.
 
 Computational poetics, a mode of materialist critique, is concerned with the
 transition of theory into practice. Where "distant reading" and cultural
@@ -478,30 +468,29 @@ which ideals reify and align with specific technological commitments.
 
 The reverse engineering of literary devices reveals that not all texts are
 created equal. In print, traditional distinctions between form and content lie
-flat. The printing press firmly embeds ink into paper, leaving no space between
-type and page. Materially-minded critics like Johanna Drucker, Katherine
-Hayles, and Jerome McGann have urged literary scholars to re-evaluate
-textuality in its media-specific contexts [@drucker_digital_2001;
+flat. The printing press firmly embeds ink into paper, leaving no space
+between type and page. Materially-minded critics like Johanna Drucker,
+Katherine Hayles, and Jerome McGann have urged literary scholars to
+re-evaluate textuality in its media-specific contexts [@drucker_digital_2001;
 @mcgann_radiant_2001; @hayles_print_2004]. Their work reminds us that the
 flatness of digital text endures only in the guise of an illusion. Low-level
-operational intuitions governing textuality---ideas about form, content, style,
-letter, and word---change profoundly as text shifts its confines from paper to
-pixel. A substantial gap separates the visible text from the medium where it is
-stored. Pixels on a screen are literally removed from the electromagnetic trace
-on the hard drive. The two sites of textuality---the visible image and the
-archived inscription---do not come into direct contact.  The space between
-gives ground to more text, of the kind that specifies rules for transformation:
-from one medium, solid state storage, to another, the liquid crystal display.
-These rules contain the essence of control, before ideology, at the level of
-infrastructure. Censorship filters and surveilling apparatus are some of the
-starkest examples of governance that occupy the space between storage and
-presentation: what the text is and what it appears to be. I propose we begin
-with this obvious sense of difference between paper and digital text: where
-print is governed by law from without, think for example of the Obscene
-Publication Acts in Victorian England, digital text is governed by code,
-capable of executing its edicts from within [@mccalman_unrespectable_1984;
-@roberts_morals_1985].<!--Should this footnote include a short quote from one
-fo the sources? It might help clarify the point; PRP--> In this way governance
+operational intuitions governing textuality---ideas about form, content,
+style, letter, and word---change profoundly as text shifts its confines from
+paper to pixel. A substantial gap separates the visible text from the medium
+where it is stored. Pixels on a screen are literally removed from the
+electromagnetic trace on the hard drive. The two sites of textuality---the
+visible image and the archived inscription---do not come into direct contact.
+The space between gives ground to more text, of the kind that specifies rules
+for transformation: from one medium, solid state storage, to another, the
+liquid crystal display.  These rules contain the essence of control, before
+ideology, at the level of infrastructure. Censorship filters and surveilling
+apparatus are some of the starkest examples of governance that occupy the
+space between storage and presentation: what the text is and what it appears
+to be. I propose we begin with this obvious sense of difference between paper
+and digital text: where print is governed by law from without, think for
+example of the Obscene Publication Acts in Victorian England, digital text is
+governed by code, capable of executing its edicts from within
+[@mccalman_unrespectable_1984; @roberts_morals_1985]. In this way governance
 intertwines with text to become an organ in the same unified corpus.
 
 Changing material conditions of textual transmission push against familiar
@@ -563,15 +552,7 @@ such composite tropes attain a measure of similarity to the physical realities
 of typing, editing, and archiving paper. Simulated erasure for example, of the
 kind that happens when the writer presses the delete key, does not necessarily
 entail the corresponding erasure of content on the disk. The erased word could
-persist and even multiply across other storage drives and devices. In the worst
-case, the connection between keyboards and screens suffers from intractable
-"man-in-the-middle" attacks, by which third parties maliciously alter the
-content of intended communication [@needham_using_1978].<!--the combination of
-phrasing and citation here is a bit confusing/misleading: where does encryption
-of transmitted messages come into the "connection between keyboards and
-screens"? It isn't yet clear how man-in-the-middle attacks relate to this---you
-might either explain more or get into the issue of secure communications
-elsewhere, imo. PRP-->
+persist and even multiply across other storage drives and devices.
 
 In this book, I will argue that some of the higher-level political afflictions
 of the contemporary public sphere---mass surveillance and online censorship,
@@ -598,15 +579,14 @@ with the material affordances of the epistemic artifact.
 [^ln0-levine]: Affordances, as Caroline Levine explains, "describe the
 potential uses or actions latent in materials and designs." For example,
 "[g]lass affords transparency" where "[s]teel affords strength"
-[@levine_forms:_2015, 6].  See also @hutchby_technologies_2001, 447.<!--fixed
-first quote, added quotation marks thereafter for verbatim language. PRP-->
+[@levine_forms:_2015, 6].  See also @hutchby_technologies_2001, 447.
 
 It is easy to forget the blunt effectiveness of physical control in the global
 North-west. Books that are burned or redacted cannot be read at all.
 Elsewhere, inequities of access to knowledge compel readers to print their own
 books and build their own libraries. Witness the so-called "shadow libraries"
 of Eastern Europe and Central Asia, the street book vendors of India and
-Pakistan, and the gray market presses of Nigeria arising form the country's
+Pakistan, and the gray market presses of Nigeria arising from the country's
 "book famine"[@mahmood_copyright_2005; @okiy_photocopying_2005;
 @liang_piracy_2009; @bodo_short_2014; @nkiko_book_2014; @_elsevier_2015]. More
 than mere piracy, such *samizdat*-like practices preserve the literary sphere
@@ -678,7 +658,7 @@ and new media studies take root.
 > fruitful and luminous generalizations about vital phenomena only in so far as
 > we ourselves experiment and, in hospitals, amphitheaters, or laboratories,
 > stir the fetid or throbbing ground of life [@bernard_introduction_1957,
-> 3,15].<!--fixed quote. PRP-->
+> 3,15].
 
 My approach to writing *Plain Text* stems from the desire to enact theory
 capable of addressing the grim picture Friedrich Kittler paints at the end of
@@ -720,21 +700,21 @@ material contexts. Similarly, a materialist critique cannot achieve its stated
 aims without purchase on the material world. Contemporary knowledge workers
 stare into rectangular black boxes for a considerable part of their days,
 suspecting, in the absence of other feedback, that their gaze is met in bad
-faith. Connecting theories of meaning-making to their practice offers a way out
-of the conundrum. Bad faith identifies a misalignment between thought and
+faith. Connecting theories of meaning-making to their practice offers a way
+out of the conundrum. Bad faith identifies a misalignment between thought and
 action.[^ln-sartre] The solution to connect "meaning" with "operational
-meaning" belongs to a species of pragmatism.  William James articulated the
+meaning" belongs to a species of pragmatism. William James articulated the
 approach concisely when he wrote that "reality is seen to be grounded in a
 perfect jungle of concrete expediencies" [@james_pragmatisms_1907 233]. For
 James and other pragmatists, truth could not exist in the abstract alone. It
 also entailed causes and effects that operate in the world.[^ln-pragma-truth]
 In his essay "Pragmatism's Conception of Truth," James asked: "How will the
-truth be realized? [...] [W]hat concrete difference will its being true make in
-anyone's actual life? [...] What experiences will be different from those which
-would obtain if the belief were false?"[@james_pragmatisms_1907 200] <!--fixed
-quote, added citation. PRP-->Frank Ramsey, the young British philosopher close
-to Ludwig Wittgenstein, would later write in a similar vein about meaning
-"defined by reference to the actions."[^ln-pragmatism]
+truth be realized? [...] [W]hat concrete difference will its being true make
+in anyone's actual life? [...] What experiences will be different from those
+which would obtain if the belief were false? [@james_pragmatisms_1907 200]"
+Frank Ramsey, the young British philosopher close to Ludwig Wittgenstein,
+would later write in a similar vein about meaning "defined by reference to the
+actions. [@ramsey_foundations_2013, 155]"
 
 For a pragmatist, truth-carrying propositions of the shape "X is Y" (as in,
 "the author is dead" or "art is transcendent") beg the questions of "Where?,"
@@ -769,12 +749,10 @@ field of early modern history consider the preface to a recent volume on *Ways
 of Making and Knowing*, edited by Pamela Smith, Amy Meyers, and Harold Cook.
 They write that the "history of science is not a history of concepts, or at
 least not that alone, but a history of the making and using of objects to
-understand the world" [@smith_ways_2014, 12].<!-- I will need to find a
-physical copy to verify this. Assume OK unless I circle back PRP --> Smith
-translates that insight in the laboratory, where, together with her students,
-she bakes bread and smelts iron to recreate long-lost artisanal techniques. For
-those who experiment, "book knowledge" and "artifactual knowledge" connect in
-practice.
+understand the world" [@smith_ways_2014, 12]. Smith translates that insight in
+the laboratory, where, together with her students, she bakes bread and smelts
+iron to recreate long-lost artisanal techniques. For those who experiment,
+"book knowledge" and "artifactual knowledge" connect in practice.
 
 Artifactual knowledge---from typesetting software to e-book readers and word
 processors---shapes our everyday encounter with literature. Such technologies
@@ -1048,24 +1026,7 @@ post-humanism see for example @winthrop-young_silicon_2000; @wolfe_what_2010,
 [^ln0-manovich]: See @manovich_there_2011, 53-106.
 
 [^ln0-marx]: For more on alienation see the relevant discussion in
-@marx_economic_1964 and @marx_theories_1963.<!--Do you want more recent
-editions of these? -->
-
-[^ln-pragmatism]: @ramsey_foundations_2013, 155. The intellectual legacy of
-pragmatism is wide-ranging and diffuse. It is perhaps most pronounced in the
-teachers colleges, where James and Dewey are still read widely, which could
-explain the ascendancy of such pedagogical terms as "situated
-cognition"[@brown_situated_1988, @lave_situated_1991] and "experiential
-learning"[@kolb_hegel_1981]: both terms denote some sense of necessary
-synthesis between of knowing and doing. In the field of linguistics, philosophy
-of language, and communication studies, pragmatics are well-encapsulated by the
-"language-as-action tradition," which harkens back to the Oxford language
-philosophers like J.L. Austin, Paul Grice, and John Searle
-[@trueswell_approaches_2005]. Austin's *How to Do Things with Words,* is
-perhaps the paradigmatic formulation of the idea that words don't just mean
-things, but that they enact change in the world.<!--I'm not sure this footnote
-is needed. Is anyone else writing about pragmatism and modern communication
-specifically? PRP-->
+@marx_economic_1964 and @marx_theories_1963.
 
 [^ln-pragma-truth]: For a more thorough discussion on the topic see
 @seigfried_william_1990, @pihlstrom_structuring_1996, and @putnam_jamess_1997.
@@ -1104,7 +1065,7 @@ technology-out-of-control have frequently echoed Hobbes in suggesting that such
 an artifact---the Leviathan of interconnected technical systems---has a soul of
 its own [...] A ghost appears in the network.  Unanticipated aspects of
 technological structure endow the creation with an unanticipated *telos*"
-[@winner_autonomous_1978, 280]. <!--fixed quote; PRP-->
+[@winner_autonomous_1978, 280].
 
 [^ln-witt]: @wittgenstein_philosophical_2001, 67-77. For more on the
 connection between Wittgenstein and James see @goodman_james_2004.

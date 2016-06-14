@@ -42,7 +42,7 @@ The two schools of thought disagree because they speak neither of the same
 phenomenon nor at the same site. The former group highlights the ephemeral,
 transcendent qualities of the projected word. The latter foregrounds instead
 the "uniquely indelible nature of magnetic storage"
-[@kirschenbaum_mechanisms_2008], the "drives, tapes, and disks," the
+[@kirschenbaum_mechanisms:_2008], the "drives, tapes, and disks," the
 "fundamental physical support," and the "material substrates of computing"
 [@drucker_performative_2013]. In this way, the hard drive and the screen
 partition the sign between surface and depth, projection and archive.  At the
@@ -1375,7 +1375,7 @@ electronic computing" outlined in Peter Denning's "theory of operating systems"
 truckloads of punched cards being transported from one center to another in
 Italy."
 
-[^ln2-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
+[^ln2-magnet]: See for example @stefanita_magnetism:_2012, 1-69 and
 @ohmori_memory_2015.
 
 [^ln2-loom]: These dates, as is usually the case with periodization, are

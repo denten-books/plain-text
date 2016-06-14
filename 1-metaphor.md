@@ -17,9 +17,7 @@ precisely in the totalizing mediation of code:
 > find the digital and programmatic sign, whose "value" is purely *tactical*,
 > at the intersection of other signals ("bits" of information/tests) whose
 > structure is that of a micromolecular code of command and control
-> [@baudrillard_symbolic_1988, 139-140].<!--wrong text. PRP-->
-
-<!-- check the page numbers -->
+> [@baudrillard_symbolic_1988, 139-140].
 
 My concern here is with the structure of code, the programmatic sign, which
 splits its energies between the screen and hard drive. On the screen, at the
@@ -53,7 +51,7 @@ image, which under examination reveals a complex process of transfiguration
 between the visible sign and the sign at the site of the inscription. When
 reading online, for example, we observe what looks like a book, where we
 should also perceive an attempt to censor and surveil. The simulation is
-without a referent. It bares little resemblance to the material substrata of
+without a referent. It bears little resemblance to the material substrata of
 electronic reading. We believe we are handling a book. Our ideas about reading
 and interpretation subsequently rely on that initial physical point of contact
 with paper. But when reading electronically, we are handling something other
@@ -113,7 +111,7 @@ George Lakoff, Mark Johnson, and Mark Turner among others in the 1980s. This
 school of thought gained influence in the formative period in the history of
 human-computer interaction. It is therefore important for me to examine the
 vocabulary of that tradition on its own terms and to advance its critique from
-within. It bares mentioning at the outset that in the language of cognitive
+within. It bears mentioning at the outset that in the language of cognitive
 metaphor theory all figurative tropes of comparison---hyperbole, metonymy,
 synecdoche, or simile---fall under the category of metaphor. To avoid
 confusions of the sort, to get onto the same page if you will, I plan to spend
@@ -177,13 +175,9 @@ The idea that "good things are up" generates a multitude of metaphors like
 "profits are going up" and "moving on up," for example
 [@lakoff_metaphorical_1980, 195-198].
 
-!["An exemplary interface for viewing a three dimensional book"
-.](images/book-metaphor.png)[@card_methods_2006, 3]<!--note, doc build crashes
-with footnote in caption. See https://github.com/jgm/pandoc/issues/1506 for
-detail-->
+!["An exemplary interface for viewing a three dimensional book [@card_methods_2006, 3]."](images/book-metaphor.png)
 
-!["Alternate display techniques for information about a big book"
-.](images/book-3d.png)[@card_methods_2006,4]
+!["Alternate display techniques for information about a big book [@card_methods_2006,4]."](images/book-3d.png)
 
 In the cognitive view, the metaphor performs a number of "conventional
 mappings from one domain to another" [@lakoff_contemporary_1998, 239]. Lakoff
@@ -192,39 +186,34 @@ the ideas of "friendly" and "hostile" states [@lakoff_contemporary_1998, 243].
 This metaphor implies that ideas about agency, emotion, and mental life
 usually attached to people can be extended to state actors. Similarly, to say
 that someone is "boiling mad," instantiates the common trope of "anger is a
-hot liquid in a container." In this case, common known properties attached to
-the domain of physics are mapped onto the domain of emotion. Lakoff explains
-that such domain mappings tend to also follow a few rules. They are usually
-partial and asymmetrical. "Mappings are not arbitrary," he writes, "but
-grounded in the body and in everyday experience and knowledge." Finally domain
-mappings obey what Lakoff calls the Invariance Principle, by which "the image
-schema structure of the source domain is projected onto the target domain in a
-way that is consistent with inherent target domain
-structure."[^ln1-metalakoff] Keep these rules in mind as they will become
-important later on in our conversation.
+hot liquid in a container." In this case, familiar properties attached to the
+domain of physics are mapped onto the domain of emotion. Lakoff explains that
+such domain mappings tend to also follow a few rules. They are usually partial
+and asymmetrical. "Mappings are not arbitrary," he writes, "but grounded in
+the body and in everyday experience and knowledge." Finally domain mappings
+obey what Lakoff calls the Invariance Principle, by which "the image schema
+structure of the source domain is projected onto the target domain in a way
+that is consistent with inherent target domain structure."[^ln1-metalakoff]
+Keep these rules in mind as they will become important later on in our
+conversation.
 
 The kind of resemblances that we have been discussing so far---between the
 document and its icon, for example---are further referred to as *structural
 metaphors*. "Structural metaphors allow us to do much more than just orient
 concepts," Lakoff and Johnson wrote in the 1980s. Grounded in "systematic
 correlations within our experience," structural metaphors transfer organizing
-principles from one domain to another.[@lakoff_metaphors_1980, 61] Thus to say
-"the world is our oyster" is to suggest that something in our approach to
+principles from one domain to another [@lakoff_metaphors_1980, 61-8]. Thus to
+say "the world is our oyster" is to suggest that something in our approach to
 interacting with oysters, likely in a gastronomical situation, resembles our
-approach to life [C.f. @lakoff_metaphors_1980, 65-8].<!--The citation makes it
-sound like the oyster thing is Lakoff's/Johnson's, but they talk about
-time/labor/resource. PRP--> The ease of eating one transfers to the ease of
-living in the other. The transferred property implies not just a semantic
-similarity, one of meaning, but a structural one, one of interface. The
-metaphor suggests the world is arranged like an oyster somehow, that it can be
-cracked, and that it contains a tasty hidden morsel within. In this way,
-structural metaphors organize one thing in the shape of another. They are tools
-for extending insight from a known domain to a lesser known one, holding great
-explanatory and exploratory power where simple things like oysters shed light
-on complex things like worlds.
-
-<!-- check on structural metaphors to make sure world-oyster is the correct
-example -->
+approach to life. The ease of eating one transfers to the ease of living in
+the other. The transferred property implies not just a semantic similarity,
+one of meaning, but a structural one, one of interface. The metaphor suggests
+the world is arranged like an oyster somehow, that it can be cracked, and that
+it contains a tasty hidden morsel within. In this way, structural metaphors
+organize one thing in the shape of another. They are tools for extending
+insight from a known domain to a lesser known one, holding great explanatory
+and exploratory power where simple things like oysters shed light on complex
+things like worlds.
 
 In their capacity for exploration and explanation, metaphor machines present
 us with a special case of conceptual domain blending in that they enact,
@@ -307,8 +296,8 @@ the structural metaphor paradigm of human-computer interaction. The idea of
 "direct manipulation" refers to its *immediate* availability to hand.
 Paradoxically, the user handles only the metaphor directly. The actual
 notebook is occluded in favor of its representation. This subtle sleight of
-hand, by which handling metaphors appears "direct," where metaphors subsume
-things, will continue to haunt our conversation.
+hand, by which the handling of metaphors appears a "direct" action, where
+metaphors subsume things, will continue to haunt our conversation.
 
 ## Dissimulation
 
@@ -367,7 +356,7 @@ example, in lending you a copy of the text. I am fairly certain that the text
 will remain unaltered as I pass the book into your hands. By contrast, the
 computed sign adjusts itself to new contexts. An electronic version of
 *Hamlet* could adapt to the new reader's geographic location, mood, or
-consumption habits. In fact, most texts we consume today come to us in such
+consumption habits. In fact, most texts we consume today come to us in such a
 computationally constructed way. The front page of the *New York Times* viewed
 in Beijing will differ from that viewed in New York. The two "pages" or
 "sites" are in some sense two completely different textual variants. In
@@ -423,8 +412,8 @@ to turn the page, readers perform the more habituated motion of swiping across
 the screen. The gliding motion enacts a kinetic analogy---a type of a
 metaphor---as if to transpose properties of paper to glass.
 
-Our grasp on the medium weakens the more convincing the simulacrum. By
-definition, simulation "assume[s] a form resembling that of something else,"
+Our grasp on the medium weakens the more convincing its simulacrum. By
+definition, simulation "assumes a form resembling that of something else,"
 whereby one referent is exchanged for another [@_simulation_2015]. To drag and
 drop a document into a trashcan on the screen, for example, should in theory
 correspond to an analogous set of data manipulations on the disk. Yet,
@@ -468,9 +457,9 @@ potential readers from adopting a new technology. Smart designers therefore
 rely on acculturated practice, the turning of pages in our case, to minimize
 the "friction" of adoption. Although an "electronic book reader" contains no
 pages as such, it extends the metaphor of pages to electronic reading.
-A digital poem, a novel, a physician's script, or a legal contract resembles
-their paper counterparts in order to enable familiar actions. But while
-imitating paper pages, the reading appliance also monitors, adjusts, warns, and
+Digital poems, novels, physician's scripts, and legal contracts resemble their
+paper counterparts in order to enable familiar actions. But while imitating
+paper pages, the reading appliance also monitors, adjusts, warns, and
 controls.
 
 Dissimulation conceals structuring principles large and small. Some of the
@@ -518,8 +507,7 @@ portion of a charge translating device illustrating a preferred electrical
 contact arrangement. A quantum of charge carriers, representing an information
 bit [...] can be translated along the semiconductor [...] sweeping the
 minority carriers with it. The quantum can be detected by a simple capacitive
-couple, e.g., a floating gate FET"
-.](images/floating-gate.png)[@boyle_information_1974]
+couple, e.g., a floating gate FET" [@boyle_information_1974].](images/floating-gate.png)
 
 Dissimulation is perhaps necessary, because the reading and writing of digital
 data can involve processes far outside of everyday experience. For example, in
@@ -530,19 +518,20 @@ complexities of solid state storage architecture, the difference in the
 structure of information on pages and floating gates is apparent. The
 arrangement of one has only an arbitrary connection to the other. Consequently
 changes in the structure of the symbolic domain, which manifest in the erasure
-of words on the screen for example, do not necessitate corresponding changes in
-the physical domain, which in the same example manifest in the discharge of the
-floating gate. The information endures despite the intended erasure. Dwellers
-of virtual realms believe in verisimilitude as a matter of faith. We hope for
-the analogy of turning pages or erasing words on the screen to entail similar
-actions on the disk. But we waiver when asked to authenticate the particulars
-of the simulation. At times, "erased" data is simply hidden from view. At other
-times, instead of disappearing it proliferates across deep surfaces, shared
-without consent with agents not privy to the original contexts of inscription.
-As was the case with Baudrillard's map, the metaphor of reading and writing
-digitally breaks in that it no longer resembles any familiar terrain.
-Dissimulation mimics familiar materialities absent their actual physics. It
-suggests a structuring of one kind, while enacting the structure of another.
+of words on the screen for example, do not necessitate corresponding changes
+in the physical domain, which in the same example manifest in the discharge of
+the floating gate. The information endures despite the intended erasure.
+Dwellers of virtual realms believe in verisimilitude as a matter of faith. We
+hope for the analogy of turning pages or erasing words on the screen to entail
+similar actions on the disk. But we waver when asked to authenticate the
+particulars of the simulation. At times, "erased" data is simply hidden from
+view. At other times, instead of disappearing it proliferates across deep
+surfaces, shared without consent with agents not privy to the original
+contexts of inscription. As was the case with Baudrillard's map, the metaphor
+of reading and writing digitally breaks in that it no longer resembles any
+familiar terrain. Dissimulation mimics familiar materialities absent their
+actual physics. It suggests a structuring of one kind, while enacting the
+structure of another.
 
 In these novel conditions, the task of the literary scholar must include,
 among other things, a practice of microscopic reading that corresponds to the
@@ -755,12 +744,12 @@ physical arrangement of gates and relays was further codified into an
 artificial language. The programmer operated with a constrained vocabulary,
 receiving messages in response, in a dialog resembling human communication.
 
-B) As the use of computers spread, the paradigm of so called "direct interaction"
-shifted emphasis from verbal cues to visual and from symbol to icon. The
-communication was and continues to be direct in the sense of felt immediacy
-and immersion.  By comparison to the verbal symbol, the icon appears to have a
-relationship to the remote materialities of machine state less arbitrary than
-the symbol.
+B) As the use of computers spread, the paradigm of so called "direct
+interaction" shifted emphasis from verbal cues to visual and from symbol to
+icon. The communication was and continues to be direct in the sense of felt
+immediacy and immersion. By comparison to the verbal symbol, an icon appears
+to have a relationship to the remote materialities of computational media less
+arbitrary than the symbol.
 
 C) Finally, one imagines an indexical connection between human and machine, by
 which brain states and machine states could correspond through a physical
@@ -771,7 +760,7 @@ machine.
 
 It would be a mistake however to accept the insistence on "directness" at face
 value or to understand the arc of this historical trajectory as one that leads
-the gradual loss of mediation. In the transition between brain states and
+to the gradual loss of mediation. In the transition between brain states and
 machine configurations, a morphological grammar always intercedes. The grammar
 sets the rules of engagement. The growing sense of immediacy of computational
 mimesis underscores the political importance of holding the mechanisms of
@@ -985,11 +974,8 @@ directness," in which direct, that is iconic, expressions, "behave in such a
 way that a user can assume that they, in some sense, *are* the things they
 refer to" [@hutchins_direct_1986, 110].
 
-<!-- ![Direct manipulation of simulated objects,
-1984.](images/minsky.png)[@minsky_manipulating_1984, 199] -->
-
 !["ViewPoint screen image." On screen menus for the Xerox 6085 Daybreak
-workstation, 1985.](images/xerox_star.png)[@johnson_xerox_1989, 13]
+workstation, 1985 [@johnson_xerox_1989, 13].](images/xerox_star.png)
 
 The principles of direct interaction that emerge in the 1980s stood against
 what Laurel called the "ill-formed" presence of the mediator, in the
@@ -1046,21 +1032,21 @@ vehicle, a driver turns the wheel to the right, and the car immediately
 follows. A direct causal link exists between the steering wheel and the car's
 axle. Similarly, when operating a computer game like Space Invaders via a
 joystick, the player experiences the immediate correspondence between the
-movement of the controlling mechanism and movement of the player-controlled
-space ship on the screen. The car is the "direct object of interest" for a
-driver, just like the virtual space ship is for a gamer. Unlike video game
-players, authors attempting to delete sensitive information---to return to our
-simple and reoccurring example---are not interested in the virtual
-representation of their documents. The object of their interest is not
-mimetic. They want to erase the document itself, located somewhere within the
-machine. In cases like these, inhabitants of the simulated, virtual world have
-an interest in objects outside of it. The paradigm of direct manipulation
-instead veils the object from view, suspending the rules of physical
-interaction in favor of the virtual. Far from being direct, the iconic
-representation of the document---the image of a file---usurps the physical
-object, the file itself.  Where in the conversational paradigm the nature of
-the mediation was at hand, open to circumspection, "direct manipulation"
-occludes the mechanisms of mimesis.
+movement of the controlling mechanism and the movement of the
+player-controlled space ship on the screen. The car is the "direct object of
+interest" for a driver, just like the virtual space ship is for a gamer.
+Unlike video game players, authors attempting to delete sensitive
+information---to return to our simple and reoccurring example---are not
+interested in the virtual representation of their documents. The object of
+their interest is not mimetic. They want to erase the document itself, located
+somewhere within the machine. In cases like these, inhabitants of the
+simulated, virtual world have an interest in objects outside of it. The
+paradigm of direct manipulation instead veils the object from view, suspending
+the rules of physical interaction in favor of the virtual. Far from being
+direct, the iconic representation of the document---the image of a
+file---usurps the physical object, the file itself.  Where in the
+conversational paradigm the nature of the mediation was at hand, open to
+circumspection, "direct manipulation" occludes the mechanisms of mimesis.
 
 The trajectory from direct *physical* manipulation to direct *virtual*
 manipulation leads to the totalizing loss of resemblances and designations
@@ -1084,9 +1070,9 @@ The history of human-computer interaction began with the manipulation of
 physical switches, first by hand and then by proxy, through removable storage
 media like paper tape and punch card. The next phase was dialogic and
 conversational. Conversational computing introduced the idea of a mediating
-agent, an interpreter, who could translate from a limited number of natural
-human language commands into the specialized vocabulary of signals that
-changed machine configuration states. The "direct manipulation" school of
+agent, an interpreter, who could translate a limited number of natural human
+language commands into the specialized vocabulary of signals that changed
+machine configuration states. The "direct manipulation" school of
 human-computer interaction dispensed with visible machine states, leading us
 further towards immersive mimesis in which virtual environments resemble
 real-world objects and their properties. Viewing that history in light of
@@ -1197,7 +1183,7 @@ the need of paper, the paper to the press. The press consequently organizes
 the public, set on "swallowing what is printed, so that a set configuration of
 opinion becomes available on demand." In following the path of a determined
 narrative, technology turns the human into human resource. It is in that
-sense, that Heidegger concludes that modern technology is "no more a human
+sense that Heidegger concludes that modern technology is "no more a human
 doing" [@heidegger_question_1977, 323-4]. Ultimately, proscribed tool use
 strips users of their powers of self-determination. They learn nothing new
 about themselves or the world.
@@ -1274,7 +1260,7 @@ their objects as hardly to be distinguished from them" [@peirce_algebra_1992,
 @turner_conceptual_1995; @ruiz_de_mendoza_ibanez_nature_1998;
 @lakoff_invariance_2009.
 
-[^ln1-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
+[^ln3-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
 The Frequently Asked Questions page includes the following prompt: "Have you
 ever dreamed of moving an object with the power of your mind? Mindflex Duel™
 makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
