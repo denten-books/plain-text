@@ -101,33 +101,30 @@ contemporary scientists, legislators, and philosophers.
 Today, a machine that looks like a book can also function as a gun or trigger.
 Electronic books read on mobile phones, tablets, and personal computers
 comprise a part of the same digital framework that powers drones and aircraft
-carriers. Today, computers in the service of the world's largest purveyors of
+carriers. Computers in the service of the world's largest purveyors of
 literature are also used by air traffic control and covert intelligence
 agencies [@soyata_combat:_2012; @logicworks_government_2015]. A cellular
-phone, once a device used solely for voice telecommunication, is now used both
-to read books and to detonate explosives at a distance.
+phone, once a device for voice telecommunication, is now used both to read
+books and to detonate explosives at a distance.
 
 These conditions compel us---historians, philologists, et al.---to reconsider
 the cozy relationship we have had with books since the advent of the Gutenberg
-press.  Simulated text no longer plays by the same rules as print. The
-bibliographic illusion veils machine internals.
-
-My task in this chapter will be to illuminate the blueprint of computation
-within the electronic book and thereby to make the book strange again. In a
-reciprocal movement, I aim also to place the modern computer itself within the
-long history of the book and to view it as technique for literary and not just
-mathematical symbolism. To do this, I will construct a short prehistory of the
-literary device, based on materials drawn from the first half of the twentieth
-century. I am interested here broadly in the concepts of device and technique
-which emerge in the thought of Russian, German, and English philologists whose
-work I will cover in the first section of this chapter. Subsequent sections
-trace the concomitant emergence of literary device in another sense, as a
-thought experiment staged by Ludwig Wittgenstein and completed by Alan Turing
-in the 1920s and 1930s. These experiments lead us to consider a series of
-fantastical broken reading and writing machines: machines that define the
-limits of symbolic thought and ultimately culminate in a blueprint for a
-specific mechanism, which lies at the modernist origins of contemporary
-computational culture.
+press. My task in this chapter will be to illuminate the blueprint of
+computation within the electronic book and thereby make the book strange
+again. In a reciprocal movement, I aim also to place the modern computer
+itself within the long history of the book and to view it as technique for
+literary and not just mathematical symbolism. To do this, I will construct a
+short prehistory of the literary device, based on materials drawn from the
+first half of the twentieth century. I am interested here broadly in the
+concepts of device and technique which emerge in the thought of Russian,
+German, and English philologists whose work I will cover in the first section
+of this chapter. Subsequent sections trace the concomitant emergence of
+literary device in another sense, as a thought experiment staged by Ludwig
+Wittgenstein and completed by Alan Turing in the 1920s and 1930s. These
+experiments lead us to consider a series of fantastical broken reading and
+writing machines: machines that define the limits of symbolic thought and
+ultimately culminate in a blueprint for a specific mechanism, which lies at
+the modernist roots of contemporary computational culture.
 
 ## Technique
 
@@ -142,8 +139,6 @@ coined the phrase, meant making explicit the implied mechanisms of literary
 trope, particularly in cases where such tropes turn "stale," "automatic," and
 "naturalized," that is, bereft of their original poetic and evocative
 power.[^ln2-shklov]
-
-<!-- consider cutting the Nabokov -->
 
 Vladimir Nabokov, a writer conspicuously aware of his literary-theoretical
 heritage, used the formal technique of "laying bare the device" often and with
@@ -171,7 +166,7 @@ This tightly wound vignette dramatizes the formalist concern with "laying bare
 the device." The pipes can be read as a metaphor for a literary device.
 Usually found beneath the street, they now sit idle and visible above the
 surface. Even when exposed, the device fails to captivate for long. Disused,
-it once again passes out of sight, covered in snow.  Concerned with surfaces,
+it once again passes out of sight, covered in snow. Concerned with surfaces,
 the narrator "probes the glaze" of the street and finds a palindrome written
 in snow. The inscription "OTTO" not only resembles the pipes visually, but is
 in itself a surface-revealing inscription that makes the pipes visible again.
@@ -208,18 +203,18 @@ intertwine to form the fabric of contemporary computational culture.
 
 Viewed in the context of technological development, the emergence of technique
 as a critical category illustrates the broader concerns of the machine age.
-The notion of *technology* itself does not fully find its place in the
-critical literature until the 1950-1970s, judging by the rash of titles like
-Martin Heidegger's *Die Frage nach der Technik* (1954), Jacques Ellul's *La
-technique ou l'enjeu du siècle* (1954), Lynn White's *Medieval Technology and
-Social Change* (1966), and Viktor Fekiss's *The Technological Man* (1969),
-which appeared in the period. Calling for the institution of a new field in
-1959, the editors of the inaugural issue of the journal *Technology and
-Culture* would write about the "neglect of study of technology" amidst a body
-of extant work that has "scarcely constituted" a systematic scholarly
-discipline [@kranzberg_at_1959]. "*Technology* is a word whose time has come,"
-Langdon Winner would still write in 1978 in his influential *Autonomous
-Technology* [@winner_autonomous_1978, 4].
+The notion of technology itself does not fully find its place in the critical
+literature until the 1950-1970s, judging by the rash of titles like Martin
+Heidegger's *Die Frage nach der Technik* (1954), Jacques Ellul's *La technique
+ou l'enjeu du siècle* (1954), Lynn White's *Medieval Technology and Social
+Change* (1966), and Viktor Fekiss's *The Technological Man* (1969). Calling
+for the institution of a new field in 1959, the editors of the inaugural issue
+of the journal *Technology and Culture* would write about the "neglect of
+study of technology" amidst a body of extant work that has "scarcely
+constituted" a systematic scholarly discipline [@kranzberg_at_1959].
+"*Technology* is a word whose time has come," Langdon Winner would still write
+in 1978 in his influential *Autonomous Technology* [@winner_autonomous_1978,
+4].
 
 !["Technology" and "technique," the relative frequency of occurrence in the
 Google Books ngram corpus
@@ -236,12 +231,13 @@ discoverable laws. The turn to technique also meant that the mechanisms of
 meaning production, on the sides of both authorship and apprehension, were
 made accessible to a mass audience. The Russian formalists in particular
 understood their task as one of radical democratization of the literary
-sphere. High literature that was once the purview of the select few could now
-belong to the proletariat at large. This meant that the reading and writing of
-literature could be distilled into reproducible rules---technique over
-art---to be learned and shared widely.
+sphere.[^ln2-fact] High literature that was once the purview of the select few
+could now belong to the proletariat at large. This meant that the reading and
+writing of literature could be distilled into reproducible rules---technique
+over art---to be learned and shared widely.
 
-<!-- consider either footnoting or cutting -->
+[^ln2-fact]: See for example Osip Brik's "Against Creative Individualism" and
+Shklovksy's "On Authorship and Production" in @chuzhak__2000.
 
 The mechanization of language is also significant in an instrumental context.
 The rise of formalist and consequently structuralist thought---along with
@@ -265,12 +261,12 @@ labor. Walter Benjamin had this view in mind when he wrote decades later about
 the work of art that can no longer be thought of as a "rigid, isolated
 object." Rather, "it must be inserted into the context of living social
 relations," and therefore, into the context determined by its relation to
-literary production [@benjamin_author_1983, 87].  Technique, for Benjamin,
-made literary products "accessible" to materialist analysis
-[@benjamin_author_1983, 87]. Where the artistic genius is unique, craft
-carries with it a model of inheritance. Where genius is born, technique is
-shared. Where the artist labors alone, the craftsman learns a trade in a
-workshop, as part of a collective.
+literary production [@benjamin_author_1983, 87]. Technique, for Benjamin, made
+literary products "accessible" to materialist analysis [@benjamin_author_1983,
+87]. Where the artistic genius is unique, craft carries with it a model of
+inheritance. Where genius is born, technique is shared. Where the artist
+labors alone, the craftsman learns a trade in a workshop, as part of a
+collective.
 
 In a more general sense, I view the turn to technique as a rejection of the
 aesthetics of Romanticism: like those of Schopenhauer for example, who
@@ -295,24 +291,24 @@ perceives the initial sounds of each word" [@spencer_philosophy_1892]. The
 ideal writer according to Spencer also strove to minimize the reader's mental
 exertion, following the law of what he called the "economy of composition:" to
 say as much as possible in the most concise and direct way. Poetry for Spencer
-was exemplary in this regard, in that it was able to adopt those habituated
-"symbols of thought" and "those methods of using them" that have proven
-themselves to be most effective through continuous use
-[@spencer_philosophy_1892]. Spencer's ideal of literature was therefore of the
-most thrifty, economical kind.
+was exemplary in that it habituated those "symbols of thought" and "methods of
+using them" that have proven themselves to be most effective through
+continuous use [@spencer_philosophy_1892]. Spencer's ideal of literature was
+therefore of the most thrifty, economical kind.
 
 Shklovsky agreed with Spencer about the dynamics of everyday language, but not
-poetry. Poetry's did not facilitate communication, he argued, but disrupt it.
+poetry. Poetry does not facilitate communication, he argued, but disrupt it.
 Poets "arranged and processed" habituated material with the view of
-"resurrecting" the vitality of the word lost to everyday habituation
-[@shklovsky_voskreshenie_1914]. Estrangement or the "de-programming" of
-received trope constituted for Shklovsky the primary technique of aesthetic
-discourse. Poetic estrangement counterbalances the work of prosaic
-habituation, by which shorthand cliché replaces complex things and ideas.
-Thus, where everyday language follows the laws of conservation of energy,
-poetic language expands energy to belabor, make language difficult again
-[*zatrudnenie*], and prolong apprehension [*vospriiatie*]. If for Spencer
-language was a labor-saving device, for Shklovsky poetry was labor-intensive.
+"resurrecting" the vitality of the word lost to everyday habituation .
+Estrangement or the "de-programming" of received trope constituted for
+Shklovsky the primary technique of aesthetic discourse. Poetic estrangement
+counterbalances the work of prosaic habituation, by which shorthand cliché
+replaces complex things and ideas.  Thus, where everyday language follows the
+laws of conservation of energy, poetic language, according to Shklovsky,
+expands energy to belabor, to make language difficult again [*zatrudnenie*],
+and to prolong apprehension [*vospriiatie*] [@shklovsky_voskreshenie_1914]. If
+for Spencer language was a labor-saving device and poetry its most economical
+expression, Shklovsky's idea of poetry was labor-intensive and extravagant.
 
 Any innovation in the linguistic sphere was, in the formalist view, bound to
 follow a cycle of habituation and renewal. With time, a literary device
