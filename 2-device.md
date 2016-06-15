@@ -515,17 +515,19 @@ historical genealogies that lead to Turing's seminal essay on computable
 numbers: the first intellectual, stemming back to his tutelage under Ludwig
 Wittgenstein, and the second material, highlighting the physical similarities
 between Turing's design and a number of concomitant developments in printing
-and communication.  To read Turing and Wittgenstein together is to recover a
-legacy of humanities computing that often gets overlooked in the history of
-computer science and software engineering. The literary perspective is
-important because it allows us to see the computer in a new light: more than a
-byproduct of quantification, a metaphor machine. Turing machines should
-interest literary scholars because they embody a minimally viable model for
-generalized symbolic manipulation: reading and writing. Poetics should
-interest electrical and software engineers for the same reason, because it
-grounds computation in the long history of the word. Turing's thought
-experiments were meant to solve a mathematical problem, but their pedigree
-lies also in the study of textual meaning-making and interpretation.
+and communication.
+
+To read Turing and Wittgenstein together is to recover a legacy of humanities
+computing that often gets overlooked in the history of computer science and
+software engineering. The literary perspective is important because it allows
+us to see the computer in a new light: more than a byproduct of
+quantification, a metaphor machine. Turing machines should interest literary
+scholars because they embody a minimally viable model for generalized symbolic
+manipulation: reading and writing. Poetics should interest electrical and
+software engineers for the same reason, because it grounds computation in the
+long history of the written word. Turing's thought experiments were meant to
+solve a mathematical problem, but their pedigree lies also in the study of
+textual meaning-making and interpretation.
 
 In his seminal 1936 paper on computable numbers, Alan Turing proposed a
 peculiar (for a mathematical treatise) thought experiment that addressed a
@@ -534,24 +536,24 @@ His solution involved more than a formula. Instead, he imagined a machine that
 would in some real sense take the place of the calculation. Ultimately, Turing
 described a device that was meant to embody the symbol: it transformed
 external abstractions into physical states, internal to the device. In doing
-so, this imagined machine was designed to breach the boundary between idea and
-matter. It was exactly an instrument for transforming thoughts into shapes. In
-that sense, Turing's hypothetical machine represents a advancement in the
-development of a long-standing thought experiment concerning the nature of
-human understanding and the beginning of a new, machine-assisted philological
-practice.
+so, his imagined machine breached the boundary between idea and matter. It was
+exactly an instrument for transforming thoughts into shapes, of the kind
+approached by formalist poetics. In that sense, Turing's hypothetical machine
+represents a advancement in the development of a long-standing thought
+experiment concerning the nature of human understanding and the beginning of a
+new, machine-assisted philological practice.
 
-The question of "automated" philology echoes through the canon of Western
-philosophic tradition. What does it mean to read and to understand something?
-Is it enough to repeat the words of another, as Phaedrus does in response to
-Socrates? Could a student be said to possess reason if he was merely parroting
-thoughts and not really thinking on his own? Would we say the same thing of an
-animal or a machine? The question was posed also by Descartes who wrote that
-it would not be sufficient for the "reasoned soul" to be "lodged in the human
-body like a pilot of a ship, except perhaps to move its members," but that
-intelligence must be "more closely joined and united with the body to produce
-true feelings and appetites." Magpies and parrots can appear to speak,
-Descartes writes, but can they show us that they understand
+The question of an "automated" hermeneutics echoes through the canon of
+Western philosophic tradition. What does it mean to read and to understand
+something? Is it enough to repeat the words of another, as Phaedrus does in
+response to Socrates? Could students be said to possess reason if they were
+merely parroting thoughts and not really thinking on their own? Would we say
+the same thing of animals or a machines? The question was posed already by
+Descartes who wrote that it would not be sufficient for the "reasoned soul" to
+be "lodged in the human body like a pilot of a ship, except perhaps to move
+its members," but that intelligence must be "more closely joined and united
+with the body to produce true feelings and appetites." Magpies and parrots can
+appear to speak, Descartes writes, but can they show us that they understand
 [@descartes_discourse_1996]? And what would that "showing" entail?
 
 <!-- ![Kircher's *Arca Musurgicae*, the musical composition box, 1650
@@ -563,7 +565,7 @@ music composition device, by which a composer not versed in music would
 combine predetermined musical phrases written on wooden planks to compose a
 score. In correspondence with Kircher, the German Baroque poet Quirinus
 Kuhlman argued that using such an instrument to compose music or poetry would
-amount to "*sed versûs, non poëma* [mere versification, not poetry]." Would we
+amount to *sed versûs, non poëma* [mere versification, not poetry]. Would we
 call a naive child using such a contraption a composer or a poet, he asked?
 And answered:
 
@@ -581,7 +583,7 @@ And answered:
 The child cannot create without mechanical assistance. Like the parrots of
 Plato, Kuhlman, and Descartes it mimics creation on the surface. Nothing in
 the mind of an automaton corresponds to the outward appearance of thought. The
-child composes poetry without thinking---that is without the appropriate deep
+child composes poetry without thinking---that is, without the appropriate deep
 structure that should accompany proper poiesis. If technique alone is to guide
 the creation of poetry, in a way that was suggested by the formalists, would
 purely formal creation be recognized by us as art, or thought, or language
@@ -592,23 +594,23 @@ Chinese Room thought experiment [@searle_minds_1980]. Can a contraption be
 said to "speak" a language if inside it contains only a dictionary for looking
 up the correct answers to any given query? A man inside the room sorts the
 answers blindly. He does not understand the language, yet the contraption
-appears to respond properly. Is it enough to appear to understand, in other
-words, or should we say that understanding must involve some other appropriate
-mechanism, turned inward? Searle argued that his room, a kind of a robot for
-automated responses in a foreign language, could not be properly said to speak
-a language in the way a fluent speaker can. For Searle and other so-called
-"internalists," the external signs of whatever is meant by "speaking" and
-"understanding" must correspond to some appropriate internal mental states
-[@searle_minds_1980]. Plato, Descartes, Kuhlman, and Searle all pose a version
-of the same thought experiment, which aims to draw a line between the surface
-appearance of knowledge and an idea of deep, structural understanding opposed
-to mere functionalism. Reading and writing should, these thinkers intuit,
-leave something behind. A text must be somehow "joined and united" with the
-body, to paraphrase Descartes. For understanding to happen words must continue
-to produce meaning independent of the original inscription. Internalists like
-Searle hold that the inscription and the mental state should also achieve a
-measure of structural accordance. Functional, outward appearances are not
-enough.
+appears to respond appropriately. Is it enough to appear to understand, in
+other words, or should we say that understanding must involve some other
+appropriate mechanism, turned inward? Searle argued that his room, a kind of a
+robot for automated responses in a foreign language, could not be properly
+said to speak a language in the way a fluent speaker can. For Searle and other
+so-called "internalists," the external signs of whatever is meant by
+"speaking" and "understanding" must correspond to some appropriate internal
+mental states [@searle_minds_1980]. Plato, Descartes, Kuhlman, and Searle all
+pose a version of the same thought experiment, which aims to draw a line
+between the surface appearance of knowledge and an idea of deep, structural
+understanding opposed to mere functionalism. Reading and writing should, these
+thinkers intuit, leave something behind. A text must be somehow "joined and
+united" with the body, to paraphrase Descartes. For understanding to happen
+words must continue to produce meaning independent of the original
+inscription. Internalists like Searle hold that the inscription and the mental
+state should also achieve a measure of structural accordance. Functional,
+outward appearances are not enough.
 
 Recall the famous *pharmakon* passage from Plato's *Phaedrus*, which explores
 the relationship between writing and its impression on the mind. At the
@@ -625,8 +627,6 @@ without. Like Moreno after him, Thamus finds thought externalized through
 typography problematic. True memory and thought for them both must come from
 within.
 
-<!-- consider cutting -->
-
 For this reason, Socrates asks the young man to stop reciting the speech by
 heart in the beginning of the dialog. He wants Phaedrus to think for himself
 and not to merely regurgitate the thought of another---to stop being, in other
@@ -636,9 +636,9 @@ internalize. Much can go wrong in that process, but we expect for reading to
 ultimately leave an appropriate impression [*tupōn*] on the reader's mind. For
 understanding to take place, writing must produce "true," in the words of
 Descartes, feelings and appetites. But what is true, appropriate, or proper?
-What impressions does type leave on the soul? What does it take to internalize
-or ingest an inscription properly?---these are the profound mysteries always
-present even in the most mundane acts of reading and writing.
+What does type [*tupōn*] impress onto the soul? How does one ingest an
+inscription in way that leaves an appropriate trace?---these are the profound
+mysteries always present even in the most mundane acts of reading and writing.
 
 ## Thought Experiment II
 
