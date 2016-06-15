@@ -10,7 +10,7 @@ from drinking coffee in the morning, through automatic brewing machines and
 payment systems, to going to bed as alarm clocks and night activity monitors.
 
 Baudrillard writes about the "genesis of simulacra," which culminates
-precisely in the totalizing mediation of code:
+in the totalizing mediation of code:
 
 > At the limit of an always increasing elimination of references and
 > finalities, an ever-increasing loss of resemblances and designations, we
@@ -1054,10 +1054,10 @@ far beyond entertainment, subsuming all spheres of social activity mediated by
 computers. The manipulation of metaphors---a reflective, not merely
 circumspect inhabitance of virtual worlds---therefore requires not just a
 willing suspension of disbelief, but also a poetics: hermeneutics, close
-reading, distant reading, deconstruction, morphology, in short precisely the
-legacy of interpretive practice that stretches from Aristotle to Susan Sontag
-and beyond. The suspension of disbelief otherwise threatens to become a
-permanent condition, alienating as it is pleasurable or cathartic.
+reading, distant reading, deconstruction, morphology, in short the legacy of
+interpretive practice that stretches from Aristotle to Susan Sontag and
+beyond. The suspension of disbelief otherwise threatens to become a permanent
+condition, alienating as it is pleasurable or cathartic.
 
 The history of human-computer interaction began with the manipulation of
 physical switches, first by hand and then by proxy, through removable storage
@@ -1204,7 +1204,7 @@ whimsical or quaint. What if tomorrow they be judged mentally deficient or
 barred from participating fully in the public life?
 
 The human is endangered not by technology, Heidegger wrote, but by its
-determination. At stake is precisely an insistence on drawing essential
+determination. At stake is an insistence on drawing essential
 boundaries in a way that precludes revealment, the autonomous search for truth
 [@heidegger_question_1977, 331-4]. The ability to read and to write was always
 politically fraught because of its potential to determine the human

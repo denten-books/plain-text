@@ -932,8 +932,8 @@ digital tokens [@haugeland_analog_1981, 213-225].
 
 Let us consider Haugeland's propositions in relation to some of our previous
 case studies. The movements of the chess game are indeed perfectly
-reproducible. In fact several conventions exist precisely to ensure the
-perfect preservation and the reproducibility of chess games. These include the
+reproducible. In fact several conventions exist to ensure the perfect
+preservation and the reproducibility of chess games. These include the
 "descriptive" and the "standard algebraic" chess notations. By contrast,
 individual chess sets are not perfectly reproducible. Each is a somewhat
 unique version of the same "regulation" ideal. Importantly, sometimes drastic
@@ -1023,7 +1023,7 @@ distinction Katz makes between "medium" and "format" we would be forced to
 conclude that the ultimate nature of the medium only matters in so far as it
 is tied to the observer's ability to impose formats. It does not matter for
 the definitions if the beaker is full of marbles or full of water.  What
-matters only is our ability to "format" the medium into precisely reproducible
+matters only is our ability to "format" the medium into exactly reproducible
 chunks. I am in fact able to do that with marbles (by counting) but unable to
 do it with water (without specialized instruments). In other words,
 undifferentiated matter like cake is only analog until someone cuts it into

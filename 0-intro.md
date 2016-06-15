@@ -519,7 +519,7 @@ his*. Under differing circumstances we must hold the author accountable, as
 when unsolicited advertisement clutters the airways at the expense of other
 forms of speech. This may seem strange at first: to recover the subject in the
 physical minutiae of the encounter between text and machine. The point of
-contact between human, text, and device is significant precisely because it is
+contact between human, text, and device is significant because it is
 here, in the liminal zone of semiotic exchange, where the subject disappears
 into the machine and where the machine steps forth, an animated and seemingly
 intelligent actor.

@@ -137,8 +137,7 @@ but in modern usage, it often carries a more concrete connotation, as an
 purpose" [@_device_2016]. "Laying bare the device," for Viktor Shklovsky, who
 coined the phrase, meant making explicit the implied mechanisms of literary
 trope, particularly in cases where such tropes turn "stale," "automatic," and
-"naturalized," that is, bereft of their original poetic and evocative
-power.[^ln2-shklov]
+"naturalized," that is, bereft of their evocative power.[^ln2-shklov]
 
 Vladimir Nabokov, a writer conspicuously aware of his literary-theoretical
 heritage, used the formal technique of "laying bare the device" often and with
@@ -262,7 +261,7 @@ the work of art that can no longer be thought of as a "rigid, isolated
 object." Rather, "it must be inserted into the context of living social
 relations," and therefore, into the context determined by its relation to
 literary production [@benjamin_author_1983, 87]. Technique, for Benjamin, made
-literary products "accessible" to materialist analysis [@benjamin_author_1983,
+literary works "accessible" to materialist analysis [@benjamin_author_1983,
 87]. Where the artistic genius is unique, craft carries with it a model of
 inheritance. Where genius is born, technique is shared. Where the artist
 labors alone, the craftsman learns a trade in a workshop, as part of a
@@ -297,8 +296,8 @@ continuous use [@spencer_philosophy_1892]. Spencer's ideal of literature was
 therefore of the most thrifty, economical kind.
 
 Shklovsky agreed with Spencer about the dynamics of everyday language, but not
-poetry. Poetry does not facilitate communication, he argued, but disrupt it.
-Poets "arranged and processed" habituated material with the view of
+poetry. Poetry does not facilitate communication, he argued, it disrupts it.
+Poets "arrange and process" habituated material with the view of
 "resurrecting" the vitality of the word lost to everyday habituation.
 Estrangement or the "de-programming" of received trope constituted for
 Shklovsky the primary technique of aesthetic discourse. Poetic estrangement
@@ -310,42 +309,42 @@ and to prolong apprehension [*vospriiatie*] [@shklovsky_voskreshenie_1914]. If
 for Spencer language was a labor-saving device and poetry its most economical
 expression, Shklovsky's idea of poetry was labor-intensive and extravagant.
 
-Any innovation in the linguistic sphere was, in the formalist view, bound to
-follow a cycle of habituation and renewal. With time, a literary device
-capable of arresting apprehension itself became normalized and in need of
-revitalization. Consequently, the evolution of aesthetic periods followed a
-course of arbitrary differentiation, in what Jean Moréas (a symbolist poet and
-art critic important for the history of formalism) called a "cyclical
-evolution" [*évolution cyclique*], by which the dominant device in one period
-became a cliché in the next. Art depletes itself, "from copy to copy, from
-imitation to imitation." What seems fresh today "dries up and shrivels"
-tomorrow [@moreas_symbolisme_1886]. Technique in that sense was seen by the
-formalists as a kind of information processing at the meta-linguistic, social
-level. The mechanics of "arrangement and the rearrangement of figure" produce
-new meaning within habituated contexts, motivating the engine of literary
-development.
+Any innovation in the literary sphere was, in the formalist view, bound to
+follow a cycle of habituation and renewal. With time, images once able to
+capture the imagination lose their vitality. Consequently, the evolution of
+aesthetic periods follows a course of arbitrary differentiation, in what Jean
+Moréas (a symbolist poet and art critic important for the history of
+formalism) called a "cyclical evolution" [*évolution cyclique*], by which the
+dominant device in one period becomes a cliché in the next. Art depletes
+itself, "from copy to copy, from imitation to imitation." What seems fresh
+today "dries up and shrivels" tomorrow [@moreas_symbolisme_1886]. Technique in
+that sense was seen by the formalists as a kind of information processing at
+the meta-linguistic, social level. The mechanics of "arrangement and the
+rearrangement of figure" produce new meaning within habituated contexts,
+motivating the engine of literary development.
 
 In the 1920s, reflecting critically on Shklovsky's "materialist aesthetics"
-Mikhail Bakhtin would write that the formal model of aesthetic genre formation
-was capable only of establishing a "chronological table of variance in the
-evolution of technical devices," because "in isolation technique cannot have a
-history" [@bakhtin_k_2003, 270-1]. The formalist model of literary development
-seemed to the more teleologically oriented critic meandering and meaningless.
-Bakhtin was also less inclined towards materialism. He was, for example,
-careful not to reduce technique to questions of "material arrangement" alone.
-He wrote, "I am quite ready to join in the sentiment that 'in art technique is
-everything,' provided we understand that the aesthetic object cannot exist
-independent of the artistic work." For Bakhtin, the work existed neither in
-the mind nor in the configuration of matter alone [@bakhtin_k_2003, 308-10].
-Any immanent volume of text, an edition of Shakespeare's *Hamlet* for example,
-could not, for Bakhtin, exhaust the possibility of *Hamlet* as a transcendent
-work of art. Neither could the work be reduced to its pure idea, because any
-notion of *Hamlet* the play must rest on firm material foundations---the
-textual witness---be it an original folio or critical edition. Similarly,
-Bakhtin was unwilling to reduce the notion of technique to the mere
-manipulation of physical form, independent of the aesthetic idea. "In art,
-technique is not mechanistic," he wrote. Rather, "technique animates and
-motivates the aesthetic object at every point" [@bakhtin_k_2003, 310].
+Mikhail Bakhtin would thus write that the formal model of aesthetic genre
+formation was capable only of establishing a "chronological table of variance
+in the evolution of technical devices," because "in isolation technique cannot
+have a history" [@bakhtin_k_2003, 270-1]. The formalist model of literary
+development seemed to the more teleologically oriented critic meandering and
+meaningless. Bakhtin was also less inclined towards materialism. He was, for
+example, careful not to reduce technique to questions of "material
+arrangement" alone, independent of the aesthetic idea. He wrote, "I am quite
+ready to join in the sentiment that 'in art technique is everything,' provided
+we understand that the aesthetic object cannot exist independent of the
+artistic work." For Bakhtin, the work existed neither in the mind nor in the
+configuration of matter alone [@bakhtin_k_2003, 308-10]. Any immanent volume
+of text, an edition of Shakespeare's *Hamlet* for example, could not, for
+Bakhtin, exhaust the possibility of *Hamlet* as a transcendent work of art.
+Neither could the work be reduced to its pure idea, because any notion of
+*Hamlet* the play must rest on firm material foundations---the textual
+witness---be it an original folio or critical edition. "In art, technique is
+not mechanistic," he wrote. Rather, "technique animates and motivates the
+aesthetic object at every point" [@bakhtin_k_2003, 310]. In effect, Bakhtin
+denies the dualism between ideational content and physical form. The idea and
+the object enter into a continual dialectic.
 
 For Bakhtin, technique was that force which at any point of a text was capable
 of translating ideas into things and things into ideas: where the mental
@@ -403,10 +402,10 @@ career, creating meta-literary characters that struggle to escape the page.
 
 The difficulty of pinpointing the area of transition between thoughts and
 objects leads to the critic's perpetual inability to capture the material
-contexts of literary production. Pen and paper are known to the writer only.
-By the time of consumption, they are hidden from view. Echoing his Soviet
-colleagues in his influential *The Craft of Fiction*, the English critic Percy
-Lubbock, himself a formalist of sorts, would write:
+contexts of literary production. The exact linkage between pen and paper are
+known to the writer only. They are hidden from view in reception. Echoing his
+Soviet colleagues in his influential *The Craft of Fiction*, the English
+critic Percy Lubbock, himself a formalist of sorts, would write:
 
 > To grasp the shadowy and fantasmal form of the book, to hold it fast, to
 > turn it over and to survey it at leisure---that is the effort of a critic of
@@ -433,30 +432,6 @@ read a novel, critically, we must abstract from the physical object and extend
 it in working memory, past immediate perception. Meaning-making of the sort
 involves the assemblage of linguistic minutiae to construct a literary whole.
 
-Lubbock writes that the "real heart and substance of the book [...] stands out
-more clearly for the obscurity into which the less essential parts of it
-subside" [@lubbock_craft_1921, 4]. To read in this mode is precisely to deny
-the book its materiality. When reading for pleasure, lay readers lose
-themselves in the elements of narrative immediately available for observation.
-To read the novel for pleasure for Lubbock is to "forget, if we can, that the
-book is an object of art. [@lubbock_craft_1921, 6]" By object of art he means
-the transcendent idea of the novel as opposed to the immanent work itself. To
-"objectify the elements" of the novel that "strike us more keenly," as Lubbock
-phrases it, therefore means for him quite the opposite of what is usually
-meant by objectification. The complete mental idea of the novel congeals only
-at the conclusion of reading. Lubbock writes: "Far from losing ourselves in
-the world of the novel, we must hold it away from us, see it all in
-detachment, and use the whole of it to make the image we seek, the book
-itself" [@lubbock_craft_1921, 6]. But to hold away means actually to
-internalize it completely. And by "book" he means the idea of a novel, not at
-all the thing itself. Thus to read critically is, paradoxically, also to
-arrest the coming-into-being of the work. The difficulty of materialist
-poetics reflects in its language, which continually conflates mental and
-physical constructs.
-
-[^ln2-herder]: Lubbock collapses somewhat the difference between painting and
-sculpture. See for example @herder_sculpture_2002.
-
 Critical reading in Lubbock's sense entailed an account of the transformation
 from things to ideas: from words and sentences to stories, novels, and verse.
 Echoing Boris Eichenbaum in "How *The Overcoat* is Made," Lubbock was
@@ -476,6 +451,30 @@ view, the technical details of craft---and therefore the book
 itself---disappear. Conversely, when viewed up close, the technical
 particulates obscure sight of the work as a whole.
 
+Lubbock writes that the "real heart and substance of the book [...] stands out
+more clearly for the obscurity into which the less essential parts of it
+subside" [@lubbock_craft_1921, 4]. To read in this mode is to deny the book
+its materiality. When reading for pleasure, lay readers lose themselves in the
+elements of narrative immediately available for observation.  To read the
+novel for pleasure for Lubbock is to "forget, if we can, that the book is an
+object of art. [@lubbock_craft_1921, 6]" By object of art he means the
+transcendent idea of the novel as opposed to the immanent work itself. To
+"objectify the elements" of the novel that "strike us more keenly," as Lubbock
+phrases it, therefore means for him quite the opposite of what is usually
+meant by objectification. The complete mental idea of the novel congeals only
+at the conclusion of reading, that is at the limits of the book as a thing.
+Lubbock writes: "Far from losing ourselves in the world of the novel, we must
+hold it away from us, see it all in detachment, and use the whole of it to
+make the image we seek, the book itself" [@lubbock_craft_1921, 6]. But to hold
+the book away means actually to internalize it completely. And by "book" he
+means the idea of a novel, not at all the thing itself. Thus to read
+critically is, paradoxically, also to arrest the coming-into-being of the
+work. The difficulty of materialist poetics reflects in its language, which
+continually conflates mental and physical constructs.
+
+[^ln2-herder]: Lubbock collapses somewhat the difference between painting and
+sculpture. See for example @herder_sculpture_2002.
+
 *The Craft of Fiction* ends on an ambivalent note. Lubbock sensed the
 inadequacy of his materialism: "if only there was one single tangible and
 measurable fact about the book," he wrote. If only it could be "weighed like a
@@ -490,14 +489,14 @@ the history of modern computing from its expected contexts of calculating
 machinery and to join it with literary theory, where as we will see, it also
 finds a measure of congruity. I do so in the absence of direct evidence for an
 explicit intellectual connection.[^ln2-moaran] My goal is not to prove that
-such a linkage exists, but rather to irreparably entwine nominally discordant
-intellectual and material genealogies in a way that sheds light on our modern
-predicament, where books and guided missiles indeed share the same semiotic
-infrastructures. Along with critics of contemporary computational culture like
-Bernard Harcourt and Frank Pasquale I would like to ask: How did we get here
-[@pasquale_black_2015; @harcourt_exposed:_2015]? The thought of Ludwig
-Wittgenstein and his student Alan Turing reveals, along with a number of
-broken reading and writing machines, a possible answer to the quandary of
+such a linkage exists, but rather to irreparably entwine the nominally
+discordant intellectual and material genealogies in a way that sheds light on
+our modern predicament, where books and guided missiles indeed share the same
+semiotic infrastructures. Along with critics of contemporary computational
+culture like Bernard Harcourt and Frank Pasquale I would like to ask: How did
+we get here [@pasquale_black_2015; @harcourt_exposed:_2015]? The thought of
+Ludwig Wittgenstein and his student Alan Turing reveals, along with a number
+of broken reading and writing machines, a possible answer to the quandary of
 materialist poetics, posed in the liminal space between thought and thing.
 
 ## Thought Experiment I
@@ -539,7 +538,7 @@ external abstractions into physical states, internal to the device. In doing
 so, his imagined machine breached the boundary between idea and matter. It was
 exactly an instrument for transforming thoughts into shapes, of the kind
 approached by formalist poetics. In that sense, Turing's hypothetical machine
-represents a advancement in the development of a long-standing thought
+represents an advancement in the development of a long-standing thought
 experiment concerning the nature of human understanding and the beginning of a
 new, machine-assisted philological practice.
 
@@ -553,11 +552,8 @@ Descartes who wrote that it would not be sufficient for the "reasoned soul" to
 be "lodged in the human body like a pilot of a ship, except perhaps to move
 its members," but that intelligence must be "more closely joined and united
 with the body to produce true feelings and appetites." Magpies and parrots can
-appear to speak, Descartes writes, but can they show us that they understand
+appear to speak, Descartes wrote, but can they show us that they understand
 [@descartes_discourse_1996]? And what would that "showing" entail?
-
-<!-- ![Kircher's *Arca Musurgicae*, the musical composition box, 1650
-[@kircher_musurgia_1999, 184].](images/music-box.jpg) -->
 
 Recall also the experiments with combinatorial poetics of the 17th century
 German Jesuit scholar Athanasius Kircher, the inventor of *Arca Musurgicae*, a
@@ -595,22 +591,21 @@ said to "speak" a language if inside it contains only a dictionary for looking
 up the correct answers to any given query? A man inside the room sorts the
 answers blindly. He does not understand the language, yet the contraption
 appears to respond appropriately. Is it enough to appear to understand, in
-other words, or should we say that understanding must involve some other
-appropriate mechanism, turned inward? Searle argued that his room, a kind of a
-robot for automated responses in a foreign language, could not be properly
-said to speak a language in the way a fluent speaker can. For Searle and other
-so-called "internalists," the external signs of whatever is meant by
-"speaking" and "understanding" must correspond to some appropriate internal
-mental states [@searle_minds_1980]. Plato, Descartes, Kuhlman, and Searle all
-pose a version of the same thought experiment, which aims to draw a line
-between the surface appearance of knowledge and an idea of deep, structural
-understanding opposed to mere functionalism. Reading and writing should, these
-thinkers intuit, leave something behind. A text must be somehow "joined and
-united" with the body, to paraphrase Descartes. For understanding to happen
-words must continue to produce meaning independent of the original
-inscription. Internalists like Searle hold that the inscription and the mental
-state should also achieve a measure of structural accordance. Functional,
-outward appearances are not enough.
+other words, or should we say that understanding must always involve an
+analogous inward movement? Searle argued that his room, a kind of a robot for
+automated responses in a foreign language, could not be properly said to speak
+a language in the way a fluent speaker can. For Searle and other so-called
+"internalists," the external signs of whatever is meant by "speaking" and
+"understanding" must correspond to some appropriate internal mental states
+[@searle_minds_1980]. Plato, Descartes, Kuhlman, and Searle all pose a version
+of the same thought experiment, which aims to draw a line between the surface
+appearance of knowledge and an idea of deep, structural understanding opposed
+to mere functionalism. Reading and writing should, these thinkers intuit,
+leave something behind. A text must be somehow "joined and united" with the
+body, to paraphrase Descartes. For understanding to happen words must continue
+to produce meaning independent of the original inscription. Internalists like
+Searle hold that the inscription and the mental state should achieve a measure
+of structural accordance. Functional, outward appearances are not enough.
 
 Recall the famous *pharmakon* passage from Plato's *Phaedrus*, which explores
 the relationship between writing and its impression on the mind. At the
@@ -629,23 +624,25 @@ within.
 
 For this reason, Socrates asks the young man to stop reciting the speech by
 heart in the beginning of the dialog. He wants Phaedrus to think for himself
-and not to merely regurgitate the thought of another---to stop being, in other
-words, a mere parrot or automaton. To truly understand something and to make a
-show of their comprehension, readers must do more than read: they must
-internalize. Much can go wrong in that process, but we expect for reading to
-ultimately leave an appropriate impression [*tupōn*] on the reader's mind. For
-understanding to take place, writing must produce "true," in the words of
-Descartes, feelings and appetites. But what is true, appropriate, or proper?
-What does type [*tupōn*] impress onto the soul? How does one ingest an
-inscription in way that leaves an appropriate trace?---these are the profound
-mysteries always present even in the most mundane acts of reading and writing.
+and not to merely regurgitate the thought of another---to stop performing, in
+other words, as a mere parrot would or an automaton. To truly understand
+something and to make a show of their comprehension, readers must do more than
+read: they must internalize, Plato suggests through Socrates. Much can go
+wrong in that process, but we expect for reading to ultimately leave an
+appropriate impression [*tupōn*] on the reader's mind. For understanding to
+take place, writing must produce "true," in the words of Descartes, feelings
+and appetites. But what is true, appropriate, or proper? What does type
+[*tupōn*] impress onto the soul? How does one ingest an inscription in way
+that leaves an appropriate trace?---these are the profound mysteries always
+present even in the most mundane acts of reading and writing.
 
 ## Thought Experiment II
 
-I propose now to view the Turing machine first within the broader tradition
-formalism and second as a specific response to a series of thought experiments
-proposed by Ludwig Wittgenstein in the 1930s at Cambridge, where Turing
-studied in his early career and later taught.[^ln1-timeline]
+I propose now to consider the Turing machine, which will come into view
+shortly, first within the broader tradition formalism and second as a specific
+response to a series of thought experiments proposed by Ludwig Wittgenstein in
+the 1930s at Cambridge, where Turing studied in his early career and later
+taught.[^ln1-timeline]
 
 Wittgenstein broached the problem of reading machines and comprehension in his
 *Blue and Brown Books* and *Philosophical Grammar* (all compiled in the early
@@ -684,16 +681,16 @@ hand to head and from mind to paper. We might say that thinking takes place
 "on paper, in our head, in the mind," Wittgenstein writes, but crucially,
 "none of these statements of locality gives *the* locality of thinking"
 [@wittgenstein_blue_1965, 16]. Thought is rather distributed throughout the
-body and among its extensions. We think by the sign, hand, and pen.
+body and among its extensions. We think by the sign, head, hand, and pen.
 
 "Can a machine think?" Wittgenstein asks later on in the first notebook
 [@wittgenstein_blue_1965, 16]. The challenge, as he explains it, is not one of
 finding a machine that can do the job---of manipulating signs, for example.
 It lies in the ability of the machine to enact both sides of the metaphoric
 equation. "Doing the job," to manipulate external signs for example, must
-correspond to something else. Severed from an analogical structure, the
+correspond to something else. Severed from its analogical structure, the
 "blind" manipulation of signs is a meaningless activity. Meaning, Wittgenstein
-suggests, resides precisely in the metaphorical transference between something
+suggests, resides in the metaphorical transference between something
 (symbol) and something else (machine state). "Can a machine hold private
 mental states?" is therefore a better question. Can it feel pain in the sense
 of pain being the state of internal affairs not accessible to others
@@ -1132,7 +1129,7 @@ Literature in computer science tends to treat Turing machines as algorithms:
 as logical constructs, not necessarily physical ones. It is impossible however
 to dissociate the implementation from the idea. The historian Thomas Haigh
 wrote that the Turing machine "abstracts away from the complexity of real
-computer architectures." It appeals to the theorist precisely because it is a
+computer architectures." It appeals to the theorist because it is a
 theory.  Haigh notes also that "hardware and software" are interchangeable to
 the theorist, but not to the historian" [@haigh_actually_2014]. In his 1937
 review of Turing's "On Computable Numbers" paper, Alonzo Church, the American
@@ -1204,7 +1201,7 @@ television content [@wheatstone_improvement_1874;
 With the invention of punch cards and perforated tape (also used in textile
 looms, as early as 1725), a message meant for another human became also a
 physical medium---bumps and holes---used to animate the mechanical movement of
-the transmission apparatus, precisely the kind of rigid linkage Wittgenstein
+the transmission apparatus, the kind of rigid linkage Wittgenstein
 described in his thought experiments. Indeed, of the 33 asserted claims in the
 "Telegraphy" patent by the Bumstead brothers, the first 13 relate to the
 transmission of intelligence:
