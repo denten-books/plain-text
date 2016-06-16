@@ -1438,7 +1438,7 @@ in the history of writing technologies in that they present a premeditated
 material environment built and engineered to propagate an illusion of
 immateriality; the digital nature of computational representation is what
 enables this illusion---or else call it a working model---of immaterial
-behavior" [@kirschenbaum_mechanisms_2008, 135].
+behavior" [@kirschenbaum_mechanisms:_2008, 135].
 
 [^ln3-iso216]: A series of paper sizes are governed by the International
 Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and

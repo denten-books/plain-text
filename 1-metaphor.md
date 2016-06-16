@@ -687,7 +687,7 @@ manifestly misrepresented.
 
 "An interface is by nature a form of artistic imitation: a *mimesis*," Brenda
 Laurel wrote in her important 1984 essay "Interface as Mimesis." She went on
-to write that "if designing interfaces feels like painting on cave walls by
+to argue that "if designing interfaces feels like painting on cave walls by
 flickering torchlight, it is only because we, the designers, have not availed
 ourselves of better illumination: the science of the mimetic arts, poetics"
 [@laurel_brenda_interface_1986, 67]. Laurel, who started her academic career
@@ -708,7 +708,7 @@ worse yet forced suspension of disbelief can only lead to a state of total
 critical disempowerment.
 
 The history of human-computer interaction passes through several distinct
-stages, defined by their relationship to representation:
+stages, each defined by their relationship to representation:
 
 A) Early computers were programmed by physically manipulating a complex
 arrangement of wires and relays. With time, that configuration could be
@@ -732,12 +732,10 @@ bypass inscription---word and picture---altogether, making use of
 neuroprosthetics---implants and surface electrodes---to connect human and
 machine.
 
-It would be a mistake however to accept the insistence on "directness" at face
-value or to understand the arc of this historical trajectory as one that leads
-to the gradual loss of mediation. In the transition between brain states and
-machine configurations, a morphological grammar always intercedes. The grammar
-sets the rules of engagement. The growing sense of immediacy of computational
-mimesis underscores the political importance of holding the mechanisms of
+It would be wrong however to accept "direct manipulation" at face value. In
+the transition between brain states and machine configurations, a
+morphological grammar always intercedes. It sets the rules of engagement,
+which underscores the political importance of holding the mechanisms of
 mediation in critical view.
 
 Before the 1980s, the dominant paradigm of interacting with machines was the
@@ -815,10 +813,10 @@ here. There is a bottle of water here.`
 
 Although much more accessible and interactive than communication in octal or
 binary machine code, the conversational model posed several significant
-challenges to the machine user. It resembled human communication in all its
-richness and variety, where in fact the machine "spoke" and "understood" only
-a limited number of words. Researchers from the U.S. Air Force academy would
-write:
+challenges to the machine user. It was meant to resemble human communication
+in all its richness and variety, where in fact the machine "spoke" and
+"understood" only a limited number of words. Researchers from the U.S. Air
+Force academy would write:
 
 > The lower cost of computer access and the proliferation of on-line systems
 produced a new breed of users, people whose expertise was in some area other
@@ -828,17 +826,17 @@ frustration and of being "manipulated" by a seemingly unyielding, rigid,
 intolerant dialogue partner [@walther_-line_1974, 379;
 @gaines_timesharing_1986, 15].
 
-The conversational intermediary of Colossal Cave Adventure understood roughly
+The conversational intermediary of *Colossal Cave Adventure* understood roughly
 295 commands, and knew about 1,600 words in response, arranged into several
 hundred canned phrases.[^ln1-count] Faced with an unfamiliar word, it could
 only repeat "That's not a verb I recognise."
 
 By the 1980s, a new breed of metaphorical interfaces gained widespread
 prominence. If *Colossal Cave Adventure* epitomized the conversational model
-of computing, games like the early but popular Pong, Space Invaders, and
-Donkey Kong heralded the paradigm of "direct manipulation." According to Ben
-Shneiderman, the researcher who coined the term in 1982, direct manipulation
-involved three key principles:
+of computing, games like *Pong*, *Space Invaders*, and *Donkey Kong* heralded
+the paradigm of "direct manipulation." According to Ben Shneiderman, the
+researcher who coined the term in 1982, direct manipulation involved three key
+principles:
 
 1. Continuous representation of the object of interest.
 2. Physical actions or labelled button presses instead of complex syntax.
@@ -846,35 +844,37 @@ involved three key principles:
 interest is immediately visible [@shneiderman_future_1982, 251;
 @hutchins_direct_1986, 91].
 
-The primary goal of direct manipulation was therefore to achieve the
+The primary goal of direct manipulation was therefore to achieve
 correspondence between "representation" and the "object of interest."
-Shneiderman looked to Leibniz for guidance. He wrote: Leibniz developed a
-system of symbolic notation, at the root of his calculus, to "express the
+Shneiderman looked to Leibniz for guidance. Leibniz developed a system of
+symbolic notation, at the root of his calculus, to express, in his words, "the
 exact nature of a thing briefly and, as it were, picture it." For Leibniz, the
 symbol, an accurate and portable picture of an idea, could subsequently reduce
 the mental effort required for abstract thought, leading to a "great advantage
 for discovery" [@leibniz_briefwechsel_1899, 375; @shneiderman_direct_1983,
-57]. Symbolic notation made it possible for mathematicians to represent
-infinitely small and infinitely large numbers in print---ideas that would not
-otherwise fit on the page or in the mind [@cajori_history_1923;
-@thurston_leibnizs_1973; @grabiner_is_1974]. For Shneiderman and others, a
-computer game like Pong similarly enabled the direct manipulation of complex
-abstractions, making it possible for a player to control a virtual
-table-tennis paddle by rotating a physical knob on a gaming console. The
-movement of the physical knob corresponded "directly" to the movement of the
-paddle---clockwise for up and counter-clockwise for down---thus achieving the
-correspondence between "operation" and the "impact on the object of interest"
+57].
+
+Symbolic notation made it possible for mathematicians to represent infinitely
+small and infinitely large numbers in print---ideas that would not otherwise
+fit on the page or in the mind [@cajori_history_1923; @thurston_leibnizs_1973;
+@grabiner_is_1974]. For Shneiderman and others, a computer game like Pong
+similarly enabled the direct manipulation of complex abstractions, making it
+possible for a player to control a virtual table-tennis paddle by rotating a
+physical knob on a gaming console. The movement of the physical knob
+corresponded "directly" to the movement of the paddle---clockwise for up and
+counter-clockwise for down---thus achieving the correspondence between
+"operation" and the "impact on the object of interest"
 [@shneiderman_direct_1983, 60]. Without such a "direct" linkage, the physics
 of the game simulation would be too complex for players to handle effectively,
 were they asked to play by writing formulas in code, for example, or to direct
 the paddle through dialog, in conversation.
 
 Direct manipulators argued that the arbitrary nature of the sign to its
-signifier hindered the conversational model of human-computer interaction. In
-this way, when using *EMACS*, a text editor commonly found on UNIX systems of
-the time, one would enter the command `k` in combination with other keys to
-delete or to "kill" a file, while on other systems, Shneiderman complained,
-`k` stood for "keep a file," the opposite from killing it
+signifier hindered the conversational model of human-computer interaction.
+When using *EMACS*, for example, a text editor commonly found on UNIX systems
+of the time, one would enter the command `k` in combination with other keys to
+delete or "kill" a file, while on other systems, Shneiderman complained, `k`
+stood for "keep a file," the opposite from killing it
 [@shneiderman_direct_1983, 65]. In the conversational model, the command
 stands in a contingent relationship to the intended effect, whereas in the
 direct manipulation model the knob and the movement of the paddle relate
@@ -884,10 +884,8 @@ object of interest, by which the two relate through shared elements of
 structure and composition [@peirce_algebra_1992; @jakobson_few_1977;
 @norman_user_1986, 110]. Consider the game controller for Pong. The movement
 of the knob mimics the movement of the paddle it represents. Like an
-onomatopoeic word, the one resembles and imitates the other. The relationship
-between paddle and knob is somewhat less arbitrary than in ordinary language,
-where words do not resemble the things they represent. The central idea of
-direct manipulation involved an attempt to move past conversational
+onomatopoeic word, the one resembles and imitates the other. The central idea
+of direct manipulation involved an attempt to move past conversational
 contingency. Where there are numerous ways to instruct the machine to return a
 serve, the knob limits the player's instrumental vocabulary to two axes.
 
@@ -1004,7 +1002,7 @@ driving a car to illustrate the type of an interface by which inputs and
 outputs correlate directly. Thus instead of giving complicated commands to a
 vehicle, a driver turns the wheel to the right, and the car immediately
 follows. A direct causal link exists between the steering wheel and the car's
-axle. Similarly, when operating a computer game like Space Invaders via a
+axle. Similarly, when operating a computer game like *Space Invaders* via a
 joystick, the player experiences the immediate correspondence between the
 movement of the controlling mechanism and the movement of the
 player-controlled space ship on the screen. The car is the "direct object of
@@ -1018,27 +1016,24 @@ simulated, virtual world have an interest in objects outside of it. The
 paradigm of direct manipulation instead veils the object from view, suspending
 the rules of physical interaction in favor of the virtual. Far from being
 direct, the iconic representation of the document---the image of a
-file---usurps the physical object, the file itself.  Where in the
+file---usurps the physical object, the file itself. Where in the
 conversational paradigm the nature of the mediation was at hand, open to
 circumspection, "direct manipulation" occludes the mechanisms of mimesis.
 
 The trajectory from direct *physical* manipulation to direct *virtual*
 manipulation leads to the totalizing loss of resemblances and designations
-that Baudrillard warned us about. At its logical extreme, the simulacrum
-supplants the thing being simulated. It appears as hyper-reality, the
-experience of unmediated interaction without awareness or sense of the
-underlying referent. All "objects of interest" within such a model world are
-fabricated objects. They are thus limited to the external, artificial
-constraints imposed by their makers. Manufactured experiences present us, the
-"users," with compelling, possibly cathartic, metaphors. The metaphor extends
-far beyond entertainment, subsuming all spheres of social activity mediated by
-computers. The manipulation of metaphors---a reflective, not merely
-circumspect inhabitance of virtual worlds---therefore requires not just a
-willing suspension of disbelief, but also a poetics: hermeneutics, close
-reading, distant reading, deconstruction, morphology, in short the legacy of
-interpretive practice that stretches from Aristotle to Susan Sontag and
-beyond. The suspension of disbelief otherwise threatens to become a permanent
-condition, alienating as it is pleasurable or cathartic.
+that Baudrillard warned of. At its logical extreme, the simulacrum supplants
+the thing being simulated. It appears as hyper-reality, the experience of
+unmediated interaction without awareness or sense of the underlying referent.
+All "objects of interest" within such a model world are fabricated objects.
+They are thus limited to the external, artificial constraints imposed by their
+makers. Manufactured experiences present us, the "users," with compelling,
+possibly cathartic, metaphors. The metaphor extends far beyond entertainment,
+subsuming all spheres of social activity mediated by computers. The
+manipulation of metaphors---a reflective, not merely circumspect inhabitance
+of virtual worlds---therefore requires not just a willing suspension of
+disbelief, but also a poetics. The suspension of disbelief otherwise threatens
+to become a permanent condition, alienating as it is pleasurable or cathartic.
 
 The history of human-computer interaction began with the manipulation of
 physical switches, first by hand and then by proxy, through removable storage
@@ -1050,21 +1045,20 @@ machine configuration states. The "direct manipulation" school of
 human-computer interaction dispensed with visible machine states, leading us
 further towards immersive mimesis in which virtual environments resemble
 real-world objects and their properties. Viewing that history in light of
-metaphor theory, I find myself with Plato, Baudrillard, and Taussig,
-suspicious of a totalizing mimesis: the more compelling the simulation, the
-more removed from its material contexts, the more concealed the logistics of
-its production.
+metaphor theory, I find myself suspicious of a totalizing mimesis: the more
+compelling the simulation, the more removed from its material contexts, the
+more concealed the logistics of its production.
 
 ## Speculative Formalism
 
 To what extent do we need to view and understand the mechanisms of the machine
 that gives rise to the metaphor? In a paper remarking on "The Genesis and
 Speed of Telegraph Codes" published in the *Proceedings of the American
-Philosophical Society* in 1949, the author noted that "the practical upper
-limits of [telegraph transmission] speed will also be limited by the ability
-of some human beings to operate a keyboard, until such time as electrical
-connection be made direct with the receiver's central nervous system"
-[@halstead_genesis_1949, 451].
+Philosophical Society* in 1949, the Frank G. Halstead noted that "the
+practical upper limits of [telegraph transmission] speed will also be limited
+by the ability of some human beings to operate a keyboard, until such time as
+electrical connection be made direct with the receiver's central nervous
+system" [@halstead_genesis_1949, 451].
 
 At the time of writing this book, our society stands at the threshold of a new
 paradigm of interacting with computers and hence with each other. Direct brain
@@ -1084,13 +1078,12 @@ On the surface, the advance of brain-computer interfaces seems to bring us
 closer to the trajectory of growing immediacy: witness the "no interface"
 movement in graphic design and its continuing promise of ever more direct
 interaction. *No Interface*, *Don't Make me Think*, and *Hooked: How to Build
-Habit-Forming Products* are some of best written and best selling titles
-advancing this argument [@krug_dont_2014; @eyal_hooked:_2014;
-@krishna_best_2015]. Military applications aside, we must prepare for a future
-in affective, mystical arts, the ultimate loss of references and resemblances,
-where works of art are to be experienced emotively past the senses: literature
-without language or representation, painting beyond media,
-asemiosis---messages lacking a sign.
+Habit-Forming Products* are some of the best selling titles advancing this
+argument [@krug_dont_2014; @eyal_hooked:_2014; @krishna_best_2015]. Military
+applications aside, we must prepare for a future in affective, mystical arts,
+the ultimate loss of references and resemblances, where works of art are to be
+experienced emotively past the senses: literature without language or
+representation, painting beyond media, asemiosis---messages lacking a sign.
 
 However futuristic such possibilities may seem to us today, we should not lose
 sight of the mediated nature of human-computer interaction in all of its
