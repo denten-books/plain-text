@@ -54,27 +54,28 @@ me now?---but less visible.
 
 Programming at its essence is a phatic activity. Code shapes and commands. At
 the same time, it conjures fantastical metaphors to occlude the structure of
-shaping and commanding. Simulation obscures the incongruence between visible
-representation and the underlying material affordances of the medium. What you
-see is not always what you get. We are instead confronted with a composite
-image, which under examination reveals a complex process of transfiguration
-between the visible sign and the sign at the site of the inscription. When
-reading online, for example, we observe what looks like a book, where we
-should also perceive an attempt to censor and surveil. The simulation is
-without a referent. It bears little resemblance to the material substrata of
-electronic reading. We believe we are handling a book. Our ideas about reading
-and interpretation subsequently rely on that initial physical point of contact
-with paper. But when reading electronically, we are handling something other
-than print material. The semblance to paper guides our intuitions about the
-possibilities of the medium: the ability to scroll, bookmark, or turn pages.
-We have far fewer intuitions about the affordances of inscription at the
-micromolecular level. As we "turn the page" on the screen an electric charge
-embedded into a solid state medium crosses the impenetrable oxide barrier,
-reaching its destination, the floating gate, through quantum tunnelling, which
-exploits the wave-particle duality of matter and its corollary the Heisenberg
-uncertainty principle [@pavan_flash_1997; @aaron_flash_2002;
-@bez_introduction_2003]. In this way, the everyday inscription---a digital
-word---comprises numerous improbable events at quantum scale.
+shaping and commanding. The simulacrum created by code obscures the
+incongruence between the visible sign and the underlying material affordances
+of the medium. What you see is not always what you get. We are instead
+confronted with a composite image, which under examination reveals a complex
+process of transfiguration between the visible sign and the sign at the site
+of the inscription.
+
+The simulation is without a referent. It bears little resemblance to the
+material substrata of electronic reading. We believe we are handling a book;
+our ideas about reading and interpretation subsequently rely on that initial
+physical point of contact with paper. But when reading electronically, we are
+handling something other than print material. The semblance to paper guides
+our intuitions about the possibilities of the medium: the ability to scroll,
+bookmark, or turn pages. We have far fewer intuitions about the affordances of
+inscription at the micromolecular level. As we "turn the page" on the screen
+an electric charge embedded into a solid state medium crosses the impenetrable
+oxide barrier, reaching its destination, the floating gate, through quantum
+tunnelling, which exploits the wave-particle duality of matter and its
+corollary the Heisenberg uncertainty principle [@pavan_flash_1997;
+@aaron_flash_2002; @bez_introduction_2003]. In this way, the everyday
+inscription---a digital word---comprises numerous improbable events at quantum
+scale.
 
 What can be said then about the practices of reading and interpretation
 grounded in such remote physicalities? For now, only that they continue to
@@ -82,72 +83,67 @@ unfold figuratively, removed from the material conditions of knowledge
 production. Metaphor sustains our lives in digital worlds artificially, by
 analogy with habituated media. We already know what to do with paper; the
 electronic book therefore replicates paper. Such metaphors dull the discomfort
-at the point of contact between human and machine. They hinder the effort of
-mastering poetics at the quantum level: the ability to inject electrons, draw
-lattices, manipulate arrays, affect solid states of being. It is tempting to
-view media ecosystems that host our digital lives as a kind of a natural
-element like water or air. But we should not forget also that computational
-ecologies are constructed environments. They are not governed by the laws of
-physics in the same sense that clouds or oceans are. They form a part of a
-massive tactical effort to bring private spaces of inhabitance---think the
-*Home* folder on your computer, your family photo album, your digital
-bookmarks---under the purview of computational control. The simulation encodes
-political structures that should not be naturalized, lest we succumb to the
-complacency of technological determinism. Our goal in this chapter is to
-arrest the advance of the metaphor. We must begin to separate resemblances
-from their designations, the apparent shape from a command in the imperative.
+of contact between human and machine. They hinder the effort of mastering
+poetics at the quantum level: the ability to inject electrons, draw lattices,
+manipulate arrays, affect solid states of being. It is tempting to view media
+ecosystems that host our digital lives as a kind of a natural element like
+water or air. But we should not forget that computational ecologies are always
+constructed environments. They are not governed by the laws of physics in the
+same sense that clouds or oceans are. They form a part of a massive tactical
+effort to bring private spaces of inhabitance---think the *Home* folder on
+your computer, your family photo album, your digital bookmarks---under the
+purview of computational control. The simulation encodes political structures
+that should not be naturalized, lest we succumb to the complacency of
+technological determinism. Our goal in this chapter is to arrest the advance
+of the computational metaphor. We must begin to separate resemblances from
+their designations, the apparent shape from a command in the imperative.
 
 What does it mean to turn a page in a medium that sustains neither turning nor
-pages? In this chapter, we will use the tools of cognitive metaphor theory to
-tell the story of metaphor's influence on computation, at a formative moment
+pages? In this chapter, we will use the language of cognitive metaphor theory
+to tell a story of metaphor's influence on computation, at a formative moment
 in the history of human-computer interaction. I plan to approach this
 tradition from within, taking on its language and assumptions in the first
-several sections of the chapter. The latter sections capture the historical
+several sections of the chapter. The latter sections narrate the historical
 transition between literal computing, by which users gave explicit commands to
-their machines, and the so-called "direct manipulation" model, by which they
-began to occupy virtual, figurative environments. The chapter draws on the
+their machines, and the so-called "direct manipulation" model, in which they
+began to occupy virtual, figurative environments. The chapter draws on
 archives from graphic design, literary theory, and computer science---fields
 that come into direct contact in the 1970s, 1980s, and 1990s. The trajectory
 from the conversational to the "direct" model of human-computer interaction
 points to the speculative possibility of seemingly unmediated coupling between
 human and machine---a possibility that I acknowledge and finally reject
-outright in the conclusion of the chapter.
+outright in my conclusion.
 
 ## Verisimilitude
 
-From the many available theories of metaphor, in this chapter I rely on the
-ideas from the so called "cognitive metaphor" school developed extensively by
-George Lakoff, Mark Johnson, and Mark Turner among others in the 1980s. This
-school of thought gained influence in the formative period in the history of
-human-computer interaction. It is therefore important for me to examine the
-vocabulary of that tradition on its own terms and to advance its critique from
-within. It bears mentioning at the outset that in the language of cognitive
-metaphor theory all figurative tropes of comparison---hyperbole, metonymy,
-synecdoche, or simile---fall under the category of metaphor. To avoid
-confusions of the sort, to get onto the same page if you will, I plan to spend
-a few pages now delving into the technical vocabulary of metaphor theory. This
+It bears mentioning at the outset that in the language of cognitive metaphor
+theory all figurative tropes of comparison---hyperbole, metonymy, synecdoche,
+or simile---fall under the category of metaphor. To avoid confusions of the
+sort I plan to spend a few pages delving into its technical vocabulary. This
 language will later help us explore the ways by which metaphors make and
 unmake everyday computational environments of human habitation. I am
 interested here and throughout the book in a particular mode of virtual
-habitation and habituation, which by its very nature begins and ends with the
+habitation and habituation, which by their very nature begin and end with the
 technologies of metaphor.
 
-In the 1980s, a number of influential publications in the field of
-human-computer interaction relied on insights from cognitive metaphor theory
-to refashion computers from business productivity tools into tools of the
-imagination, as ultimate metaphor machines. In this light, computer interfaces
-mediate the transference between human and machine, at the liminal space where
-two disparate systems of representation meet to exchange information.
-Interfaces can be said to translate machine states---the configuration of open
-and closed circuits---into pictures, numbers, and letters, all species of
-human cognitive states. The metaphor machine, a mechanism for universal
-symbolic transference, is capable of simulating anything that can be
-represented symbolically.[^ln1-database]
+<!-- rewrite this paragraph to be about Young's paper --> 
 
-The language of computation reveals its reliance on structural metaphor in
-practice. Consider the following passage from a patent filed by Xerox in 1991.
-It describes, in its own words, "an electronic library metaphor," which
-includes:
+[^ln1-database]: In describing his Relational Calculus Expression for Metaphor
+Generation Lawrence F. Young writes that the "key to this model is the
+observation that any entity can be metaphorically associated with another
+entity" [@young_metaphor_1987, 312]. Computer interfaces mediate the
+transference between human and machine, at the liminal space where two
+disparate systems of representation meet to exchange information. Interfaces
+can be said to translate machine states---the configuration of open and closed
+circuits---into pictures, numbers, and letters, all species of human cognitive
+states. The metaphor machine, a mechanism for universal symbolic transference,
+is capable of simulating anything that can be represented
+symbolically.[^ln1-database]
+
+<!-- better transition into here -->
+
+Consider the following passage from a patent filed by Xerox in 1991. It
+describes "an electronic library metaphor," which includes:
 
 > a shared books with data base metaphor, a reference books metaphor, and
 > a card catalog metaphor in one system that allows large object oriented data
@@ -158,31 +154,31 @@ includes:
 
 The invention ultimately enables the "organizing, accessing, and querying of
 information unique to physical libraries in an electronic workstation
-environment" [@pajak_electronic_1992, 1]. Setting aside, for a moment, the
-peculiarity of being able to patent a metaphor, note the idiosyncrasy of the
-technical language. What does it mean to "access" a metaphor, for example?
-Were someone to "check out" a book from the electronic library, would they
-hold a book or its metaphor alone? What mechanisms would assure the integrity
-between a database and its metaphor? Is the visual hierarchy of related
-objects itself an object in that hierarchy? Traditional metaphor theory
-strains to answer such questions.
+environment" [@pajak_electronic_1992, 1]. Set aside, for a moment, the
+peculiarity of being able to patent a metaphor and instead note the
+idiosyncrasy of the technical language. What does it mean to "access" a
+metaphor, for example?  Were someone to "check out" a book from the electronic
+library, would they hold onto a book or its metaphor alone? What mechanisms
+would assure the integrity between a database and its metaphor? Is the visual
+hierarchy of related objects itself an object in that hierarchy? Traditional
+metaphor theory strains to answer such questions.
 
-In the so-called classical view, metaphors are simply a type of figurative
-language. To say "the day stands tiptoe on the misty mountain tops" is to use
-the verb "stand" in a novel linguistic context. Days have no literal legs to
-stand on. John Searle, George Lakoff, and Mark Turner, among others, have
-argued that metaphors are more broadly a cognitive phenomenon, mapping distinct
+Traditional metaphor theorists saw metaphor as a linguistic phenomenon. To say
+"the day stands tiptoe on the misty mountain tops" is to use the verb "stand"
+in a novel linguistic context. Days have no literal legs to stand on. But in
+the 1980's, scholars including John Searle, George Lakoff, Mark Turner argued
+that metaphors are more broadly a cognitive phenomenon, which maps distinct
 ontological categories across "conceptual domains" [@lakoff_metaphors_1980;
 @turner_death_1987; @lakoff_contemporary_1998, @searle_metaphor_1998]. In the
 modified view, even such basic semantic concepts as "quantity, state, change,
 action, cause, purpose, means, modality" are metaphorical in nature
 [@lakoff_metaphorical_1980; @lakoff_contemporary_1998, 212]. Lakoff and others
 have further argued that beyond figurative, lyrical language, metaphors more
-broadly structure everyday experience. Thus the analysis of common phrases like
-"things are looking up" and "I can't get that tune out of my mind" reveals the
-underlying figuration like "good things are up" and "the mind is a container."
-The idea that "good things are up" generates a multitude of metaphors like
-"profits are going up" and "moving on up," for example
+broadly structure everyday experience. Thus the analysis of common phrases
+like "things are looking up" and "I can't get that tune out of my mind"
+reveals the underlying figuration like "good things are up" and "the mind is a
+container." The idea that "good things are up" generates a multitude of
+metaphors like "profits are going up" and "moving on up," for example
 [@lakoff_metaphorical_1980, 195-198].
 
 !["An exemplary interface for viewing a three dimensional book [@card_methods_2006, 3]."](images/book-metaphor.png)
@@ -198,14 +194,13 @@ usually attached to people can be extended to state actors. Similarly, to say
 that someone is "boiling mad," instantiates the common trope of "anger is a
 hot liquid in a container." In this case, familiar properties attached to the
 domain of physics are mapped onto the domain of emotion. Lakoff explains that
-such domain mappings tend to also follow a few rules. They are usually partial
-and asymmetrical. "Mappings are not arbitrary," he writes, "but grounded in
-the body and in everyday experience and knowledge." Finally domain mappings
-obey what Lakoff calls the Invariance Principle, by which "the image schema
-structure of the source domain is projected onto the target domain in a way
-that is consistent with inherent target domain structure."[^ln1-metalakoff]
-Keep these rules in mind as they will become important later on in our
-conversation.
+such domain mappings tend to also follow a few rules. "Mappings are not
+arbitrary," he writes, "but grounded in the body and in everyday experience
+and knowledge." Finally domain mappings obey what Lakoff calls the Invariance
+Principle, by which "the image schema structure of the source domain is
+projected onto the target domain in a way that is consistent with inherent
+target domain structure."[^ln1-metalakoff] Keep these rules in mind as they
+will become important later on in our conversation.
 
 The kind of resemblances that we have been discussing so far---between the
 document and its icon, for example---are further referred to as *structural
@@ -214,26 +209,25 @@ concepts," Lakoff and Johnson wrote in the 1980s. Grounded in "systematic
 correlations within our experience," structural metaphors transfer organizing
 principles from one domain to another [@lakoff_metaphors_1980, 61-8]. Thus to
 say "the world is our oyster" is to suggest that something in our approach to
-interacting with oysters, likely in a gastronomical situation, resembles our
-approach to life. The ease of eating one transfers to the ease of living in
-the other. The transferred property implies not just a semantic similarity,
-one of meaning, but a structural one, one of interface. The metaphor suggests
-the world is arranged like an oyster somehow, that it can be cracked, and that
-it contains a tasty hidden morsel within. In this way, structural metaphors
-organize one thing in the shape of another. They are tools for extending
-insight from a known domain to a lesser known one, holding great explanatory
-and exploratory power where simple things like oysters shed light on complex
-things like worlds.
+interacting with oysters resembles our approach to life. The ease of eating
+one transfers to the ease of living in the other. The transferred property
+implies more than a semantic similarity, one of meaning, but also a structural
+one, one of interface. The metaphor suggests the world is arranged like an
+oyster somehow, that it can be cracked, and that it contains a tasty hidden
+morsel within. In this way, structural metaphors organize one thing in the
+shape of another. They are tools for extending insight from a known domain to
+a lesser known one, holding great explanatory and exploratory power where
+simple things like oysters shed light on complex things like worlds.
 
 In their capacity for exploration and explanation, metaphor machines present
 us with a special case of conceptual domain blending in that they enact,
 rather than merely suggest, the transference of structuring principles from
-one system to another---from "physical libraries" to "electronic workstations
-environments," in the above example. Metaphors that can be touched and handled
-in some way exist neither wholly in language nor wholly in the mind. Rather,
-they operate in action, at hand. John Carrol, one of the pioneers in the field
-of human-computer interaction, summarized the role of metaphors in the design
-of computing systems as follows:
+one system to another (from "physical libraries" to "electronic workstations
+environments," in the above example). Metaphors that can be touched and
+handled in some way exist neither wholly in language nor wholly in the mind.
+Rather, they operate in action, at hand. John Carrol, one of the pioneers in
+the field of human-computer interaction, summarized the role of metaphors in
+the design of computing systems as follows:
 
 > Professional programmers might learn a new system X by metaphorizing at least
 initially from what they already know about system Y. More casual or naive
@@ -301,61 +295,59 @@ contained *items* or "icons representing documents or applications"
 application, the engineers at IBM describe the "contents of the notebook
 metaphor," which are "displayed as a stack of sheets." "The interface [...]
 permits a user to directly manipulate the sheets in the notebook metaphor"
-[@glaser_graphical_1995]. In these words we begin to glimpse the trouble with
-the structural metaphor paradigm of human-computer interaction. The idea of
-"direct manipulation" refers to its *immediate* availability to hand.
-Paradoxically, the user handles only the metaphor directly. The actual
-notebook is occluded in favor of its representation. This subtle sleight of
-hand, by which the handling of metaphors appears a "direct" action, where
-metaphors subsume things, will continue to haunt our conversation.
+[@glaser_graphical_1995].
+
+In these words we begin to glimpse the trouble with the structural metaphor
+paradigm of human-computer interaction. The idea of "direct manipulation"
+refers to the object's immediate availability to hand. But, users *do not*
+handle the object directly. They take hold of metaphors. The mechanisms of the
+actions associated with the object---turn the page, delete a document---are
+occluded in favor of their mimetic representations. Images of papers and pages
+stand in for floating gates and electromagnetic charges. This subtle sleight
+of hand, by which the manipulation of metaphors appears a "direct" action,
+where metaphors subsume things, will continue to haunt our conversation.
 
 ## Dissimulation
 
-Readers know what paragraphs, pages, files, and folders can do on paper and
-would like for digital images of paper to behave in a similar way. The
-principles of metaphor-driven design contain an implicit model of
-human-computer interaction, which suggests that humans prefer to manipulate
-digital information stored on computational media by the means of familiar
-mediating structures---paragraphs, pages, files, and folders---associated
-figuratively with the affordances of print media. For example, one affordance
-of paper is that it can be folded. It therefore becomes possible to "earmark"
-a page by folding a corner. The fold enables subsequent recollection of text
-that was read previously. By these means, a reader marks a notable place in
-the text in order to return to it later. Patently, digital media cannot (as of
-yet) fold by the way of paper. Readers seeking a mechanism for digital
-recollection may not be familiar with the affordances of the newly inhabited
-medium. Consequently, the affordances of digital media are presented through
-metaphor. In this way, a virtual "earmark" on a "page" represents a numerical
-pointer to a specific address in the computer memory. A "page" stands for a
-range of related addresses that correspond roughly to the information visible
-on an analogous page in print. Similarly, one "drops a folder into a trash
-bin" or "drags and drops a file" or "bookmarks a page" on a screen. Such
-metaphors rely on habituated insight with one medium extended into another. We
-do not literally "drag" or "drop" bits, but we use metaphors of paper and
-trashcans to help us manipulate bits and bytes as if they were household
-objects. The metaphor opens figurative possibilities. But, it also obscures
-actual physical contingencies of interacting with bits and bytes, logic gates
-and electromagnetic traces.
+Readers know how paragraphs, pages, files, and folders relate to paper and
+would like for their digital images to behave in a similar way. The principles
+of metaphor-driven design contain an implicit model of human-computer
+interaction, which suggests that humans prefer to manipulate digital
+information stored on computational media by the means of familiar mediating
+structures---paragraphs, pages, files, and folders---associated figuratively
+with the affordances of print media. For example, one affordance of paper is
+that it can be folded. It therefore becomes possible to "earmark" a page by
+folding a corner. Patently, digital media cannot (as of yet) fold by the way
+of paper. Readers seeking a mechanism for digital recollection may not be
+familiar with the affordances of the newly inhabited medium. Consequently, the
+affordances of digital media are presented through metaphor. In this way, a
+virtual "earmark" on a "page" represents a numerical pointer to a specific
+address in the computer memory. A "page" stands for a range of related
+addresses that correspond roughly to the information visible on an analogous
+page in print. Similarly, one "drops a folder into a trash bin" or "drags and
+drops a file" or "bookmarks a page" on a screen. Such metaphors rely on
+habituated insight with one medium extended into another. We do not literally
+"drag" or "drop" bits, but we use metaphors of paper and trashcans to help us
+manipulate bits and bytes as if they were household objects. The metaphor
+opens figurative possibilities. It also obscures actual physical contingencies
+of interacting with bits and bytes, logic gates and electromagnetic traces.
 
-The affordances of physical media differ from those of the simulated. We
-handle bits and bytes differently from files and folders, pages and
-paragraphs. The metaphorical substitution encourages readers to extend the
-facility they have with handling one sort of media (paper and ink) to another
-(screen and pixels). What readers gain in facility, they lose in critical
-faculty. Alienated from the material conditions of information storage and
-retrieval, readers gain access to the metaphor alone. Thus we go through the
-motions of "turning the page" but in actuality redraw the screen. We
-"highlight a passage," which constitutes an action that may also send
-information about the highlighted passage to a data aggregation service. We
-"share a book" which really means assigning a temporary license to another
-user. Where does the text go? I ask when downloading a paper from an online
-journal.[^ln1-nested] It is in your home folder someone answers. But unless
-one of us is familiar with the material contingencies of file storage, neither
-has a mental map of any physical location corresponding to the "home" folder,
-the default location of personal files on many systems. When confronted with
-the actual affordances of digital text, the user grasps for neutered
-metaphors. We "reside" in such "homes," "own," "share," and "create" only in
-the simulacrum.
+Metaphorical substitution encourages readers to extend their facility with one
+sort of media (paper and ink) to another (screen and pixels). But, what
+readers gain in facility, they lose in critical faculty. Alienated from the
+material conditions of information storage and retrieval, readers gain access
+to the metaphor alone. Thus we go through the motions of "turning the page"
+but in actuality redraw the screen. We "highlight a passage," which
+constitutes an action that may also send information about the highlighted
+passage to a data aggregation service. We "share a book" which really means
+assigning a temporary license to another user. Where does the text go? I ask
+when downloading a paper from an online journal.[^ln1-nested] It is in your
+home folder someone answers. But unless one of us is familiar with the
+material contingencies of file storage, neither has a mental map of any
+physical location corresponding to the "home" folder, the default location of
+personal files on many systems. When confronted with the actual affordances of
+digital text, the user grasps for neutered metaphors. We "reside" in such
+"homes," "own," "share," and "create" only in the simulacrum.
 
 Interface metaphors conceal structures of algorithmic governance and control
 over the transmission of symbolic goods. Print offers a relatively static and
@@ -365,7 +357,7 @@ dynamically. Imagine my asking you to read Shakespeare's *Hamlet*, for
 example, in lending you a copy of the text. I am fairly certain that the text
 will remain unaltered as I pass the book into your hands. By contrast, the
 computed sign adjusts itself to new contexts. An electronic version of
-*Hamlet* could adapt to the new reader's geographic location, mood, or
+*Hamlet* could change based on the new reader's geographic location, mood, or
 consumption habits. In fact, most texts we consume today come to us in such a
 computationally constructed way. The front page of the *New York Times* viewed
 in Beijing will differ from that viewed in New York. The two "pages" or
@@ -398,9 +390,9 @@ it still be a weather simulation if the model was broken in some way, or, in
 the extreme, if it had no correspondence to the physics of clouds, wind, and
 water whatsoever? The hyperreal model breaks further still by usurping,
 instead of imitating or merely obscuring, the underlying reality. It begins to
-simulate itself, according to its own rules, similar to self, entering a state
-of dissimulation. Such dissimulation no longer corresponds to any conditions
-"on the ground." Severed from its referent, the sign attains the status of the
+simulate itself, according to its own rules, entering a state of
+dissimulation. Such dissimulation no longer corresponds to any conditions "on
+the ground." Severed from its referent, the sign attains the status of the
 thing represented: a map of a map, a symbol that folds onto itself, a weather
 simulation confused for weather.
 
@@ -422,28 +414,26 @@ to turn the page, readers perform the more habituated motion of swiping across
 the screen. The gliding motion enacts a kinetic analogy---a type of a
 metaphor---as if to transpose properties of paper to glass.
 
-Our grasp on the medium weakens the more convincing its simulacrum. By
-definition, simulation "assumes a form resembling that of something else,"
+The more convincing its simulacrum, the more our grasp on the medium weakens.
+By definition, simulation "assumes a form resembling that of something else,"
 whereby one referent is exchanged for another [@_simulation_2015]. To drag and
 drop a document into a trashcan on the screen, for example, should in theory
 correspond to an analogous set of data manipulations on the disk. Yet,
 "discarding a file" in this manner does not necessarily include deletion of
 data from the storage medium, as expected. The representation of the document
 may disappear visually where the electromagnetic inscription endures. Such
-"loss of resemblances" could remain insignificant. Does one care whether a file
-was actually erased or not when performing deletion? Perhaps not. But in some
-cases, when it really matters---under the threat of censorship or prosecution,
-for example---the incongruence exposes the frailty of our alienation from the
-material contexts of digital labor. Under duress, facing unjust prosecution for
-example, one may demand the thing to stay deeply deleted. The problem of
-metaphoric immediacy reappears in the unfulfilled promise of mimesis. The poet
-and the critic may celebrate the free play of the signifier where the
-journalist or the accused would not. In many contexts, the metaphoric vehicle
-claims to bridge domains and to ferry content across faithfully, without
-meddling or damaging its contents. But if the metaphor does meddle---if it
-mediates while dissembling and dissimulating---by what process can one ensure
-the efficacy of transference? What entity makes good on the promise of
-verisimilitude?
+"loss of resemblances" could remain insignificant. Does one care whether a
+file was actually erased or not when performing deletion? Perhaps not. But in
+some cases, when it really matters---under the threat of censorship or
+prosecution, for example---the incongruence exposes the frailty of our
+alienation from the material contexts of digital labor. Under duress, facing
+unjust prosecution, one may demand the thing to stay deeply deleted. The
+problem of metaphoric immediacy reappears in the unfulfilled promise of
+mimesis. In many contexts, the metaphoric vehicle claims to bridge domains and
+to ferry content across faithfully, without meddling or damaging its contents.
+But if the metaphor does meddle---if it mediates while dissembling and
+dissimulating---by what process can one ensure the efficacy of transference?
+What entity makes good on the promise of verisimilitude?
 
 Readers ultimately bear the burden of such unverified conceptual transference.
 In pretending to turn virtual pages, we lose sight of the mechanisms that give
@@ -453,10 +443,7 @@ at the physical site of discourse formation. A truly materialist poetics would
 reach through representation towards the medium. More than superficial
 embellishment, the skeuomorphic metaphor enacted at the surface of the digital
 literary device structures all higher order meaning-carrying units: from
-individual letters to words, paragraphs, chapters, pages, and books. The
-metaphor of "turning the page by swiping across the screen" conceals the
-structural rift between media: between supple pages and rigid slabs of glass
-and silicone.
+individual letters to words, paragraphs, chapters, pages, and books.
 
 Why would readers engage in such a charade? Why not simply make use of novel
 interfaces afforded by new technology? The literature from the field of
@@ -465,28 +452,27 @@ human-computer interaction suggests a formalist answer: habituation [See
 initial effort it takes to learn to read in a new environment may discourage
 potential readers from adopting a new technology. Smart designers therefore
 rely on acculturated practice, the turning of pages in our case, to minimize
-the "friction" of adoption. Although an "electronic book reader" contains no
-pages as such, it extends the metaphor of pages to electronic reading.
-Digital poems, novels, physician's scripts, and legal contracts resemble their
-paper counterparts in order to enable familiar actions. But while imitating
-paper pages, the reading appliance also monitors, adjusts, warns, and
-controls.
+the "friction" of adoption. Digital poems, novels, physician's scripts, and
+legal contracts resemble their paper counterparts in order to enable familiar
+actions. But while imitating paper pages, the reading appliance also monitors,
+adjusts, warns, and controls.
 
 Dissimulation conceals structuring principles large and small. Some of the
-occluded details remain inconsequential, like the limit on how many keys can be
-pressed at once without overwhelming the circuitry of the keyboard when typing.
-Other concealed details are of paramount importance, like digital rights
-management chips and censorship filters, for example. Electronic books are
-governed and internalize governing structures in ways that are often
-purposefully hidden from the reader. For example, the US Digital Millennium
-Copyright Act prohibits the physical circumvention of copyright protections
-[See @ku_critique_2004; @ginsburg_legal_2005; @perzanowski_rethinking_2008;
+occluded details remain inconsequential, like the limit on how many keys can
+be pressed at once without overwhelming the circuitry of the keyboard when
+typing.  Other concealed details are of paramount importance, like digital
+rights management chips and censorship filters. Electronic books are governed
+and internalize governing structures in ways that are often purposefully
+hidden from the reader. For example, the US Digital Millennium Copyright Act
+prohibits the physical circumvention of copyright protections [See
+@ku_critique_2004; @ginsburg_legal_2005; @perzanowski_rethinking_2008;
 @fry_circumventing_2009; @von_lohmann_unintended_2010]. This means that if an
-electronic book is encrypted in some way to prevent copyright infringement, the
-reader may also be prevented from examining codes and codices embedded into the
-device---rules governing accessibility, preservation, or freedom of speech. The
-material affordances of inscription at that deep, bottom-most meaning-bearing
-medium influence all higher-level practices of interpretation.[^ln1-rmedium]
+electronic book is encrypted in some way to prevent copyright infringement,
+the reader may also be prevented from examining codes and codices embedded
+into the device---rules governing accessibility, preservation, or freedom of
+speech. The material affordances of inscription at that deep, bottom-most
+meaning-bearing medium influence all higher-level practices of
+interpretation.[^ln1-rmedium]
 
 Traditional theories of textual interpretation rely on properties and
 assumptions attached to print media. For example, in Hans-Georg Gadamer's
@@ -543,10 +529,9 @@ familiar terrain. Dissimulation mimics familiar materialities absent their
 actual physics. It suggests a structuring of one kind, while enacting the
 structure of another.
 
-In these novel conditions, the task of the literary scholar must include,
-among other things, a practice of microscopic reading that corresponds to the
-techniques of micromolecular writing, suggested already in Kittler and
-Baudrillard in the 1990s [@kittler_there_1995]. I imagine here the inverse of
+Micromolecular writing, of the kind suggested already in Kittler and
+Baudrillard in the 1990s, today demands the corresponding practice of
+microscopic reading [@kittler_there_1995]. I imagine here the inverse of
 Kittler's literature without humans: cryptic, illegible, and under the
 conditions of high technology. The methodology of computational poetics
 insists on recovering the shape of the inscription, across surfaces and
@@ -567,6 +552,8 @@ a space somewhere right of center. They are illegible in part. The simulation
 of print, the digital metaphor, decays rapidly with time. Archivists know this
 problem well: digital texts from the recent past can quickly become
 inaccessible as the software used to decode them itself passes into oblivion.
+
+<!-- consider a segway, a bit abrupt here -->
 
 ## Death and Incongruence
 
@@ -1242,11 +1229,6 @@ nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
 versions of the game at http://rickadams.org/adventure/e_downloads.html.  I
 used PDP-10 Fortran version and ran `tr`, `uniq`, and the `wc` Unix utilities
 to isolate and count the unique words from the data file.
-
-[^ln1-database]: In describing his Relational Calculus Expression for Metaphor
-Generation Lawrence F. Young writes that the "key to this model is the
-observation that any entity can be metaphorically associated with another
-entity" [@young_metaphor_1987, 312].
 
 [^ln1-dead]: For a book length summary on this topic see
 @muller_metaphors_2008.
