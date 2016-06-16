@@ -1,16 +1,18 @@
 # Chapter 1: Metaphor Machines
 
-In the 1990s, I understood Jean Baudrillard's writing on simulacra in
-relationship to the media entertainment complex: amusement parks, virtual
-reality, and reality television. Today his writing gains another layer of
-meaning related directly to the ubiquity of personal computing. Computers, as
-I will argue in this chapter, do more than compute. They are metaphor machines
-that mediate experience universally. They interject in simple everyday acts
-from drinking coffee in the morning, through automatic brewing machines and
-payment systems, to going to bed as alarm clocks and night activity monitors.
+In the 1990s, I understood Jean Baudrillard's writing on simulacra to be about
+media entertainment complex: amusement parks, virtual reality, and reality
+television. Today his writing has gained another layer of meaning for me,
+related directly to the ubiquity of personal computing. Computers, as I will
+argue in this chapter, do more than compute. They are metaphor machines that
+mediate experience. They interject in everyday acts. We drink our morning
+using automatic "fuzzy logic" brewing machines. At night, we go to bed
+surrounded by smart alarm clocks and sleep activity monitors.
 
-Baudrillard writes about the "genesis of simulacra," which culminates
-in the totalizing mediation of code:
+<!-- check the transition sentence -->
+
+What Baudrillard writes about the "genesis of simulacra" leads to the
+contemporary condition, in which code mediates ubiquitously:
 
 > At the limit of an always increasing elimination of references and
 > finalities, an ever-increasing loss of resemblances and designations, we
@@ -24,25 +26,33 @@ splits its energies between the screen and hard drive. On the screen, at the
 site of projection, the programmatic sign simulates familiar materialities:
 buttons, bins, files, folders, drawers, desktops, windows, tiles, wood grain,
 drop shadows, chrome. At the site of storage, from which the sign emanates,
-the language changes to the vocabulary of control, referring to central
-processing units, compilation, commitment, extraction, command, condition,
-initiation, handling, function, persistence, and execution. In the rift
-between the sites of storage---what is---and projection---what appears to
-be---the programmatic sign undergoes a series of structural transformations.
-What originates from (a) the keyboard as the mechanical action of a switch
-becomes (b) an electric signal that (c) leaves a magnetic mark in computer
-memory, which (d) further morphs into a phase of the liquid crystal on the
-screen, leaving behind (e) the letter that emanates outward as light.
-Programming languages, rules for transformation between media, bridge the
-passage between bodies, screens, and archives, breaking thought up into
+the language changes to the vocabulary of control: central processing units,
+compilation, commitment, extraction, command, condition, initiation, handling,
+function, persistence, and execution. In the rift between the sites of
+storage---what is---and projection---what appears to be---the programmatic
+sign undergoes a series of structural transformations. What originates from
+(a) the keyboard as the mechanical action of a switch becomes (b) an electric
+signal that (c) leaves a magnetic mark in computer memory, which (d) morphs
+into a phase of the liquid crystal on the screen, leaving behind (e) the
+letter that emanates outward as light. Programming languages bridge the
+passage between bodies, archives, and screens, breaking thought up into
 differentiated units for transfer. Simulation emerges in the reassembly of
 such units back into a continuous integrated whole. Texts dissolve into
 letters and pixels which then congeal back into holistic literary works.
 
 Roman Jakobson called such construction and deconstruction of meaning the
 "profuse exchange of ritualized formulas" or the phatic function of language
-[@malinowski_problem_1923, 146; @jakobson_linguistics_1960, 355]. In the
-phatic function lies the essence of programming. Code shapes and commands. At
+[@malinowski_problem_1923, 146; @jakobson_linguistics_1960, 355]. Code, like
+the phatic utterance, contains all the stuff that is extra to the content. It
+describes the channel of communication: its conditions and rules for
+engagement. The words "Hello world" on paper or in plain text format take up
+11 bytes. In the Portable Document Format (PDF) they comprise more that 24,000
+bytes. The added information contains the kind of profuse exchange of
+ritualized formulas that Jakobson describes. Only in this case, the phatic
+function is hidden from view. It is more profuse than in speech---Can you hear
+me now?---but less visible.
+
+Programming at its essence is a phatic activity. Code shapes and commands. At
 the same time, it conjures fantastical metaphors to occlude the structure of
 shaping and commanding. Simulation obscures the incongruence between visible
 representation and the underlying material affordances of the medium. What you
