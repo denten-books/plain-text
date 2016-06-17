@@ -103,7 +103,7 @@ Electronic books read on mobile phones, tablets, and personal computers
 comprise a part of the same digital framework that powers drones and aircraft
 carriers. Computers in the service of the world's largest purveyors of
 literature are also used by air traffic control and covert intelligence
-agencies [@soyata_combat:_2012; @logicworks_government_2015]. A cellular
+agencies [See @soyata_combat:_2012; @logicworks_government_2015]. A cellular
 phone, once a device for voice telecommunication, is now used both to read
 books and to detonate explosives at a distance.
 
@@ -133,9 +133,9 @@ device is in part an artifact of an unfortunate translation from the Russian
 *priem*. The word would be better translated as "technique," in the sense of
 "method," "approach," or "procedure." Device contains these meanings as well,
 but in modern usage, it often carries a more concrete connotation, as an
-"object, machine, or piece of equipment that has been made for a special
+"object, machine, or piece of equipment that has been made for some special
 purpose" [@_device_2016]. "Laying bare the device," for Viktor Shklovsky, who
-coined the phrase, meant making explicit the implied mechanisms of literary
+coined the phrase, meant making explicit the implied mechanisms of a literary
 trope, particularly in cases where such tropes turn "stale," "automatic," and
 "naturalized," that is, bereft of their evocative power.[^ln2-shklov]
 
@@ -154,10 +154,10 @@ boys would run on them, up and down, and crawl on all fours through those
 round tunnels, but a week later nobody was playing anymore and thick snow was
 falling instead; and now when, cautiously probing the treacherous glaze of the
 sidewalk with my thick rubber-heeled stick, I go out in the flat gray light of
-the morning, an even stripe of fresh snow stretches along the upper side of
+early morning, an even stripe of fresh snow stretches along the upper side of
 each black pipe [...] Today someone wrote "Otto" with his finger on the strip
 of virgin snow, and I thought how beautifully that name, with its two soft o's
-flanking the pair of gentle consonants suited the silent layer of snow upon
+flanking the pair of gentle consonants, suited the silent layer of snow upon
 that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27;
 @johnson_guide_1979, 354].
 
@@ -209,15 +209,17 @@ ou l'enjeu du siècle* (1954), Lynn White's *Medieval Technology and Social
 Change* (1966), and Viktor Fekiss's *The Technological Man* (1969). Calling
 for the institution of a new field in 1959, the editors of the inaugural issue
 of the journal *Technology and Culture* would write about the "neglect of
-study of technology" amidst a body of extant work that has "scarcely
-constituted" a systematic scholarly discipline [@kranzberg_at_1959].
+the study of technology" amidst a body of extant work that has "scarcely
+constituted" a systematic scholarly discipline [@kranzberg_at_1959, 5-6].
 "*Technology* is a word whose time has come," Langdon Winner would still write
 in 1978 in his influential *Autonomous Technology* [@winner_autonomous_1978,
 4].
 
 !["Technology" and "technique," the relative frequency of occurrence in the
-Google Books ngram corpus
-[@michel_quantitative_2011].](images/technology_chart.png)
+Google Books ngram corpus [C.f.
+@michel_quantitative_2011].](images/technology_chart.png)<!--I couldn't find
+this graph in the Michel et al. article? Therefore I assume you meant to
+compare it to the kinds of graphs they made for their study.-->
 
 Seen in this light, the pre-WWII concern with literary technique anticipates
 the post-war turn towards technology as a field of cultural analysis. Before
@@ -258,7 +260,7 @@ the idea of literary production from its irreproducible contexts. The emphasis
 on craft over art implies primarily a change in the artist's relationship to
 labor. Walter Benjamin had this view in mind when he wrote decades later about
 the work of art that can no longer be thought of as a "rigid, isolated
-object." Rather, "it must be inserted into the context of living social
+object." Rather, it "must be inserted into the context of living social
 relations," and therefore, into the context determined by its relation to
 literary production [@benjamin_author_1983, 87]. Technique, for Benjamin, made
 literary works "accessible" to materialist analysis [@benjamin_author_1983,
@@ -286,14 +288,16 @@ comprise a kind of a natural physics-based system, which tended towards the
 conservation of energy [@shklovksy_poetika_1919, 105]. In his influential 1852
 essay on the *The Philosophy of Style*, Spencer wrote about ordinary ways of
 speaking where "words are not pronounced fully," and where "the mind barely
-perceives the initial sounds of each word" [@spencer_philosophy_1892]. The
-ideal writer according to Spencer also strove to minimize the reader's mental
-exertion, following the law of what he called the "economy of composition:" to
-say as much as possible in the most concise and direct way. Poetry for Spencer
-was exemplary in that it habituated those "symbols of thought" and "methods of
-using them" that have proven themselves to be most effective through
-continuous use [@spencer_philosophy_1892]. Spencer's ideal of literature was
-therefore of the most thrifty, economical kind.
+perceives the initial sounds of each word" [@spencer_philosophy_1892].<!--
+note: I can't find any record of these quotes, though the sense of them is
+certainly there. Paraphrase instead and condense under the 32 page reference?
+PRP--> The ideal writer according to Spencer also strove to minimize the
+reader's mental exertion, following the law of what he called the "economy of
+composition:" to say as much as possible in the most concise and direct way.
+Poetry for Spencer was exemplary in that it habituated those "symbols of
+thought" and "methods of using them" that have proven themselves to be most
+effective through continuous use [@spencer_philosophy_1892, 32]. Spencer's
+ideal of literature was therefore of the most thrifty, economical kind.
 
 Shklovsky agreed with Spencer about the dynamics of everyday language, but not
 poetry. Poetry does not facilitate communication, he argued, it disrupts it.
@@ -313,13 +317,13 @@ Any innovation in the literary sphere was, in the formalist view, bound to
 follow a cycle of habituation and renewal. With time, images once able to
 capture the imagination lose their vitality. Consequently, the evolution of
 aesthetic periods follows a course of arbitrary differentiation, in what Jean
-Moréas (a symbolist poet and art critic important for the history of
-formalism) called a "cyclical evolution" [*évolution cyclique*], by which the
-dominant device in one period becomes a cliché in the next. Art depletes
-itself, "from copy to copy, from imitation to imitation." What seems fresh
-today "dries up and shrivels" tomorrow [@moreas_symbolisme_1886]. Technique in
-that sense was seen by the formalists as a kind of information processing at
-the meta-linguistic, social level. The mechanics of "arrangement and the
+Moréas (a symbolist poet and art critic important for the history of formalism)
+called a "cyclical evolution" [*évolution cyclique*], by which the dominant
+device in one period becomes a cliché in the next. Art depletes itself, "from
+copy to copy, from imitation to imitation." What seems fresh today "dries up
+and shrivels" tomorrow [@moreas_symbolisme_1886, 150]. Technique in that sense
+was seen by the formalists as a kind of information processing at the
+meta-linguistic, social level. The mechanics of "arrangement and the
 rearrangement of figure" produce new meaning within habituated contexts,
 motivating the engine of literary development.
 
