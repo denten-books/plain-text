@@ -1,6 +1,4 @@
-# Conclusion: Home
-
-<!-- watch set of -->
+# Chapter 6: Home
 
 The hypothesis of extended cognition advances a model of the mind which
 extends beyond the boundaries of skin and skull to include the environment
@@ -23,7 +21,7 @@ human and instrument collectives.
 
 These conclusions, should we accept them, have an immediate implication for
 computational poetics and for neighboring fields like book history, philology,
-textual criticism, human-computer interaction, and media archeology. The
+textual criticism, human-computer interaction, and media archaeology. The
 hypothesis of extended cognition entails that the physical structures that
 support extension, are, in some real ways, an integral part of the mind. They
 are constitutive instead of merely augmentative of cognition. That means that
@@ -32,18 +30,19 @@ distribution of knowledge is to study cognitive structures. The theory entails
 also that we take more seriously the architecture of cognitive extension. If
 the extended parts of the mind---pens, paper, bookshelves, and filing
 systems---constitute an integral part of the mind, they should be treated with
-the care we afford other, innate cognitive structures. The carpenter building
-our bookshelves and the software engineer developing the mechanisms of media
-storage are engaged in an act of knowledge design. They build systems that
-support cognitive extension---the furnishings of our minds, the dwellings of
-our extended media self. The hypothesis of extended cognition implies also
-that one should not build houses upon these external mental scaffoldings
-uncritically. The architectures of extended cognition matter a great deal.
-They are precious in a way in which our bookshelves and photo albums are
-precious to us. They contain a certain habituated order by which we have
-organized our thoughts and memories. A great violence is done by the one who
-would rearrange the shelf of another. Worse yet, imagine the disorder a
-computer virus brings to one's files and folders. The measure of
+the care we afford other, innate cognitive structures.
+
+The carpenter building our bookshelves and the software engineer developing
+the mechanisms of media storage are engaged in an act of knowledge design.
+They build systems that support cognitive extension---the furnishings of our
+minds, the dwellings of our extended media self. The hypothesis of extended
+cognition implies also that one should not build houses upon these external
+mental scaffoldings uncritically. The architectures of extended cognition
+matter a great deal. They are precious in a way in which our bookshelves and
+photo albums are precious to us. They contain a certain habituated order by
+which we have organized our thoughts and memories. A great violence is done by
+the one who would rearrange the shelf of another. Worse yet, imagine the
+disorder a computer virus brings to one's files and folders. The measure of
 protectiveness we feel toward these cognitive artifacts belies their import.
 
 In this chapter
@@ -91,7 +90,6 @@ circa 1959, depicts a couple in their living room, relaxing around a tape
 recorder and near a shelf-like piece of furniture holding reels and equipment
 in neat wooden compartments. "Build your own library of stereo tapes," reads
 the slogan.[^ln4-dupont]
-
 
 Is it still a monologue when one talks to his own images from the past? Krapp
 has changed. He no longer feels fully congruent with his former self, "that

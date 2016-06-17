@@ -816,21 +816,7 @@ alphanumerical keyboard switch, through copper and silicon, to liquid crystal
 and the floating gate, and on towards the reader and the community. It is but
 one of many possible passes through a cavernous black box.
 
-The passage from keystroke to pixel gives this book its shape. In the chapters
-to follow, our mobile phones and laptops will come fully into view as metaphor
-machines engendering ubiquitous simulation. The **first chapter** begins with
-an explication. What does it mean to turn a page, I ask, when neither the page
-nor the action of turning it correspond to their implied analogies? The
-analysis of the metaphor helps trace the intellectual history of
-human-computer interaction, a field which progressed from "conversational
-programming" to the "direct manipulation" paradigm shaped by theories of
-cognitive metaphor and immersive theater. The logic of "directness" leads to
-the rapidly developing field of brain-computer interfaces. The chapter
-concludes with a moment of speculative formalism, in which I consider the
-possibility of affective literature, of the kind that eschews language and
-representation.
-
-At the core of the book's **second chapter** lies the notion of a modernist
+At the core of the book's **first chapter** lies the notion of a modernist
 literary device, understood both as literary technique and a thought
 experiment about intelligent machines, directly connected to the birth of
 modern computing. A section on literary technique in the thought of Percy
@@ -844,6 +830,20 @@ What does it mean to read and to write for a machine? What about broken
 mechanisms of comprehension? At once a device and an algorithm, the Turing
 machine blurs the boundaries between software and hardware, code and content,
 intelligence and its imitation.
+
+The passage from keystroke to pixel gives this book its shape. In the chapters
+to follow, our mobile phones and laptops will come fully into view as metaphor
+machines engendering ubiquitous simulation. The **second chapter** begins with
+an explication. What does it mean to turn a page, I ask, when neither the page
+nor the action of turning it correspond to their implied analogies? The
+analysis of the metaphor helps trace the intellectual history of
+human-computer interaction, a field which progressed from "conversational
+programming" to the "direct manipulation" paradigm shaped by theories of
+cognitive metaphor and immersive theater. The logic of "directness" leads to
+the rapidly developing field of brain-computer interfaces. The chapter
+concludes with a moment of speculative formalism, in which I consider the
+possibility of affective literature, of the kind that eschews language and
+representation.
 
 Two rich intellectual histories collide in the **third chapter**: one, the
 material history of format as a concept in computer science and the other, the
