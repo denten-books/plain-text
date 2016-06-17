@@ -1,44 +1,53 @@
 # Chapter 1: Metaphor Machines
 
-In the 1990s, I understood Jean Baudrillard's writing on simulacra to be about
-media entertainment complex: amusement parks, virtual reality, and reality
-television. Today his writing has gained another layer of meaning for me,
-related directly to the ubiquity of personal computing. Computers, as I will
-argue in this chapter, do more than compute. They are metaphor machines that
-mediate experience. They interject in everyday acts. We drink our morning
-using automatic "fuzzy logic" brewing machines. At night, we go to bed
-surrounded by smart alarm clocks and sleep activity monitors.
+Jean Baudrillard's sometimes enigmatic comments on the "genesis of simulacra"
+in the late eighties are beginning to come into focus for me only now, at a
+time when code has already conquered culture. Today, computers interject
+ubiquitously. We drink our morning coffee from brewing machines that use
+"fuzzy logic." At night, we go to bed surrounded by smart alarm clocks and
+sleep activity monitors. "At the limit of an always increasing elimination of
+references and finalities," Baudrillard wrote, "we find 'the programmatic
+sign', whose 'value' is purely tactical." Like good theater, we experience the
+machine in immersion, suspending disbelief. This leads to what Baudrillard has
+called the "ever-increasing loss of resemblances and designations.
+[@baudrillard_symbolic_1988, 139-140]" The programmatic sign circumvents
+critical reflection in favor of affect. Its value is tactical in the sense
+that it appeals to instrumental terms like efficiency, performance,
+disruption, and innovation.
 
-<!-- check the transition sentence -->
+Code, as we will encounter it here, elicits pleasure and catharsis. In this,
+the programmer and the "user" occupy distinct and unequal positions in the
+epistemological hierarchy. Code is not usually meant to be decoded by those it
+acts upon. They are spared the "friction" of signification, remaining instead
+in the state of asemiosis. In return for such felicity code compels exacting
+obedience. Baudrillard thus speaks of the "micromolecular structure of command
+and control," as the essence of the programmatic sign
+[@baudrillard_symbolic_1988, 139-140]. The appeal to structure at the
+molecular level draws our attention to the perils of selective illiteracy. As
+inscription, code flows at a layer not immediately perceptible to human
+senses. The "users" are thereby confronted with the choice to persist in the
+simulation pleasurably or face the difficulty of microscopic reading, which
+requires special tools and training. Value is further derived from the
+resulting imbalance of critical acumen.
 
-What Baudrillard writes about the "genesis of simulacra" leads to the
-contemporary condition, in which code mediates ubiquitously:
-
-> At the limit of an always increasing elimination of references and
-> finalities, an ever-increasing loss of resemblances and designations, we
-> find the digital and programmatic sign, whose "value" is purely *tactical*,
-> at the intersection of other signals ("bits" of information/tests) whose
-> structure is that of a micromolecular code of command and control
-> [@baudrillard_symbolic_1988, 139-140].
-
-My concern here is with the structure of code, the programmatic sign, which
-splits its energies between the screen and hard drive. On the screen, at the
-site of projection, the programmatic sign simulates familiar materialities:
-buttons, bins, files, folders, drawers, desktops, windows, tiles, wood grain,
-drop shadows, chrome. At the site of storage, from which the sign emanates,
-the language changes to the vocabulary of control: central processing units,
-compilation, commitment, extraction, command, condition, initiation, handling,
-function, persistence, and execution. In the rift between the sites of
-storage---what is---and projection---what appears to be---the programmatic
-sign undergoes a series of structural transformations. What originates from
-(a) the keyboard as the mechanical action of a switch becomes (b) an electric
-signal that (c) leaves a magnetic mark in computer memory, which (d) morphs
-into a phase of the liquid crystal on the screen, leaving behind (e) the
-letter that emanates outward as light. Programming languages bridge the
-passage between bodies, archives, and screens, breaking thought up into
-differentiated units for transfer. Simulation emerges in the reassembly of
-such units back into a continuous integrated whole. Texts dissolve into
-letters and pixels which then congeal back into holistic literary works.
+The programmatic sign so conceived splits its energies between the screen and
+hard drive. On the screen, at the site of projection, the programmatic sign
+simulates familiar materialities: buttons, bins, files, folders, drawers,
+desktops, windows, tiles, wood grain, drop shadows, chrome.  At the site of
+storage, from which the sign emanates, the language changes to the vocabulary
+of control: central processing units, compilation, commitment, extraction,
+command, condition, initiation, handling, function, persistence, and
+execution. In the rift between the sites of storage---what is---and
+projection---what appears to be---the programmatic sign undergoes a series of
+structural transformations. What originates from (a) the keyboard as the
+mechanical action of a switch becomes (b) an electric signal that (c) leaves a
+magnetic mark in computer memory, which (d) morphs into a phase of the liquid
+crystal on the screen, leaving behind (e) the letter that emanates outward as
+light. Programming languages bridge the passage between bodies, archives, and
+screens, breaking thought up into differentiated units for transfer.
+Simulation emerges in the reassembly of such units back into a continuous
+integrated whole. Texts dissolve into letters and pixels which then congeal
+back into holistic literary works.
 
 Roman Jakobson called such construction and deconstruction of meaning the
 "profuse exchange of ritualized formulas" or the phatic function of language
@@ -66,7 +75,7 @@ material substrata of electronic reading. We believe we are handling a book;
 our ideas about reading and interpretation subsequently rely on that initial
 physical point of contact with paper. But when reading electronically, we are
 handling something other than print material. The semblance to paper guides
-our intuitions about the possibilities of the medium: the ability to scroll,
+our intuitions about the medium and its associated affordances: to scroll,
 bookmark, or turn pages. We have far fewer intuitions about the affordances of
 inscription at the micromolecular level. As we "turn the page" on the screen
 an electric charge embedded into a solid state medium crosses the impenetrable
@@ -74,8 +83,8 @@ oxide barrier, reaching its destination, the floating gate, through quantum
 tunnelling, which exploits the wave-particle duality of matter and its
 corollary the Heisenberg uncertainty principle [@pavan_flash_1997;
 @aaron_flash_2002; @bez_introduction_2003]. In this way, the everyday
-inscription---a digital word---comprises numerous improbable events at quantum
-scale.
+inscription---the digital word---comprises numerous improbable events at
+quantum scale.
 
 What can be said then about the practices of reading and interpretation
 grounded in such remote physicalities? For now, only that they continue to
@@ -89,61 +98,63 @@ manipulate arrays, affect solid states of being. It is tempting to view media
 ecosystems that host our digital lives as a kind of a natural element like
 water or air. But we should not forget that computational ecologies are always
 constructed environments. They are not governed by the laws of physics in the
-same sense that clouds or oceans are. They form a part of a massive tactical
+same sense that clouds or oceans are.  They form a part of a massive tactical
 effort to bring private spaces of inhabitance---think the *Home* folder on
 your computer, your family photo album, your digital bookmarks---under the
 purview of computational control. The simulation encodes political structures
 that should not be naturalized, lest we succumb to the complacency of
-technological determinism. Our goal in this chapter is to arrest the advance
-of the computational metaphor. We must begin to separate resemblances from
-their designations, the apparent shape from a command in the imperative.
+technological determinism.
 
-What does it mean to turn a page in a medium that sustains neither turning nor
-pages? In this chapter, we will use the language of cognitive metaphor theory
-to tell a story of metaphor's influence on computation, at a formative moment
-in the history of human-computer interaction. I plan to approach this
-tradition from within, taking on its language and assumptions in the first
-several sections of the chapter. The latter sections narrate the historical
-transition between literal computing, by which users gave explicit commands to
-their machines, and the so-called "direct manipulation" model, in which they
-began to occupy virtual, figurative environments. The chapter draws on
-archives from graphic design, literary theory, and computer science---fields
-that come into direct contact in the 1970s, 1980s, and 1990s. The trajectory
-from the conversational to the "direct" model of human-computer interaction
-points to the speculative possibility of seemingly unmediated coupling between
-human and machine---a possibility that I acknowledge and finally reject
-outright in my conclusion.
+My goal in this chapter is therefore to interrupt the frictionless advance of
+the computational metaphor: to separate resemblances from their designations,
+the apparent shape from a command in the imperative. What does it mean to turn
+a page in a medium that sustains neither turning nor pages? I will rely on the
+language of cognitive metaphor theory to tell a story of metaphor's influence
+on computation, at a formative moment in the history of human-computer
+interaction. I approach this tradition from within, taking on its language and
+assumptions in the first few sections of the chapter. The latter sections
+narrate the historical transition between literal computing, by which users
+gave explicit commands to their machines, and the so-called "direct
+manipulation" model, in which they began to occupy virtual, figurative
+environments. The chapter draws on archives from graphic design, literary
+theory, and computer science---fields that come into direct contact in the
+1970s, 1980s, and 1990s. The trajectory from the conversational to the
+"direct" model of human-computer interaction points to the speculative
+possibility of seemingly unmediated, affective coupling between human and
+machine---a possibility that I acknowledge and finally reject outright in my
+conclusion.
 
 ## Verisimilitude
 
-It bears mentioning at the outset that in the language of cognitive metaphor
-theory all figurative tropes of comparison---hyperbole, metonymy, synecdoche,
-or simile---fall under the category of metaphor. To avoid confusions of the
-sort I plan to spend a few pages delving into its technical vocabulary. This
-language will later help us explore the ways by which metaphors make and
-unmake everyday computational environments of human habitation. I am
-interested here and throughout the book in a particular mode of virtual
-habitation and habituation, which by their very nature begin and end with the
-technologies of metaphor.
-
-<!-- rewrite this paragraph to be about Young's paper --> 
-
-[^ln1-database]: In describing his Relational Calculus Expression for Metaphor
-Generation Lawrence F. Young writes that the "key to this model is the
-observation that any entity can be metaphorically associated with another
-entity" [@young_metaphor_1987, 312]. Computer interfaces mediate the
+Metaphors structure human habitation within simulated environments. "People do
+not think like computers," a group of engineers from Interval Research Group
+write in a patent application describing "methods and systems for providing
+human/computer interfaces." Metaphors, according to their description, "permit
+more efficient and medium independent communications between people and
+computers. [@boyden_methods_1999, 1]" Metaphor mediates in the symbolic
 transference between human and machine, at the liminal space where two
-disparate systems of representation meet to exchange information. Interfaces
-can be said to translate machine states---the configuration of open and closed
+disparate systems of representation meet to exchange information. "Certain
+encoded information is translated into certain decoded information," the
+engineers conclude [@boyden_methods_1999].
+
+Interfaces translate machine states---the configuration of open and closed
 circuits---into pictures, numbers, and letters, all species of human cognitive
-states. The metaphor machine, a mechanism for universal symbolic transference,
-is capable of simulating anything that can be represented
-symbolically.[^ln1-database]
+states. A computer is, in essence, a system for such metaphoric transference
+of properties. "A user interface is represented on the display screen in the
+form of metaphoric objects, called icons" writes another group of engineers,
+in employ by the Xerox Corporation. "An icon may be a representation of a
+virtual object, such as a virtual floppy disk," they continue. Crucially, the
+virtual object may be accessible either in what the authors referred to as the
+"host system world" or in the "emulating processor world," even when the
+"virtual floppy disk may have a filing system alien to the host system world.
+[@beard_data_1990, 1]" In other words, the arrangement of information on the
+screen---the poetics of emulated space---may be incompatible with the
+arrangement of electromagnetic charges on the floppy disk itself---the poetics
+of inscription.
 
-<!-- better transition into here -->
-
-Consider the following passage from a patent filed by Xerox in 1991. It
-describes "an electronic library metaphor," which includes:
+To reflect on the function of metaphor in everyday computation, consider the
+following passage from a patent filed by Xerox in 1991. It describes an
+"electronic library metaphor," which includes:
 
 > a shared books with data base metaphor, a reference books metaphor, and
 > a card catalog metaphor in one system that allows large object oriented data
@@ -174,12 +185,16 @@ modified view, even such basic semantic concepts as "quantity, state, change,
 action, cause, purpose, means, modality" are metaphorical in nature
 [@lakoff_metaphorical_1980; @lakoff_contemporary_1998, 212]. Lakoff and others
 have further argued that beyond figurative, lyrical language, metaphors more
-broadly structure everyday experience. Thus the analysis of common phrases
-like "things are looking up" and "I can't get that tune out of my mind"
-reveals the underlying figuration like "good things are up" and "the mind is a
-container." The idea that "good things are up" generates a multitude of
-metaphors like "profits are going up" and "moving on up," for example
+broadly structure everyday experience.[^ln1-analogy] Thus the analysis of
+common phrases like "things are looking up" and "I can't get that tune out of
+my mind" reveals the underlying figuration like "good things are up" and "the
+mind is a container." The idea that "good things are up" generates a multitude
+of metaphors like "profits are going up" and "moving on up," for example
 [@lakoff_metaphorical_1980, 195-198].
+
+[^ln1-analogy]: It bears mentioning at the outset that in the language of
+cognitive metaphor theory all figurative tropes of comparison---hyperbole,
+metonymy, synecdoche, or simile---fall under the category of metaphor. 
 
 !["An exemplary interface for viewing a three dimensional book [@card_methods_2006, 3]."](images/book-metaphor.png)
 
