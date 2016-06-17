@@ -1072,13 +1072,13 @@ with @kalmar_volkerpsychologie_1987. See also @danziger_origins_1983 and
 shelve books with the spine turned inward.
 
 [^ln5-james]: In @james_principles_1890, 233-4 we find: "For it is obvious and
-palpable that our state of mind is never precisely the same. Every thought we
+palpable that our state of mind is never exactly the same. Every thought we
 have of a given fact is, strictly speaking, unique, and only bears a
-resemblance of kind with our other thoughts of the same fact [...] Often we are
-ourselves stuck at the strange differences in our successive views of the same
-thing. We wonder how we ever could have opined as we did last month about a
-certain matter [...] What was unreal has grown real, and what was exciting is
-insipid [...] and as for the books, what was there to find so mysteriously
+resemblance of kind with our other thoughts of the same fact [...] Often we
+are ourselves stuck at the strange differences in our successive views of the
+same thing. We wonder how we ever could have opined as we did last month about
+a certain matter [...] What was unreal has grown real, and what was exciting
+is insipid [...] and as for the books, what was there to find so mysteriously
 significant in Goethe, or in John Mill so full of weight? Instead of all this,
 more zestful than ever is the work, the work; and fuller and deeper the import
 of common duties, and of common goods."
