@@ -1,4 +1,4 @@
-# Chapter 1: Metaphor Machines
+# Chapter 2: Metaphor Machines
 
 Jean Baudrillard's sometimes enigmatic comments on the "genesis of simulacra"
 in the late eighties are beginning to come into focus for me only now, at a
