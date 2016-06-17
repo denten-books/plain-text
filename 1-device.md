@@ -1,9 +1,9 @@
 # Chapter 1: Laying Bare the Device
 
-"The weakest point in our present day universe is the incapacity of man to
-meet the machine, the culture conserve, or the robot, other than through
-submission, actual destruction, and social revolution" [@moreno_who_1953,
-233]. So wrote the Austrian-American psychiatrist, Jacob L. Moreno in his
+"The weakest point in our present day universe is the incapacity of man to meet
+the machine, the cultural conserve, or the robot, otherwise than through
+submission, actual destruction, and social revolution" [@moreno_who_1953, 233].
+So wrote the Austrian-American psychiatrist, Jacob L. Moreno in his
 idiosyncratic, sprawling, and now seldom read volume, *Who Shall
 Survive?*[^ln2-moreno]
 
@@ -71,7 +71,7 @@ absence of its author. Once decoupled, seemingly autonomous paper
 agents---books, folders, documents---clutter the social sphere, continuing to
 structure human experience in the absence of the originating accord. Agency so
 detached operates without consensus or comprehension. The book is "a robot par
-excellence," Moreno wrote [@moreno_who_1953, 238-9]. It is a way of affecting
+excellence," Moreno wrote [@moreno_who_1953, 238-9]. It is a way of effecting
 change across time and space, but also of breaking the causal chain of agency.
 One cannot assign blame to a bullet or a book as these are not truly social
 actors that can participate in our sense of justice or responsibility.
@@ -1556,7 +1556,7 @@ beautiful diagrams, sprouting nodes and edges, with titles like "Structure of
 a Cottage Family," "A Handicraft Group," and "The Civilian Social Atom."
 Moreno was also a humanist and a philosopher of technology and culture. In
 opposition to eugenics, a popular philosophy at the time, his answer to "Who
-Shall Survive?" was "everyone" [@moreno_who_1953, 245].
+Shall Survive?" was "everyone." [@moreno_who_1953, 245]
 
 [^ln1-timeline]: To give you a sense of the timeline: Turing entered King's
 College in 1931 [@hodges_alan_1983, 78]. His paper on computable numbers
