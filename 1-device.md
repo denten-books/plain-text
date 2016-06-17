@@ -1417,21 +1417,6 @@ and alienation from the material contexts of knowledge production. We know not
 where to look for the sites of inscription nor what passes in the
 transformation of signal into thought.
 
-<!-- consider moving this elsewhere -->
-As I write these words, a receiver of a pacemaker implant fights for her right
-to access its software, in her words "to know what code is running inside my
-body" [@mcgowan_i_2016]. In Pakistan, the American National Security
-agency-sponsored Skynet program places people on the US-sanctioned
-"disposition matrix" or "kill list" based on predictive analytics: social
-network analysis, cellular machine learning, patterns of travel and telephone
-use. Automated tools with names like SMARTTRACKER, SMARTCHART, and Cloud
-Travel Analytic "select" people for "target strikes" by unmanned areal
-vehicles  [@mcneal_targeted_2014; @weber_keep_2016]. Willingly, or not, we are
-engaged in the political struggle for the control and the deployment of these
-codified resources. The heart and the sky are sites on which the tactics of
-inscription are increasingly contested. They require a capacity to "meet the
-machine" and a poetics capable of new emendations.
-
 <!-- notes -->
 <!-- notes -->
 <!-- notes -->
