@@ -772,26 +772,25 @@ comprehension.
 *Philosophical Grammar,* written around the same time as the *Blue and Brown
 Notebooks*, gives us another glimpse into the pre-history of the literary
 device. It begins again with a problem of "understanding" and "not
-understanding." "To understand language," Wittgenstein writes, means "to take
-in symbolism as a whole" [@wittgenstein_philosophical_1974, 5]. A word is
+understanding." "To understand a language," Wittgenstein writes, means "to take
+in a symbolism as a whole" [@wittgenstein_philosophical_1974, 5]. A word is
 always a part of a larger system. Similarly, a pass in football (soccer) also
 only makes sense as part of the game. It is meaningless in isolation. From the
 start of his argument, Wittgenstein envisions "understanding" as a type of
 trans-mediation. In comparing the understanding of language propositions to
-music, he writes: "for explanation I can only translate the musical picture
-into a picture in another medium and let one picture throw light on the other"
-[@wittgenstein_philosophical_1974, 5 & 41]. And elsewhere: "How curious: we
+music, he writes: "For explanation I can only translate the musical picture
+into a picture in another medium and let the one picture throw light on the
+other" [@wittgenstein_philosophical_1974, 41]. And elsewhere: "How curious: we
 should like to explain the understanding of a gesture as a *translation* into
 words, and the understanding of words as a translation into gestures [emphasis
 mine]" [@wittgenstein_philosophical_1974, 42]. In conclusion, he again
-describes what we mean by "understanding" as a "process of translation from
-one symbolism into another; tracing a picture, copying something, or
-translating into another mode of representation.
-[@wittgenstein_philosophical_1974, 45]" To understand something said is thus
-akin to modeling it in clay or drawing it. Similarly, we imagine explaining
-the rules of basketball to someone who only knows how to play hockey by
-analogy: the puck bares a grammatical resemblance to the ball, the goal net to
-the basketball hoop.
+describes what we mean by "understanding" as a "process of translation from one
+symbolism into another; tracing a picture, copying something, or translating
+into another mode of representation" [@wittgenstein_philosophical_1974, 45]. To
+understand something said is thus akin to modeling it in clay or drawing it.
+Similarly, we imagine explaining the rules of basketball to someone who only
+knows how to play hockey by analogy: the puck bares a grammatical resemblance
+to the ball, the goal net to the basketball hoop.
 
 It is insufficient however to merely paraphrase: to show understanding one
 must "draw a picture" or "model" in a way that reveals the correspondence of
@@ -818,20 +817,20 @@ mechanical means, as the actuating mechanisms of the player piano fit into the
 grooves of a music roll.
 
 ![Electrically operated musical instrument by Clyde Coleman of Chicago, Il.
-1914, US1107495A. Wittgenstein returns to the image of pianola throughout his
-writings.](images/pianola.png)
+1914, US1107495A [@coleman_electrically-operated_1914, 1]. Wittgenstein returns
+to the image of pianola throughout his writings.](images/pianola.png)
 
 This sort of a rigid correspondence seems to bring us closer to solving the
 challenge of "proper" interpretation. But, like the other, less exacting,
 mechanisms of comprehension, the pianola can break too. Wittgenstein explains
 in the early passages of *Philosophical Grammar*: "Aren't our sentences parts
-of a mechanism? As in a pianola? But suppose it is in bad condition?
-[@wittgenstein_philosophical_1974, 10]"  "The sentences that we utter have a
+of a mechanism? As in a pianola? But suppose it is in bad condition?"
+[@wittgenstein_philosophical_1974, 10] "The sentences that we utter have a
 particular purpose," Wittgenstein elaborates:
 
-> They are to produce certain effects. They are parts of a mechanism, perhaps
+> they are to produce certain effects. They are parts of a mechanism, perhaps
 > a psychological mechanism, and the words of the sentences are also parts of
-> the mechanism (levers, cogwheels, and so on). The example that seems to
+> the mechanism (levers, cogwheels and so on). The example that seems to
 > illustrate what we're thinking of here is an automatic music player, a
 > pianola. It contains a roll, rollers, etc., on which the piece of music is
 > written in some kind of notation (the position of holes, pegs, and so on).
@@ -844,57 +843,59 @@ symbolic interpretation. In this view, words and music notation alike contain
 a "purpose" to elicit some "effects" in the interpretive mechanism.
 
 As before, we cannot always expect the mechanism of interpretation to function
-properly, nor do we have a reliable way to verify its correct operation.
-"Suppose the pianola is in bad condition," Wittgenstein repeats. The signs on
+properly, nor do we have a reliable way to verify its correct operation. "But
+suppose the pianola is in bad condition," Wittgenstein repeats. The signs on
 the roll could produce "hisses and bangs" instead of music, for example. One
 could object that notes are always "meant" to play on a mechanism in perfect
 working order. But to explain what is meant by a working order, we would need
 to draw yet another diagram or build another machine. Wittgenstein elaborates
-by another analogy: the "sense" of an "order"---the programming instructions
-of the piano roll---lies in its "effect on an obedient man"
-[@wittgenstein_philosophical_1974, 60-70]. The pianola thus exemplifies a
-class of perfect controlling mechanisms. In good working condition it is
-exactly obedient to the instructions printed on a piano roll.
+by another analogy: the "sense of an order"---the programming instructions of
+the piano roll---lies in its "effect on an obedient man"
+[@wittgenstein_philosophical_1974, 69-70]. The pianola thus exemplifies a class
+of perfect controlling mechanisms. In good working condition it is exactly
+obedient to the instructions printed on a piano roll.
 
 When drawing the analogy between mental and mechanical processes, Wittgenstein
-explicitly rejects the model of language as a "psychophysical" mechanism.
-Rather, as the title of the work suggests, Wittgenstein is in search for the
-"grammar" governing the engagement: between speakers and listeners, readers
-and writers, player pianos and musical scores. By the end of the work, grammar
-emerges as a batch of "conventions." Wittgenstein complicates the mechanism by
-inserting an extra layer of "rules" that mediate between symbol and machine or
-mental state. We can agree upon a convention formally, by transcribing into a
-protocol: a chart of appropriate correspondences that describes the exact
-rules of engagement. Wittgenstein writes that it would be then possible to
-imagine a "part of the mechanism which resembles the chart [...] inserted
-between the language-part of the mechanism and the rest of it"
-[@wittgenstein_philosophical_1974, 190]. Such instructions would enforce
-strict compliance between the musical score and the actuating parts of the
-piano mechanism, sounding a warning bell for example, if any part of the
-mechanism was out of compliance.
+explicitly rejects the model of language as a "psychophysical" mechanism
+[@wittgenstein_philosophical_1974, 70]. Rather, as the title of the work
+suggests, Wittgenstein is in search for the "grammar" governing the engagement:
+between speakers and listeners, readers and writers, player pianos and musical
+scores. By the end of the work, grammar emerges as a batch of "conventions."
+Wittgenstein complicates the mechanism by inserting an extra layer of "rules"
+that mediate between symbol and machine or mental state. We can agree upon
+a convention formally, by transcribing into a protocol: a chart of appropriate
+correspondences that describes the exact rules of engagement. Wittgenstein
+writes that it would be then possible to imagine a "part of the mechanism which
+resembles the chart [...] inserted between the language-like part of the mechanism
+and the rest of it" [@wittgenstein_philosophical_1974, 190]. Such instructions
+would enforce strict compliance between the musical score and the actuating
+parts of the piano mechanism, sounding a warning bell for example, if any part
+of the mechanism was out of compliance.
 
-"Can one say that grammar describes language?" Wittgenstein writes:
+"Can one say that grammar describes language?" Wittgenstein
+writes:[@wittgenstein_philosophical_1974, 87]
 
 > If we consider language as part of the psycho-physical mechanism which we
 use when we utter words---like pressing keys on a keyboard---to make a human
 machine work for us, then we can say that grammar describes that part of the
-machine.
+machine.[@wittgenstein_philosophical_1974, 187-8]
 
-The grammar sets up a "connection between word and a thing," in order for the
-mechanism to function in a certain way. "The definition," Wittgenstein writes,
-"can make it work properly, like the connection between the keys and the
-hammers in a piano." Crucially, it is that "connection not the effect that
-determines the meaning" [@wittgenstein_philosophical_1974, 190]. A programmer
-would say that Wittgenstein's "grammatical layer" resembles modern programming
-language interpreters and assemblers, exactly the parts of the machine that
-connect codified instructions to their execution [@mccarthy_lisp_1962;
-@bashkow_system_1967]. Similarly, Wittgenstein's grammar "means" in the sense
-of specifying the rules by which meaning succeeds or fails. In this way, we
-can move away from speaking of "intended effects" or "proper obedience," and
-rather concentrate on this interpretive and mediating layer, which describes
-the rules of engagement [@wittgenstein_philosophical_1974, 194-6]. To learn a
-language in that sense is not to learn individual words, but to understand the
-rules of engagement: the mechanical linkages of meaning-making.
+The grammar sets up a "connection between a word and 'a thing'," in order for
+the mechanism to function in a certain way. "[T]he definition," Wittgenstein
+writes, "can make it work properly, like the connection between the keys and
+the hammers in a piano." Crucially, it is that "connection and not the effect
+which determines the meaning" [@wittgenstein_philosophical_1974, 190].
+A programmer would say that Wittgenstein's "grammatical layer" resembles modern
+programming language interpreters and assemblers, exactly the parts of the
+machine that connect codified instructions to their execution
+[@mccarthy_lisp_1962; @bashkow_system_1967]. Similarly, Wittgenstein's grammar
+"means" in the sense of specifying the rules by which meaning succeeds or
+fails. In this way, we can move away from speaking of "intended effects" or
+"proper obedience," and rather concentrate on this interpretive and mediating
+layer, which describes the rules of engagement
+[@wittgenstein_philosophical_1974, 194-6]. To learn a language in that sense is
+not to learn individual words, but to understand the rules of engagement: the
+mechanical linkages of meaning-making.
 
 We say that the mechanism is rigid or the law is inexorable when the results
 of an action are fixed. Wittgenstein calls such a relationship
@@ -928,17 +929,17 @@ analogies: a diagram that explains a diagram.
 
 In his lectures on mathematics, Wittgenstein never finds a way out of this
 recursive conundrum. The foundations of mathematics rely on some such mutually
-dependent relationship between the physical and the symbolic worlds. Whether
-it is in math or in ordinary language, some magic happens at the coupling of
+dependent relationship between the physical and the symbolic worlds. Whether it
+is in math or in ordinary language, some magic happens at the coupling of
 matter and sign. The precise point of contact concerns Wittgenstein in all
-fields of human activity, from literature to psychology and mathematics. In
-all of these fields, he finds an implicit analogy between "symbol" and
-"mechanism." A type of a metaphor, the analogy itself is atomic. It cannot be
-split further into something like sign and referent, or signifier and
-signified. Considered apart, the two parts of the metaphor are strictly
-meaningless. In his lectures on aesthetics, Wittgenstein describes the
-dependency as the "concomitance between mechanism and its trace." The best we
-can do in describing aesthetics is therefore to "trace a mechanism"
+fields of human activity, from literature to psychology and mathematics. In all
+of these fields, he finds an implicit analogy between "symbol" and "mechanism."
+A type of a metaphor, the analogy itself is atomic. It cannot be split further
+into something like sign and referent, or signifier and signified. Considered
+apart, the two parts of the metaphor are strictly meaningless. In his lectures
+on aesthetics, Wittgenstein describes the dependency as the "concomitance"
+between mechanism and its trace.<!--wasn't able to find full quote; prp--> The
+best we can do in describing aesthetics is therefore to "trace a mechanism"
 [@wittgenstein_lectures_1966, 13-16].
 
 ## Thought Experiment III

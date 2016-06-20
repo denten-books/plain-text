@@ -16,3 +16,6 @@ Schopenhauer page number (on page 9) for 1906 ed.
 Need nabokov edition for "invitation to a beheading"; 1959 - at NYU/Cooper library
 
 Gillespie in Wege der Worte, pdf p 17, latin and english
+
+
+Wittgenstein lecutres "super-hardness" page number 1976 edition; and quotes on pdf page 26-7
