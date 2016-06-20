@@ -1,3 +1,27 @@
+
+The **sixth and final chapter** looks to the site of storage to find the media
+"homes" that house vast archives of our private media collections. It begins
+with a close reading of Beckett's *Krapp's Last Tape*. Krapp makes yearly
+audio recordings of himself, only to revisit them and to enter into a sort of
+dialog with his own voice from the past. I posit this archival encounter as
+Krapp's "media being" and suggest that such encounters are commonplace.
+Writers and book collectors regularly deposit "snapshots" of their
+consciousness into books and onto bookshelves. Jean-Paul Sartre's idea of an
+"appointment with oneself" helps to reveal this external construction of
+files, folders, and library furnishings as cognitive extension, in need of
+delicate pruning and arrangement. In this light, I show that documents exist
+not as completed works, but as "vectors" that mutate and move through time and
+space.[^ln-wark] I ask: What is being externalized, communicated, and
+preserved? And answer: It is not simply a message, but the subject itself. A
+close reading of the "home" folder, the default location of personal files on
+many systems, concludes with a discussion about our media homes. Finally, I
+return to the theme of displacement, arguing for a mode of inhabitance within
+media that is uncanny or un-homed [*Unheimliche*], contrary to discourse that
+speaks in terms of "digital natives" and those who are "born digital." I build
+on the immigrant poetics of Flusser and Franz Fanon to suggest a kind of
+information processing that necessitates a purposeful movement between the
+polarities of settlement and expatriation.
+
 # Chapter 6: Home
 
 The hypothesis of extended cognition advances a model of the mind which

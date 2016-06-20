@@ -1,5 +1,4 @@
 # Conclusion: Towards the Practice of Computational Poetics
-<!--- this goes with the conclusion of recondite surfaces -->
 
 As I write these words, a receiver of a pacemaker implant fights for her right
 to access its software, in her words "to know what code is running inside my
@@ -16,9 +15,9 @@ inscription are increasingly contested. They require a capacity to "meet the
 machine" and a poetics capable of new emendations.
 
 In drawing this schematic history of contemporary textuality, it is my hope to
-convince the reader of the very literal sense of depth manufactured into the
-structure of commonplace modern-day literary devices that facilitate reading
-and writing. Even print materials, which seem to escape computational
+have convinced the reader of the very literal sense of depth manufactured into
+the structure of commonplace modern-day literary devices that facilitate
+reading and writing. Even print materials, which seem to escape computational
 complexity, still follow the path of the fissure I have described above. With
 a few exceptions, every transmitted sign today recapitulates the history of a
 simulated semiotics. All printed media passes from keyboard to digital
@@ -205,14 +204,3 @@ human-machine interaction it then becomes possible to derive a poetics, in the
 sense of a study and an art of creating one's own time: prosody, meter,
 harmony, cadence, and syncopation.
 
-Our challenge today lies in escaping the quietly smothering embrace of
-automation, a multitude of microscopic prosthetics that in aggregate exert an
-enormous pressure on the mind's centers of pleasure and satiation. A quietude
-descends on the dwellings of our intellectual life. The digitally displaced
-hold on to the discomfort of the encounter with the machine. Estrangement,
-always at the heart of immigrant or queer poetics, reconciles without seeking
-wholeness or integration. I dedicate this book then to queers and immigrants,
-literal and figurative---spatial, literary, technological---to those being
-displaced unwillingly, to those exiled within and without, to those who
-understand the need for self-displacement, to those who transgress
-purposefully, and to those who continue to trespass.
