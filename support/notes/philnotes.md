@@ -13,4 +13,4 @@ Phaedrus imitation
 
 Schopenhauer page number (on page 9) for 1906 ed.
 
-Need nabokov edition for "invitation to a beheading"; 1959
+Need nabokov edition for "invitation to a beheading"; 1959 - at NYU/Cooper library

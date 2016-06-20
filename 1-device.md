@@ -411,10 +411,10 @@ known to the writer only. They are hidden from view in reception. Echoing his
 Soviet colleagues in his influential *The Craft of Fiction*, the English
 critic Percy Lubbock, himself a formalist of sorts, would write:
 
-> To grasp the shadowy and fantasmal form of the book, to hold it fast, to
-> turn it over and to survey it at leisure---that is the effort of a critic of
-> books, and it is perpetually defeated [...] Nothing, no power, will keep the
-> book steady and motionless before us so that we may have time to examine its
+> To grasp the shadowy and fantasmal form of a book, to hold it fast, to
+> turn it over and survey it at leisure---that is the effort of a critic of
+> books, and it is perpetually defeated [...] Nothing, no power, will keep a
+> book steady and motionless before us, so that we may have time to examine its
 > shape and design [@lubbock_craft_1921, 1].
 
 Note the use of the object-oriented vocabulary in the above passage in a way
