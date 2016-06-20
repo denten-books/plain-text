@@ -654,16 +654,16 @@ Wittgenstein broached the problem of reading machines and comprehension in his
 mathematics from the late 1930s, and finally in *Philosophical
 Investigations*, written between 1945 and 1949. The earliest of these
 documents, *The Blue Book*, opens with the question of interpretation. "What
-is a meaning of a word?" Wittgenstein asks and cautions his students against
+is the meaning of a word?" Wittgenstein asks and cautions his students against
 choosing the easy answer, which holds that meaning resides in the head. "It is
 misleading then to talk of thinking as of a 'mental activity'", he writes:
 
 > We may say that thinking is essentially the activity of operating with
 > signs. This activity is performed by the hand, when we think by writing; by
-> the mouth and larynx, when we think by speaking; and if we think by imaging
+> the mouth and larynx, when we think by speaking; and if we think by imagining
 > signs or pictures, I can give you no agent that thinks. If then you say that
 > in such cases the mind thinks, I would only draw your attention to the fact
-> that you are using metaphor, that here the mind is the agent in a different
+> that you are using a metaphor, that here the mind is an agent in a different
 > sense from that in which the hand can be said to be the agent in writing
 > [@wittgenstein_blue_1965, 6-7].
 
@@ -683,11 +683,11 @@ of view. When the hand writes, it is the brain that thinks. But when the hand
 thinks, it is the brain that writes. Meaning thus lies in the transition from
 hand to head and from mind to paper. We might say that thinking takes place
 "on paper, in our head, in the mind," Wittgenstein writes, but crucially,
-"none of these statements of locality gives *the* locality of thinking"
+"[n]one of these statements of locality gives *the* locality of thinking"
 [@wittgenstein_blue_1965, 16]. Thought is rather distributed throughout the
 body and among its extensions. We think by the sign, head, hand, and pen.
 
-"Can a machine think?" Wittgenstein asks later on in the first notebook
+"Could a machine think?" Wittgenstein asks later on in the first notebook
 [@wittgenstein_blue_1965, 16]. The challenge, as he explains it, is not one of
 finding a machine that can do the job---of manipulating signs, for example.
 It lies in the ability of the machine to enact both sides of the metaphoric
@@ -710,13 +710,14 @@ which involves "translating script into sounds," "writing according to
 dictation," or "copying in writing a page of print" [@wittgenstein_blue_1965,
 119]. What happens when a naive child reads a newspaper? Wittgenstein asks,
 echoing Kuhlman and Descartes. The child's eyes, he answers, "glide along the
-printed words, he pronounces them aloud or to himself, but other words he
+printed words, he pronounces them aloud or to himself," but "other words he
 pronounces after having seen their first few letters only, others again he
-reads out letter by letter." Children act as "reading machines" when they pay
-no attention to what they read. A child reads "faultlessly like a reliable
-machine," Wittgenstein repeats, emphasising the mechanical property of
-colloquially "mechanistic" reading. Another hypothetical child merely pretends
-to read. It guesses at the words and on occasion repeats things "by heart,"
+reads out letter by letter" [@wittgenstein_blue_1965, 119]. Children act as
+"reading machines" when they pay no attention to what they read. A child reads
+"faultlessly like a reliable machine," Wittgenstein repeats, emphasising the
+mechanical property of colloquially "mechanistic" reading
+[@wittgenstein_blue_1965, 119]. Another hypothetical child merely pretends to
+read. It guesses at the words and on occasion repeats things "by heart,"
 without actually seeing them on the page [@wittgenstein_blue_1965, 121-22].
 Would any of these hypothetical scenarios rise to our conventional
 understanding of reading?
@@ -745,18 +746,19 @@ that he actually understands the recited words, Phaedrus must use more words.
 But what if those are memorized as well? What can be done to convince others
 definitively of our having understood a text properly?
 
-Wittgenstein finally describes the mechanisms of reading as an "indirect way
-of transmitting a feeling." "Something that we can never know happens at the
+Wittgenstein finally describes the mechanisms of reading as an "indirect way of
+transmitting [a] feeling." "[S]omething that we can never know happens at the
 other end" of the communication act [@wittgenstein_blue_1965, 185].
-Communication, we would say today, is always mediated. In the conclusion of
-his notebooks, Wittgenstein imagines the possibility of "direct" modes
+Communication, we would say today, is always mediated. In the conclusion of his
+notebooks, Wittgenstein imagines the possibility of "direct" modes
 communication, capable of transmitting feelings immediately from one person to
-another, in a way that "obviate[s] the external medium of communication
-[@wittgenstein_blue_1965, 185]" Barring that possibility, we are ultimately
+another, in a way that "obviate[s] the external medium of communication"
+[@wittgenstein_blue_1965, 185]. Barring that possibility, we are ultimately
 limited by our private sensations of knowledge. "Something which we can never
 know happens at the end end," Wittgenstein writes [@wittgenstein_blue_1965,
-185]. Any sense of affirmation, the phatic utterance---Can you hear me
-now?---comes through further expression, entailing further uncertainty.
+185].<!--repeated above in this paragraph, delete? PRP--> Any sense of
+affirmation, the phatic utterance---Can you hear me now?---comes through
+further expression, entailing further uncertainty.
 
 Thought experiments in *The Blue and Brown Notebooks* do not amount to a
 cohesive model of language, communication, or the mind. They do however
