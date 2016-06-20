@@ -9,8 +9,10 @@ Chapter 1:
 
 All Moreno Quotes using 1953 edition of "Who Shall Survive?"
 
-Phaedrus imitation
+Phaedrus imitation; and pharmakon page number pdf page 18
 
 Schopenhauer page number (on page 9) for 1906 ed.
 
 Need nabokov edition for "invitation to a beheading"; 1959 - at NYU/Cooper library
+
+Gillespie in Wege der Worte, pdf p 17, latin and english

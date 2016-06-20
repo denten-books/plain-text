@@ -425,7 +425,7 @@ continually escapes the reader's mental, not physical, grasp. Nor do his
 books, forms, shapes, and designs refer to the outward, material aspects of
 the literary artifact. These are again mental constructions, not material.
 
-Our unfamiliarity with what Lubbock calls the novel's "technical aspects"
+Our unfamiliarity with what Lubbock calls the novel's "technical aspect"
 thereby hampers our ability to understand how it comes to present itself to
 the mind in its entirety [@lubbock_craft_1921, 272]. The viewer grasps other
 more plastic art forms like sculpture or painting whole and at
@@ -439,39 +439,39 @@ Critical reading in Lubbock's sense entailed an account of the transformation
 from things to ideas: from words and sentences to stories, novels, and verse.
 Echoing Boris Eichenbaum in "How *The Overcoat* is Made," Lubbock was
 interested in mechanics of literary craft---in how the thing is made. He
-promised to view a "handful of familiar novels [...] with some particularity,"
-but without judgement or critique. "How they are made is the only question I
-ask," he wrote [@shklovksy_poetika_1919; @lubbock_craft_1921, 12 & 28;
+promised to view "a few familiar novels [...] with some particularity," but
+without judgement or critique. "How they are made is the only question I shall
+ask," he wrote [@shklovksy_poetika_1919; @lubbock_craft_1921, 12, 28;
 @eichenbaum_how_1995]. Since the author of the book was a "craftsman" it is
 therefore the critic's role to "overtake him at his work and see how the book
 was made," Lubbock wrote elsewhere [@lubbock_craft_1921, 274]. His usage of
-object-oriented vocabulary---his "parts," "forms," "shapes," "proportions,"
-and "designs"---nevertheless referred to constructs mental and ideational,
-just as it was for Shklovsky or Eichenbaum. "The book vanishes as we lay our
-hands on it," Lubbock wrote [@lubbock_craft_1921, 273]. Critics must chose to
-see either the trees or the forest. As the totality of the work comes into
-view, the technical details of craft---and therefore the book
-itself---disappear. Conversely, when viewed up close, the technical
-particulates obscure sight of the work as a whole.
+object-oriented vocabulary---his "parts," "forms," "shapes," "proportions," and
+"designs"---nevertheless referred to constructs mental and ideational, just as
+it was for Shklovsky or Eichenbaum. "The book vanishes as we lay hands on it,"
+Lubbock wrote [@lubbock_craft_1921, 273]. Critics must choose to see either the
+trees or the forest. As the totality of the work comes into view, the technical
+details of craft---and therefore the book itself---disappear. Conversely, when
+viewed up close, the technical particulates obscure sight of the work as
+a whole.
 
 Lubbock writes that the "real heart and substance of the book [...] stands out
-more clearly for the obscurity into which the less essential parts of it
-subside" [@lubbock_craft_1921, 4]. To read in this mode is to deny the book
-its materiality. When reading for pleasure, lay readers lose themselves in the
-elements of narrative immediately available for observation.  To read the
-novel for pleasure for Lubbock is to "forget, if we can, that the book is an
-object of art. [@lubbock_craft_1921, 6]" By object of art he means the
-transcendent idea of the novel as opposed to the immanent work itself. To
-"objectify the elements" of the novel that "strike us more keenly," as Lubbock
-phrases it, therefore means for him quite the opposite of what is usually
-meant by objectification. The complete mental idea of the novel congeals only
-at the conclusion of reading, that is at the limits of the book as a thing.
-Lubbock writes: "Far from losing ourselves in the world of the novel, we must
-hold it away from us, see it all in detachment, and use the whole of it to
-make the image we seek, the book itself" [@lubbock_craft_1921, 6]. But to hold
-the book away means actually to internalize it completely. And by "book" he
-means the idea of a novel, not at all the thing itself. Thus to read
-critically is, paradoxically, also to arrest the coming-into-being of the
+the more clearly for the obscurity into which the less essential parts of it
+subside" [@lubbock_craft_1921, 4]. To read in this mode is to deny the book its
+materiality. When reading for pleasure, lay readers lose themselves in the
+elements of narrative immediately available for observation.  To read the novel
+for pleasure for Lubbock is to "forget, if we can, that the book is an object
+of art. [@lubbock_craft_1921, 6]" By object of art he means the transcendent
+idea of the novel as opposed to the immanent work itself. To "objectify...the
+elements" of the novel that "strike us most keenly," as Lubbock phrases it,
+therefore means for him quite the opposite of what is usually meant by
+objectification.[@lubbock_craft_1921, 6] The complete mental idea of the novel
+congeals only at the conclusion of reading, that is at the limits of the book
+as a thing. Lubbock writes: "So far from losing ourselves in the world of the
+novel, we must hold it away from us, see it all in detachment, and use the
+whole of it to make the image we seek, the book itself" [@lubbock_craft_1921,
+6]. But to hold the book away means actually to internalize it completely. And
+by "book" he means the idea of a novel, not at all the thing itself. Thus to
+read critically is, paradoxically, also to arrest the coming-into-being of the
 work. The difficulty of materialist poetics reflects in its language, which
 continually conflates mental and physical constructs.
 
@@ -479,10 +479,10 @@ continually conflates mental and physical constructs.
 sculpture. See for example @herder_sculpture_2002.
 
 *The Craft of Fiction* ends on an ambivalent note. Lubbock sensed the
-inadequacy of his materialism: "if only there was one single tangible and
-measurable fact about the book," he wrote. If only it could be "weighed like a
-statue" or "measured like a picture, it would be a support in the world of
-shadows [@lubbock_craft_1921, 273-4].
+inadequacy of his materialism: "if only there were one single tangible and
+measurable fact about a book," he wrote. If only it could be "weighed like a
+statue" or "measured like a picture---it would be a support in a world of
+shadows" [@lubbock_craft_1921, 273-4].
 
 I want to end the section here, with the momentary failure of materialist
 poetics, to pick up another concomitant thread, one that will take us through
@@ -545,18 +545,19 @@ represents an advancement in the development of a long-standing thought
 experiment concerning the nature of human understanding and the beginning of a
 new, machine-assisted philological practice.
 
-The question of an "automated" hermeneutics echoes through the canon of
-Western philosophic tradition. What does it mean to read and to understand
-something? Is it enough to repeat the words of another, as Phaedrus does in
-response to Socrates? Could students be said to possess reason if they were
-merely parroting thoughts and not really thinking on their own? Would we say
-the same thing of animals or a machines? The question was posed already by
-Descartes who wrote that it would not be sufficient for the "reasoned soul" to
-be "lodged in the human body like a pilot of a ship, except perhaps to move
-its members," but that intelligence must be "more closely joined and united
-with the body to produce true feelings and appetites." Magpies and parrots can
-appear to speak, Descartes wrote, but can they show us that they understand
-[@descartes_discourse_1996]? And what would that "showing" entail?
+The question of an "automated" hermeneutics echoes through the canon of Western
+philosophic tradition. What does it mean to read and to understand something?
+Is it enough to repeat the words of another, as Phaedrus does in response to
+Socrates? Could students be said to possess reason if they were merely
+parroting thoughts and not really thinking on their own? Would we say the same
+thing of animals or machines? The question was posed already by Descartes who
+wrote that it would not be sufficient for the "rational soul" to be "lodged in
+the human body like a pilot in his ship, except perhaps for the moving of its
+members," but that intelligence must be "joined and united more closely with
+the body in order to have sensations and appetites similar to our own." Magpies
+and parrots can appear to speak, Descartes wrote, but can they show us that
+they understand [@descartes_discourse_1996, 36]? And what would that "showing"
+entail?
 
 Recall also the experiments with combinatorial poetics of the 17th century
 German Jesuit scholar Athanasius Kircher, the inventor of *Arca Musurgicae*, a
@@ -614,30 +615,30 @@ Recall the famous *pharmakon* passage from Plato's *Phaedrus*, which explores
 the relationship between writing and its impression on the mind. At the
 conclusion of the dialog, King Thamus objects to the technology [*ta tekhnēs*]
 of the written word, as he believes it will foster forgetfulness in the people
-who use it. Plato writes: "Their faith in extrinsic writing [*graphō
-exōthen*], by means of foreign impressions [*allotrion tupōn*] will diminish
-their intrinsic [*endothen autous*] capacity to remember"
-[@plato_euthyphro._1999].[^ln1-platotr] Plato thus contrasts the exterior
-figure of the inscription with memory, an intrinsic cognitive ability. The
-Greek *tupōn*, related to the English "type," literally means an impression.
-In this case it is also "foreign" or "othered" [*allotrion*]. It comes from
-without. Like Moreno after him, Thamus finds thought externalized through
-typography problematic. True memory and thought for them both must come from
-within.
+who use it. Plato writes: "Their faith in extrinsic writing [*graphō exōthen*],
+by means of foreign impressions [*allotrion tupōn*] will diminish their
+intrinsic [*endothen autous*] capacity to remember".[^ln1-platotr] <!--I
+combined the citation with the footnote; prp-->Plato thus contrasts the
+exterior figure of the inscription with memory, an intrinsic cognitive ability.
+The Greek *tupōn*, related to the English "type," literally means an
+impression. In this case it is also "foreign" or "othered" [*allotrion*]. It
+comes from without. Like Moreno after him, Thamus finds thought externalized
+through typography problematic. True memory and thought for them both must come
+from within.
 
 For this reason, Socrates asks the young man to stop reciting the speech by
 heart in the beginning of the dialog. He wants Phaedrus to think for himself
 and not to merely regurgitate the thought of another---to stop performing, in
 other words, as a mere parrot would or an automaton. To truly understand
 something and to make a show of their comprehension, readers must do more than
-read: they must internalize, Plato suggests through Socrates. Much can go
-wrong in that process, but we expect for reading to ultimately leave an
-appropriate impression [*tupōn*] on the reader's mind. For understanding to
-take place, writing must produce "true," in the words of Descartes, feelings
-and appetites. But what is true, appropriate, or proper? What does type
-[*tupōn*] impress onto the soul? How does one ingest an inscription in way
-that leaves an appropriate trace?---these are the profound mysteries always
-present even in the most mundane acts of reading and writing.
+read: they must internalize, Plato suggests through Socrates. Much can go wrong
+in that process, but we expect for reading to ultimately leave an appropriate
+impression [*tupōn*] on the reader's mind. For understanding to take place,
+writing must produce "true," in the words of Descartes, feelings and appetites.
+But what is true, appropriate, or proper? What does type [*tupōn*] impress onto
+the soul? How does one ingest an inscription in a way that leaves an
+appropriate trace?---these are the profound mysteries always present even in
+the most mundane acts of reading and writing.
 
 ## Thought Experiment II
 
@@ -1553,7 +1554,7 @@ discussion," even in the presence of prominent philosophers like George Edward
 Moore [@duncan-jones_g._1958, 25]. Turing attended Wittgenstein's lectures on
 the foundations of mathematics in 1939.
 
-[^ln1-platotr]: I translate the passage into literal, if awkward, English to
+[^ln1-platotr]: @plato_euthyphro._1999 I translate the passage into literal, if awkward, English to
 preserve some of the interesting characteristics of the original Greek. In
 particular, note the parallelism between *exōthen* and *endothen*, the
 ambiguity of *allotrion*, as something that comes from another, and the subtle
