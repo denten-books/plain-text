@@ -1,5 +1,7 @@
 # Chapter 3: Form, Formula, Format
 
+## Digital Formalisms
+
 Text shapes the human body in strange ways. After a lifetime of reading
 shoulders acquire a stooped countenance, as if the book was exerting pressure
 against the solar plexus. Eyesight deteriorates through continual exertion.
@@ -17,10 +19,10 @@ Supervised training algorithms use our collective philological
 output---sorting and commenting---to learn how to classify information
 autonomously and to curate content that better suits our predilections. Deep
 neural networks mimic the brain to build models of human behavior. These
-models are notoriously difficult to interpret, as they are not themselves
-meant for human comprehension [@andrews_survey_1995; @karim_x-trepan:_2015]. A
-vast archive of texts written by machines and for machines supports the tiny
-by comparison corpus of human-compatible literature.
+models are notoriously difficult to interpret as they are not themselves meant
+for human comprehension [@andrews_survey_1995; @karim_x-trepan:_2015]. A vast
+archive of texts written by machines and for machines supports the tiny by
+comparison corpus of human-compatible literature.
 
 Despite its formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
@@ -85,35 +87,34 @@ interpretation lies in the content within. Words can also be packaged
 otherwise. The outer container is disposable and therefore insignificant.
 
 Formats could only seem insignificant in the past when they were few, simple,
-and remaining relatively consistent across media. The book or the broadsheet
-newspaper are known entities: we understand how they are made and how to
-unfold them in space. Computational formats change rapidly and proliferate.
-They contain further, as yet unexplored structural possibilities: shapes like
-the paragraph on paper, but native to new media. What you saw is what you got
-on the page. On the screen, what you see is but a small part of what you could
-get. We are presented with *thick content*, beyond the visible image, the
-composite of all the stuff that is contained within the three-dimensional
-page. In print, content can be gleaned from the surface; there is nothing but
-surface on a page. The screen is a laminate. Light and liquid crystal---the
-preferred media for contemporary text---surge between the substrates in
-response to electrical signal. Screen surfaces conceal further strata of
-codification, inscribed onto recondite planes of inscription: hard disks,
-solid state drives, platters, drums, memory sticks, layers of copper and
-oxide.
+and consistent across media. The book or the broadsheet newspaper are known
+entities: we understand how they are made and how to unfold them in space.
+Computational formats change rapidly and proliferate. They contain further, as
+yet unexplored structural possibilities: shapes like the paragraph on paper,
+but native to new media. What you saw is what you got on the page. On the
+screen, what you see is but a small part of what you could get. We are
+presented with *thick content*, beyond the visible image, the composite of all
+the stuff that is contained within the three-dimensional page. In print,
+content can be gleaned from the surface; there is nothing but surface on a
+page. The screen is a laminate. Light and liquid crystal---the preferred media
+for contemporary text---surge between the substrates in response to electrical
+signal. Screen surfaces conceal further strata of codification, inscribed onto
+recondite planes of inscription: hard disks, solid state drives, platters,
+drums, memory sticks, layers of copper and oxide.
 
 A byte, made up of eight binary bits, holds a letter. The string of letters
-spelling out "hello world" occupies eleven bytes on the hard drive: ten bytes
-for the letters and one byte for the space character. A file in the Portable
-Document Format (PDF) containing the same "hello world" takes up 24,335 bytes
-on my system. What is the nature of the information added to text?
-Historically, such data included machine instructions for the viewing and
-printing of text along with cypher codes used for clandestine communication.
-The PDF specification describes features that include "accessibility of
-content to those with disabilities," "digital signatures to certify
-authenticity," "electronic forms to gather data," "preservation of document
-fidelity independent of the device, platform, and software," and "security and
-permission to allow the creator to retain control of the document and
-associated rights" [@iso_portable_2008, vii].
+spelling out "hello world," as I have mentioned previously, occupies eleven
+bytes on the hard drive: ten bytes for the letters and one byte for the space
+character. A file in the Portable Document Format (PDF) containing the same
+"hello world" takes up 24,335 bytes on my system. What is the nature of the
+information added to text?  Historically, such data included machine
+instructions for the viewing and printing of text along with cypher codes used
+for clandestine communication. The PDF specification describes features that
+include "accessibility of content to those with disabilities," "digital
+signatures to certify authenticity," "electronic forms to gather data,"
+"preservation of document fidelity independent of the device, platform, and
+software," and "security and permission to allow the creator to retain control
+of the document and associated rights" [@iso_portable_2008, vii].
 
 These capabilities mediate between visible image and stored information: one
 surface facing the human, the other, the machine. The formatting layer
@@ -126,13 +127,13 @@ reader brings to the process of interpretation must therefore meet the
 affordances encoded into the electronic text itself. Such an encounter happens
 not on the level of representation or ideology, but on the level of the
 physical, the phatic, and the imperative, where formatting and control codes
-reside. Thick content accounts for the disparity between plain text and fancy
-text, the latter defined as "text representation consisting of plain text plus
-added information" [@unicode_consortium_unicode_1990]. The explication of such
-thick content requires thick description, replete with material detail which
-acquires metaphysical significance in practice. The text that edits itself or
-one that collects its own fees necessitates new formalisms and new strategies
-of interpretation.
+reside. Thick content accounts for the disparity between plain and fancy text,
+the latter defined as "text representation consisting of plain text plus added
+information" [@unicode_consortium_unicode_1990]. The explication of such thick
+content requires thick description, replete with material detail which
+acquires tactical significance in practice. The text that edits itself or one
+that collects its own fees necessitates new formalisms and new strategies of
+interpretation.
 
 The familiar paper paragraph structure already presents several interesting
 problems for analysis. In claiming typographical space on a page the paragraph
@@ -461,7 +462,7 @@ Wittgenstein's logical mechanisms in the last chapter, Ransom imagines a
 perfected kind of a machine or a formula that represents the ideal of the
 aesthetic object.
 
-## Strategies of Reading
+## Kernel or Shell
 
 The above notes on Plato and Hegel are not meant to present a definitive
 history of formalism in Western aesthetics. Rather, they point to series of
@@ -584,7 +585,7 @@ literary theory, manifesting at times under differing yet essentially related
 vocabularies. The emphasis on extrinsic shape logically leads to the poetics
 of affective reading of the kind that privileges apparent surface phenomena.
 The emphasis on intrinsic rules by contrast leads to a hermeneutics or an
-archeology of text, by which the critic's role becomes to discover the
+archaeology of text, by which the critic's role becomes to discover the
 non-apparent deep structural regularities. Most recently, that theoretical
 distinction between shape and formula has been negotiated in terms of depth
 and surface. Two types of reading become evident in this model. The

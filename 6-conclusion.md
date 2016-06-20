@@ -1,4 +1,4 @@
-# Conclusion: Towards the Practice of Computational Poetics
+# Conclusion: Human Grounds for Computation
 
 As I write these words, a receiver of a pacemaker implant fights for her right
 to access its software, in her words "to know what code is running inside my
@@ -80,7 +80,7 @@ What seems like a given, necessary, and *a priori* configuration of writing
 and reading implements---the keyboard, the hard drive, and the screen---is in
 essence an ad-hoc, historically contingent, and ultimately permeable system of
 information exchange. But to recover the sign in full we must enact a media
-archeology at all layers and sites of the inscription.
+archaeology at all layers and sites of the inscription.
 
 I am tempted to believe in conclusion, like others have before me, that I am
 on my way to enacting something like "machine phenomenology" or "systems
@@ -124,17 +124,17 @@ prepare an escape hatch through vegetative matter in advance of its pupation
 The literature of post-humanism privileges these moments of alien subjectivity
 because they destabilize an anthropocentric view of the world. What gets lost
 in the shifting of perspectives is the apparent contradiction at the very core
-of what the writer Dorion Sagan (rightly) calls "Gaia sciences"
+of what the writer Dorion Sagan calls the "Gaia sciences"
 [@uexkull_foray_2010, 12], the idea ascendant in diverse fields from literary
 studies to information theory and free-market economics, relegating meaning
 creation from the level of the subject to the level of complex system.
-Paradoxically, because Uexküll's model of communication makes meaning available
-only at the system level ("oak plus rain" or "bee plus flower"), it is never
-available to the subject itself (bees or flowers). The quest for alien
-semiotics leads only to, in Uexküll's own words, "mute interaction"
+Paradoxically, because Uexküll's model of communication makes meaning
+available only at the system level ("oak plus rain" or "bee plus flower"), it
+is never available to the subject itself (bees or flowers). The quest for
+alien semiotics leads to, in Uexküll's own words, "mute interaction"
 [@uexkull_foray_2010, 148], meaningful only from some vantage point outside of
-the system. The forest always "understands" more than the tree, the planet more
-than the forest, and so on, in a regression that can only conclude with
+the system. The forest always "understands" more than the tree, the planet
+more than the forest, and so on, in a regression that can only conclude with
 whole-universe monism: the One.
 
 In his essay on the subjective experience of bats, Thomas Nagel concludes that
@@ -199,8 +199,7 @@ Uexküll writes, "seemed to us to be the only objectively consistent factor
 […], but now we see that the subject controls the time of its environment"
 [@uexkull_foray_2010, 52]. The computational environment before us constitutes
 the grounds for all higher-level interpretive activity---from reading poetry
-to debugging code and diagnosing a patient. From the textual grounds of
+to debugging code or diagnosing a patient. From the textual grounds of
 human-machine interaction it then becomes possible to derive a poetics, in the
 sense of a study and an art of creating one's own time: prosody, meter,
 harmony, cadence, and syncopation.
-
