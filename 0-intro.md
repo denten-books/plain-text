@@ -817,21 +817,7 @@ alphanumerical keyboard switch, through copper and silicon, to liquid crystal
 and the floating gate, and on towards the reader and the community. It is but
 one of many possible passes through a cavernous black box.
 
-The passage from keystroke to pixel gives this book its shape. In the chapters
-to follow, our mobile phones and laptops will come fully into view as metaphor
-machines engendering ubiquitous simulation. The **first chapter** begins with
-an explication. What does it mean to turn a page, I ask, when neither the page
-nor the action of turning it correspond to their implied analogies? The
-analysis of the metaphor helps trace the intellectual history of
-human-computer interaction, a field which progressed from "conversational
-programming" to the "direct manipulation" paradigm shaped by theories of
-cognitive metaphor and immersive theater. The logic of "directness" leads to
-the rapidly developing field of brain-computer interfaces. The chapter
-concludes with a moment of speculative formalism, in which I consider the
-possibility of affective literature, of the kind that eschews language and
-representation.
-
-At the core of the book's **second chapter** lies the notion of a modernist
+At the core of the book's **first chapter** lies the notion of a modernist
 literary device, understood both as literary technique and a thought
 experiment about intelligent machines, directly connected to the birth of
 modern computing. A section on literary technique in the thought of Percy
@@ -845,6 +831,20 @@ What does it mean to read and to write for a machine? What about broken
 mechanisms of comprehension? At once a device and an algorithm, the Turing
 machine blurs the boundaries between software and hardware, code and content,
 intelligence and its imitation.
+
+The passage from keystroke to pixel gives this book its shape. In the chapters
+to follow, our mobile phones and laptops will come fully into view as metaphor
+machines engendering ubiquitous simulation. The **second chapter** begins with
+an explication. What does it mean to turn a page, I ask, when neither the page
+nor the action of turning it correspond to their implied analogies? The
+analysis of the metaphor helps trace the intellectual history of
+human-computer interaction, a field which progressed from "conversational
+programming" to the "direct manipulation" paradigm shaped by theories of
+cognitive metaphor and immersive theater. The logic of "directness" leads to
+the rapidly developing field of brain-computer interfaces. The chapter
+concludes with a moment of speculative formalism, in which I consider the
+possibility of affective literature, of the kind that eschews language and
+representation.
 
 Two rich intellectual histories collide in the **third chapter**: one, the
 material history of format as a concept in computer science and the other, the
@@ -888,7 +888,7 @@ software engineer or a legal professional, and something entirely different to
 a librarian, I argue in the conclusion of the chapter. It matters not what the
 medium is, but what we can do with the text.
 
-The **fifth chapter** begins with a discussion of an apparent paradox. A camp
+The **fifth and final chapter** begins with a discussion of an apparent paradox. A camp
 of media theorists and textual scholars in the 1990s conceived of electronic
 texts as an ephemeral, almost immaterial, phenomenon. Text shimmered and
 glared: it was spoken of in terms of *hypertext*, light writing, and
@@ -914,28 +914,19 @@ The chapter identifies a milestone in the history of human textuality: the
 moment at which the inscription passed from view, giving rise to the sometimes
 conflicting but nevertheless consistent accounts of digital textuality.
 
-The **sixth and final chapter** looks to the site of storage to find the media
-"homes" that house vast archives of our private media collections. It begins
-with a close reading of Beckett's *Krapp's Last Tape*. Krapp makes yearly
-audio recordings of himself, only to revisit them and to enter into a sort of
-dialog with his own voice from the past. I posit this archival encounter as
-Krapp's "media being" and suggest that such encounters are commonplace.
-Writers and book collectors regularly deposit "snapshots" of their
-consciousness into books and onto bookshelves. Jean-Paul Sartre's idea of an
-"appointment with oneself" helps to reveal this external construction of
-files, folders, and library furnishings as cognitive extension, in need of
-delicate pruning and arrangement. In this light, I show that documents exist
-not as completed works, but as "vectors" that mutate and move through time and
-space.[^ln-wark] I ask: What is being externalized, communicated, and
-preserved? And answer: It is not simply a message, but the subject itself. A
-close reading of the "home" folder, the default location of personal files on
-many systems, concludes with a discussion about our media homes. Finally, I
-return to the theme of displacement, arguing for a mode of inhabitance within
-media that is uncanny or un-homed [*Unheimliche*], contrary to discourse that
-speaks in terms of "digital natives" and those who are "born digital." I build
-on the immigrant poetics of Flusser and Franz Fanon to suggest a kind of
-information processing that necessitates a purposeful movement between the
-polarities of settlement and expatriation.
+***
+
+Our challenge today lies in escaping the quietly smothering embrace of
+automation, a multitude of microscopic prosthetics that in aggregate exert an
+enormous pressure on the mind's centers of pleasure and satiation. A quietude
+descends on the dwellings of our intellectual life. The digitally displaced
+hold on to the discomfort of the encounter with the machine. Estrangement,
+always at the heart of immigrant or queer poetics, reconciles without seeking
+wholeness or integration. I dedicate this book then to queers and immigrants,
+literal and figurative---spatial, literary, technological---to those being
+displaced unwillingly, to those exiled within and without, to those who
+understand the need for self-displacement, to those who transgress
+purposefully, and to those who continue to trespass.
 
 <!--- NOTES  --->
 <!--- NOTES  --->

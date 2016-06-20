@@ -39,8 +39,7 @@ mechanization of thought. In the name of comfort, safety, and prolonged life,
 Moreno continued, technocracy disempowers the very subjects whose lives it
 claims to preserve. The zootechnical animal exchanges the human capacity for
 self-determination for the promised certainty of a better future. The eugenic
-dreamer and the technological dreamer, Moreno wrote, have this one idea in
-common:
+dreamer and the technological dreamer have this one idea in common:
 
 > to substitute and hasten the slow process of nature. Once the creative
 > process is encapsulated in a book it is *given*; it can be recapitulated
@@ -951,22 +950,20 @@ lecture, and therefore that lecture will have to be somewhat parenthetical.
 For it is not good my getting the rest to agree to something that Turing would
 not agree to" [@wittgenstein_wittgensteins_1976, 67-68].
 
-<!-- use the segway to make the connection explicit -->
-
-One expects Turing's seminal paper HE PUT FORWARD THE IDEA OF TURING MACHINE
-on computable numbers to contain a strictly technical discussion in the narrow
-field of number theory. Instead, we encounter a number of surfeit features
-that do not fit neatly into mathematics. These account for the perplexing
-undercurrent of cognitive theory always present in Turing's writing. His
-machines "think," they are "aware," and they "remember," where his humans
-"calculate" and "compute." The cognitive language reflects the heritage of
-Wittgenstein's thought, concerned more broadly with theory of mind and the
-passage of inscription into understanding.  Turing's machine thinks in a
-particularly literate way: by ingesting and regurgitating symbols. Turing
-inherits these traits from Wittgenstein's menagerie of comprehension automata
-in various states of disrepair. In the wilderness of Wittgenstein's thought he
-locates the concise coordinates for a universal mechanism, placed at the
-liminal space between thing and symbol.
+One expects Turing's seminal paper on computable numbers, where he first
+proposed his universal computing machine, to contain a strictly technical
+discussion in the narrow field of number theory. Instead, we encounter a
+number of surfeit features that do not fit neatly into mathematics. These
+account for the perplexing undercurrent of cognitive theory always present in
+Turing's writing. His machines "think," they are "aware," and they "remember,"
+where his humans "calculate" and "compute." The cognitive language reflects
+the heritage of Wittgenstein's thought, concerned more broadly with theory of
+mind and the passage of inscription into understanding.  Turing's machine
+thinks in a particularly literate way: by ingesting and regurgitating symbols.
+Turing inherits these traits from Wittgenstein's menagerie of comprehension
+automata in various states of disrepair. In the wilderness of Wittgenstein's
+thought he locates the concise coordinates for a universal mechanism, placed
+at the liminal space between thing and symbol.
 
 The Turing machine mediates in the metaphoric transference from intrinsic
 "hard" states to their extrinsic "soft" representations. Like its predecessors
@@ -1001,8 +998,6 @@ interiority, by which the actions of a mechanism (hammering, in our case) can
 be traced into its notational equivalents (instructions for hammering). The
 contemporary idea of a "smart" hammer, or any other smart thing for that
 matter, presupposes a system of symbolic exchange within the instrument.
-
-<!-- consider expanding here -->
 
 Once assimilated in this way, symbols are amenable to grammatical
 transformation. The Turing machine unfolds the logic of tool use, that is, the
@@ -1217,29 +1212,29 @@ transmission of intelligence:
 > printed mechanism responsive for the combined action
 > [@bumstead_telegraphy_1916, 12-13].
 
-<!-- too much quoting, paraphrase into my own language -->
-
 What began as a description of a mechanism for information transmittal, ended
 with a claim about hermeneutics of control. Starting with clause 14, the
-brothers describe "a telegraph system" capable of "transmitting impulses" at
+brothers describe a telegraph system capable of transmitting impulses at
 varying time intervals. In the language of the patent, the length of a time
 interval "represents significance," involving an automated receiver
 responsible for "distributing, interpreting, and recording." The printing
-mechanism is further "arranged to print the interpretation of the signals
-which is made by the interpreting relays" [@bumstead_telegraphy_1916, 6]. The
-interpreting relays transform time intervals into "typographical form"
-representing "a letter, a figure, or other characters," "in accordance with a
-code" [@bumstead_telegraphy_1916, 13]. Initially, the telegraph "interprets"
-with the aim of "transmitting intelligence."
+mechanism is further "arranged to print the interpretation of the signals.
+[@bumstead_telegraphy_1916, 6]" The interpreting relays thus transform time
+intervals into typography, representing letters, figures, and other
+characters, in "accordance with code" [@bumstead_telegraphy_1916, 13].
+Initially, the telegraph "interprets" with the aim of "transmitting
+intelligence."
 
-The authors understood that the length of the transmitted time interval could
-also signify information used to actuate a variety of devices. By the middle
-of the patent, the brothers begin to refer to their invention in terms of a
-"controlling medium," capable of operating everything from typesetting
-machines to more general "sunflower switches." "Indeed the detector and the
-interpreting relay could be made to actuate a set of sunflower switches for an
-indicator without including a printer at all," they conclude
-[@bumstead_telegraphy_1916, 12].
+Subsequently, the authors understood also that the length of the transmitted
+time interval could also signify information used to actuate a variety of
+devices. By the middle of the patent, the brothers begin to refer to their
+invention in broad terms as a "controlling medium," capable of regulating
+remotely everything from typesetting machines to generic sunflower switches.
+"Indeed the detector and the interpreting relay could be made to actuate a set
+of sunflower switches for an indicator without including a printer at all,"
+they conclude [@bumstead_telegraphy_1916, 12]. What starts out as a
+communication device, by the end of the patent is generalized into a universal
+control mechanism.
 
 Driven by ticker tape and connected to a printer the automated telegraph
 contained all the necessary features of a Turing machine: a discrete symbolic
@@ -1328,20 +1323,17 @@ application may allow the photographer to crop the image while another may not
 [@manovich_there_2011, 151]. From this property-determining aspect of software
 (and in reference to the work of Alan Kay), Manovich derives the concept of
 *metamedia*, "a medium that can dynamically simulate the details of any other
-medium" [@manovich_there_2011, 105-6].  <!-- paraphrase here --> "Interactive
-software adds a new set of operations which can be applied to all media, which
-we as users experience as their new 'properties'," he writes. The properties
-of such new media vary according to the software used to simulate it
-[@manovich_there_2011, 150-1].
+medium" [@manovich_there_2011, 105-6]. Software defines the properties of
+digital manipulation, determining the physics of all higher-order media it
+simulates [@manovich_there_2011, 150-1].
 
-Kittler, would perhaps object that chip architecture still determines, as
-base, all higher levels of representation "floating" above the silicon
-bedrock. Manovich's observations hold true for all simulated media, but not
-for computation itself. In opening a series of nested software black boxes,
-the post-silicon writer and scholar of software hits the impenetrable casket
-of chip architecture. The hardware that gives rise to the simulation is not in
-itself a simulation. The base medium ultimately determines the properties of
-software, its derivative meta-medium.
+Kittler, would perhaps object that all such higher-order, simulated physics
+rest on the bedrock of silicon. In opening a series of nested software black
+boxes, the post-silicon writer and scholar of software hits the impenetrable
+casket of chip architecture. Manovich's observations hold true for all
+simulated media, but not for the simulation itself; hardware that gives rise
+to the simulation is not in itself a simulation. The base medium ultimately
+determines the properties of software, its derivative meta-medium.
 
 Wittgenstein's thought experiments do not let us fall definitively into the
 software or hardware camp. The Turing machine remains in flux, within the
@@ -1411,15 +1403,6 @@ depending on the reader's race, gender, ethnicity, geography, or political
 affiliation. Who authors or authorizes these transformations? Were a book also
 a pill or fused with the neural circuitry of the brain, would you know what
 and whom you were reading?
-
-Under these conditions, it becomes increasingly more difficult to "hold away"
-and to grasp the epistemic object apart from the subject. Some may celebrate
-this moment as a triumph over Cartesian dualism, the deserved decline of
-humanism, or the rightful attendance of an ontology oriented towards objects.
-This line of reasoning ignores the consequences of an intensifying fetishism
-and alienation from the material contexts of knowledge production. We know not
-where to look for the sites of inscription nor what passes in the
-transformation of signal into thought.
 
 <!-- notes -->
 <!-- notes -->
