@@ -1,7 +1,9 @@
 # Graduate Student Assistants
 
-    Phil Polefrone (Summer 2015)
+    Phil Polefrone
     Emily Furhman
+    Ratik Asokan
+    Siddhartha Lokanandi
 
 # Readers
 
