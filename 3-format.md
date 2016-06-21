@@ -3,40 +3,42 @@
 ## Digital Formalisms
 
 Text shapes the human body in strange ways. After a lifetime of reading
-shoulders acquire a stooped countenance, as if the book was exerting pressure
-against the solar plexus. Eyesight deteriorates through continual exertion.
-Tendons and other supporting structures in the wrist swell from the repetitive
-stress of striking keys, working against the resistance of the mechanical
-letter. The word takes its toll. A further profound change happens when we
-read and write along with the machine. As we interpret it, it interprets us.
+shoulders begin to stoop as if books were exerting pressure against the solar
+plexus. Continual exertion deteriorates eyesight. Tendons and other supporting
+structures in the wrist swell from the repetitive stress of striking keys. The
+word takes its toll. A further profound change happens when we read and write
+along with the machine. As we interpret it, it interprets us.
+
 Machine learning algorithms track the speed by which readers advance from
 paragraph to paragraph, creating a "fingerprint" that points to markers of
 gender, age, race, ethnicity, and economic status. Algorithmic agents follow
-the movement of the eye and finger to direct the reader's attention and to
-understand how the human brain makes connections between topics. Heat maps are
-drawn to represent the dynamics of boredom, fatigue, focus, and desire.
-Supervised training algorithms use our collective philological
-output---sorting and commenting---to learn how to classify information
-autonomously and to curate content that better suits our predilections. Deep
-neural networks mimic the brain to build models of human behavior. These
-models are notoriously difficult to interpret as they are not themselves meant
-for human comprehension [@andrews_survey_1995; @karim_x-trepan:_2015]. A vast
-archive of texts written by machines and for machines supports the tiny by
-comparison corpus of human-compatible literature.
+the movement of eye and finger to direct the reader's attention, and to
+understand how the human brain connects topics. Heat maps are drawn to
+represent the dynamics of boredom, fatigue, focus, and desire. Supervised
+training algorithms use our collective philological output---sorting and
+commenting---to classify information autonomously and curate content suited to
+our predilections.
+
+Deep neural networks mimic the brain to build models of human behavior. These
+models are notoriously difficult to interpret as they are not *intended* for
+human comprehension [@andrews_survey_1995; @karim_x-trepan:_2015]. A vast
+archive of texts written by and for machines supports the tiny, in comparison,
+corpus of human-compatible literature.
 
 Despite its formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
-Instead, we erroneously consign it to the ornamental "formatting" layer of
-document structure. We do so at our peril. More intrusive than passive
-decorative elements like fleurons, daggers, and pilcrows, the programmatic
-sign actively molds text to context. At the maximally blunt limit of its
-capabilities, format governs access. For example, a command can selectively
-render some words and sentences visible on the screen while suppressing
-others. The ability to hide text from view completely or to make it so small
-as to be illegible affects not just the style but the politics of text. Code
-determines its audience, privileging certain voices and modes of reading over
-others. It is in the sense of audience selection that the programmatic sign
-acquires its non-representational, tactical character. Stripped of references,
+Instead, we consign it to the ornamental "formatting" layer of document
+structure. We do so at our peril. Unlike passive decorative
+elements---fleurons, daggers, and pilcrows---the programmatic sign actively
+molds text into context. Words are arranged in space.
+
+At the maximally blunt limit of its capabilities, format governs access. For
+example, commands can render some words and sentences visible on the screen
+while suppressing others. The ability to hide text from view completely or to
+make it so small as to be illegible affects not just the style but the
+politics of text. Code determines its audience, privileging certain voices and
+modes of reading. In this sense, the programmatic sign acquires its
+non-representational, tactical character. Stripped of references,
 resemblances, and designations the programmatic sign commands and
 controls.[^ln3-bdrld]
 
@@ -53,139 +55,126 @@ physical restraint. A restraining order *signifies* the calling forth of
 codified power. Physical restraints like handcuffs *enact* the exercise of
 codified power. Like all violence they do not stand for anything. The
 handcuffs simply contort the body into the shape of submission. Absent a body,
-the restraints draw an empty shape. Code acts similarly to shape the word.
+the restraints draw an empty shape. Code similarly shapes the written word.
 Located somewhere between the screen and the storage medium, formats relate
 matter to content. They are techniques by which immanent inscription, the
 electromagnetic charge, is transformed into transcendent digital objects:
 novels, songs, films, or poems. Formatting imposes structure.
 
-Think of a paragraph, for example. By convention, writers use paragraphs to
-break up the flow of monolithic thought on a page. The paragraph contains
-information. Can one imagine an empty paragraph? Could the shape of a
-paragraph persist outside of the material confines of a page or screen? Can
-one imagine paragraphs that unfold spatially not in two dimensions, but in
-one, along a straight line?  What about a structure of words and sentences
-that extends into the third dimension: a paragraph in the shape of a cube,
-instead of a rectangle? These questions boggle the mind because paragraphs
+Think of a paragraph, for example. Writers use them to break up the flow of
+thoughts on a page. Paragraphs contain information. Can one imagine an empty
+paragraph? Could the shape of a paragraph persist outside of the material
+confines of a page or screen? Can one imagine paragraphs that unfold spatially
+not in two dimensions, a rectangle, but in one, along a straight line, or in
+three, in the shape of a cube? These questions confound because paragraphs
 draw a singular figure. They are a textual container of a type. Any other
-shape less or more than the paragraph would go by another name; it would
+shape less or more than the paragraph would go by another name, would
 constitute another format. To imagine something like a one-dimensional
-paragraph is akin to imagining a flat shoebox. A flat shoebox would no longer
-hold shoes. It could contain only the images of footwear. A paragraph
-identifies a similarly singular arrangement of elements. It is a container or
-a data structure of a kind, made to hold a certain amount of words and
-sentences. We may liken paragraphs, words, and sentences to nesting dolls:
-data structures that contain within them further, smaller arrangements of
+paragraph is akin to imagining a flat shoebox. A flat shoebox cannot contain
+shoes. It can hold only images of footwear. A paragraph embodies a similarly
+singular arrangement of elements. It is a container or a data structure of a
+kind, made to hold a certain amount of sentences.
+
+We may liken paragraphs, words, and sentences to nesting dolls: data
+structures that contain within them further, smaller arrangements of
 information: a word fits inside of a sentence, the sentence within a
 paragraph, the paragraph within a chapter, the chapter within a book, the book
 within an archive, and so on.
 
-One could say, what of such arrangements? Who cares about the shape of
-paragraphs? They are merely one type of a container among many. They perform
-only the instrumental function to help get the point across. The meat of
-interpretation lies in the content within. Words can also be packaged
-otherwise. The outer container is disposable and therefore insignificant.
-
-Formats could only seem insignificant in the past when they were few, simple,
-and consistent across media. The book or the broadsheet newspaper are known
-entities: we understand how they are made and how to unfold them in space.
-Computational formats change rapidly and proliferate. They contain further, as
+Formats like the book or the broadsheet newspaper are known entities: we
+understand how they are made and how to unfold them in space.  Computational
+formats, by contrast, change rapidly and proliferate. They contain further, as
 yet unexplored structural possibilities: shapes like the paragraph on paper,
 but native to new media. What you saw is what you got on the page. On the
-screen, what you see is but a small part of what you could get. We are
+screen, what you see is but a small part of what you could get.  We are
 presented with *thick content*, beyond the visible image, the composite of all
-the stuff that is contained within the three-dimensional page. In print,
-content can be gleaned from the surface; there is nothing but surface on a
-page. The screen is a laminate. Light and liquid crystal---the preferred media
-for contemporary text---surge between the substrates in response to electrical
-signal. Screen surfaces conceal further strata of codification, inscribed onto
-recondite planes of inscription: hard disks, solid state drives, platters,
-drums, memory sticks, layers of copper and oxide.
+that is contained within the three-dimensional page. In print, content can be
+gleaned from the surface; there is nothing but surface on a page. The screen
+is a laminate. Light and liquid crystal---the preferred media for contemporary
+text---surge between the substrates in response to electrical signal. Screen
+surfaces conceal further strata of codification, inscribed onto recondite
+planes of inscription: hard disks, solid state drives, platters, drums, memory
+sticks, layers of copper and oxide.
 
 A byte, made up of eight binary bits, holds a letter. The string of letters
 spelling out "hello world," as I have mentioned previously, occupies eleven
 bytes on the hard drive: ten bytes for the letters and one byte for the space
 character. A file in the Portable Document Format (PDF) containing the same
-"hello world" takes up 24,335 bytes on my system. What is the nature of the
-information added to text?  Historically, such data included machine
-instructions for the viewing and printing of text along with cypher codes used
-for clandestine communication. The PDF specification describes features that
-include "accessibility of content to those with disabilities," "digital
-signatures to certify authenticity," "electronic forms to gather data,"
-"preservation of document fidelity independent of the device, platform, and
-software," and "security and permission to allow the creator to retain control
-of the document and associated rights" [@iso_portable_2008, vii].
+"hello world" takes up 24,335 bytes on my system. What sort of information do
+these extra bytes contain? Historically, such data has included machine
+instructions for the viewing and printing or even clandestine cyphers. The PDF
+specification describes features that include "accessibility of content to
+those with disabilities," "digital signatures to certify authenticity,"
+"electronic forms to gather data," "preservation of document fidelity
+independent of the device, platform, and software," and "security and
+permission to allow the creator to retain control of the document and
+associated rights" [@iso_portable_2008, vii].
 
 These capabilities mediate between visible image and stored information: one
 surface facing the human, the other, the machine. The formatting layer
 specifies the *affordances* of electronic text. More than passive conduits of
 meaning, electronic texts thus carry within them rules for engagement between
-authors, readers, and devices. In our example, the Portable Document Format
-encodes among other things ideas about "reading," "authenticity," "fidelity,"
-"preservation," and "authorship." Whatever literary-theoretical framework the
-reader brings to the process of interpretation must therefore meet the
-affordances encoded into the electronic text itself. Such an encounter happens
-not on the level of representation or ideology, but on the level of the
-physical, the phatic, and the imperative, where formatting and control codes
-reside. Thick content accounts for the disparity between plain and fancy text,
-the latter defined as "text representation consisting of plain text plus added
-information" [@unicode_consortium_unicode_1990]. The explication of such thick
-content requires thick description, replete with material detail which
-acquires tactical significance in practice. The text that edits itself or one
-that collects its own fees necessitates new formalisms and new strategies of
-interpretation.
+authors, readers, and devices. In our example, the PDF encodes among other
+things ideas about "reading," "authenticity," "fidelity," "preservation," and
+"authorship." Whatever literary-theoretical framework the reader brings to the
+process of interpretation must therefore meet the affordances encoded into the
+electronic text itself. Such an encounter happens not on the level of
+representation or ideology, but on the level of the physical, the phatic, and
+the imperative, where formatting and control codes reside. Thick content
+accounts for the disparity between plain and fancy text.[^ln3-fancy] The
+explication of such thick content requires thick description that draws on
+material particulates. These further acquire tactical significance in
+practice: the text that edits itself or one that collects its own fees
+necessitates new formalisms and new strategies of interpretation.
 
 The familiar paper paragraph structure already presents several interesting
-problems for analysis. In claiming typographical space on a page the paragraph
-suggests corresponding mental units. A unit of text becomes also a unit of
-thought. But no such structures as paragraphs exist in the mind.
-Physiologically, the brain arranges information hexagonally, along the
-entorhinal grid [@stensola_entorhinal_2012].
+problems for analysis. A paragraph, we intuitively believe, corresponds to a
+unit of thought. But there is nothing inherently paragraph-like in the neural
+arrangement of thoughts in our brains. Physiologically, the brain arranges
+information in hexagons, along the entorhinal grid
+[@stensola_entorhinal_2012]. There is also nothing inherently paragraph-like
+in the arrangement of bits along the surface of electromagnetic storage.
+Formats thus translate between disparate systems of ordering and
+signification.[^ln3-symbolisms] We are presented with metaphors of order on
+the screen: paragraphs, pages, files, and folders. These resemble their paper
+counterparts, but they represent other, less familiar and nonequivalent
+ordering structures on disk.
 
-![Forms and formats.](images/forms.png)
+![Data structures in the brain, on a page, on disk.](images/forms.png)
 
-Just like there is nothing inherently paragraph-like in the neural arrangement
-of neurons in the brain, there is also nothing inherently paragraph-like or
-page-like in the arrangement of bits along the surface of electromagnetic
-storage. The format translates between disparate systems of ordering and
-signification.[^ln3-symbolisms] We are at the moment presented with metaphors
-of order on the screen: paragraphs, pages, files, and folders. These resemble
-their paper counterparts, but they represent other, less familiar ordering
-structures on disk. These ways of ordering are not equivalent to each other.
-They imply differing possibilities and affordances. Formats mediate between
-data structures, transforming one into the other according to predefined
-rules. The projection---content arranged on the screen---represents mental
-image---information stored in the head---which becomes
-inscription---information stored in the machine. The complexity of the
-transformation stems from the fundamental incompatibility between what the
-media scholar Alexander Galloway calls "incommensurate physicalities.
-[@galloway_interface_2012, viii]" Format specifications govern the
-transference of data structures from one medium into the other, at the point
-of contact between human, symbol, and machine.
+Formats mediate between data structures, transforming one into the other
+according to predefined rules. Mental image, information stored in the head,
+becomes inscription, information stored in the machine, which turns into a
+projection, content arranged on the screen. The complexities of the
+transformation stem from the fundamental incompatibility between what the
+media scholar Alexander Galloway calls "incommensurate physicalities
+[@galloway_interface_2012, viii]" between human and machine. Format
+specifications govern the transference of data structures from one medium into
+the other, at the point of contact between human, symbol, and machine.
 
 [^ln3-symbolisms]: See @wittgenstein_philosophical_1974, 45.
 
 In this chapter I would like to move us towards a systematic study of format.
-The history of formalism, as I will outline it in the next few sections,
-contains within it at least these two contradictory intuitions about the
-nature of literary form. Going back to the reception of Plato, Hegel, and the
-Russian formalists, the English "form" renders at times the material, outward,
-and apparent shape of something said, written, or pictured. Yet just as often,
-critics use "form" in the sense of a Platonic ideal: abstracted from matter,
-inward-facing, and in need of explication. Form in that sense is closer to the
-idea of an algorithm or formula: it signifies according to implicit rules.
+The history of formalism, as I will argue, contains within it at least these
+two contradictory intuitions about the nature of literary form. Going back to
+the reception of Plato, Hegel, and the Russian formalists, the English "form"
+renders at times the material, outward, and apparent shape of something said,
+written, or pictured. Yet just as often, critics use "form" in the sense of a
+Platonic ideal: abstracted from matter, inward-facing, and in need of
+explication. Form in the latter sense is closer to the idea of an algorithm or
+formula: it signifies according to implicit rules.
 
-Here, I would like to augment these two senses of form with a third,
-introducing the concept of format into the critical discourse. In the process,
-we will observe formats develop from simple machine instructions for
-typographical layout to complex meta-literary directives related to the
-protection of intellectual property rights, constraints on speech, trade
-agreements, the politics of surveillance, and clandestine communication. The
-intellectual history of form drawn from the annals of literary theory will
-meet the material history of format drawn from computer science in the second
-half of the chapter. The chapter ends with the notion of a "smart document,"
-an increasingly common instrument of record capable of policing its own
-encoded rules of reader engagement: what can be read, how, and where.
+I would like to augment these two concepts of form with a third, format. In
+the process, I will show how formats have developed from simple machine
+instructions for typographical layout into complex meta-literary directives
+related to the protection of intellectual property rights, constraints on
+speech, trade agreements, the politics of surveillance, and clandestine
+communication. The intellectual history of form drawn from the annals of
+literary theory will meet the material history of format drawn from computer
+science in the second half of the chapter. The chapter ends with the notion of
+a "smart document," an increasingly common instrument of record capable of
+policing its own encoded rules of reader engagement: what can be read, how,
+and where.
 
 ## Concrete and Universal
 
@@ -1601,5 +1590,9 @@ model.
 [^ln3-w3c]: The International Standards Organization (ISO) in the case of OSI,
 the Internet Engineering Task Force in the case of TCP/IP, and the World Wide
 Web Consortium (W3C) in the case of the DOM.
+
+[^ln3-fancy]: The Unicode Consortium defines fancy text as "text
+representation consisting of plain text plus added information"
+[@unicode_consortium_unicode_1990].
 
 \newpage
