@@ -882,54 +882,71 @@ structure all contemporary digital documents. The following case studies from
 the history of formats help us understand how the above theoretical principles
 are instantiated in practice.
 
-*EDIT* was one of the first text editors, designed for the GE635 36-bit
+EDIT was one of the first text editors, designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968. I look to its blueprints to
 recover a model of document structure. "The publication editor is divided into
-three related sections," wrote one of the system's engineers. These included
-the "facility" for "document layout," "editing," and "printing"
-[@kaiman_computer-aided_1968, 66]. The "layout," in Kaiman's vocabulary,
-contains such things as justification, indentation, and spacing.  These
-"primitive requests" can be combined to describe more complex "structures of
-the printed text." The creators of *QED*, another influential early text
-editor (created for the SDS-930 time-sharing system at Berkeley) similarly
-encouraged the writer "to think in terms of structure" of the text.  *QED* and
-*EDIT* were some of the first text editors to separate notions of "content"
-and "formatting," which were meant to be recombined later and imprinted onto
-external storage media.  Kaiman explains that "the user types the document
-layout file and the text file, then produces a proof or master copy of the
-text by printing the text according to the directions of the layout file. The
-text file contains layout marks to be interpreted by the layout file." "Text,"
-in this schema, constitutes content meaningful only to the user, whereas
-layout contains some elements meaningful to the human and some elements as
-code instructions intended for device control. Crucially: "no document text
-may appear in the layout file" [@kaiman_computer-aided_1968, 66-8]. Layout in
+three related sections," wrote Arthur Kaiman, one of the system's engineers.
+These included the "facilities" for "document layout," "editing," and
+"printing" [@kaiman_computer-aided_1968, 66]. "Layout," in the language of
+*EDIT*, facilitates the justification, indentation, and spacing of text. "The
+user types the document layout file and the text file," Kaiman explained,
+"then produces a proof or master copy of the text by printing the text
+according to the directions of the layout file. The text file contains layout
+marks to be interpreted by the layout file. [@kaiman_computer-aided_1968, 66]"
+"Text," in this schema, constitutes content meaningful only to the user,
+whereas layout contains some elements meaningful to the human and others
+intended for machine instruction. Crucially, "no document text may appear in
+the layout file," Kaiman wrote [@kaiman_computer-aided_1968, 67-8]. Layout in
 that sense asks the human editor to make a distinction between semantic and
 spatial units: words and their coordinates. These two separate streams of data
 are then stored in two discrete locations, in effect embodying the dichotomy
-between format and content.
+between form and content.
 
 ![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
 
-The same distinction can be observed in FORMAT and TROFF, both early and
-influential text processors developed in the 1960s-1970s. IBM's FORMAT text
-program, written in FORTRAN IV for OS/360 devices in 1968, discusses
-formatting in terms of "text control." "All input to FORMAT is free-form, in
-that there are no positional constraints," the author of the program writes
-[@berns_format_1968, 85; @berns_description_1969, 141]." Text control under
-the FORMAT model was limited to several "command words" that included "P" for
-"begin new paragraph," "T" for "tab," and "A" for "print 'as is', maintaining
-spacing of the input" [@berns_description_1969, 141]. EDIT also had the
+The creators of QED, another influential early text editor (created for the
+SDS-930 time-sharing system at Berkeley) similarly encouraged the writer to
+separate the "input stream" from its layout instructions. A sequence of
+reserved characters was "interpreted as directives to the stream" and "editor
+commands." These included sequences like `A` for append at a specified
+address, `D` for delete, and `S` for substitute [@ritchie_qed_1970]. Given
+that control characters A, D, and S are also a part of the input stream, the
+writer prefaced control commands with the aptly named control key. Thus,
+pressing the control key together with `D` would result in the deletion of the
+selected line. "Control characters do not have any printed characters normally
+associated with them," the manual explained [@angluin_reference_1968, 1-2].
+The writer could also enter the "command mode," in which the editor recognized
+nothing but machine instructions. By these means, the text and the layout
+instructions could occupy different "buffers" on the screen, which would then
+be combined together for printing operations [@angluin_reference_1968, 3-1].
+
+Separate from the aims of text editors like EDIT and QED, a text formatter was
+meant to further arrange the text spatially. To the small number of editing
+instructions, the formatter added instructions for typesetting: size,
+position, stroke width, transparency. The authors of IBM's FORMAT program,
+written in FORTRAN IV for OS/360 devices in 1968, explained that "all input to
+FORMAT is free-form," in that it contained "no positional
+constraints.[@berns_format_1968, 85; @berns_description_1969, 141]." The
+FORMAT system enabled further instructions for "layout control," which
+included `P` for "begin new paragraph," `T` for "tab," and `U` for
+"underline." The FORMAT language contained also more complex "command
+operands" like "CAPITALIZE AUTOMATICALLY," "JUSTIFY THE TEXT," and "REPEAT THE
+TITLE ON EVERY PAGE. [@berns_description_1969, 141-2]" FORMAT also had the
 capability of building an index, in effect listing all the unique words in any
-given document, along with a rudimentary facility for search, or in its own
-words for "locating text words, phrases, and strings in the input stream"
-[@berns_format_1968, 91; @berns_description_1969, 145]. In another formative
-paper in the history of contemporary textuality, Brian Kernighan and Joseph
-Ossanna describe TROFF, a text processor written circa 1973 for the PDP-11
-outputting to Graphic Systems Cat typesetter. In 1979, Kernighan reports
-modifying the original program to produce output for a greater variety of
-typesetters. Kernighan explains, "TROFF produces its output in a
-device-independent form," and its output "must be processed by a drive for
-that device to produce printed output" [@kernighan_troff_1992]. Neither
+given document, along with a rudimentary facility for search, "locating text
+words, phrases, and strings in the input stream" [@berns_format_1968, 91;
+@berns_description_1969, 145].
+
+!["Portion of listing of input stream." The layout of paper citations in
+FORMAT [@berns_format_1968, 87].](images/format.png)
+
+In another formative paper in the history of contemporary textuality, Brian
+Kernighan and Joseph Ossanna describe TROFF, a text processor written circa
+1973 for the PDP-11 outputting to Graphic Systems Cat typesetter. In 1979,
+Kernighan reports modifying the original program to produce output for a
+greater variety of typesetters. Kernighan explains, "TROFF produces its output
+in a device-independent form," and its output "must be processed by a drive
+for that device to produce printed output" [@kernighan_troff_1992]. Neither
 program makes an ontological claim on the textual artifact. Rather, the idea
 of text independent of its medium and "free of form" is present in both
 specifications as matter of contingency. The writer enters text in one
