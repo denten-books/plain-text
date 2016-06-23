@@ -651,47 +651,49 @@ the "text's physical characteristics" of Hayles.
 
 If reading for sensory experience implies an erotics of art and reading for
 hidden formulae implies a hermeneutics, what would it mean to read for format?
-To borrow from Tanselle's vocabulary, the format bridges the "physical
-structure of finished books" with their "intellectual content." This
-connection happens through what he calls "printing-shop routines," which is
-what I identified as a technique for the transformation of ideas into
-inscription-things. Textual scholars have traditionally arbitrated in the
-conflict between divergent editions of the same text.[^ln3-printers] They
-reveal how works become texts and the other way around. It is in this sense of
-arbitration that C. Deirdre Phelps described the notion of physical form. When
-instantiating the ideal text into its concrete being, publishers introduce
-textual changes that may or may not correspond to either authorial intention
-or the reader's expectations. An inexpensive edition of Blake's poetry, for
-example, could be printed without illustrations to save costs, though we know
-his illustrations to be an integral part of the text. If all subsequent
-editions of Blake's poetry are lost, the textual critic would reconstruct its
-publication history in order to chart the genealogy of its development. "The
-textual critic," as Phelps wrote "is concerned mainly with the fact of the
-[textual] change itself. [@phelps_edition_1994, 65-6]"
+To borrow from Tanselle's vocabulary, formats bridge the "physical structure
+of finished books" and their "intellectual content." This connection happens
+through what he calls "printing-shop routines," which is what I identified as
+a technique for the transformation of ideas into inscription-things. Textual
+scholars have traditionally arbitrated in the conflict between divergent
+editions of the same text.[^ln3-printers] They reveal how works become texts
+and the other way around. It is in this sense of arbitration that C. Deirdre
+Phelps described the notion of physical form. When instantiating the ideal
+text into its concrete being, publishers introduce textual changes that may or
+may not correspond to either authorial intention or reader expectation.  An
+inexpensive edition of Blake's poetry, for example, could be printed without
+illustrations to save costs, though we know his illustrations to be an
+integral part of the text. Were all other editions of Blake's poetry lost,
+textual critics would reconstruct the texts' genealogy from extant remnants.
+They could, for example, infer the missing illustrations based on reception
+history. "The textual critic," Phelps wrote "is concerned mainly with the fact
+of the [textual] change itself. [@phelps_edition_1994, 65-6]" Reading for
+format thus involves a series of value judgements about what the text should
+be and what it is.
 
 [^ln3-printers]: See for example the discussion on the limits of the inductive
 method in bibliographic study in @mckenzie_making_2002, 16-17. See also
 @mcgann_socialization_1991; @tanselle_textual_1996.
 
 Different schools of textual criticism emphasize differing aspects of the
-publication process. Some privilege the notion of authorial intent, others
-publisher's discretion or the audience's expectations. Whatever these choices
-imply, they continue to determine value, in a process that separates those
-physical attributes meaningful to the work from those that are not. For
-example, in a contemporary online edition of Claude McKay's *Harlem Dawn*, the
-series' editors encoded for indentation, thus preserving the poems' visual
-line structure. However, they have also allowed for the text to wrap when
-viewed on small devices, in effect "soft wrapping" those lyrical lines that
-are too long to fit on a small screen [@mckay_harlem_2015]. The end result is
-a compromise between authorial intent and reader convenience. The layout
-respects line indentation but not line length.
+publication process. Some privilege the notion of authorial intent, others a
+tradition of reception. Whatever such choices imply, they continue to
+determine value, in a process that separates those physical attributes
+meaningful to the work from those that are not. For example, in a contemporary
+online edition of Claude McKay's *Harlem Dawn*, the series' editors encoded
+for indentation, thus preserving the poems' visual line structure. However,
+they have also allowed for the text to wrap when viewed on small devices, in
+effect "soft wrapping" those lyrical lines that are too long to fit on a small
+screen [@mckay_harlem_2015]. The end result is a compromise between authorial
+intent and reader convenience. The layout respects line indentation but not
+line length.
 
 Other solutions were possible, of course. The editors could have recreated an
 exact facsimile of a particular print edition, but that would not render well
 on small screens, due to the disparity in size between the printed page and
-the mobile device. Judgements about formatting are value judgements. In an
-extreme case, an editor could try to preserve all of a text's details, down to
-its molecular structure. Such a text could be accompanied by a potentially
+mobile device. Judgements about formatting are value judgements. In an extreme
+case, an editor could try to preserve all of a text's details, down to its
+molecular structure. Such a text could be accompanied by a potentially
 unlimited amount of metadata describing the precise physical contexts of the
 universe surrounding the authoritative version. To reproduce the text
 faithfully would also mean to reproduce the world around it. Contingent stains
@@ -700,21 +702,20 @@ pages inadvertently bound upside down, and other flaws are however usually
 discarded in reproduction. They are not seen as meaningful for the
 understanding of a text.
 
-In the case of a canonical text---Shakespeare's *King Lear*, for example---
-"format" belongs neither wholly to its physical medium (pixel or paper) nor to
-the ideational content of the work. Rather, it lies somewhere between the two
-worlds: in the shape of the letters, in the structure of the narrative, and in
-the patterns of stress and intonation of the spoken word. We do not quite know
-which of these elements belong to the content of the play and which are linked
-to the contingent material artifacts of the printing or staging process: the
-way the fonts look, for example, or the way lines break on the page. Some
-matters of format matter to readers (line breaks in poetry), while others
-usually do not (font kerning). Textual criticism reminds the literary theorist
-of the transition that happens between literary texts and literary works. It
-is always a fraught process, because a theorist's abstract beliefs must always
-be weighed against the material affordances of a concrete textual witness. A
-word or comma omitted, a forgotten line, cannot ever become a part of the
-meaning making processes. Format stands at the gates of hermeneutics.
+Format belongs neither wholly to a text's physical medium (pixel or paper) nor
+to the ideational content of the work. Rather, it lies somewhere between the
+two worlds: in the shape of the letters, in the structure of the narrative,
+and in the patterns of stress and intonation of the spoken word. We do not
+quite know which of these elements belong to the content of the play and which
+are linked to the contingent material artifacts of the printing or staging
+process: the way the fonts look, for example, or the way lines break on the
+page. Some matters of format matter to readers (line breaks in poetry), while
+others usually do not (font kerning). Textual criticism reminds the literary
+theorist of the transition that happens between literary texts and literary
+works. It is always a fraught process, because a theorist's abstract beliefs
+must always be weighed against the material affordances of a concrete textual
+witness. A word or comma omitted, a forgotten line, cannot ever become a part
+of the meaning making processes. Format stands at the gates of hermeneutics.
 
 [^ln3-remind]: See for example @shillingsburg_being_2006;
 @greetham_textual_1989.
