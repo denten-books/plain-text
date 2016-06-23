@@ -437,7 +437,7 @@ materialized," and is "working properly" [@ransom_concrete_1954, 387]. Like
 Wittgenstein, Ransom imagines a perfected kind of a machine, which represents
 the ideal of an aesthetic object.
 
-## Kernel or Shell
+## Format Theory
 
 The above notes on Plato and Hegel point to series of related folds and
 creases in the formalist tradition.  W.K. Wimsatt once observed that literary
@@ -647,7 +647,7 @@ they are. [@sontag_against_1966, 9]" Rather than show what a work of art
 [@sontag_against_1966, 10]. Form, as she saw it, mirrors McKeown's "shape" and
 the "text's physical characteristics" of Hayles.
 
-## Format Theory
+## Tactics of Reading
 
 If reading for sensory experience implies an erotics of art and reading for
 hidden formulae implies a hermeneutics, what would it mean to read for format?
@@ -813,37 +813,28 @@ it support book editing. It does however add the ability to translate words
 and passages and to search for selected phrases using the company's search
 engine [@_read_2016].
 
-Encoded ideas about intellectual property are a stark manifestation of
+Encoded ideas about intellectual property are another stark manifestation of
 inter-platform incompatibility. Whatever its comparative affordances, reading
 software always emulates the logic of ownership. To own a book electronically
 means to have access to the bits that bring the simulation of that book into
-existence. At some lower level of abstraction the variety of reading platforms
-rests on the same computational substratum. Both Amazon and Adobe books rely
-on the underlying capabilities of the personal computer. This hyper-media, as
-Lev Manovich calls it, at the base of all competing ebook formats, supports
-all simulacra, including the bibliographic [@manovich_software_2013]. Whatever
-it means to own a book, must involve manipulating bits on a hard drive. A
-common act of epistemic disobedience, to borrow a phrase from Walter Mignolo,
-therefore includes accessing the book bits directly, through channels not
-afforded by the publisher [@mignolo_epistemic_2009]. One can in this way
-disentangle the mechanisms of book ownership as defined by Amazon, from the
-book's "content" proper, by other definitions. The so called "ripping" of the
-Kindle book library involves reformatting individual books into other file
-formats which could hypothetically enable unfettered copying and circulation
-of the text, constrained by the original platform. The activity need not be
+existence. At some lower level of abstraction, however,  the variety of
+reading platforms rests on the same computational substratum. Both Amazon and
+Adobe books rely on the underlying capabilities of the personal computer. This
+hyper-media, as Lev Manovich has called it, lies at the base of all competing
+ebook formats [@manovich_software_2013]. Whatever it means to own a book on
+that level, must involve manipulating hardware states. A common act of
+epistemic disobedience, to borrow a phrase from Walter Mignolo, therefore
+includes accessing the book bits directly, through channels not afforded by
+the publisher [@mignolo_epistemic_2009]. One can in this way disentangle the
+mechanisms of book ownership as defined by Google or Amazon, from the book's
+"content" proper, by other definitions. The so called "ripping" of proprietary
+book libraries involves reformatting individual books into other file formats
+which could hypothetically enable unfettered copying and circulation of the
+text, not constrained by the original platform. The activity need not be
 illicit. The extraction of plain text from the Portable Document Format
-commonly constitutes the initial step in corpus analysis, natural language
-processing, and otherwise distant reading. We lend our books to friends, read
-them out loud with our students, and make backup copies for our home
-libraries.
-
-In each of the above examples, the reader confronts some aspect of formatting
-instrumentally, for a particular purpose like copying, analysis, or
-preservation. 
-
-<!-- Readers are doing what textual critics do, that is discrard the stuff
-they don't think is meaningful and extract content, which consitutes the stuff
-they care about. And that is the text in some sense. -->
+commonly constitutes the initial step in corpus-based natural language
+processing. Readers routinely "liberate" content in other ways as well: they
+lend books to friends, read them out loud, and make photocopies.
 
 These examples illustrate that unlike print, the electronic book is not a
 single format, but many. Software, governed by specific socio-economic
@@ -860,47 +851,50 @@ digital text changes on a monthly, if not daily, basis. A careful book history
 of electronic formats would reconstruct the meaning of the book in much
 shorter evolutionally stages to keep pace with the medium's rapid development.
 
-I am however also interested in a more systematic wholesale exposition of
-electronic document structure. Reading for format involves the deconstruction,
-both literal and figuratively historical, of the literary device. Where paper
-books present the reader with a limited number of known affordances tied to
-the medium of print, electronic books contain a virtually limitless and for
-the most part unexamined number of simulated affordances.  Whatever
-interpretive activity readers hope to enact at the level of textual
-representation, as when reading from a screen, is grounded in the deep
-material affordances of the simulated book. Further, the tasks of formatting
-are no longer the exclusive domain of the typesetter, the editor, or the
-textual scholar. A number of additional agents actively intercede in the
-transformation between the inscription---information on a disk---and its
-representation---pixels on the screen. These intercessions may be benign, as
-when the electronic book changes the layout of the text to fit a smaller
-screen when displaying text on mobile devices; or it may be totalizing as when
-a book platform is designed also to censor or to surveil its readers for
-commercial or political purposes. Reading for format reveals the structure of
-the transformation between media: the liquid crystal, the floating gate, and
-the entorhinal grid. The format governs and controls in the sense of shaping
-the encounter between otherwise incommensurate systems, hardware and
-wetware---storage, screen, and brain.
+In each of the above examples, the reader confronts some aspect of formatting
+instrumentally, for a particular purpose like copying, analysis, or
+preservation. In that sense, the lay reader engages with a task similar to
+that of a textual critic. In reading the book out loud or making a photocopy,
+readers make value judgements that distinguish those physical aspects of the
+book crucial to interpolation from those that are not.
 
-## New Section
+Reading for format explicitly, would similarly involve the deconstruction,
+both literal and figurative, of the textual laminate. Whatever interpretive
+activity readers hope to enact at the surface level of content is grounded in
+the deep material affordances of the book. The conflicted properties of
+electronic text entail the added burden of materialist poetics. Reading
+digitally one can no longer take the stability of print for granted. A number
+of agents intercede in the transformation between form and content, the
+inscription as information on a disk and its representation, as pixels on the
+screen. These intercessions may be benign, as when the electronic book changes
+the layout of the text to fit a smaller screen when displaying text on mobile
+devices; or it may be totalizing as when a book platform is designed also to
+censor or to surveil its readers for commercial or political purposes.
+Reading for format reveals the structure of the transformation between media:
+the liquid crystal, the floating gate, and the entorhinal grid. Formats govern
+and control in the sense of shaping the encounter between otherwise
+incommensurate media, hardware and wetware---storage, screen, and brain.
 
-A notion of a format underlies all contemporary digital documents. The history
-of format reveals a structure that emerges initially for the purposes of
-visual layout, developing into an active agent containing exactly the kind of
-"instructions for reading, viewing, and comprehending information" of the sort
-Drucker and McGann highlight in their work. With that insight at hand, I would
-like to spend the second half of this chapter on several case studies from the
-still unwritten history of document formatting. These case studies will help
-test our theoretical intuitions about form in practice. They serve also to
-convince the reader of the continual importance of textual criticism and
-format studies for the advancement of literary scholarship and more broadly
-for the politics of reading and interpretation at large. The formatting layer
-arbitrates between medium and inscription, page and word. It is arbitrary in
-the sense of imposing a number of contingent rules, preferences, and
-stipulations. It polices access to closed archives; it manages copy rights and
-borrowing privileges; it governs the flow of a sensor's ink. Format in that
-sense determines the available reading strategies, including the one of not
-reading at all.
+## Kernel and Shell
+
+Formats do not merely inform the tactics of reading, they are encoded into the
+structure all contemporary digital documents. The format reveals a
+structure that emerges initially for the purposes of visual layout, developing
+into an active agent containing exactly the kind of "instructions for reading,
+viewing, and comprehending information" of the sort Drucker and McGann
+highlight in their work. With that insight at hand, I would like to spend the
+second half of this chapter on several case studies from the still unwritten
+history of document formatting. These case studies will help test our
+theoretical intuitions about form in practice. They serve also to convince the
+reader of the continual importance of textual criticism and format studies for
+the advancement of literary scholarship and more broadly for the politics of
+reading and interpretation at large. The formatting layer arbitrates between
+medium and inscription, page and word. It is arbitrary in the sense of
+imposing a number of contingent rules, preferences, and stipulations. It
+polices access to closed archives; it manages copy rights and borrowing
+privileges; it governs the flow of a sensor's ink. Format in that sense
+determines the available reading strategies, including the one of not reading
+at all.
 
 ![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
 
