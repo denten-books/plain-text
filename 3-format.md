@@ -878,39 +878,24 @@ incommensurate media, hardware and wetware---storage, screen, and brain.
 ## Kernel and Shell
 
 Formats do not merely inform the tactics of reading, they are encoded into the
-structure all contemporary digital documents. The format reveals a
-structure that emerges initially for the purposes of visual layout, developing
-into an active agent containing exactly the kind of "instructions for reading,
-viewing, and comprehending information" of the sort Drucker and McGann
-highlight in their work. With that insight at hand, I would like to spend the
-second half of this chapter on several case studies from the still unwritten
-history of document formatting. These case studies will help test our
-theoretical intuitions about form in practice. They serve also to convince the
-reader of the continual importance of textual criticism and format studies for
-the advancement of literary scholarship and more broadly for the politics of
-reading and interpretation at large. The formatting layer arbitrates between
-medium and inscription, page and word. It is arbitrary in the sense of
-imposing a number of contingent rules, preferences, and stipulations. It
-polices access to closed archives; it manages copy rights and borrowing
-privileges; it governs the flow of a sensor's ink. Format in that sense
-determines the available reading strategies, including the one of not reading
-at all.
+structure all contemporary digital documents. The following case studies from
+the history of formats help us understand how the above theoretical principles
+are instantiated in practice.
 
-![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
-
-Describing *EDIT*, one of the first editors designed for the GE635 36-bit
-mainframe computers in use at Bell Labs in 1968, Arthur Kaiman wrote: "The
-publication editor is divided into three related sections, the document layout
-facility, the editing facility, and the printing facility"
+*EDIT* was one of the first text editors, designed for the GE635 36-bit
+mainframe computers in use at Bell Labs in 1968. I look to its blueprints to
+recover a model of document structure. "The publication editor is divided into
+three related sections," wrote one of the system's engineers. These included
+the "facility" for "document layout," "editing," and "printing"
 [@kaiman_computer-aided_1968, 66]. The "layout," in Kaiman's vocabulary,
-contains such things as justification, indentation, and spacing. These
+contains such things as justification, indentation, and spacing.  These
 "primitive requests" can be combined to describe more complex "structures of
 the printed text." The creators of *QED*, another influential early text
 editor (created for the SDS-930 time-sharing system at Berkeley) similarly
-encouraged the writer "to think in terms of structure" of the text. *QED* and
+encouraged the writer "to think in terms of structure" of the text.  *QED* and
 *EDIT* were some of the first text editors to separate notions of "content"
 and "formatting," which were meant to be recombined later and imprinted onto
-external storage media. Kaiman explains that "the user types the document
+external storage media.  Kaiman explains that "the user types the document
 layout file and the text file, then produces a proof or master copy of the
 text by printing the text according to the directions of the layout file. The
 text file contains layout marks to be interpreted by the layout file." "Text,"
@@ -922,6 +907,8 @@ that sense asks the human editor to make a distinction between semantic and
 spatial units: words and their coordinates. These two separate streams of data
 are then stored in two discrete locations, in effect embodying the dichotomy
 between format and content.
+
+![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
 
 The same distinction can be observed in FORMAT and TROFF, both early and
 influential text processors developed in the 1960s-1970s. IBM's FORMAT text
