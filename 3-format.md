@@ -713,9 +713,10 @@ page. Some matters of format matter to readers (line breaks in poetry), while
 others usually do not (font kerning). Textual criticism reminds the literary
 theorist of the transition that happens between literary texts and literary
 works. It is always a fraught process, because a theorist's abstract beliefs
-must always be weighed against the material affordances of a concrete textual
-witness. A word or comma omitted, a forgotten line, cannot ever become a part
-of the meaning making processes. Format stands at the gates of hermeneutics.
+must be continually weighed against the material affordances of a concrete
+textual witness. A word or comma omitted, a forgotten line, cannot ever become
+a part of the meaning making processes. Format stands at the gates of
+hermeneutics.
 
 [^ln3-remind]: See for example @shillingsburg_being_2006;
 @greetham_textual_1989.
@@ -727,25 +728,24 @@ conscious attention." At the same time, what the authors call the "holistic
 repleteness of images" also keeps us from perceiving their "conceptual order
 [...] as if the graphic character of the work were completely obvious"
 [@drucker_images_2010]. Their insight captures the dual movement of
-formatting: at once towards the physical characteristics of the text, and the
-mental characteristics of content. The reader understands the text as an idea,
-that takes shape in the mind. The book thus retreats from grasp, as Percy
-Lubbock wrote in *The Craft of Fiction* [@lubbock_craft_1921]. Subsequently,
-readers tend to treat text in a disembodied fashion---as surface
-rhetoric---reading past the material structures that support mental phenomena.
-As visual phenomenon, a unified image, the page presents itself in its
-entirety, at once, in what the Drucker and McGann call its "holistic
-repleteness." It is as if it was always so: these words were always in this
-order, at these coordinates. However, the printer and the book designer know
-the image to be a carefully constructed composite. They understand and can
-name the particulates of page composition invisible to the lay reader. Drucker
-and McGann conclude that "systems of graphic presentation are operational, not
-merely passive schematic structures [...] active agents for creating meaning,
-instructions for reading, viewing, comprehending information
-[@drucker_images_2010]. Choices were made, in other words, that would later
-affect meaning making. Apprehension precedes comprehension. The processes of
-interpretation have long began and in some cases concluded long before the
-reader laid eyes on the page.
+formatting: at once towards the physical and the mental characteristics of
+text, matter and content. The reader understands the text as an idea, that
+takes shape in the mind. The book thus retreats from grasp, as Percy Lubbock
+wrote in *The Craft of Fiction* [@lubbock_craft_1921]. Subsequently, readers
+tend to treat text in a disembodied fashion---as surface rhetoric---reading
+past the material structures that support mental phenomena. As visual
+phenomenon, a unified image, the page presents itself in its entirety, at
+once, in what the Drucker and McGann call its "holistic repleteness." It is as
+if it was always so: these words were always in this order, at these
+coordinates. However, the printer and the book designer know the image to be a
+carefully constructed composite. They understand and can name the particulates
+of page composition invisible to a lay reader. Drucker and McGann conclude
+that "systems of graphic presentation are operational, not merely passive
+schematic structures [...] active agents for creating meaning, instructions
+for reading, viewing, comprehending information [@drucker_images_2010].
+Choices were made, in other words, that would later affect meaning making.
+Apprehension precedes comprehension. The processes of interpretation have
+commenced and in some cases concluded before the reader laid eyes on a page.
 
 We are finally confronted with several concrete differences between print and
 digital formats.
@@ -772,27 +772,30 @@ water.[^ln3-notes]
 
 The affordances of the electronic book are more diffuse. They now exist in a
 multitude of competing digital formats, each vying to supplant print as the
-singular, unified reading platform. Software made by Adobe Systems, the
-company behind the popular Portable Document Format, includes Adobe Digital
-Editions, which the reader can use "to download and purchase digital content,
-which can be read both online and offline." The platform's "features" include
-the ability to "download and transfer books between devices," "searching
-eBooks," support for multiple languages, the ability to borrow books,
-printing, limited support for visually impaired readers, bookmarking,
-highlights, notes, and file organization [@_plans_2016]. Its own competing
-Adobe Document Cloud reading platform includes the Free, Standard, and Pro
-versions of Acrobat Reader, "the global standard for reliably viewing,
-printing, and commenting on PDF documents" [@_adobe_2016]. Only the most
-expensive Pro version allows one to "create and validate PDFs to meet
-accessibility standards for people with disabilities." The free version does
-not support bookmarks or document editing. The Pro version enables readers to
-"redact and permanently remove sensitive information in PDFs" and to "compare
-two versions of a document to see what's changed" [@_plans_2016]. The Amazon
-Kindle reader, made by the world's largest purveyor of books, both print and
-electronic, includes a feature called "Public Notes" which allows Kindle
-customers to "make their highlights and notes available for anyone to see"
-[@_amazon_2015]. The frequently asked question page further explains that "if
-someone you follow has highlighted a passage in a book and has turned on
+singular, unified reading platform.
+
+Software made by Adobe Systems, the company behind the popular Portable
+Document Format, includes Adobe Digital Editions, which the reader can use "to
+download and purchase digital content, which can be read both online and
+offline." The platform's "features" include the ability to "download and
+transfer books between devices" and to "search eBooks." The format supports
+multiple languages, the ability to borrow books, printing, limited support for
+visually impaired readers, bookmarking, highlights, notes, and file
+organization [@_plans_2016]. The company's own competing Adobe Document Cloud
+reading platform includes the Free, Standard, and Pro versions of Acrobat
+Reader, "the global standard for reliably viewing, printing, and commenting on
+PDF documents" [@_adobe_2016]. Only the most expensive Pro version allows one
+to "create and validate PDFs to meet accessibility standards for people with
+disabilities." The free version does not support bookmarks or document
+editing. The Pro version enables readers to "redact and permanently remove
+sensitive information in PDFs" and to "compare two versions of a document to
+see what's changed" [@_plans_2016].
+
+Another popular electronic book format, the Amazon Kindle reader, by
+comparison to PDF, includes a feature called "Public Notes" which allows
+Kindle customers to "make their highlights and notes available for anyone to
+see" [@_amazon_2015]. The frequently asked question page further explains that
+"if someone you follow has highlighted a passage in a book and has turned on
 Public Notes for the book, you'll see that passage highlighted along with the
 name of the person who highlighted it." The FAQ continues to tout the benefits
 of their platform:
@@ -808,23 +811,9 @@ see the notes that they made in the book [@_amazon_2016].
 The Google Play Books platform does not have the public note features nor does
 it support book editing. It does however add the ability to translate words
 and passages and to search for selected phrases using the company's search
-engine [@_read_2016]. In short, the electronic book cannot be reduced to a
-single platform. The affordances of reading, taking notes, sharing, and
-storing books are determined by the software, governed by specific
-socio-economic exigencies. Thus a book available in North America, might be be
-available on other continents, or it could be available elsewhere in a
-redacted form, its content tailored to the reader's geography dynamically.
+engine [@_read_2016].
 
-In case of the aforementioned platforms we observe an attempt to supplant the
-affordances of the book with a range of other, competing affordances
-particular to their proprietary document formats. The Amazon book and the
-Kindle book are read in different ways. Furthermore, the potentialities of
-electronic reading change dynamically, day to day, with each software update.
-The electronic book is not one format, but many, each entailing a number of
-emendatory compromises. Both Amazon and Adobe sell electronic books that are
-not compatible with other platforms.
-
-Encoded ideas about intellectual property is a stark manifestation of
+Encoded ideas about intellectual property are a stark manifestation of
 inter-platform incompatibility. Whatever its comparative affordances, reading
 software always emulates the logic of ownership. To own a book electronically
 means to have access to the bits that bring the simulation of that book into
@@ -855,6 +844,21 @@ preservation.
 <!-- Readers are doing what textual critics do, that is discrard the stuff
 they don't think is meaningful and extract content, which consitutes the stuff
 they care about. And that is the text in some sense. -->
+
+These examples illustrate that unlike print, the electronic book is not a
+single format, but many. Software, governed by specific socio-economic
+exigencies, determines the affordances of reading, taking notes, sharing, and
+storing books on each platform. Thus a book available in North America, might
+be be available on other continents, or it could be available elsewhere in a
+redacted form, its content tailored to the reader's geography dynamically. In
+case of the aforementioned platforms we observe an attempt to supplant the
+affordances of the book with a range of other, competing affordances
+particular to their proprietary document formats, not compatible with one
+another. Furthermore, the potentialities of electronic reading change
+dynamically, with each software update. Where print evolved by centuries,
+digital text changes on a monthly, if not daily, basis. A careful book history
+of electronic formats would reconstruct the meaning of the book in much
+shorter evolutionally stages to keep pace with the medium's rapid development.
 
 I am however also interested in a more systematic wholesale exposition of
 electronic document structure. Reading for format involves the deconstruction,
