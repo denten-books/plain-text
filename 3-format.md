@@ -941,85 +941,112 @@ words, phrases, and strings in the input stream" [@berns_format_1968, 91;
 FORMAT [@berns_format_1968, 87].](images/format.png)
 
 In another formative paper in the history of contemporary textuality, Brian
-Kernighan and Joseph Ossanna describe TROFF, a text processor written circa
+Kernighan and Joseph Ossanna described TROFF, a text processor written circa
 1973 for the PDP-11 outputting to Graphic Systems Cat typesetter. In 1979,
-Kernighan reports modifying the original program to produce output for a
-greater variety of typesetters. Kernighan explains, "TROFF produces its output
-in a device-independent form," and its output "must be processed by a drive
-for that device to produce printed output" [@kernighan_troff_1992]. Neither
-program makes an ontological claim on the textual artifact. Rather, the idea
-of text independent of its medium and "free of form" is present in both
-specifications as matter of contingency. The writer enters text in one
-location, without knowing its output in another. For this reason, the
-program's designers must differentiate between the content of the document and
-its spatio-temporal characteristics; some elements are to be represented,
-while others control the structure of representation.
+Kernighan reported modifying the original program to produce output for a
+greater variety of typesetters. Kernighan explained that "TROFF produces its
+output in a device-independent form" and that its output "must be processed by
+a drive for that device to produce printed output" [@kernighan_troff_1992].
+The program made no ontological claims on the textual artifact. Rather, it
+embodies the idea of text independent of its medium and "free of form" for
+practical reasons. The digital writer operates with text in one location,
+without knowing its output in another. The screen, machine memory, and the
+page, hold inscription in different formats, which do not physically
+correspond to one another. For this reason, the program's designers must
+differentiate between the content of the document and its spatio-temporal
+characteristics; some elements are to be represented in the final version,
+while others control the structure of representation, and are ultimately
+omitted from view.
 
 More than a decade later, reflecting on the proliferation of text editors, a
 group of computer scientists from the University of Washington advanced the
 following unified theory of format. "A *document* is an object composed of a
-hierarchy of primitive objects," the group writes. The objects are further
+hierarchy of primitive objects," the group wrote. The objects are further
 divided into "abstract" or "logical" objects and their "concrete"
-instantiations. The authors explain: "an abstract object is denoted by an
-identifier and the class to which the object belongs." By contrast, concrete
-objects occupy "one or more two-dimensional page spaces and represent the
-possible formatted images of abstract objects" [@furuta_document_1982, 418].
-In other words, the concrete object gives physical shape, layout, or style to
-the instantiation of abstract universal classes like paragraphs and sentences.
-Concrete objects are abstract paragraphs and sentences "laid out" in page
-space. In this schema, the word "cat" embodies a concrete object, a physical
-inscription at a given location. It further denotes the identifier for the
-idea of "cat," which belongs to the class "word". Note that by this model,
-cats are not classified under the their semantic category of "felines."
-Rather, we are concerned with the abstract type of the identifier itself:
-"cat" belongs to the category "word." Other primitive classes include
-paragraphs, chapters, titles, and footnotes, for example. A document can
-subsequently be expressed as a hierarchical ordering of such primitive
-objects. In this way, we may think of a "novel" as an abstract succession of
-"chapters," which in turn encapsulate "paragraphs" that contain "sentences and
-words," further composed of "characters." These abstract units must then find
-their physical manifestation on a page. They stand in a hierarchical
-relationship to each other because paragraphs contain sentences, and sentences
-words, and not the other way around. Together, primitive object classes
-constitute more sophisticated abstractions like "letters," "articles,"
-"books," and "journals" [@furuta_document_1982, 417-19; @shaw_model_1980].
+instantiations. In this way, a chapter is made up of paragraphs and sentences,
+which could be rendered on pages of different dimensions. In each case, the
+hierarchical relationship between chapters, paragraphs, and sentences persists
+even as the specific dimensions of a page change. The chapter in Tolstoy's
+*War and Peace* remains a chapter containing the same paragraphs and sentences
+despite the layout differences between editions. The class
+identifier---chapter, paragraph, sentence---thus denotes an abstract object,
+where concrete objects occupy "one or more two-dimensional page spaces and
+represent the possible formatted images of abstract objects"
+[@furuta_document_1982, 418]. The concrete object gives physical shape to the
+instantiation of abstract universal classes.
 
-The class / instance distinction gives us the vocabulary to discuss editing
-and formatting tasks in terms of state transformations. In this way, editing
-the document involves the transition between abstract states, as when the
-author corrects spelling for example. Concrete to concrete editing transitions
-can involve the sequential rearrangement of sentences or paragraphs, or moving
-data from one table to another. Crucially for our discussion, the authors
-define formatting as the reification of abstract classes into the real: the
-application of font styles, for example. Formatting in that sense converts
-what the authors call the "intended document" into the "visible concrete
-document." Between these two polarities we observe the document description,
-at which stage content and physical text specifications are mixed together and
-laid out for viewing on a particular device [@furuta_document_1982, 419-22].
-This last part is important, as many systems are designed to display text
-without "knowing" in a sense the ultimate physical dimensions of target
-output. We can think for example of document files that are rendered in more
-or less the same way on a multitude of screens of varying sizes. Nothing in
-the code guarantees the dimensions of the visible concrete document. We are
-only assured of their proper structure: that the paragraphs will have a
-certain spacing, that the footnotes appear on the bottom of the page not on
-the top, and so on.
+The entirety of a document, a book for example, can subsequently be expressed
+as a hierarchical ordering of such primitive objects as words, sentences,
+paragraph, and chapters. A document of a different type, a research paper for
+example, contains another set of primitive elements not always found in a
+book: a footnote, for example, or an abstract. We may think of a "novel" as an
+abstract succession of "chapters," which in turn encapsulate "paragraphs" that
+contain "sentences and words," further composed of "characters." These
+abstract units must then find their physical manifestation on a page. They
+stand in a hierarchical relationship to each other because paragraphs contain
+sentences, and sentences words, and not the other way around. Together,
+primitive object classes constitute more sophisticated abstractions like
+"letters," "articles," "books," and "journals" [@furuta_document_1982, 417-19;
+@shaw_model_1980].
 
-One can think of examples of other formatting operations which move in the
-opposite direction: from concrete to abstract for example. This happens in
-optical character recognition (OCR), as part of a process by which images of
-physical pages are converted into an "intended," abstract structure, the
-"content" thereby lifted from the physical page. A text in the portable
-document format (.pdf) remains a graphic image---a concrete, indivisible
-object---until the text is recognized. One can read it of course but it does
-not, from the machine's point of view, contain text or "abstract objects" as
-such. Leaving aside the somewhat strained language in which machines have
-views and cognitive states like recognition---recognition in this case implies
-more narrowly the conversion of image into text, converting "image" type data
-structures into "text" types. Text, in that sense, lies at the innermost
-location within a series of nested "outer" containers. Lacking a model of
-"comprehension" or "understanding," the machine posits text as "content" in
-the sense of it being the "innermost" object of human recognition.
+The class / instance distinction gives us the means to discuss editing and
+formatting tasks in terms of state transformations. In this way, editing the
+document involves the transition between abstract states, as when the author
+corrects spelling or changes a word, for example. Concrete to concrete state
+transformations involve the spatial rearrangement of abstract objects, as when
+the author justifies text or changes the order of document sections. Crucially
+for our discussion, Furuta and others define formatting as the reification of
+abstract classes into the concrete: the application of font styles, for
+example. Formatting in that sense converts what the authors call the "intended
+document" into the "visible concrete document." In this way, the abstract idea
+of "emphasis," can be converted into the concrete representation of "bold
+font." Another typesetter may stylistically prefer to represent emphasis in
+italics instead of bold letters. Both convey the same idea in visually
+different ways.
+
++------------------------+--------------+-------------------------------+
+| Transformation         | Type         | Example                       |
++========================+==============+===============================+
+| abstract to abstract   | Edit         | spelling correction \newline  |
+| concrete to concrete   |              | justify the document \newline |
+|                        |              |                               |
++------------------------+--------------+-------------------------------+
+| abstract to concrete   | Format       | apply font   \newline         |
+|                        |              | break into pages \newline     |
++------------------------+--------------+-------------------------------+
+| concrete to abstract   | Recognize    | optical character             |
+|                        |              |   recognition  \newline       |
+|                        |              | page layout analysis \newline |
++------------------------+--------------+-------------------------------+
+
+Table: Object transformation types based on the Document Object Model.
+
+Document description, in Furuta's model, specifies the rules for turning
+abstract into concrete objects. In typesetting, content and physical text
+specifications are mixed together and laid out for viewing on a particular
+device [@furuta_document_1982, 419-22]. However, the formatter does not know
+the exact dimension of the target medium in advance. One may decide to print
+the same document on legal- or letter-sized paper. Nothing in the code
+guarantees the dimensions of the visible concrete document. We are assured
+only of their appropriate positioning relative to one another: that the bold
+text will appear thicker than regular text, whatever the regular stroke; that
+the footnotes will appear after the main body of the text and not before,
+regardless of the layout.
+
+One can think of other formatting operations which move in the opposite
+direction: from concrete to abstract, for example. This happens in optical
+character recognition (OCR), as part of a process by which images of physical
+pages are converted into an "intended," abstract structure, the "content"
+thereby lifted from the physical page. A text in the portable document format
+remains a graphic image---a concrete, indivisible object---until the text is
+recognized. One can read it, of course, but it does not, from the machine's
+point of view, contain text or "abstract objects" as such. Recognition implies
+more narrowly the conversion of image into text, converting data structures of
+"image" into "text" types. Text, in that sense, lies at the innermost location
+within a series of nested outer containers. Lacking a model of "comprehension"
+or "understanding," the machine posits text as "content" in the sense of it
+being the "innermost" object of human recognition. Machine recognition happens
+only when the text is de-laminated from its composite medium.
 
 The "recognition" of letters does not exhaust the variety of abstract document
 objects that could be gleaned from the bibliographic image, which besides
