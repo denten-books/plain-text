@@ -1,8 +1,8 @@
 # Chapter 1: Laying Bare the Device
 
 "The weakest point in our present day universe is the incapacity of man to meet
-the machine, the cultural conserve, or the robot, otherwise than through
-submission, actual destruction, and social revolution" [@moreno_who_1953, 233].
+the machine, the cultural conserve, or the robot, other than through
+submission, actual destruction, and social revolution" [@moreno_who_1953, 595].
 So wrote the Austrian-American psychiatrist, Jacob L. Moreno in his
 idiosyncratic, sprawling, and now seldom read volume, *Who Shall
 Survive?*[^ln2-moreno]
@@ -13,42 +13,43 @@ conserve" and the "zootechnical animal." When Moreno referred to robots, he
 meant all devices, social structures, and products of the mind which compete
 for attention. Conserves diminish the human capacity for cultural production.
 Robots create the illusion of the "finished, perfected product," which
-substitutes for creativity. In this way, the musical record obviates the
-musician, just like the book does the author.
+substitutes for creativity [@moreno_who_1953, 595]. In this way, the musical
+record obviates the musician, just like the book does the author.
 
-The "avalanche of ghosts" from the past enters into an evolutionary contest
-for survival. Unlike speech, which is extinguished as soon as a conversation
-ends, written words from the past persist and proliferate. They survive and
-continue to shape the social and the mental worlds to come. "The author is
-immaterial," Moreno wrote:
+The "avalanche of ghosts" from the past enters into an evolutionary contest for
+survival [@moreno_who_1953, 596]. Unlike speech, which is extinguished as soon
+as a conversation ends, written words from the past persist and proliferate.
+They survive and continue to shape the social and the mental worlds to come.
+"[T]he author is immaterial," Moreno wrote:
 
 > the book goes to all places and to all people, it does not care where it is
 > read and by whom. Many robots have further in common the attribute of
 > comparative immortality.  A book, a film, an atomic bomb, they do not perish
 > in the human sense, the same capacity is always there, they can be
 > reproduced *ad infinitum* [...] Our human world is increasingly filled with
-> robots and there seems to be no end to new forms and new developments.
+> robots and there seems to be no end to new forms and new developments. 
+> [@moreno_who_1953, 600-1]
 
 The musician and the author struggle to survive in competition with historical
-records. The conserve reduces humans to "machine-addicts" who reside in a
+records. The conserve reduces humans to "machine-addict[s]" who reside in a
 "jungle of robots" that would suffocate all their spontaneous activity
-[@moreno_who_1953, 233-7].
+[@moreno_who_1953, 597, 601].
 
 Similar to king Thamus from Plato's *Phaedrus*, Moreno distrusted rote
 mechanization of thought. In the name of comfort, safety, and prolonged life,
 Moreno continued, technocracy disempowers the very subjects whose lives it
 claims to preserve. The zootechnical animal exchanges the human capacity for
-self-determination for the promised certainty of a better future. The eugenic
-dreamer and the technological dreamer have this one idea in common:
+self-determination for the promised certainty of a better future. "The eugenic
+dreamer and the technological dreamer have one idea in common," he writes:
 
 > to substitute and hasten the slow process of nature. Once the creative
 > process is encapsulated in a book it is *given*; it can be recapitulated
 > eternally by everybody without the effort of creating anew. Once a machine
 > for a certain pattern of performance is invented a certain produce can be
-> turned out in infinite numbers practically without effort [...] Once that
-> miraculous eugenic formula will be found a human society will be given
-> prefect and smooth at birth, like a book off a press [@moreno_who_1953,
-> 236].
+> turned out in infinite numbers practically without the effort of man. [...]
+> Once that miraculous eugenic formula will be found a human society will be
+> given prefect and smooth at birth, like a book off a press [@moreno_who_1953,
+> 598].
 
 Knowledge, in Plato's terms, is thereby replaced with the simulation or
 imitation [*homoiōmata*] of knowledge [@plato_phaedrus_1999, 482(250a)]. It is
@@ -58,19 +59,21 @@ their production is elided.
 
 Instrumental and institutional mechanisms alike fell under Moreno's suspicion:
 the plow, pen, book, gun; central planning, corporate governance, and legal
-codex [@moreno_who_1953, 237-44]. All robots in that sense constitute a
-species of autonomous agency, a problem long in the background of Western
-liberal thought.[^ln1-consensus] For Moreno, books and bombs resembled one
-another because they both embodied volition detached from its human sources.
-Once in motion, both books and bombs seem to act in the world autonomously.
-The projectile acts at a distance; once launched, it completes its grim
-mandate even if the command to act is withdrawn. Technology of the word
-similarly decouples readers from writers. The book persists to mean in the
-absence of its author. Once decoupled, seemingly autonomous paper
+codex [@moreno_who_1953].<!---page numbers have not corresponded thus far, but
+can't find suitable replacement in the right pagination. Seems like this
+citation could apply to the whole work, though. PRP --> All robots in that
+sense constitute a species of autonomous agency, a problem long in the
+background of Western liberal thought.[^ln1-consensus] For Moreno, books and
+bombs resembled one another because they both embodied volition detached from
+its human sources. Once in motion, both books and bombs seem to act in the
+world autonomously. The projectile acts at a distance; once launched, it
+completes its grim mandate even if the command to act is withdrawn. Technology
+of the word similarly decouples readers from writers. The book persists to mean
+in the absence of its author. Once decoupled, seemingly autonomous paper
 agents---books, folders, documents---clutter the social sphere, continuing to
 structure human experience in the absence of the originating accord. Agency so
 detached operates without consensus or comprehension. The book is "a robot par
-excellence," Moreno wrote [@moreno_who_1953, 238-9]. It is a way of effecting
+excellence," Moreno wrote [@moreno_who_1953, 600]. It is a way of effecting
 change across time and space, but also of breaking the causal chain of agency.
 One cannot assign blame to a bullet or a book as these are not truly social
 actors that can participate in our sense of justice or responsibility.
@@ -1235,8 +1238,8 @@ time interval could also signify information used to actuate a variety of
 devices. By the middle of the patent, the brothers begin to refer to their
 invention in broad terms as a "controlling medium," capable of regulating
 remotely everything from typesetting machines to generic sunflower switches.
-"Indeed the detector and the interpreting relay could be made to actuate a set
-of sunflower switches for an indicator without including a printer at all,"
+"Indeed, the detector and interpreting relays could be made to actuate a set
+of sunflower switches for an indicator [...] without including a printer at all,"
 they conclude [@bumstead_telegraphy_1916, 12]. What starts out as a
 communication device, by the end of the patent is generalized into a universal
 control mechanism.
@@ -1245,19 +1248,18 @@ Driven by ticker tape and connected to a printer the automated telegraph
 contained all the necessary features of a Turing machine: a discrete symbolic
 language, removable storage medium, and a machine capable of altering its
 physical states according to instruction. It read and wrote; it ingested tape
-and converted extrinsic symbols into intrinsic configurations of the
-mechanism. By 1905, Donald Murray, inventor of the popular Murray telegraph,
-could write that "if we disregard the small class of telegrams that merely
-express emotions, *the essence of telegraphy is control* [emphasis mine]." He
-stressed that telegraph systems "belong not to the class of producing or
-distributing, but to the class of controlling mechanisms"
-[@murray_setting_1905, 556]. For the automated telegraph, control code and
-message are one. The mechanism "interprets" some signals as data to be
-manipulated and others as control code, the rules for such data manipulation.
-The first type of code holds significance for humans, where the second for the
-mechanism itself. The mechanism "transmits intelligence" in the sense of
-rarefying machine states; it "interprets" in the sense of mechanical
-embodiment.
+and converted extrinsic symbols into intrinsic configurations of the mechanism.
+By 1905, Donald Murray, inventor of the popular Murray telegraph, could write
+that "[i]f we disregard the small class of telegrams that merely express
+emotions, *the essence of telegraphy is control* [emphasis mine]." He stressed
+that telegraph systems "belong, not to the class of producing or distributing,
+but to the class of controlling mechanisms" [@murray_setting_1905, 556]. For
+the automated telegraph, control code and message are one. The mechanism
+"interprets" some signals as data to be manipulated and others as control code,
+the rules for such data manipulation. The first type of code holds significance
+for humans, where the second for the mechanism itself. The mechanism "transmits
+intelligence" in the sense of rarefying machine states; it "interprets" in the
+sense of mechanical embodiment. 
 
 Computing scales, dial recorders, electric tabulating machines, and computing
 typewriters were widely available on the market, made by companies like
@@ -1302,35 +1304,38 @@ capabilities of the bottom-most device limit the computational power of all
 *n+1* order Turing simulations. The bottom-most turtle may have its head in
 the clouds, but its feet rest firmly on the ground.
 
-The exact plane where the symbolic meets the material is difficult to
-identify. At some imperceptible point software disappears into hardware. Such
-ambiguity leads to controversy in the critical literature, as evidenced by Lev
-Manovich's playful response to Kittler's "there is no software" argument, in
-which the latter posits what he calls the "postmodern writing scene." "We do
-not write anymore," Kittler writes. "Human-made writing passes through
-microscopically written inscriptions which, in contrast to all historical
-writing tools, are able to read and write by themselves"
-[@kittler_there_1995].  Kittler sees the paper-bound blueprints for the first
-integrated microprocessor as the last "real" piece of writing. Everything
-written after that point is hardware, because all digital modes of
-representation, including text, ultimately rest on physical circuit
-architecture. The inability to understand hardware, in this view, precludes
-all higher modalities of reading, writing, and interpretation.
+The exact plane where the symbolic meets the material is difficult to identify.
+At some imperceptible point software disappears into hardware. Such ambiguity
+leads to controversy in the critical literature, as evidenced by Lev Manovich's
+playful response to Kittler's "there is no software" argument, in which the
+latter posits what he calls the "postmodern writing scene." "[W]e do not write
+anymore," Kittler writes. "[H]uman-made writing passes through microscopically
+written inscriptions which, in contrast to all historical writing tools, are
+able to read and write by themselves" [@kittler_there_1995].  Kittler sees the
+paper-bound blueprints for the first integrated microprocessor as the last
+"real" piece of writing. Everything written after that point is hardware,
+because all digital modes of representation, including text, ultimately rest on
+physical circuit architecture. The inability to understand hardware, in this
+view, precludes all higher modalities of reading, writing, and interpretation.
 
 Manovich inverts Kittler's argument into "there is only software," by which he
 means that in a pragmatic sense, software determines the properties of any
 media object. The inversion participates in the perpetual dialectics between
 idealism and materialism: Hegel and Marx, Marx and Gramsci, Gramsci and
-Kittler, Kittler and Manovich. "What you can do with a particular digital
-media file can change dramatically," depending on the software, Manovich
-writes. When it comes to digital photographs, to use his example, one
-application may allow the photographer to crop the image while another may not
-[@manovich_there_2011, 151]. From this property-determining aspect of software
-(and in reference to the work of Alan Kay), Manovich derives the concept of
-*metamedia*, "a medium that can dynamically simulate the details of any other
-medium" [@manovich_there_2011, 105-6]. Software defines the properties of
-digital manipulation, determining the physics of all higher-order media it
-simulates [@manovich_there_2011, 150-1].
+Kittler, Kittler and Manovich. "[W]hat you can do with the same digital file
+can change dramatically," depending on the software, Manovich writes. When it
+comes to digital photographs, to use his example, one application may allow the
+photographer to crop the image while another may not [@manovich_there_2011,
+273]. From this property-determining aspect of software (and in reference to
+the work of Alan Kay), Manovich adopts the concept of the *metamedium*, "a
+medium that can dynamically simulate the details of any other medium"
+[@kay_computer_1984, 59, qtd. in @manovich_software_2013, 105-6].<!--Manovich
+is actually taking the concept from Kay's earlier work---I adapted the language
+and citation to reflect this. PRP--> Software defines the properties of digital
+manipulation, determining the physics of all higher-order media it simulates
+[@manovich_software_2013, 150-1].<!--this isn't a direct quote, but I'm pretty
+sure you mean "Software Takes Command" here too, based on page ranges and the
+content; PRP-->
 
 Kittler, would perhaps object that all such higher-order, simulated physics
 rest on the bedrock of silicon. In opening a series of nested software black
