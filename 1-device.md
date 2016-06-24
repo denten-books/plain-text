@@ -237,7 +237,7 @@ writing of literature could be distilled into reproducible rules---technique
 over art---to be learned and shared widely.
 
 [^ln2-fact]: See for example Osip Brik's "Against Creative Individualism" and
-Shklovksy's "On Authorship and Production" in @chuzhak__2000.
+Shklovksy's "On Authorship and Production" in @chuzhak_literatura_2000.
 
 The mechanization of language is also significant in an instrumental context.
 The rise of formalist and consequently structuralist thought---along with
@@ -897,15 +897,15 @@ layer, which describes the rules of engagement
 not to learn individual words, but to understand the rules of engagement: the
 mechanical linkages of meaning-making.
 
-We say that the mechanism is rigid or the law is inexorable when the results
-of an action are fixed. Wittgenstein calls such a relationship
-"super-hardness." Where a judge can be lenient, he explains, the law is
-compulsory. What we would now call an "algorithm" compels predictable
-execution, not subject to the vagrancies of interpretation
+We say that the mechanism is rigid or the law is inexorable when the results of
+an action are fixed. Wittgenstein calls such a relationship "super-hardness"
+[@wittgenstein_wittgensteins_1976, 197]. Where a judge can be lenient, he
+explains, the law is compulsory. What we would now call an "algorithm" compels
+predictable execution, not subject to the vagrancies of interpretation
 [@wittgenstein_wittgensteins_1976, 282]. The parts of the mechanism
 subsequently exist in a causal relationship to one another. Pushing this or
-that lever will always result in such and such movement, because of the way
-the mechanical parts are connected.
+that lever will always result in such and such movement, because of the way the
+mechanical parts are connected.
 
 We are tempted, as before, to privilege the inner workings of the symbolic
 mechanism, also at the core of meaning making in mathematics. "If I show you
@@ -949,10 +949,10 @@ College. From the notes on Wittgenstein's lectures complied and published by
 Cora Diamond, it is clear that Turing was a vociferous presence in the class.
 His name is mentioned eighty-six times in the text, more than any other
 student by a wide margin. At some point of the course Wittgenstein concludes
-his lecture in saying: "Unfortunately, Turing will be away from the next
+his lecture in saying: "Unfortunately Turing will be away from the next
 lecture, and therefore that lecture will have to be somewhat parenthetical.
-For it is not good my getting the rest to agree to something that Turing would
-not agree to" [@wittgenstein_wittgensteins_1976, 67-68].
+For it is no good my getting the rest to agree to something that Turing would
+not agree to" [@wittgenstein_wittgensteins_1976, 67-8].
 
 One expects Turing's seminal paper on computable numbers, where he first
 proposed his universal computing machine, to contain a strictly technical
@@ -975,14 +975,14 @@ it concerns the grammar of that transformation and, ultimately, the mechanisms
 of exacting obedience. They are fully deterministic systems that nevertheless
 exceed their formal limitation. "How can the rules of operation of the machine
 change?" Turing asks in "Computing Machinery and Intelligence"
-[@turing_computing_1950]. His answer, which begins as a blueprint for a
-narrowly computational machine in the 1930s, by the 1950s blossoms into a
-dramatized conversation between a poet and her critic; into the possibility of
-an evolving artificial intelligence; and into an imitation game, by which the
-computer misrepresents its assigned gender. The very formulation of the Turing
-machine poses a number of questions related to the problem of free will and
-determinism more broadly. How can a machine escape its programming? How can a
-poet transcend the rules of composition? How do humans become more than the
+[@turing_computing_1950, 458]. His answer, which begins as a blueprint for
+a narrowly computational machine in the 1930s, by the 1950s blossoms into
+a dramatized conversation between a poet and her critic; into the possibility
+of an evolving artificial intelligence; and into an imitation game, by which
+the computer misrepresents its assigned gender. The very formulation of the
+Turing machine poses a number of questions related to the problem of free will
+and determinism more broadly. How can a machine escape its programming? How can
+a poet transcend the rules of composition? How do humans become more than the
 sum of their nature and nurture?
 
 Turing's universal machine finally distills the diversity of Wittgenstein's
@@ -1019,8 +1019,8 @@ nature.
 
 Let us examine the mechanics of a Turing machine more closely. Turing begins
 his paper as we would expect from Wittgenstein's student, with a provocative
-analogy: "we may compare a man in the process of computing a real number to a
-machine that is only capable of a finite number of conditions"
+analogy: "We may compare a man in the process of computing a real number to a
+machine which is only capable of a finite number of conditions"
 [@turing_computable_1937, 231]. From the start, Turing treats computation,
 which we normally consider a complex cognitive process, as a simple mechanism.
 To these ends, he proposes a machine "supplied with a 'tape' (the analogue of
@@ -1031,7 +1031,7 @@ movie reel, the tape moves through the mechanism one section at a time.
 At each point only one section bearing one symbol is "in the machine." "We may
 call this square the 'scanned square,'" Turing writes:
 
-> The symbol on the scanned square may be called the "scanned symbol." The
+> The symbol on the scanned square may be called the "scanned symbol". The
 > "scanned symbol" is the only one of which the machine is, so to speak,
 > "directly aware" [@turing_computable_1937, 231].
 
@@ -1049,9 +1049,9 @@ ingests reels of tape. Unlike telegraphs or film projectors, the ingested
 symbolic representation becomes, by definition, a part of the machine's
 internal state, in a way that telegraph tape or film reels do not when they
 pass through telegraphs and film projectors. The film reel and the ticker tape
-do not leave a trace, nor do they signify machine states. By contrast,
-Turing's tape alters the machine's internal configuration in a way that lasts
-beyond the its discharge from the mechanism.
+do not leave a trace, nor do they signify machine states. By contrast, Turing's
+tape alters the machine's internal configuration in a way that lasts beyond its
+discharge from the mechanism.
 
 In his earlier thought experiments, Wittgenstein also spoke of humans in the
 process of reading or doing mathematics as "ingesting" symbols; of the need to
@@ -1060,7 +1060,7 @@ states, on some real and empirically observable neurological level, which
 correlates to the symbol. Turing's machine is capable of such ingestion. It
 "thinks," "reads," and "remembers" to the extent of its capability to scan and
 internalize symbolic notation. In addition to reading, Turing's machine also
-writes. He explains that "in some configurations in which the scanned square
+writes. He explains that "[i]n some configurations in which the scanned square
 is blank (*i.e.* bears no symbol) the machine writes down a new symbol on the
 scanned square" [@turing_computable_1937, 231]. It should thus also be capable
 of erasing and moving symbols to adjacent squares, one square at a time. The
@@ -1110,41 +1110,41 @@ defines modern programming. Unlike other, definitive, single-purpose and
 limited-state mechanisms (a clock for example), a universal machine contains
 the ability to take on differing internal symbolic configurations. It can
 imitate a clock, an abacus, a scale, a book. In a later paper that links
-computing machinery to intelligence, Turing implied also that his machine
-could eventually simulate human thought, because he saw the mind as another
-mechanism for manipulating symbols [@turing_computing_1950].[^ln1-compete] Are
-minds just types of Turing machines or are Turing machines a kind of mind?
-Turing leaves the door open for either possibility. The universal Turing
-machine finally encapsulates a model of computation itself. It is capable of
-computing anything computable. In substituting the concept of computability
-with "effective computability" Turing's paper belongs to the annals of
-mathematical theory. It continues to elicit conflicting responses widely
-because much of it contains also the excess of symbolic thought, related to
-our more general sense of it it means to read, write, and think. Besides
-offering mathematical proofs, Turing's work embarks on an experimental, ludic
-even, enterprise in the spirit of Wittgenstein's playful experimentation,
-which often involved altered states of mind, drugs, delirium, madness, and
-outright deception.
+computing machinery to intelligence, Turing implied also that his machine could
+eventually simulate human thought, because he saw the mind as another mechanism
+for manipulating symbols [^ln1-compete]. Are minds just types of Turing
+machines or are Turing machines a kind of mind? Turing leaves the door open for
+either possibility. The universal Turing machine finally encapsulates a model
+of computation itself. It is capable of computing anything computable. In
+substituting the concept of computability with "effective computability"
+Turing's paper belongs to the annals of mathematical theory. It continues to
+elicit conflicting responses widely because much of it contains also the excess
+of symbolic thought, related to our more general sense of it it means to read,
+write, and think. Besides offering mathematical proofs, Turing's work embarks
+on an experimental, ludic even, enterprise in the spirit of Wittgenstein's
+playful experimentation, which often involved altered states of mind, drugs,
+delirium, madness, and outright deception.
 
 ## Device
 
-Literature in computer science tends to treat Turing machines as algorithms:
-as logical constructs, not necessarily physical ones. It is impossible however
-to dissociate the implementation from the idea. The historian Thomas Haigh
-wrote that the Turing machine "abstracts away from the complexity of real
-computer architectures." It appeals to the theorist because it is a
-theory.  Haigh notes also that "hardware and software" are interchangeable to
-the theorist, but not to the historian" [@haigh_actually_2014]. In his 1937
-review of Turing's "On Computable Numbers" paper, Alonzo Church, the American
-mathematician whose work anticipated Turing's (independently) in several
-important aspects, would similarly acknowledge the material foundations of
-Turing computing. "A human calculator, provided with pencil and paper and
-explicit instructions can be regarded as a kind of a Turing machine," he wrote
-[@church_computable_1937, 42-3; also cited in @petzold_annotated_2008, 63].
-Disregarding the broader, metaphysical implications of that statement, note
-for now the persistence of two implements required for the minimally viable
-operation of the Church-Turing human and machine calculators. Pen and paper
-assert themselves through the abstraction.[^ln1-abstraction]
+Literature in computer science tends to treat Turing machines as algorithms: as
+logical constructs, not necessarily physical ones. It is impossible however to
+dissociate the implementation from the idea. The historian Thomas Haigh wrote
+that the Turing machine "abstracts away from the complexity of real computer
+architectures" [@haigh_actually_2014, 241]. It appeals to the theorist because
+it is a theory. Haigh notes also that "hardware and software are
+interchangeable to the theorist, but not to the historian"
+[@haigh_actually_2014, 241]. In his 1937 review of Turing's "On Computable Numbers"
+paper, Alonzo Church, the American mathematician whose work anticipated
+Turing's (independently) in several important aspects, would similarly
+acknowledge the material foundations of Turing computing. A "human calculator,
+provided with pencil and paper and explicit instructions, can be regarded as
+a kind of Turing machine," he wrote [@church_computable_1937, 42-3; also
+cited in @petzold_annotated_2008, 63]. Disregarding the broader, metaphysical
+implications of that statement, note for now the persistence of two implements
+required for the minimally viable operation of the Church-Turing human and
+machine calculators. Pen and paper assert themselves through the
+abstraction.[^ln1-abstraction]
 
 To encounter the digital book and therefore the Turing machine as a device,
 the media and book historian will find that it borrows from a number of extant
@@ -1211,23 +1211,24 @@ transmission of intelligence:
 
 > [...] adapted to initiate a succession of electrical impulses all of which
 > have a character representing significance, a receiver adapted to detect
-> variations in time intervals elapsing between successive impulses, a
+> variations in the time intervals elapsing between successive impulses, a
 > plurality of interpreting relays selectively actuated by said receiver, and a
-> printed mechanism responsive for the combined action
-> [@bumstead_telegraphy_1916, 12-13].
+> printing mechanism responsive to the combined action
+> [@bumstead_telegraphy_1916, 13-4].
 
-What began as a description of a mechanism for information transmittal, ended
-with a claim about hermeneutics of control. Starting with clause 14, the
-brothers describe a telegraph system capable of transmitting impulses at
-varying time intervals. In the language of the patent, the length of a time
-interval "represents significance," involving an automated receiver
-responsible for "distributing, interpreting, and recording." The printing
-mechanism is further "arranged to print the interpretation of the signals.
+What began as a description of a mechanism for information
+transmittal<!--transmission? PRP-->, ended with a claim about hermeneutics of
+control. Starting with clause 14, the brothers describe a telegraph system
+capable of transmitting impulses at varying time intervals. In the language of
+the patent, the length of a time interval "represent[s] significance,"
+involving an automated receiver responsible for "distributing, interpreting,
+and recording" [@bumstead_telegraphy_1916, 14]. The printing mechanism is
+further "arranged to print the interpretation of the signals.
 [@bumstead_telegraphy_1916, 6]" The interpreting relays thus transform time
-intervals into typography, representing letters, figures, and other
-characters, in "accordance with code" [@bumstead_telegraphy_1916, 13].
-Initially, the telegraph "interprets" with the aim of "transmitting
-intelligence."
+intervals into typography, representing letters, figures, and other characters,
+in "accordance with a code" [@bumstead_telegraphy_1916, 13]. Initially, the
+telegraph "interprets" with the aim of "transmitting intelligence"
+[@bumstead_telegraphy_1916, 12].
 
 Subsequently, the authors understood also that the length of the transmitted
 time interval could also signify information used to actuate a variety of
@@ -1466,7 +1467,7 @@ universities.
 
 [^ln1-davey]: Mike Davey built and displayed a similar instrument at Harvard
 University's Collection of Historical Scientific Instruments in 2012. He
-writes, "my goal in building this project was to create a machine that embodied
+writes: "My goal in building this project was to create a machine that embodied
 the classic look and feel of the machine presented in Turing’s paper.  I wanted
 to build a machine that would be immediately recognizable as a Turing machine
 to someone familiar with Turing's work" [@davey_turing_2012].
@@ -1533,9 +1534,9 @@ meant it to define sentience more generally [@turing_computing_1950].
 
 [^ln1-abstraction]: This is a topic of some contention in the literature. In
 his influential paper on the topic, James Moor includes the immateriality of
-software as one of the "three myths" of computer science. "As a practical
-matter, what we regard as computer instructions, and consequently what we
-regard as computer programs, is determined by computers available," he writes
+software as one of the "three myths" of computer science: "as a practical
+matter what we regard as computer instructions, and consequently what we
+regard as computer programs, is determined by the computers available," he writes
 [@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
 abstract artifact, akin to a musical work [@irmak_software_2012]. See also
 @turner_programming_2013; @colburn_software_1999.
