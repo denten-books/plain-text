@@ -1,111 +1,107 @@
 # Chapter 4: Literature Down to a Pixel
 
-The screen has this one major peculiarity: it refreshes itself multiple times
-per second. Thus even those shapes that appear to stand still on the screen
-move in the realm beyond the threshold of human perception. We are vaguely
-aware of this movement: it is commonly visible when a screen appears on
-another screen, as it does in documentary films that show someone in the
-process of typing at the computer terminal or watching television. The
-difference in the flicker rates between the projector showing the image and
-the projector "in the frame" is what produces the characteristic horizontal
-interference pattern. Such glitches give us a glimpse into the nature of the
-simulation. Movement is key to understanding the mechanics of cinema, but what
-does it mean to perceive seemingly static words against the background of a
-fundamentally dynamic medium? Instead of a static and immutable sign etched in
-stone or on paper we observe the sign in motion. To refer to the "illusion" of
-digital textuality is therefore to identify the dynamic property of
-projection. To place text on the screen is to bring it closer to the moving
-image. What happens to literature that takes place on cinema screens?
+Screens have one major peculiarity: they refresh themselves multiple times per
+second. Even those shapes that appear to stand still on them continuously move
+at a speed beyond the threshold of human perception. We are vaguely aware of
+this movement: it is commonly visible when a screen appears on another screen,
+as it does in documentary films that show someone typing at a computer
+terminal or watching television. The difference in flicker rates between the
+projector showing the image and the projector "in the frame" is what produces
+the characteristic horizontal interference pattern. Such glitches give us a
+glimpse into the nature of simulation.
 
-In this chapter I would like to pose the question of the digital, a descriptor
-everywhere now yet so poorly felt and understood. One intuits it has something
-to do with numbers or fingers, but something more is always at stake in the
-distinction between digital and analog categories. That something---a
-remainder, a trace---comes into focus here, through a series of case studies
-that give us an opportunity to test our theoretical intuitions against the
-material realities of digital representation. I advance, as always, a
+The sign is no longer immutable, as if etched in stone. Rather, we observe it
+in motion. The "illusion" of digital textuality is a consequence of the
+dynamic property of projection. To place texts on a screen is to bring them
+closer to the moving image. What does it mean to perceive seemingly static
+words through a fundamentally dynamic medium? What happens to literature that
+takes place on cinema screens?
+
+In previous chapters, we have encountered the shape of the conduit: keyboards,
+screens, storage. In this chapter, a short meditation on the digital
+commonplaces in popular culture precedes two case studies, one from the
+material history of telegraphy and the other from the history of modern
+display technology. Archival material---patents, blueprints, phenomenological
+accounts from the early history of word processing---will be brought to bear
+on a debate concerning the nature of digital representation and perception in
+the philosophy of aesthetics.
+
+I will question the term "digital," a descriptor everywhere now used yet so
+poorly felt and understood. One intuits that it has something to do with
+numbers or fingers, but something more is always at stake in its distinction
+from analog. That something---a remainder, a trace---will be my focus here.
+Through a series of case studies that test our theoretical intuitions against
+the material realities of digital representation, I will advance, as always, a
 materialist, computational poetics, which foregrounds a thick description of
-the device from which theoretical insight can emanate. Following the
-methodological principle of entanglement between theory and practice, the
-chapter engages with the elemental particulates of two primal conduits:
-electric ether and liquid crystal, the media behind the telegraph and the
-liquid crystal display (LCD).
+the device. The chapter will engage with the elemental particulates of two
+primal media conduits: electric ether and liquid crystal, the media behind the
+telegraph and the liquid crystal display (LCD).
 
-Further, I am concerned with a phenomenological description of human
-perception. The goal is to disturb the comfort and the congruity between the
-organ and the device. The two mold and reshape each other. They enter into a
-dialectic that must be disturbed for understanding to take place. The nature
-of "digital" experience, as I argue, initially appears to be an intrinsic
-property of the medium. Under closer examination, it rather turns out to be a
-political construct that lays claims on the body, structuring the physical
-affordances of communication. The change of the *medium* from paper to pixel
-entails a series of corresponding changes in the *mode* of perception. The
-projection "attunes" the viewer to the message. By attunement I mean something
-analogous to what Marcel Mauss calls the "techniques of the body"
-[@mauss_techniques_2006, 78], the way in which we sit for example: the
-position of the hands, the head, or the movement of the eyes. The mode
-structures apprehension. It answers the how of perception.
+I am also concerned with a phenomenological description of human perception.
+My goal is to disturb the comfort and congruity between organ and device. The
+two mold and reshape each other. This dialectic must be disturbed for
+understanding to take place. The nature of "digital" experience might appear
+to be an intrinsic property of the medium. But, under closer examination, as I
+argue, it reveals itself as a political construct that lays claims on the
+body, structuring the physical affordances of communication. The change of the
+*medium* from paper to pixel entails a series of corresponding changes in the
+*mode* of perception. The projection "attunes" the viewer to the message. By
+attunement I mean something analogous to what Marcel Mauss calls the
+"techniques of the body" [@mauss_techniques_2006, 78], the way in which we sit
+for example: the position of the hands, the head, or the movement of the eyes.
+Attunement structures apprehension. It answers the "how" of perception.
 
-It would be a mistake to conflate the medium with the message, in this
-context. At stake in the digital--analog divide is rather the reader's ability
-to do something with the text. I suggest that throughout this chapter we
-restrict the use of the word "medium" to identify more narrowly the physical
-conduit of representation.[^ln3-oed] Thus the medium of painting is paint and
-canvas, where the medium of books is paper and ink. The distinction will help
-our language remain somewhat more precise than colloquial use, particularly as
-we consider the more complicated and interested edge cases. A change in medium
-often implies a corresponding change in the *mode* of perception. For example,
-at some level of music production the making of classical music may involve a
-family of brass woodwind instruments, shaped to move and vibrate air. Brass,
-wood, wind, and air all sound like reasonable candidates for the media through
-which sound and vibration will travel to reach a listener's ear. The *mode* of
-music appreciation is listening, which involves a set of conventional cultural
-techniques: the way one buys tickets, (the fact that that there are tickets!),
-the way one dresses and behaves at a concert. A person from the deaf community
-may use other modes of listening, like leaning against sound amplifying
-speakers or touching the woodwind. Yet at another stage of music production,
-the making of classical music will involve sheet music. A whole system of
-music distribution is built around the printing and the circulation of music
-media in the form paper and ink documents. The modality of reading sheet
-music, as opposed to listening, requires a completely different grammar of
-body postures. It engages different practices and different cultural and
-financial institutions from listening.
+It would be wrong to conflate the medium with the message in this context. At
+stake in the digital--analog divide is rather the reader's ability to do
+something with the text. Throughout this chapter I will use the word "medium"
+to narrowly identify the physical conduits of representation.[^ln3-oed] Thus
+the medium of painting is paint and canvas; the medium of books is paper and
+ink. The gained precision in terms will help later, when I consider more
+complicated and interested edge cases.
 
-A confusion enters the conversation when we conflate the modality of the
-information (music, image, text) with the physical channel of its transmission
-(air, liquid crystal, paper). Modality is what determines the message to a
-much greater extent the medium. In fact, in most communication systems the
-medium serves as a relatively neutral conduit. In this way, one can use a
-violin to transmit a concerto or to transmit a secret message. The medium
-remains the same, where the mode of understanding or appreciating the quality
-of what is being transmitted changes. To decode a secret message played by a
-violin, the listener has to listen in a different way from that of listening
-to music. The modality attunes the listener. It suggests specific ways of
-listening, where air, wood, and strings remain agnostic to the information
-being transmitted.
+A change in medium often implies a corresponding change in the *mode* of
+perception. At some level of music production, for example, classical music
+may involve a family of brass woodwind instruments, shaped to move and vibrate
+air. Brass, wood, wind, and air are all reasonable *media* through which sound
+and vibration can travel to a listener's ear. The *mode* of music appreciation
+is listening, which involves a set of conventional cultural techniques: the
+buying tickets, the fact that that there are tickets, dress code and proper
+comportment at a concert. A person from the deaf community may use other modes
+of listening, like leaning against sound amplifying speakers or touching the
+woodwind.
 
-Initially, we must simply know how to perceive: to look, to smell, or to
-listen. The modality tells us "the register" of the message. Where to look for
-it and how to identify its signifying elements. In refined arts it goes
-further to more strictly govern the techniques of the body: you must neither
-speak nor cough during a classical recital, for example. One can look at but
-not touch artwork in a museum. As these examples show, the modality of
-communication ultimately demands corporal compliance. For this reason, the
-change in modalities must always be perceived as a claim on the body. In this
-lies the starkest difference between analog and digital media. The shift from
-one to the other affects not the message but the mode of perception. It is as
-if someone has asked you to read a book or to watch a film in a stranger's
-armchair. It feels off in a way that is difficult to explain. The mode of
-digital perception similarly contorts the body into new and unfamiliar shapes,
-which give discomfort. Something happens as digital media subsume their analog
-counterparts. But what is it? In previous chapters, we have encountered the
-shape of the conduit: keyboards, screens, storage. In this chapter, a short
-meditation on the digital commonplaces in popular culture precedes two case
-studies, one from the material history of telegraphy and the other from the
-history of modern display technology. Archival material---patents, blueprints,
-phenomenological accounts from the early history of word processing---will be
-brought to bear on a debate concerning the nature of digital representation
-and perception in the philosophy of aesthetics.
+Yet at another stage of music production, classical music involves notation. A
+whole system of distribution is built around the printing and circulation of
+sheet music. The modality of reading sheet music, as opposed to listening,
+requires a completely different grammar of body postures. It engages different
+practices and different cultural and financial institutions.
+
+We confuse the conversation when we conflate the modality of information
+(music, image, text) with the physical channel of its transmission (air,
+liquid crystal, paper). Modality determines the message to a much greater
+extent than the medium. In fact, in most communication systems the medium
+serves as a relatively neutral conduit. One can use a violin to transmit a
+concerto, or a secret message. The medium remains the same, whereas the mode
+of apprehension changes. To decode a secret message played by a violin, the
+listeners might have to attune themselves to a different pitch. The modality
+in short shapes the act of listening, where air, wood, and strings remain
+agnostic to the information being transmitted.
+
+Initially, we must know how to perceive using the right senses: when to look,
+smell, or listen. The modality further contains the message's "register,"
+which shows us how to identify its signifying elements. In refined arts it
+goes further to govern bodily technique: one must neither speak nor cough
+during a classical recital, for example. One can look at but not touch artwork
+in a museum. The modality of communication ultimately demands corporal
+compliance; it is a claim on the body. Therein lies the starkest difference
+between analog and digital media. The shift from one to the other affects not
+the message but the mode of perception. It is as if someone has asked you to
+read a book or to watch a film in a stranger's armchair. It feels "off" in a
+way that is difficult to explain.
+
+The mode of digital perception similarly contorts the body into new and
+unfamiliar shapes, which often give discomfort. Something happens when digital
+media subsume their analog counterparts. But what is it?
 
 ## Digital Wake (My Two Terminators)
 
@@ -116,96 +112,94 @@ for the word "digital" produces many sharp, sterile visuals of that kind.
 Abstract geometric patterns predominate in the first dozen or so search
 results: often forming curved, three-dimensional tunnels or lines that
 resemble circuit boards. There are things too of course, cheap and expensive
-consumer things like scanners, flash cards, circuit boards, and backup drives,
-but most of all it is cameras---digital cameras, which stand in stark contrast
-to "traditional film photography." Few marketplace objects exhibit such a
-strong sense of the opposition between the digital and the analog as a
-consumer camera. These search pages also contain the outdated clichés of
-yesterday's digital detritus: digital clocks, purple lightning bolts, and the
-abstract chrome landscapes made widely available by graphic editing software
-in the 1990s. There are numbers. The preferred arrangement is in a torrential
-grid---the matrix---descending in the background, behind a generic humanoid
-form, also translucent. Or better yet: alphanumeric characters comprising a
-globe or a face. Ones and zeros are best arranged as an unending string, which
-runs at a slight angle on the Z-axis and beyond the frame, foregrounding
-whatever object that is meant to take on the digital as a property: the
-digital wake.
+consumer things like scanners, memory cards, circuit boards, and backup
+drives, but most of all there are cameras---digital cameras, which stand in
+stark contrast to "traditional film photography." Few marketplace objects
+exhibit such a strong sense of the opposition between the digital and the
+analog as a consumer camera.
 
-When we constrict the image-search chronologically to the twenty-first
-century, we see these cool-blue images give way to a more varied palette:
-bright prime greens, yellows, and reds in retro-geometric pixelated shapes.
-Pixels take the place of numbers here---not the small, invisible pixels of
-contemporary computer screens, but the large and boxy pixels that by their
-pronounced boxiness flaunt the digital being of the image. Such an image
-alludes to the time when pixels really did stand out as individual units---the
-technology not being refined enough to produce the illusion of visual
-continuity. This faux lo-fi aesthetic likely appeals to the romantic nostalgia
-many feel for the early days of computing, and yet it also works as an
-assertion of independence from that history. No longer shall the digital serve
-to emulate reality, nor be judged merely by its degree of lifelike
-verisimilitude. The blocky world of Markus Persson's *Minecraft* (2009) stands
-in antithesis to the magical realism of Cyan's *Myst* (1995), the best-selling
-graphic-adventure PC game of the twentieth century. Where the critics lauded
-the latter for its moody and atmospheric photo-realistic environments, the
-former embraces the playful, 8-bit, low-fidelity aesthetic of gaming consoles
-from the 1980s. The pseudo-pixelated world of Minecraft encourages its
-inhabitants to experiment with deconstruction, producing cuboid landscapes
-that foreground discontinuity of form and surface.
+These search pages also contain the outdated clichés of yesterday's digital
+detritus: digital clocks, purple lightning bolts, and the abstract chrome
+landscapes made widely available by graphic editing software in the 1990s.
+There are numbers. The preferred arrangement is in a torrential grid---the
+matrix---descending in the background, behind a generic humanoid form, also
+translucent. Or better yet: alphanumeric characters comprising a globe or a
+face. Ones and zeros are best arranged as an unending string, which runs at a
+slight angle on the Z-axis and beyond the frame, foregrounding whatever object
+that is meant to take on the digital as a property: the digital wake.
 
-The iconography of the digital works in the other direction too, by
-approaching and challenging the perceived continuity of the analog world.
-Liquid-metal *Photoshop* font effects are thus supplanted by hyperrealistic
-renderings of fire, smoke, and water: fluid elements that are difficult to
-render digitally, especially in movement. Digital alchemy approaches the
-boundaries of technological possibility, but absent the constraints of realism
-it pushes past reality, past nature, and past mere fidelity to the natural
-world. A real-world explosion caught on film looks cheap in comparison to its
-cinematic "special-effects" simulacrum. A blazing corporate logo rendered
-digitally would lose much of its appeal were it produced by literally lighting
-a logograph on fire. The burning digital logograph does not just say "We are
+When we constrict the image-search to the twenty-first century, we see these
+cool-blue images give way to a more varied palette: bright prime greens,
+yellows, and reds in retro-geometric pixelated shapes. Pixels take the place
+of numbers here---not the small, invisible pixels of contemporary computer
+screens, but the large and boxy pixels that by their pronounced boxiness
+flaunt their digital being. These images allude to a time when pixels really
+did stand out as individual units, when technology was not refined enough to
+produce the illusion of visual continuity. This faux lo-fi aesthetic likely
+appeals to the romantic nostalgia many feel for the early days of computing,
+and yet it also asserts its independence from that history. No longer shall
+the digital serve to emulate reality, nor be judged merely by its degree of
+lifelike verisimilitude. The blocky world of Markus Persson's *Minecraft*
+(2009) stands in antithesis to the magical realism of Cyan's *Myst* (1995),
+the best-selling graphic-adventure PC game of the twentieth century. Where the
+critics lauded the latter for its moody and atmospheric photo-realistic
+environments, the former embraces the playful, 8-bit, low-fidelity aesthetic
+of gaming consoles from the 1980s. The pseudo-pixelated world of Minecraft
+encourages its inhabitants to experiment with deconstruction, producing cuboid
+landscapes that foreground discontinuity of form and surface.
+
+Digital iconography works in another direction too, by approaching and
+challenging the perceived continuity of the analog world. Liquid-metal
+*Photoshop* font effects are thus supplanted by hyperrealistic renderings of
+fire, smoke, and water: fluid elements that are difficult to render digitally,
+especially in movement. Digital alchemy approaches the boundaries of
+technological possibility, but absent the constraints of realism it pushes
+past reality, past nature, and past mere fidelity to the natural world. A
+real-world explosion caught on film looks cheap in comparison to its cinematic
+"special-effects" simulacrum. A blazing corporate logo rendered digitally
+would lose much of its appeal were it produced by literally lighting a
+logograph on fire. The burning digital logograph does not just say "We are
 hot!" or "We are on fire!" (that would be too naive)---it says that our fire
 is better than fire, more vivid and more lifelike. The digital fire is the
 ideal, Platonic image of fire: an image that all fires should emulate.
 
-I am eliciting these digital commonplaces to get at the conflicting popular
-intuitions about "the digital" as something at once discrete, angular, and
-therefore reductive and deterministic, but also shiny, smooth, perfect, and
-liquid in the way that threatens to drown out and to transcend (instead of
-reducing or determining) everything susceptible to the patina of time,
-everything having distinct shape and anatomy. Think here about the transition
-between films *The Terminator* and *Terminator 2*, where the "bad" robot that
-sets out to destroy humanity is cast at first in the guise of an animatronic
-mechanism, but then as an amorphous puddle of mercury that makes the original
-mechanical Arnold look like a friend and savior [@cameron_terminator_2001;
-@cameron_terminator_2003]. The first terminates with shotguns and tire irons,
-where the second morphs into human shapes and pours itself inside, threatening
-life from within.
+I am evoking these commonplaces to get at the conflicting popular intuitions
+about "the digital" as something at once discrete, angular, and therefore
+reductive and deterministic, but also shiny, smooth, perfect, and liquid in
+the way that drowns out or transcends everything susceptible to time,
+everything that has a distinct shape and anatomy. Consider the transition
+between between *The Terminator* and *Terminator 2*. In the former, the "bad"
+robot that sets out to destroy humanity is cast as an animatronic mechanism.
+In the latter, it is an amorphous puddle of mercury that makes the original
+mechanical Arnold seem like a friend and savior [@cameron_terminator_2001;
+@cameron_terminator_2003]. The first terminates with shotguns and tire irons;
+the second morphs into human shapes and pours itself inside, threatening life
+from within.
 
-Like the terminators of yesteryear, digital sprites and bogeymen lose their
-hold over popular imagination. Digital photography, digital clocks, and
+Like the terminators of yesteryear, digital sprites and bogeymen have lost
+their hold over popular imagination. Digital photography, digital clocks, and
 digital humanities already ring archaic in their futuristic ambition, going
 the way of e- or i- anything: the way of retro-suffixes like -bot, -mat, -lux,
 and -tron. The digital dissolves into the everyday as all clocks, all books,
-all texts, and all human activity passes through some form of "digital being."
-My aim here and throughout has been to understand what is meant by its
+all texts, in short, all human activity passes through some form of "digital
+being." My aim here and throughout has been to understand what is meant by its
 evocation: to "come to terms," to make visible, to disturb it, to denature,
 and to make it strange again.
 
-Although the quality of being digital plays a central role in the formation of
-new compounds like "digital media," "digital humanities," or the "digital
-divide," what the digital means often contains entirely conflicting qualities
-depending on the context. In some cases, digitality stands in opposition to
-the notion of naturally "analog" human experience. In this view, digital media
-reduce "fuzzy" and indeterminate human experience to something binary,
-discrete, and deterministic. For example, in his influential monograph *The
-Cultural Logic of Computation* David Golumbia insists that "languages are not
+"Digital media," "digital humanities," "the digital divide:" they share a
+word, but "digital" suggests entirely differing qualities depending on the
+context. In some cases, digitality stands in opposition to a notion of
+naturally "analog" human experience. Thus, digital media reduce "fuzzy" and
+indeterminate human experience to something binary, discrete, and
+deterministic. In his influential monograph *The Cultural Logic of
+Computation*, for example, David Golumbia insists that "languages are not
 codes." Human language practice for him therefore should not be reduced to a
 "single correct interpretation" or "at the absolute limit, a determinate
 number of discrete interpretations" [@golumbia_cultural_2009, 291]. "To submit
 a phenomenon to computation," Golumbia writes, "is to striate otherwise-smooth
-details, analog details" [@golumbia_cultural_2009, 159]. Following Deleuze,
-Golumbia conceives of "striated space" in opposition to spaces "smooth" and
-"analog" like brains, society, politics, language, and baseball
+details, analog details" [@golumbia_cultural_2009, 159]. Following Deleuze, he
+conceives of "striated space" in opposition to spaces "smooth" and "analog"
+like brains, society, politics, language, and baseball
 [@golumbia_cultural_2009, 231 & 343]. For Golumbia, striated and digital
 phenomena fall under suspicion because "our society is already oriented
 towards binarisms, hierarchy, and instrumental rationality"
@@ -239,8 +233,8 @@ situated---knowledge at this time and this place experienced by this limited
 being." By contrast, the digital humanities imagine a "steady yet dynamic
 state where there is movement and change, but no center, no beginning and end,
 just all middle." The digital vision is meant to deliver us from linearity and
-from time itself, Fish argues [@fish_digital_2012]. For Fish, the digital
-fails because it does not offer *enough* difference:
+from time itself [@fish_digital_2012]. Indeed, Fish argues, the digital fails
+because it does not offer *enough* of a difference:
 
 > Delivered from linearity, from time-bound, sharply delineated meanings, from
 > mortality, from death, everyone, no longer a one, will revel in and
@@ -250,103 +244,90 @@ fails because it does not offer *enough* difference:
 > that God's own ear / Listens delighted. (John Milton, "Paradise Lost," V,
 > 620, 622-627)
 
-Whether too discrete or too continuous, the critics agree on the danger of
-digitization. Digital being takes place of determinism and mechanization in
-the role of the age-old opponent to humanism. Whether it is Plato discussing
-the role of writing in *Phaedrus*, or Fish discussing the development of
-digital humanities through Milton, critics worry that successive modes of
-representation fail to weave the human experience into the fabric of new
-media. New media thus always retreats from some previously constructed
-category of the human, with one audience applauding the liberatory, post-human
-potential of the motion and the other lamenting its potential for destruction
-and demise. It is not a surprise then to often find the notion of the human
-close to the debates around digital and analog modes of representation. A
-vision of humanity is always at stake, with all its spiritual and political
-consequences.
+Whether too discrete or too continuous, critics agree on the danger of
+digitization. Digital being follows determinism and mechanization as the
+opponent to humanism. Whether it is Plato discussing the role of writing in
+*Phaedrus*, or Fish discussing the development of digital humanities through
+Milton, critics worry that successive modes of representation fail to weave
+the human experience into the fabric of new media. New media thus always
+retreats from some previously constructed category of the human, with one
+audience applauding the liberatory, post-human potential of the motion and the
+other lamenting its potential for destruction and demise. A vision of humanity
+is always at stake, with all its spiritual and political consequences.
 
-Because the apprehension of media is grounded at some basic level in the
-physical capabilities of human perception, new media affect the very notion of
-what it means to be human. I mean this beyond simply "new ways of seeing" in a
-way a telescope or a camera can be thought of as an extension of human the
-eye. I am interested first in the challenge digital media pose to humanity as
-a determined, a priori category.[^ln5-apriori] The repeated contradictions in
-the conversation about digital media expose historically contingent anxieties.
-Both orthodoxies of humanism and the futuristic ambition of post-humanism are
-therefore displaced onto the same digital--analog continuum. The material
-conditions of media production do not however allow for social constructivism
-unmoored from the senses. The development of telegraphs and televisions
-depends on the limits of human perception intrinsically. The illusion of
-continuity disappears when a projection flickers much slower than 60 frames
-per second, for example. We are left then somewhere between social
-constructivism and technological determinism. A historical account of digital
-media must therefore acknowledge both the contingent and the essential
+Because apprehension is grounded in the physical capabilities of human
+perception, new media affect the very notion of what it means to be human. I
+am interested first and foremost in the challenge digital media pose to
+humanity as a determined, a priori category.[^ln5-apriori] The repeated
+contradiction in debates around digital media exposes a historically
+contingent anxiety. Both orthodoxies of humanism and the futuristic ambition
+of post-humanism are therefore displaced onto the same digital--analog
+continuum. The material conditions of media production do not, however, allow
+for social constructivism unmoored from the senses. The development of
+telegraphs and televisions depended on the limits of human perception.
+Likewise, the illusion of continuity disappears when a projection flickers
+much slower than 60 frames per second. We are left then somewhere between
+social constructivism and technological determinism. A historical account of
+digital media must therefore acknowledge both the contingent and the essential
 characteristics of perception.
 
-In what follows I offer several case studies that challenge commonly expressed
-intuitions in the conversation about digital media. Ultimately, we will see
-that what appears at first to be a property of media is in fact a claim on the
-mode of perception: a claim on the body, a subtle corporeal manipulation, an
-order to comply.
+In what follows I offer two case studies that challenge commonly expressed
+intuitions about digital media. They reveal that ostensible "properties" of
+media are in fact claims on the mode of perception.
 
 [^ln5-apriori]: An apriori given because one must be human first to critically
 examine the concept.
 
 ## Spiritual Telegraph
 
-Let us initially note that the contemporary attempt to "fix" human experience
-somewhere on the spectrum between discrete and continuous representation in
-relation to digital computers echoes a similar conversation about the
-electrical telegraph at the turn of the previous century. The parallels
-suggest that what we may now perceive as an essential quality of some extant
-corporeal technique---writing by hand, for example---in fact constitutes an
-arbitrary relationship between technology and some arbitrary naturalized idea
-of the human.
+The contemporary attempt to "fix" human experience on the spectrum between
+discrete and continuous representation echoes a similar conversation that
+occurred at the turn of the previous century. The parallels suggest that our
+present belief in the essentialism of corporeal technique---writing by hand,
+for example---in fact constitutes an arbitrary idea of the human.
 
-Consider the spiritual conversations surrounding the development of the
-telegraph in the beginning of the twentieth century. At the time before the
-standardization of the telegraph alphabets, multiple ways of translating
-language into electrical signal competed for their share of the rapidly
-growing telecommunications market. In particular, a well-publicised feud
+Consider the spiritual conversations surrounding telegraphy. At the time
+before the standardization of the telegraph alphabets, multiple ways of
+translating language into electrical signal competed for their share of the
+rapidly growing telecommunications market. Soon, a well-publicised feud
 emerged between proponents of direct current (DC) and alternating current (AC)
 based systems. A few technical details are necessary to understand how an
 argument about engineering designs gained a metaphysical significance.
 
-Telegraph systems based on the neutral direct current design assumed
-electrical current flow for some elements of the encoding (like dashes) and
-absence of current for others (like dots) [@welk_neutral_2000].[^ln3-ndc]
-Systems based on alternating current designs converted Morse code (and other
-encoding systems) into pulses of alternating positive and negative current,
-where positive current could stand for "dashes" and negative for "dots."
-Direct current designs preferred the use of the "saw tooth" or "square"
-periodic waveforms to represent binary states. They signal was either "on" or
-"off" with nothing in between. By contrast, literature on alternating current
-designs often argued for the use of the more round, sinusoidal signal, which
-covered a more "organic" range of amplitudes. The sinusoidal wave could be
-modulated into a multitude of states beyond binary [@crehore_practical_1900;
-@hausmann_telegraph_1915, 374]. Instead of being just "on" or "off" it offered
-measurable points of current intensity along the curve of the sine wave.
-Consequently, alternating current designs tended towards the transmission of
-continuous quantities like images and cursive handwriting. The sinusoidal
-curve itself resembled natural, organic shapes, like handwriting. The
-alternating current suggested a visual analogy between the thing being
-transmitted (picture or text) and electric signal.
+Telegraph systems based on direct current design converted electrical current
+flow into dashes, and the absence of current into dots
+[@welk_neutral_2000].[^ln3-ndc] Systems based on alternating current designs
+converted Morse code (and other encoding systems) into pulses of alternating
+positive and negative current, where positive current could stand for "dashes"
+and negative for "dots." Direct current designs preferred the use of the "saw
+tooth" or "square" periodic waveforms to represent binary states. The signal
+was either "on" or "off" with nothing in between. By contrast, literature on
+alternating current designs often argued for the use of the more round,
+sinusoidal signal, which covered a more "organic" range of amplitudes. The
+sinusoidal wave could be modulated into a multitude of states
+[@crehore_practical_1900; @hausmann_telegraph_1915, 374]. Instead of being
+just "on" or "off" it offered measurable points of current intensity along the
+curve of the sine wave. Consequently, alternating current designs tended
+towards the transmission of continuous quantities like images and cursive
+handwriting. The sinusoidal curve itself resembled natural, organic shapes,
+like handwriting. The alternating current suggested a visual analogy between
+the thing being transmitted (picture or text) and electric signal.
 
 The Pollak-Virag telegraph that Bernhard Siegert mentions briefly in his
 seminal essay on German media theory was one such device.[^ln3-virag] The
-original Pollak-Virag machine patented in 1900 proposed to send regular Morse
-encoding by means of alternating current of two different polarities and two
-different strengths, for a total of four types of signals.[^ln3-siegert] Other
-than the irregular signal shape and the use of alternating current, the
-Pollak-Virag encoding differed little from single-Morse systems. By 1901,
-however, the authors were issued an American patent for the "Writing
-Telegraph," which builds on their previous design in an interesting way.
-Rather than using a wave in four steps, the authors proposed an "automatic
-transmitter capable of sending current impulses over the line which correspond
-to the direction and the size of a single letter element"
-[@pollak_writing-telegraph_1901, 3]. In other words, they wanted to bend the
-sinusoidal wave to correspond roughly to the shape of the letter. In this way,
-the letter "s," to pick an easy example, could be transmitted by the means of
-an s-shaped wave.
+original Pollak-Virag machine patented in 1900 sent regular Morse encoding by
+means of alternating current of two different polarities and two different
+strengths, for a total of four types of signals.[^ln3-siegert] Other than the
+irregular signal shape and the use of alternating current, the Pollak-Virag
+encoding differed little from single-Morse systems. By 1901, however, the
+authors were issued an American patent for the "Writing Telegraph," which
+built on their previous design in an interesting way.  Rather than using a
+wave in four steps, the authors proposed an "automatic transmitter capable of
+sending current impulses over the line which correspond to the direction and
+the size of a single letter element" [@pollak_writing-telegraph_1901, 3]. In
+other words, they wanted to bend the sinusoidal wave to correspond roughly to
+the shape of the letter. In this way, the letter "s," to pick an easy example,
+could be transmitted by the means of an s-shaped wave.
 
 ![Record obtained at the receiving station, illustration from "Means for
 Rapidly Transmitting Telegrams," 1900
@@ -357,25 +338,23 @@ Rapidly Transmitting Telegrams," 1900
 The Pollak-Virag design thus aimed to constitute an electrical alphabet
 analogous to cursive writing: "to trace in a substantially continuous unbroken
 outline the written letters composing the matter transmitted"
-[@pollak_writing-telegraph_1901, 1]. To achieve the effect, the engineers
-broke cursive script down into distinct vertical and horizontal elements. The
+[@pollak_writing-telegraph_1901, 1]. To achieve this, the engineers broke
+cursive script down into distinct vertical and horizontal elements. The
 Pollak-Virag encoding thus represented a continuous quality---cursive
 script---through discrete atomic elements, as punches that moved the writing
-stylus in cardinal directions---up, down, left, or right.  For this reason, it
-would be a mistake to understand the Pollak-Virag telegraph as a purely analog
-device. The analogy is rather achieved through a process of discrete analytic
-atomization of script on ticker tape and its subsequent reconstitution into a
-continuous shape. The cardinal directions comprise an intermediate, discrete
-description of smooth handwriting curves.  Pollak and Virag believed that
-their sine wave telegraph had the distinct advantage transmitting messages
-"recorded in ordinary written or script characters." In the language of the
-patent, other forms of "facsimile" telegraph transmitted merely the
-"conventional form" of the letter, and not the letter itself. By contrast, the
-Pollak-Virag system was in their words "non-autographic." The autographic
+stylus in cardinal directions---up, down, left, or right. It was not a purely
+analog device. The analogy was rather achieved through a process of discrete
+analytic atomization of script on ticker tape and its subsequent
+reconstitution into a continuous shape. The cardinal directions comprise an
+intermediate, discrete description of smooth handwriting curves. Pollak and
+Virag believed that their sine wave telegraph had the distinct advantage of
+transmitting messages "recorded in ordinary written or script characters." In
+the language of the patent, other forms of "facsimile" telegraph transmitted
+merely the "conventional form" of the letter, and not the letter itself,
+whereas the Pollak-Virag system was "non-autographic." The autographic
 telegraph preserved the particularity of the human hand. It purported to
-transmit not only the conventional form of the letter, but the peculiarity of
-an individual's signature. It was the "humane" telegraph in the sense that it
-preserved something human.
+transmit the peculiarity of an individual's signature. It was the "humane"
+telegraph in the sense that it preserved a human trace.
 
 The metaphysics accompanying telegraph communication at the time were in fact
 often concerned with human erasure. Notions of material discreteness and
@@ -383,87 +362,92 @@ continuity represented not mere physical attributes of encoding or electricity
 but higher-order cultural and even ethical categories. Beneath the technical
 conversations about the advantages of discrete or continuous electrical signal
 lay a philosophic concern with the fundamental makeup of the universe itself.
-For Henri Bergson, one of the most prominent philosophers of the time, the
-"real whole of the universe" constituted an "indivisible continuity"
-[@bergson_creative_1944, 36]. Science, technology, and other "artificial
-systems" in Bergson's thought impose discrete "partial views" on the
-whole.[^ln3-bergsonism] The partial views, for Bergson, resemble the operation
-of the cinematograph, which divides continuous motion into distinct frames. By
-running the frames through the projecting apparatus, we are thus able to
-"reconstitute the individuality of each particular movement." "Such is the
-contrivance of the cinematograph. And such is also that of our knowledge, " "
-Bergson wrote. " [@bergson_creative_1944, 332]. In this way, the intellect
-continually separates the undifferentiated reality into discrete states of
+For Henri Bergson, the "real whole of the universe" constituted an
+"indivisible continuity" [@bergson_creative_1944, 36]. Science, technology,
+and other "artificial systems" in his thought imposed discrete "partial views"
+on the whole.[^ln3-bergsonism] The partial views, for Bergson, resembled the
+operation of the cinematograph, which divides continuous motion into distinct
+frames. By running the frames through the projecting apparatus, the telegraph
+reconstituted "the individuality of each particular movement." "Such is the
+contrivance of the cinematograph," Bergson wrote, "and such is also that of
+our knowledge. [@bergson_creative_1944, 332]" In this way, the intellect
+continually separated the undifferentiated reality into discrete states of
 time and space [@bergson_creative_1944, 167-182; @russell_philosophy_1914, 4].
-But these states are virtually, not actually, discrete. The evolution of life
-proceeds "rather like a shell" which "bursts into fragments," which are
-themselves again shells [@bergson_creative_1944, 109].
+But these states were virtually, not actually, discrete. The evolution of life
+proceeded, according to Bergson, "rather like a shell" which "bursts into
+fragments," which are themselves again shells [@bergson_creative_1944, 109].
+
+<!-- consider expanding to draw attention to the fact that fragments are
+discrete and analytic. expand to simplify -->
 
 In Bergson's view of the universe, the brain and the central nervous system
-act as a kind of a "central telephonic exchange," which communicates between
-the extrinsic continuous world and the intrinsic "snapshots" stored in memory
+act as a "central telephonic exchange," which communicates between the
+extrinsic continuous world and the intrinsic "snapshots" stored in memory
 [@bergson_matter_1912, 19]. The mind receives "images" of the world that it
-compares with existing "stored" images to produce a kind of a new composite
-image that is then again stored into memory, and so on. With this in mind,
-Bergson denies the "flashlight" model of discovering facts about the world.
-The mind does not shine a light to bring attention to this or that hidden
-feature of the world. "Metaphor for metaphor, we would rather compare the
-elementary work of attention to that of the telegraph clerk who, on receipt of
-an important dispatch, sends it back again, word for word, in order to check
-its accuracy" [@bergson_matter_1912, 129]. The object in the world is thus
-neither an independent thing nor purely a product of the mind. By this
-"telegraphic" picture, Bergson avoids both fully relativistic and fully
-essentialist accounts of knowledge making.
+compares with existing "stored" images to produce a new composite image that
+is once again stored into memory. Bergson thus denied the "flashlight" model
+of perception. The mind, according to him, does not shine a light to bring
+attention to this or that hidden feature of the world:
 
-Of course to agree with Bergson is to take on the model of the mind as a
-cinematographic "framing" device along with a model of the world that is a
-priori continuous in nature. In a damning evaluation of Bergson's philosophy,
-Bertrand Russel noted that such assumptions are merely poetic images, not
-subject to falsification [@russell_philosophy_1914, 24]. They hold the truth
-of poetry, as Russel wrote, not truth of physics or philosophy. Bergson
-assumes the world to constitute a continuous system and the mind a discrete
-one, akin to a telegraph. To this day, one would find it difficult to find
-scientific consensus on such topics as the "digital make up of the physical
-world" or on the continuity of conciousness. And there was certainly no
-consensus on the matter in Bergson's time. The analogy between the mind and
-the telegraph falls apart when one considers that even the nature of
-telegraphy was ultimately at question. There were telegraphs on the spectrum
-that used discrete, digital and telegraphs that used more analog, continuous
-types of signals.
+> Metaphor for metaphor, we would rather compare the elementary work of
+> attention to that of the telegraph clerk who, on receipt of an important
+> dispatch, sends it back again, word for word, in order to check its accuracy
+> [@bergson_matter_1912, 129].
 
-Consider the following conversation unfolding on the pages of the
-Swedenborg-inspired *Spiritual Telegraph* in 1854, where an anonymous author
-expounds a kind of a theological media theory, which hinges on, what he or she
-assumes to be, the ultimately discrete nature of the universe
-[^ln3-swedenborg].  Anonymous writes: "Whenever two persons are brought into
-sympathetic relations, either by corporeal contact or through those refined
-media which pervade the Universe and serve as the airy vehicles of thought,
-they mutually feel the presence of each other." In this relationship "the mind
-which is gifted with the greater degree of activity and power" at once attains
-a hierarchal relation to the lesser intellect, becoming "the proximate cause
-and fountain of inspiration to the other" [@brittan_spiritual_1854, 169]. God
-naturally occupies the highest point of such a pyramid: "from sources superior
-to ourselves, the very elements of life and thought flow into us, and every
-living thing, according to its nature and discrete degree, derives a kind of
-inspiration from that which is above." The "discrete degree" must be
-preserved, because without it the hierarchy would lose meaning.  Thus "in
-order to facilitate the transmission of impressions," "the recipient" of the
-vital flow "must be willing to receive instruction and assume the passive or
-negative relation of a learner." Without discreteness and without hierarchy
-"he will be likely to resist unconsciously, the infusion of foreign
-impressions and Divine ideas" [@brittan_spiritual_1854, 169]. In this
-essentially telegraphic model of the universe, to deny the step-wise hierarchy
-of "refined media" is to close oneself off to the "transmission of
+The object in the world is thus neither an independent thing nor purely a
+product of the mind. By this "telegraphic" model of perception, Bergson avoids
+both fully relativistic and fully essentialist accounts of knowledge making.
+
+To agree with Bergson is imagine the mind as a cinematographic "framing"
+device and accept that the world is a priori continuous in nature. In a
+damning evaluation of Bergson's philosophy, Bertrand Russel noted that such
+assumptions were merely poetic images, not subject to verification
+[@russell_philosophy_1914, 24]. They hold the truth of poetry, as Russel
+wrote, not truth of physics or philosophy. To this day, it is difficult to
+find scientific consensus on such topics as the "digital make up of the
+physical world" or on the continuity of conciousness. There was certainly no
+consensus on the matter in Bergson's time. Even the nature of telegraphy was
+disputed at the time. There were telegraphs that used discrete digital signals
+and those that used more analog, continuous ones.
+
+Consider the following passages from the Swedenborg-inspired *Spiritual
+Telegraph* in 1854, in which an anonymous author expounds a theological media
+theory that hinges on what he or she assumes to be the ultimately discrete
+nature of the universe.[^ln3-swedenborg] Anonymous writes:
+
+> Whenever two persons are brought into sympathetic relations, either by
+> corporeal contact or through those refined media which pervade the Universe
+> and serve as the airy vehicles of thought, they mutually feel the presence
+> of each other [@brittan_spiritual_1854, 169].
+
+In this relationship "the mind which is gifted with the greater degree of
+activity and power" at once attains a hierarchical relation to the lesser
+intellect, becoming "the proximate cause and fountain of inspiration to the
+other" [@brittan_spiritual_1854, 169]. God naturally occupies the highest
+point of such a pyramid:
+
+> from sources superior to ourselves, the very elements of life and thought
+> flow into us, and every living thing, according to its nature and discrete
+> degree, derives a kind of inspiration from that which is above
+> [@brittan_spiritual_1854, 169].
+
+The discrete degree must be preserved, in other words, because without it the
+hierarchy would lose meaning. Thus in order to facilitate the transmission of
+impressions, "the recipient" of the vital flow "must be willing to receive
+instruction and assume the passive or negative relation of a learner." Without
+discreteness and without hierarchy he will resist "the infusion of foreign
+impressions and Divine ideas" [@brittan_spiritual_1854, 169].
+
+In this essentially telegraphic model of the universe, to deny the step-wise
+hierarchy of "refined media" is to close oneself off to the "transmission of
 impressions," in a communication act---consisting of a "contact" and the
 exchange of signifying "thought vehicles"---between "source superior" and the
 "receiver of instructions," who are placed in a binary and opposing relation
 --"negative" but without "resistance"---to the idea of the divine.
 
-Contrary to the intuition that would associate the discrete view of the
-universe with determinism, of the kind advanced today by Golumbia and Fish,
-and its consequent threat to the idea of free will, telegraph spiritualists
-instead associate determinism with continuity. Witness one George Henry Dole
-writing in his *Philosophy of Creation*, in 1906:
+Unlike Golumbia and Fish, telegraph spiritualists associated determinism with
+continuity not discreteness. Witness one George Henry Dole writing in his
+*Philosophy of Creation*, in 1906:
 
 > Scientists have prosecuted research on the plane of *continuous degrees of
 > the ultimates*, and they have thereby failed to penetrate to *interior
@@ -471,23 +455,22 @@ writing in his *Philosophy of Creation*, in 1906:
 > not from the Lord, but from nature, of which they have no other idea than
 > that it is something mechanical [@dole_philosophy_1906].
 
-Continuity for the spiritual telegraphists must be shunned because it mixes
-the sacred with the profane. For the spiritualist, a truly Christian order
-must remain digital. To maintain otherwise would be to propagate the Gnostic
-heresy [@edwards_neglected_1990; @shaked_dualism_2005, 52-71].
+Telegraph spiritualists shunned continuity because it mixed sacred and
+profane. They believed that a truly Christian order would remain digital in
+essence. To claim otherwise would be to propagate the Gnostic heresy
+[@edwards_neglected_1990; @shaked_dualism_2005, 52-71].
 
 Where Bergson believed the telegraph to translate continuous "analog"
-experience into discrete "digital" snapshots, the Swedenborgian mystic sees it
-as a model of communication that maintains fidelity to the hidden order of a
-well-differentiated and discrete universe. The intuitions are completely
-reversed from one model to another. In this way, when arguing in opposition to
-sine-wave telegraphy in 1905, Donald Murray, whose alphabet would become the
-basis for modern character encodings like ASCII and UTF-8, displays a similar
-bias against analog quantities, which for him, cannot capture complex human
-activity like writing or dance. "About ten years ago, there was a brisk
-discussion in some of the electrical journals in regards to simple harmonic
-curve or sine wave for the transmission of power by by the alternating
-current," he writes, continuing:
+experience into discrete "digital" snapshots, the Swedenborgian mystic saw it
+as a model of communication that maintained fidelity to the hidden order of a
+well-differentiated and discrete universe. Their intuitions were completely
+opposed. When arguing against sine-wave telegraphy in 1905, Donald Murray,
+whose alphabet would become the basis for modern character encodings like
+ASCII and UTF-8, displayed a similar bias against analog quantities, which,
+for him, could encode complex human activity like writing or dance. "About ten
+years ago, there was a brisk discussion in some of the electrical journals in
+regards to simple harmonic curve or sine wave for the transmission of power by
+by the alternating current," he wrote:
 
 > If Smith wants to make Jones spin round like a dancing Dervish, the best way
 > might be for Smith to transmit sine waves [...] but in practice Smith always
@@ -496,29 +479,25 @@ current," he writes, continuing:
 > by introducing upper harmonics in a fragmentary, non-periodic, and very
 > irregular way [@murray_setting_1905, 559].
 
-Murray, contrary to Bergson, assumed that human experience is discrete by
-nature. A century prior to the emergence of the digital--analog divide, the
-distinction between sine and square waves polarized popular opinion along
-similar fault lines. In each case, the nature of the medium seemed to be, to
-the participants of the discussion, implicated in the conversation about human
-nature. For Murray, the regular and continuous sine wave fell under
-metaphysical suspicion, just as the discrete nature of computation would fall
-under suspicion for contemporary critics like David Golumbia a century later.
-Human experience, in Murray's view, is analogous to the saw-tooth wave, both
-having the qualities of being fragmentary, non-periodic, and irregular.  By
-contrast, the sine wave had for him the exotic characteristics of being
-cyclical, repetitive, and continuous.  The shape of the square wave more
-closely resembled Murray's own normative vision of human
+Murray, contrary to Bergson, assumed that human experience was discrete by
+nature. For him, the regular and continuous sine wave fell under metaphysical
+suspicion, just as the discrete nature of computation would fall under
+suspicion for contemporary critics like Golumbia and Fish. Human experience,
+in Murray's view, is analogous to the saw-tooth wave: fragmentary,
+non-periodic, and irregular. The sine wave, by contrast, had the "exotic"
+characteristics of being cyclical, repetitive, and continuous. The shape of
+the square wave more closely resembled Murray's own normative vision of human
 culture.[^ln3-dervish] But how or why would any piece of technology confirm to
-some "natural" state of human affairs?  The appeal to normative discourse in
-this context belies a kind of a technological essentialism, reductive of both
-technology and human nature. Neither can be definitively reduced to some
-universal notions of "discrete" or "continuous" quality. Under close
-examination, human perception and cognition involves a complex synthesis of
-analog and digital processes. Telegraphs and computers too function in the
-digital mode at some layers of the system, and at others in the analog. The
-very distinction between digital and analog, as we will continue to question
-it in this chapter, comes under increasing doubt.
+some "natural" state of human affairs?
+
+The appeal to normative discourse in this context belies a kind of a
+technological essentialism, reductive of both technology and human nature.
+Neither can be definitively reduced to universal notions of "discrete" or
+"continuous." Under close examination, human perception and cognition involves
+a complex synthesis of analog and digital processes.  Telegraphs and computers
+too function in the digital mode at some layers of the system, and at others
+in the analog. The very distinction between digital and analog, as we will
+continue to question it in this chapter, comes under increasing doubt.
 
 It is tempting to think of the telegraph as a digital [*sic*] apparatus,
 created to convert analog [*sic*] input into electric signal.[^ln3-tele] The
@@ -534,42 +513,37 @@ calling, borrowing from the language of concrete poetry, inter- or
 trans-mediation: from notebook to paper tape to the movement of an
 electromagnetic vibrator to the recording mirror galvanometer into the copper
 wire to the receiving vibrator and into the machinations of the printing
-apparatus that once again produces ink and alphabet.[ln5-intermedia] This
+apparatus that once again produces ink and alphabet.[^ln5-intermedia] This
 entire system further participates in the complexities of the human
-neurological apparatus, involving heptic, visual, and cognitive feedback. In
-moving from one medium to another, language undergoes multiple changes of
-encoding: within the Pollak-Virag telegraph from script to perforation, from
-mechanical movement to the shape of the sinusoidal electrical impulse, and
-back out through a series of transformations into script. It is difficult
-therefore to pin down any of these sates as definitively digital or
-definitively analog in an sense of the word.
+neurological apparatus, involving haptic, visual, and cognitive feedback.
+Neither wholly digital nor analog, the signal undergoes multiple encoding
+changes in transmission.
 
-[ln5-intermedia]: On intermedia see @wendt_sound_1985; @higgins_intermedia_2001.
+[^ln5-intermedia]: On intermedia in concrete poetry see @wendt_sound_1985;
+@higgins_intermedia_2001.
 
 I would like to pause for moment to define my terms. By "encoding," I mean a
 "controlled system of representation." Representation in its unrestrained form
 (as in "pictorial representation") differs from "encoding" in the size of its
 vocabulary. Painting and other forms of uninhibited representational
 conventions offer limitless expressive possibilities. The "language" of
-painting is infinite, in other words. Encoding, by contrast, reduces the
-universe of expressive possibilities to a limited number of salient "codes,"
-like the alphabet. These codes have a formal grammar and rules of composition.
+painting is infinite. Encoding, by contrast, reduces the universe of
+expressive possibilities to a limited number of salient "codes," like the
+alphabet. These codes have a formal grammar and rules of composition.
 Although the expressive potential of written language is limitless, in some
 combinatorial sense of the word, language and other codes can "break," that
 is, be reduced to nonsense, in a way that painting strictly cannot.
 
 It becomes clear from the description of early telegraph encoding systems that
-transcoding and transmediation relate to each other somehow. On the one hand,
-all changes between encoding systems necessitate material phase transition, if
-not from one type of medium into another (from paper to magnetic storage, for
-example), then from one specific material context into another (as when one
-merely translates from French into English on the same piece of paper).
-Transmediation, on the other hand, may or may not involve a change in encoding
-formats, although it frequently does, as when language on paper is transformed
-into the pulsations of the electrical signal in Morse code. In reading and
+transcoding and transmediation are related. On the one hand, all changes
+between encoding systems necessitate phase transition. Telegraph signals
+change as they move from paper to wire. Transmediation, on the other hand, may
+or may not involve a change in encoding formats. Morse code remains the same
+whether played on a violin or transmitted via telegraph. The encoding changes
+however, when human speech is transferred into Morse code. In reading and
 playing music, a musician furthermore transforms musical notation---a
-controlled, paper-bound vocabulary---into sound representation, the movement
-of molecules unlimited in its expressive potential.
+controlled, paper-bound vocabulary---into sound waves, unlimited in their
+expressive potential.
 
 Blueprints for the writing telegraph reveal a device that mixes discrete and
 continuous modes of representation, through multiple acts of transcoding and
