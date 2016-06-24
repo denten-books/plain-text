@@ -395,7 +395,7 @@ dissolution of the diegetic boundaries in a glimpse of the material reality
 > posters; an arid gloom fleeted; and amidst the dust, and the falling things,
 > and the flapping scenery, Cincinnatus made his way in that direction where,
 > to judge by the voices, stood beings akin to him [@nabokov_invitation_1959,
-176].
+> 223].
 
 Nabokov's devices gesture towards the real, arresting the illusion of mimesis
 and exposing the incapacity of the literary world to assume physical form.
@@ -569,12 +569,12 @@ amount to *sed versûs, non poëma* [mere versification, not poetry]. Would we
 call a naive child using such a contraption a composer or a poet, he asked?
 And answered:
 
-> *Sed lusus est ingeniosus, Ingeniose Kirchere, non methodus, prima fronte
-> aliquid promittens, in recessu nihil solvens. Sine cista enim puer nihil
-> potest respondere, & in cista nihil praeter verba intelligit; tot profert,
+> *Sed lusus est ingeniosus, Ingeniose Kirchere, non methodus, primâ fronte
+> aliquid promittens, in recessu nihil solvens. Sine cistâ enim puer nihil
+> potest respondere, & in cistâ nihil praeter verba intelligit; tot profert,
 > quot audit, sine intellectu...*
 
-> But [the poetry box] is just an ingenious game, ingenious Kircher, not a
+> But [the poetry box] is just an ingenious game, *Ingenious Kircher*, not a
 > method, promising something on the surface, but solving nothing deep down.
 > For without the box the boy can answer nothing, and with the box he
 > understands nothing but words. He produces whatever he hears, without

@@ -9,13 +9,6 @@ Chapter 1:
 
 All Moreno Quotes using 1953 edition of "Who Shall Survive?"
 
-Phaedrus imitation; and pharmakon page number pdf page 18
+[Schopenhauer page number (on page 9) for 1906 ed.]
 
-Schopenhauer page number (on page 9) for 1906 ed.
-
-Need nabokov edition for "invitation to a beheading"; 1959 - at NYU/Cooper library
-
-Gillespie in Wege der Worte, pdf p 17, latin and english
-
-
-Wittgenstein lecutres "super-hardness" page number 1976 edition; and quotes on pdf page 26-7
+Wittgenstein lecutres "super-hardness" page number 1976 edition; and quotes on pdf page 26-7 (Need dennis's)
