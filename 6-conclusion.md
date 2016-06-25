@@ -118,7 +118,7 @@ transfer" between the pea and the weevil larvae, which allows the larvae to
 prepare an escape hatch through vegetative matter in advance of its pupation
 [@uexkull_foray_2010, 161].
 
-[^ln3-umwelten]: See for example @agamben_open_2003, 39-49; @hayles_print_2004,
+[^ln3-umwelten]: See for example @agamben_open:_2003, 39-49; @hayles_print_2004,
 16-17.
 
 The literature of post-humanism privileges these moments of alien subjectivity
