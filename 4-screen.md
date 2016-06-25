@@ -1076,29 +1076,24 @@ one symbolic order for another among signs, people, and machines.
 ## The Medium Is Not the Message
 
 In examining the material conditions of digital representation we find
-format---a quality distinct from both medium and semantic content of the
-message---to emerge as a political construct governing the physical
-affordances of communication. In this thesis lies the crux of the chapter's
-argument. Where we started with vague intuitions about the essence of digital
+format---a quality distinct from both medium and content---emerging as a
+political construct that governs the physical affordances of communication.
+Where we started with vague intuitions about the essence of digital
 representation, we end on firmer ground, at which formatting identifies the
-ability to impose structure onto the medium. Formatting, long under-theorized
-in the critical literature, matters because the ability to cut the cake
-structures not only the cake but also portion size. That is to say that
-formatting frames the medium as well as the affordances of apprehension. Thus
-to format text without margins, to take a relatively benign example, is also
-to deny marginalia. And to format text in a way that prevents further
-remediation is to deny the formation of shared culture.
+ability to impose structure onto the medium. Formatting, long under-theorized,
+matters because it frames the medium as well as the affordances of
+apprehension. How the cake is cut also determines how we eat. To format text
+without margins, for example, is also to deny marginalia. And to format text
+in a way that prevents further remediation is to deny the formation of shared
+culture.
 
-Critics like Fish and Golumbia are therefore correct in treating unexamined
-claims to digitization with suspicion, but not quite for the right reasons.
-Digitization threatens humanity only in so far that it lays and has always
-lain claim on the recipient of the message. In its benign form it facilitates
-understanding. Thus to shape undifferentiated blocks of text into paragraphs
-and to take care of gutters and margins is to help the reader better apprehend
-the message being conveyed. But formatting of another kind can also conversely
-hinder apprehension. It can structure attention in ways that discourage or
-outright prevent practices that accompany critical thought, like note taking
-and public discussion.
+Critics like Fish and Golumbia are rightfully suspicious of unexamined claims
+about digitization. But they are suspicious for the wrong reasons.
+Digitization threatens humanity only in so far that it lays claim on the
+recipient of the message. It can facilitates understanding by shaping
+undifferentiated blocks of text into paragraphs, by giving space to
+annotation. But formatting can also hinder apprehension. It can structure
+attention in ways that discourages or outright prevents critical thought.
 
 In his influential essay on the political quality of technological artifacts,
 Langdon Winner famously argued that in modern times "people are often willing
@@ -1112,28 +1107,26 @@ mismatch between political belief in practice comes from the lack of critical
 engagement with technology, which as Winner writes, requires "both the study
 of specific technical systems and their history as well as a thorough grasp of
 the concepts and controversies of political theory" [@winner_artifacts_1980,
-135]. Winner gives the paradigmatic example of this dynamic in the case study
-of Robert Moses and his twentieth century highway building projects in New
-York city. Moses built low overpasses with an eye towards discouraging bus
-travel, which reflected his social and racial biases, Winner argues. Such
-infrastructural biases in effect carry the force of legislation. The limited
-access to public parks and beaches for poor people and people of color who
-could not at the time afford personal transportation at scale.
+135]. Winner elucidates this dynamic through the case study of Robert Moses
+and his twentieth century highway building projects in New York city. Moses
+built low overpasses with an eye towards discouraging bus travel, which
+reflected his social and racial biases. These in effect carried the force of
+legislation, Moses argued, denying people of color and the poor access to
+public spaces.
 
 Similarly, in our case, claims on a reader's attention can happen through
 legislation, by social convention, or through specific material affordances,
-like the inability to take notes or to share books among family and friends,
-for example. Such technological constraints disproportionately affect those
-most reliant on informal knowledge networks, which exist outside of economies
-of wealth and prestige. Digitizing the public archive without a thorough
-understanding of the kind of platforms and technologies involved risks
-committing the public to an empty and impoverished vision of social knowledge
-production. Technologies that hinder "feasible procedures" for reliable
-"copying and preservation" create textual artifacts less digital than paper
-books. They push us towards knowledge economies in which to read means to
-purchase temporary reading rights and to take notes means to labor
-intellectually on commercialized and centralized platforms susceptible to
-exploitation, censorship, and surveillance.
+like the inability to take notes or to share books among family and friends.
+Such technological constraints disproportionately affect those most reliant on
+informal knowledge networks, which exist outside of economies of wealth and
+prestige. Digitizing the public archive without a thorough understanding of
+the platforms and technologies involved, risks committing the public to an
+empty and impoverished vision of social knowledge production. Technologies
+that hinder "feasible procedures" for reliable "copying and preservation"
+create textual artifacts less digital than paper books. They push us towards
+privatized knowledge economies. To "read" becomes to "purchase temporary
+reading rights"; note-taking becomes susceptible to exploitation, censorship,
+and surveillance.
 
 Consider the seemingly innocuous decision to distribute scientific literature
 formatted in the ubiquitous Adobe Portable Document Format (.pdf). Adobe, the
@@ -1148,57 +1141,55 @@ recipient reads on a small, portable device. Because the formatting is not
 fixed, the email program is able to reflow the lines appropriately. You have
 in essence delegated the responsibility for formatting the text to the
 reader's device. Readers are then free to apprehend it in a manner most
-convenient for them, tailored to their specific needs, attention spans, and
+convenient for them: tailored to their specific needs, attention spans, and
 body types. The downside of having this freedom is that the sender cannot
 assure excellence in formatting. The reader's software may render the text
 poorly or make it outright unreadable.
 
-The Adobe Portable Document Format solves the problem by guaranteeing the
-recipient receive the message exactly as written, without delegating the
-responsibility of rendering it to the reader. In essence, the format mimics
-the constraints of the printed page, which similarly preserves the shape of
-the message during transmission. When writing a letter by hand, you know that
-your recipient will see what you see, in the same shape and form. But to
-achieve the effect, the portable document format must also limit the viewing
-possibilities of the document. Thus if the sender fixes the width of the page
-to the standard legal letter size, the reader would be pained to read such a
-document on a smaller, portable device. The PDF converts an essentially
-textual, that is digital format into a visual one. Strictly speaking, PDF
-documents do not contain text, in a way that an email does. Rather, they
-contain text in a way a photograph of a printed page does, in an image. Such
-constraint is useful for business communication, as when writing contracts for
-example. The party responsible for drafting the contract wants to know that it
-would signed without alteration.
+The PDF solves this problem by guaranteeing its recipient receive the message
+exactly as written, without delegating the responsibility of rendering it to
+the reader. In essence, the format mimics the constraints of the printed page,
+which similarly preserves the shape of the message during transmission. When
+writing a letter by hand, you know that your recipient will see what you see,
+in the same shape and form. But to achieve the effect, the portable document
+format must also limit the viewing possibilities of the document. Thus if the
+sender fixes the width of the page to the standard legal letter size, the
+reader would be pained to read such a document on a smaller, portable device.
+The PDF converts an essentially textual, that is digital format into a visual
+one. Strictly speaking, PDF documents do not contain text, in a way that an
+email does. Rather, they contain text like a photograph of a printed page
+does, as an image. Such constraint is useful for business communication, when
+writing contracts for example. The party responsible for drafting the contract
+wants to know that it would signed without alteration.
 
 Yet for other purposes, such fixity of formatting is detrimental to
 communication.  Where reading paper contracts sent through the mail is free,
 the reading of PDF documents requires specialized software, which may cost
 money. PDF further hinders the copying and the preservation of text---the
-formal prerequisites for digital media. The simple act of taking notes (to use
-the same example as above) becomes a paid feature of the Adobe Acrobat
-software. What was gained in a minor (for scholarly communication) convenience
-of formatting is lost in a major concession to the privatization of public
-knowledge. We have in effect instituted a document format that in some
-important for us ways is less flexible than paper. Because "copying and
-preservation" are key values for university libraries, the loss of unimpeded
-"copying and preservation" should outweigh any gains in purely ornamental
-stability of document format. This does not mean that we should not use Adobe
-Acrobat files, only that we must, in all cases, be intellectually invested in
-the compromises involved.
+formal prerequisites for digital media. The simple act of taking notes becomes
+a paid feature of the Adobe Acrobat software. What was gained in a minor (for
+scholarly communication) convenience of formatting is lost in a major
+concession to the privatization of public knowledge. We have in effect
+instituted a document format that is less flexible than paper. Because
+"copying and preservation" are key values for university libraries, the loss
+of unimpeded "copying and preservation" should outweigh any gains in purely
+ornamental stability of document format. This does not mean that we should not
+use Adobe Acrobat files, only that we must, in all cases, be intellectually
+invested in the compromises involved.
 
 Technology does not determine the literary space: it has only the potential to
 hide implicit mechanisms of machine control, or, to offer possibilities for
-transformation not otherwise available to other forms of textuality. Loosely
-coupled to its material contexts, text can continue its relentless drive from
-matter to idea and into other matters as long as its passage is not hampered
-by regimes that prohibit further sharing, remixing, and transmediation. I say
-nothing yet of the potential necessity of such regulation. Under certain
-conditions, in the name of privacy, security, or property rights, it may
-become necessary to flatten out and to treat text as more of an analog,
-media-bound modality of communication, limited in its ability to move across
-minds and cultures. But, it is also in our broadly human, civic interest to
-keep such mechanisms of constraint visible to view, under continual scrutiny
-of critical, close, and closest possible reading.
+transformation into other forms of textuality. Loosely coupled to its material
+contexts, text can continue its relentless drive from matter to idea and into
+other matters as long as its passage is not hampered by regimes that prohibit
+further sharing, remixing, and transmediation. I say nothing yet of the
+potential necessity of such regulation. Under certain conditions, in the name
+of privacy, security, or property rights, it may become necessary to flatten
+out and to treat text as more of an analog, media-bound modality of
+communication, limited in its ability to move across minds and cultures. But,
+it is also in our broadly human, civic interest to keep such mechanisms of
+constraint visible to view, under continual scrutiny of critical, close, and
+closest possible reading.
 
 [^ln3-ndc]: Also known as the "single current" or "single Morse" system.
 
