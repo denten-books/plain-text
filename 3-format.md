@@ -651,72 +651,72 @@ the "text's physical characteristics" of Hayles.
 
 If reading for sensory experience implies an erotics of art and reading for
 hidden formulae implies a hermeneutics, what would it mean to read for format?
-To borrow from Tanselle's vocabulary, formats bridge the "physical structure
-of finished books" and their "intellectual content." This connection happens
-through what he calls "printing-shop routines," which is what I identified as
-a technique for the transformation of ideas into inscription-things. Textual
-scholars have traditionally arbitrated in the conflict between divergent
-editions of the same text.[^ln3-printers] They reveal how works become texts
-and the other way around. It is in this sense of arbitration that C. Deirdre
-Phelps described the notion of physical form. When instantiating the ideal
-text into its concrete being, publishers introduce textual changes that may or
-may not correspond to either authorial intention or reader expectation.  An
-inexpensive edition of Blake's poetry, for example, could be printed without
-illustrations to save costs, though we know his illustrations to be an
-integral part of the text. Were all other editions of Blake's poetry lost,
-textual critics would reconstruct the texts' genealogy from extant remnants.
-They could, for example, infer the missing illustrations based on reception
-history. "The textual critic," Phelps wrote "is concerned mainly with the fact
-of the [textual] change itself. [@phelps_edition_1994, 65-6]" Reading for
-format thus involves a series of value judgements about what the text should
-be and what it is.
+Formats, to borrow from Tanselle, bridge the "physical structure of finished
+books" and their "intellectual content" through what he calls "printing-shop
+routines," which I have identified as a technique for the transformation of
+ideas into inscription-things.
+
+Textual scholars have traditionally arbitrated in the conflict between
+divergent editions of the same text.[^ln3-printers] They reveal how works
+become texts and the other way around. It is in this sense of arbitration that
+C. Deirdre Phelps described the notion of physical form. When instantiating
+the ideal text into its concrete being, publishers introduce changes that may
+not correspond to authorial intention. An inexpensive edition of Blake's
+poetry, for example, could be printed without his illustrations to save costs,
+though we know them to be integral to the text. Were all other editions of
+Blake's poetry lost, textual critics would reconstruct the texts' genealogy
+from extant remnants. They could, for example, infer the missing illustrations
+based on reception history. "The textual critic," Phelps wrote "is concerned
+mainly with the fact of the [textual] change itself. [@phelps_edition_1994,
+65-6]" Reading for format thus involves a series of value judgements about
+what the text should be and what it is.
 
 [^ln3-printers]: See for example the discussion on the limits of the inductive
 method in bibliographic study in @mckenzie_making_2002, 16-17. See also
 @mcgann_socialization_1991; @tanselle_textual_1996.
 
 Different schools of textual criticism emphasize differing aspects of the
-publication process. Some privilege the notion of authorial intent, others a
-tradition of reception. Whatever such choices imply, they continue to
-determine value, in a process that separates those physical attributes
-meaningful to the work from those that are not. For example, in a contemporary
-online edition of Claude McKay's *Harlem Dawn*, the series' editors encoded
-for indentation, thus preserving the poems' visual line structure. However,
-they have also allowed for the text to wrap when viewed on small devices, in
-effect "soft wrapping" those lyrical lines that are too long to fit on a small
-screen [@mckay_harlem_2015]. The end result is a compromise between authorial
-intent and reader convenience. The layout respects line indentation but not
-line length.
+publication process. Some privilege the notion of authorial intent, others,
+critical reception. Whatever the choices, they determine value, by separating
+those physical attributes meaningful to the work from those that are not.
+Judgements about formatting are value judgements. For example, in a
+contemporary online edition of Claude McKay's *Harlem Dawn*, the series'
+editors encode for indentation, thus preserving the poems' visual line
+structure. They have also allowed the text to wrap when viewed on small
+devices, thus "soft wrapping" those lyrical lines too long for a small screen
+[@mckay_harlem_2015]. The end result is a compromise between authorial intent
+and reader convenience. The layout respects line indentation but not line
+length.
 
 Other solutions were possible, of course. The editors could have recreated an
-exact facsimile of a particular print edition, but that would not render well
-on small screens, due to the disparity in size between the printed page and
-mobile device. Judgements about formatting are value judgements. In an extreme
-case, an editor could try to preserve all of a text's details, down to its
-molecular structure. Such a text could be accompanied by a potentially
-unlimited amount of metadata describing the precise physical contexts of the
-universe surrounding the authoritative version. To reproduce the text
-faithfully would also mean to reproduce the world around it. Contingent stains
-or scratches in the manuscript, typos in the critical edition, printer error,
-pages inadvertently bound upside down, and other flaws are however usually
-discarded in reproduction. They are not seen as meaningful for the
-understanding of a text.
+exact facsimile of a particular print edition, but that would not fit on small
+screens, due to the disparity in size between the printed page and mobile
+device. In an extreme case, an editor could try to preserve all of a text's
+details, down to its molecular structure. Such a text could be accompanied by
+a potentially unlimited amount of metadata describing the precise physical
+contexts of the universe surrounding the authoritative version. To reproduce
+the text faithfully would also mean to reproduce the world around it.
+Contingent stains or scratches in the manuscript, typos in the critical
+edition, printer error, pages inadvertently bound upside down, and other flaws
+are however usually discarded in reproduction. They are not seen as meaningful
+for the understanding of a text.
 
 Format belongs neither wholly to a text's physical medium (pixel or paper) nor
-to the ideational content of the work. Rather, it lies somewhere between the
-two worlds: in the shape of the letters, in the structure of the narrative,
-and in the patterns of stress and intonation of the spoken word. We do not
-quite know which of these elements belong to the content of the play and which
-are linked to the contingent material artifacts of the printing or staging
-process: the way the fonts look, for example, or the way lines break on the
-page. Some matters of format matter to readers (line breaks in poetry), while
-others usually do not (font kerning). Textual criticism reminds the literary
-theorist of the transition that happens between literary texts and literary
-works. It is always a fraught process, because a theorist's abstract beliefs
-must be continually weighed against the material affordances of a concrete
-textual witness. A word or comma omitted, a forgotten line, cannot ever become
-a part of the meaning making processes. Format stands at the gates of
-hermeneutics.
+to the ideational content of the work. It lies somewhere between the two
+worlds: in the shape of the letters, in the structure of the narrative, and in
+the patterns of stress and intonation of the spoken word. We do not know which
+elements belong to content and which to contingent material artifacts of the
+printing process: the way the fonts look, for example, or the way lines break
+on the page.
+
+Some formatting features matter to readers (line breaks in poetry, for
+example), while others usually do not (like font kerning). Textual criticism
+reminds the literary theorist of the transition that happens between literary
+texts and literary works. It is always a fraught process, because a theorist's
+abstract beliefs must be continually weighed against the material affordances
+of a concrete textual witness. A word or comma omitted, a forgotten line,
+cannot ever become a part of the meaning making processes. Format stands at
+the gates of hermeneutics.
 
 [^ln3-remind]: See for example @shillingsburg_being_2006;
 @greetham_textual_1989.
@@ -729,26 +729,28 @@ repleteness of images" also keeps us from perceiving their "conceptual order
 [...] as if the graphic character of the work were completely obvious"
 [@drucker_images_2010]. Their insight captures the dual movement of
 formatting: at once towards the physical and the mental characteristics of
-text, matter and content. The reader understands the text as an idea, that
-takes shape in the mind. The book thus retreats from grasp, as Percy Lubbock
-wrote in *The Craft of Fiction* [@lubbock_craft_1921]. Subsequently, readers
-tend to treat text in a disembodied fashion---as surface rhetoric---reading
-past the material structures that support mental phenomena. As visual
-phenomenon, a unified image, the page presents itself in its entirety, at
-once, in what the Drucker and McGann call its "holistic repleteness." It is as
-if it was always so: these words were always in this order, at these
-coordinates. However, the printer and the book designer know the image to be a
-carefully constructed composite. They understand and can name the particulates
-of page composition invisible to a lay reader. Drucker and McGann conclude
-that "systems of graphic presentation are operational, not merely passive
-schematic structures [...] active agents for creating meaning, instructions
-for reading, viewing, comprehending information [@drucker_images_2010].
-Choices were made, in other words, that would later affect meaning making.
-Apprehension precedes comprehension. The processes of interpretation have
-commenced and in some cases concluded before the reader laid eyes on a page.
+text, towards matter and content.
 
-We are finally confronted with several concrete differences between print and
-digital formats.
+The reader understands the text as an idea that takes shape in the mind. The
+book thus retreats from grasp, as Percy Lubbock wrote in *The Craft of
+Fiction* [@lubbock_craft_1921]. Subsequently, readers treat texts as
+disembodied artifacts---surface rhetoric---reading past the material
+structures that support mental phenomena. As an object, a unified image, the
+page presents itself in its entirety, at once, in what Drucker and McGann call
+its "holistic repleteness." It is, as if it was always so: these words were
+always in this order, at these coordinates. However, the printer and the book
+designer know the image to be a carefully constructed composite. They know the
+particulates of page composition invisible to a lay reader. Drucker and McGann
+conclude that "systems of graphic presentation are operational, not merely
+passive schematic structures [...] active agents for creating meaning,
+instructions for reading, viewing, comprehending information
+[@drucker_images_2010].  Choices were made, in other words, that would later
+affect meaning making. Apprehension precedes comprehension. Processes of
+interpretation have commenced and in some cases concluded before the reader
+laid eyes on a page.
+
+In summary, we are confronted with several concrete differences between print
+and digital formats.
 
 Print editors and textual scholars negotiate the shape of the text in advance
 of publication. The choice to exclude certain words, versions, or visual
@@ -756,11 +758,11 @@ elements is fixed into the final proof, where it remains static for the
 duration of a book's existence. The book itself provides a stable platform for
 a range of reading practices, which include the annotation, copying, and
 preservation of written work. To the extent that books determine the
-affordances of reading, those affordances exhibit historical continuity. The
-print book requires as a precondition of reading certain physical capacities:
-manual dexterity, for example, a level of cognitive development, and eyesight
-within a specific range of vision. Readers falling outside of these normalized
-ranges are prevented from accessing the text in the manner specified. The book
+affordances of reading, those affordances exhibit historical continuity. To
+read a book in print one must possess certain physical capacities: manual
+dexterity, for example, a level of cognitive development, and eyesight within
+a specific range of vision. Readers falling outside of these normalized ranges
+are prevented from accessing the text in the manner specified. The book
 further affords abilities like highlighting and the taking of notes. Empty
 space on a page around the text facilitates marginalia. For the highlighter or
 the pen to function well the printing medium must be made of a porous
@@ -778,14 +780,14 @@ Software made by Adobe Systems, the company behind the popular Portable
 Document Format, includes Adobe Digital Editions, which the reader can use "to
 download and purchase digital content, which can be read both online and
 offline." The platform's "features" include the ability to "download and
-transfer books between devices" and to "search eBooks." The format supports
-multiple languages, the ability to borrow books, printing, limited support for
-visually impaired readers, bookmarking, highlights, notes, and file
-organization [@_plans_2016]. The company's own competing Adobe Document Cloud
-reading platform includes the Free, Standard, and Pro versions of Acrobat
-Reader, "the global standard for reliably viewing, printing, and commenting on
-PDF documents" [@_adobe_2016]. Only the most expensive Pro version allows one
-to "create and validate PDFs to meet accessibility standards for people with
+transfer books between devices" and to "search eBooks." It supports multiple
+languages, the ability to borrow books, printing, limited support for visually
+impaired readers, bookmarking, highlights, notes, and file organization
+[@_plans_2016]. The company's own competing Adobe Document Cloud reading
+platform includes the Free, Standard, and Pro versions of Acrobat Reader, "the
+global standard for reliably viewing, printing, and commenting on PDF
+documents" [@_adobe_2016]. Only the most expensive Pro version allows one to
+"create and validate PDFs to meet accessibility standards for people with
 disabilities." The free version does not support bookmarks or document
 editing. The Pro version enables readers to "redact and permanently remove
 sensitive information in PDFs" and to "compare two versions of a document to
@@ -794,11 +796,11 @@ see what's changed" [@_plans_2016].
 Another popular electronic book format, the Amazon Kindle reader, by
 comparison to PDF, includes a feature called "Public Notes" which allows
 Kindle customers to "make their highlights and notes available for anyone to
-see" [@_amazon_2015]. The frequently asked question page further explains that
-"if someone you follow has highlighted a passage in a book and has turned on
-Public Notes for the book, you'll see that passage highlighted along with the
-name of the person who highlighted it." The FAQ continues to tout the benefits
-of their platform:
+see" [@_amazon_2015]. Kindle's Frequently Asked Question (FAQ) page further
+explains that "if someone you follow has highlighted a passage in a book and
+has turned on Public Notes for the book, you'll see that passage highlighted
+along with the name of the person who highlighted it." It continues to tout
+the platform's benefits:
 
 > Now authors, thought leaders, passionate readers, professors and all Kindle
 users can opt-in to share their notes with other readers, helping friends,
@@ -809,9 +811,9 @@ highlighted along with the name of the person who highlighted it. You'll also
 see the notes that they made in the book [@_amazon_2016].
 
 The Google Play Books platform does not have the public note features nor does
-it support book editing. It does however add the ability to translate words
-and passages and to search for selected phrases using the company's search
-engine [@_read_2016].
+it support book editing. It does, however, allow readers to translate words
+and passages and look up phrases using the company's search engine
+[@_read_2016].
 
 Encoded ideas about intellectual property are another stark manifestation of
 inter-platform incompatibility. Whatever its comparative affordances, reading
@@ -821,66 +823,62 @@ existence. At some lower level of abstraction, however,  the variety of
 reading platforms rests on the same computational substratum. Both Amazon and
 Adobe books rely on the underlying capabilities of the personal computer. This
 hyper-media, as Lev Manovich has called it, lies at the base of all competing
-ebook formats [@manovich_software_2013]. Whatever it means to own a book on
-that level, must involve manipulating hardware states. A common act of
-epistemic disobedience, to borrow a phrase from Walter Mignolo, therefore
-includes accessing the book bits directly, through channels not afforded by
-the publisher [@mignolo_epistemic_2009]. One can in this way disentangle the
-mechanisms of book ownership as defined by Google or Amazon, from the book's
-"content" proper, by other definitions. The so called "ripping" of proprietary
-book libraries involves reformatting individual books into other file formats
-which could hypothetically enable unfettered copying and circulation of the
-text, not constrained by the original platform. The activity need not be
+ebook formats [@manovich_software_2013]. Owning a book on that level, must
+involve manipulating hardware states. A common act of epistemic disobedience,
+to borrow a phrase from Walter Mignolo, therefore includes accessing the book
+bits directly, through channels not afforded by the publisher
+[@mignolo_epistemic_2009]. Such acts disentangle the mechanisms of book
+ownership as defined by Google or Amazon, from the book's "content" proper.
+The so called "ripping" of proprietary book libraries involves reformatting
+individual books into other file formats which could hypothetically enable
+unconstrained copying and circulation of the text. The activity need not be
 illicit. The extraction of plain text from the Portable Document Format
 commonly constitutes the initial step in corpus-based natural language
 processing. Readers routinely "liberate" content in other ways as well: they
 lend books to friends, read them out loud, and make photocopies.
 
-These examples illustrate that unlike print, the electronic book is not a
+These examples illustrate that the electronic book, unlike print, is not a
 single format, but many. Software, governed by specific socio-economic
-exigencies, determines the affordances of reading, taking notes, sharing, and
-storing books on each platform. Thus a book available in North America, might
-be be available on other continents, or it could be available elsewhere in a
-redacted form, its content tailored to the reader's geography dynamically. In
-case of the aforementioned platforms we observe an attempt to supplant the
-affordances of the book with a range of other, competing affordances
-particular to their proprietary document formats, not compatible with one
-another. Furthermore, the potentialities of electronic reading change
-dynamically, with each software update. Where print evolved by centuries,
-digital text changes on a monthly, if not daily, basis. A careful book history
-of electronic formats would reconstruct the meaning of the book in much
-shorter evolutionally stages to keep pace with the medium's rapid development.
+exigencies, determines the affordances of reading, sharing, and storing books.
+Thus a book available in North America, might not be available on other
+continents, or it could be available elsewhere in a redacted form, its content
+dynamically tailored to the reader's geography. The aforementioned platforms
+supplant a book's affordances with a range of other, competing affordances
+particular to their proprietary document formats, incompatible with others.
+Furthermore, the potentialities of electronic reading change dynamically, with
+each software update. Where print evolved by centuries, digital text changes
+on a monthly, if not daily, basis. A careful book history of electronic
+formats would reconstruct the meaning of the book in much shorter
+evolutionally stages to keep pace with the medium's rapid development.
 
-In each of the above examples, the reader confronts some aspect of formatting
-instrumentally, for a particular purpose like copying, analysis, or
-preservation. In that sense, the lay reader engages with a task similar to
-that of a textual critic. In reading the book out loud or making a photocopy,
-readers make value judgements that distinguish those physical aspects of the
-book crucial to interpolation from those that are not.
+The above examples confront us with aspects of instrumental formatting:
+copying, analysis, or preservation. In that sense, the lay reader engages with
+a task similar to that of a textual critic. In reading the book out loud or
+making a photocopy, readers make value judgements that distinguish those
+physical aspects of the book crucial to interpolation from those that are not.
 
 Reading for format explicitly, would similarly involve the deconstruction,
 both literal and figurative, of the textual laminate. Whatever interpretive
 activity readers hope to enact at the surface level of content is grounded in
-the deep material affordances of the book. The conflicted properties of
-electronic text entail the added burden of materialist poetics. Reading
-digitally one can no longer take the stability of print for granted. A number
-of agents intercede in the transformation between form and content, the
-inscription as information on a disk and its representation, as pixels on the
-screen. These intercessions may be benign, as when the electronic book changes
-the layout of the text to fit a smaller screen when displaying text on mobile
-devices; or it may be totalizing as when a book platform is designed also to
-censor or to surveil its readers for commercial or political purposes.
-Reading for format reveals the structure of the transformation between media:
-the liquid crystal, the floating gate, and the entorhinal grid. Formats govern
-and control in the sense of shaping the encounter between otherwise
-incommensurate media, hardware and wetware---storage, screen, and brain.
+its deep material affordances. The conflicted properties of electronic text
+entail the added burden of materialist poetics. Reading digitally, one cannot
+take the stability of print for granted. A number of agents intercede in the
+transformation between form and content, the inscription as information on a
+disk and its representation, as pixels on the screen. These intercessions may
+be benign, as when the electronic book adjusts the layout of a text to fit a
+smaller screen; or it may be totalizing as when a book platform is designed to
+censor or surveil its readers for commercial or political purposes. Reading
+for format reveals the structure of the transformation between media: the
+liquid crystal, the floating gate, and the entorhinal grid. Formats govern and
+control in the sense of shaping the encounter between otherwise incommensurate
+media, hardware and wetware---storage, screen, and brain.
 
 ## Kernel and Shell
 
 Formats do not merely inform the tactics of reading, they are encoded into the
-structure all contemporary digital documents. The following case studies from
-the history of formats help us understand how the above theoretical principles
-are instantiated in practice.
+structure of all contemporary digital documents. The following case studies
+from formatting history show us how the above theoretical principles are
+instantiated in practice.
 
 EDIT was one of the first text editors, designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968. I look to its blueprints to
@@ -892,20 +890,20 @@ These included the "facilities" for "document layout," "editing," and
 user types the document layout file and the text file," Kaiman explained,
 "then produces a proof or master copy of the text by printing the text
 according to the directions of the layout file. The text file contains layout
-marks to be interpreted by the layout file. [@kaiman_computer-aided_1968, 66]"
-"Text," in this schema, constitutes content meaningful only to the user,
-whereas layout contains some elements meaningful to the human and others
-intended for machine instruction. Crucially, "no document text may appear in
-the layout file," Kaiman wrote [@kaiman_computer-aided_1968, 67-8]. Layout in
-that sense asks the human editor to make a distinction between semantic and
-spatial units: words and their coordinates. These two separate streams of data
-are then stored in two discrete locations, in effect embodying the dichotomy
-between form and content.
+marks to be interpreted by the layout processor [@kaiman_computer-aided_1968,
+66]. "Text," in this schema, constitutes content meaningful only to the user,
+whereas layout contains some elements meaningful to humans and others intended
+for machine instruction. Crucially, "no document text may appear in the layout
+file," Kaiman wrote [@kaiman_computer-aided_1968, 67-8]. Layout in his sense
+asks the human editor distinguish between semantic and spatial units: words
+and their coordinates. These two separate streams of data are then stored in
+two discrete locations, in effect embodying the dichotomy between form and
+content.
 
 ![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
 
-The creators of QED, another influential early text editor (created for the
-SDS-930 time-sharing system at Berkeley) similarly encouraged the writer to
+The creators of QED, another influential early text editor (made for the
+SDS-930 time-sharing system at Berkeley) similarly encouraged writers to
 separate the "input stream" from its layout instructions. A sequence of
 reserved characters was "interpreted as directives to the stream" and "editor
 commands." These included sequences like `A` for append at a specified
@@ -915,48 +913,48 @@ writer prefaced control commands with the aptly named control key. Thus,
 pressing the control key together with `D` would result in the deletion of the
 selected line. "Control characters do not have any printed characters normally
 associated with them," the manual explained [@angluin_reference_1968, 1-2].
-The writer could also enter the "command mode," in which the editor recognized
-nothing but machine instructions. By these means, the text and the layout
-instructions could occupy different "buffers" on the screen, which would then
-be combined together for printing operations [@angluin_reference_1968, 3-1].
+Writers could also enter the "command mode," in which the machine interpreter
+recognized nothing but machine instructions. By these means, the text and
+layout instructions could occupy different "buffers" on the screen, which
+would then be combined together for printing operations
+[@angluin_reference_1968, 3-1].
 
 Separate from the aims of text editors like EDIT and QED, a text formatter was
-meant to further arrange the text spatially. To the small number of editing
-instructions, the formatter added instructions for typesetting: size,
-position, stroke width, transparency. The authors of IBM's FORMAT program,
-written in FORTRAN IV for OS/360 devices in 1968, explained that "all input to
-FORMAT is free-form," in that it contained "no positional
+meant to arrange text spatially. To the small number of editing instructions,
+the formatter added instructions for typesetting: size, position, stroke
+width, transparency. The authors of IBM's FORMAT program, written in FORTRAN
+IV for OS/360 devices in 1968, explained that "all input to FORMAT is
+free-form," in that it contained "no positional
 constraints.[@berns_format_1968, 85; @berns_description_1969, 141]." The
 FORMAT system enabled further instructions for "layout control," which
 included `P` for "begin new paragraph," `T` for "tab," and `U` for
-"underline." The FORMAT language contained also more complex "command
-operands" like "CAPITALIZE AUTOMATICALLY," "JUSTIFY THE TEXT," and "REPEAT THE
-TITLE ON EVERY PAGE. [@berns_description_1969, 141-2]" FORMAT also had the
-capability of building an index, in effect listing all the unique words in any
-given document, along with a rudimentary facility for search, "locating text
-words, phrases, and strings in the input stream" [@berns_format_1968, 91;
+"underline." It also contained more complex "command operands" like
+"CAPITALIZE AUTOMATICALLY," "JUSTIFY THE TEXT," and "REPEAT THE TITLE ON EVERY
+PAGE. [@berns_description_1969, 141-2]" Finally, FORMAT had the capability of
+building an index, in effect listing all the unique words in any given
+document, along with a rudimentary facility for search, "locating text words,
+phrases, and strings in the input stream" [@berns_format_1968, 91;
 @berns_description_1969, 145].
 
 !["Portion of listing of input stream." The layout of paper citations in
 FORMAT [@berns_format_1968, 87].](images/format.png)
 
-In another formative paper in the history of contemporary textuality, Brian
-Kernighan and Joseph Ossanna described TROFF, a text processor written circa
+In another formative paper from the history of contemporary textuality, Brian
+Kernighan and Joseph Ossanna described TROFF, a text processor written around
 1973 for the PDP-11 outputting to Graphic Systems Cat typesetter. In 1979,
-Kernighan reported modifying the original program to produce output for a
-greater variety of typesetters. Kernighan explained that "TROFF produces its
-output in a device-independent form" and that its output "must be processed by
-a drive for that device to produce printed output" [@kernighan_troff_1992].
-The program made no ontological claims on the textual artifact. Rather, it
-embodies the idea of text independent of its medium and "free of form" for
-practical reasons. The digital writer operates with text in one location,
-without knowing its output in another. The screen, machine memory, and the
-page, hold inscription in different formats, which do not physically
-correspond to one another. For this reason, the program's designers must
-differentiate between the content of the document and its spatio-temporal
-characteristics; some elements are to be represented in the final version,
-while others control the structure of representation, and are ultimately
-omitted from view.
+Kernighan modified the original program to produce output for a greater
+variety of typesetters. He explained that "TROFF produces its output in a
+device-independent form" and that its output "must be processed by a drive for
+that device to produce printed output" [@kernighan_troff_1992]. The program
+made no ontological claims on the textual artifact. Rather, it embodied the
+idea of text independent of its medium and "free of form." The digital writer
+operates with text in one location, without knowing its output in another. The
+screen, machine memory, and the page, hold inscription in different formats,
+which do not physically correspond to one another. For this reason, the
+program's designers were forced to differentiate between the document's
+content and its spatio-temporal characteristics. Some elements were to be
+represented in the final version, while others controlled the representational
+structure, and were ultimately omitted from view.
 
 More than a decade later, reflecting on the proliferation of text editors, a
 group of computer scientists from the University of Washington advanced the
