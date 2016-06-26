@@ -1145,8 +1145,6 @@ thus envelop the text instrumentally. They govern the reification of abstract
 content models into document objects. They shape ideas in the process of
 becoming a thing.
 
-## Composite Media: Smart Documents
-
 The move from paper to such composite media carries with it a profound shift
 in the physical affordances of the everyday document. Not much space separates
 ink from paper. There, textuality lies flat, in two dimensions. What you see
@@ -1205,33 +1203,29 @@ through an electronic book, for example, itself usually an OSI-compliant
 device, readers access only to the outputs emanating from the application
 layer, and that only at the exposed "window" level of the document-object
 model. What you see is far less than what you get. The perceived "content"
-exposes only a small fraction of the underlying formal topology.
-
-Reader interaction happens at the superficial application layer which at best
+exposes only a small fraction of the underlying formal topology. Reader
+interaction happens at the superficial application layer which at best
 conceals the dynamics of deep text transformation. In more acute cases, access
-to deep structures is made illicit outright. In practice, the easy
-reproducibility of digital media has served to erode the efficacy of copyright
-restrictions. The work of art in the age of digital reproduction has lost much
-of its already tenuous hold on the material substratum.[^ln3-illusion]
-Photocopiers, desktop printers, inexpensive digital storage drives, and
-peer-to-peer file sharing networks reduce the carries to the copying and the
-dissemination of media.
+to deep structures is made illicit outright.
 
-A literary scholar may be familiar with similar provisions of American
-copyright law governing text as surface representation. US Code, Title 17, for
-example, extends "exclusive rights" to "copyright owners" of "literary works."
-The rights include the ability to "reproduce," "prepare derivative works,"
-"distribute copies," "perform," and "display publicly."[^ln3-DMCA2] Surface
-representation is further subject to professional rules of conduct, embodied
-in practices of quotation, citation, and attribution (or lack thereof, as
-plagiarism).
+## Composite Media: Smart Contracts
+
+Text at a document's surface is subject to professional rules of conduct
+governing practices of sharing, quotation, and attribution. The American
+reader may further be familiar with portions of US copyright law, which codify
+these practices more formally, entailing a degree of legal accountability. US
+Code Title 17, for example, extends "exclusive rights" to "copyright owners"
+of "literary works." Such rights include the ability to "reproduce," "prepare
+derivative works," "distribute copies," "perform," and "display
+publicly."[^ln3-DMCA2] The easy reproducibility of digital media has, however,
+eroded the efficacy of legal copyright restrictions. The work of art in the
+age of digital reproduction has lost much of its already tenuous hold on the
+material substratum.[^ln3-illusion] Photocopiers, desktop printers,
+inexpensive digital storage drives, and peer-to-peer file sharing networks
+reduce the carries to the copying and the dissemination of media.
 
 The response from the film, game, music, and publishing industries has been to
-embed the mechanisms of copyright enforcement into the medium itself.
-
-
-
-"The
+embed the mechanisms of copyright enforcement into the medium itself. "The
 answer to the machine," wrote Charles Clark, a prominent British copyright
 attorney, "is in the machine. [@clark_copyright_1996, 81-82]" He went on to
 argue for the efficacy of copyright enforcement at the device level and to
