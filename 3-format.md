@@ -873,12 +873,23 @@ liquid crystal, the floating gate, and the entorhinal grid. Formats govern and
 control in the sense of shaping the encounter between otherwise incommensurate
 media, hardware and wetware---storage, screen, and brain.
 
-## Kernel and Shell
+## Textual Laminates
 
-Formats do not merely inform the tactics of reading, they are encoded into the
-structure of all contemporary digital documents. The following case studies
-from formatting history show us how the above theoretical principles are
-instantiated in practice.
+Reading for format involves the reconstruction of rules that govern the
+transformation of text. It delaminates media composites into layers of
+content, spatial arrangement, and machine instruction.
+
+Format further necessitates the notion of document depth, distinct from the
+metaphorical uses of the word in the discussion on surface reading, where it
+refers to concealed structures of meaning, literary formulae, signification,
+or ideology [See @best_surface_2009]. In another, more literal sense, depth
+refers to the formation of literary laminates that hold the inscription in
+suspense between layers of glass, plastic, liquid crystal, aluminum, iridium,
+and oxide.
+
+The following few case studies from the history of the Document Object Model
+(DOM) show us how the above theoretical principles were instantiated in
+practice.
 
 EDIT was one of the first text editors, designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968. I look to its blueprints to
@@ -1110,10 +1121,6 @@ represents the "logical topology" of text in its "canonical form" to produce
 an "intermediate data structure," which it then "'unfolds' all at once" by
 "'peeling' the data structure one level at a time" [@madnick_script_1968, 97].
 
-!["System Command and Data Flow." Flows and transformations between data
-structures at "disk file" level and text structures at the "user terminal" and
-the "line printer" levels [@madnick_script_1968, 98].](images/script.png)
-
 The schematics show that formatting involves more than simple application of
 visual style to words. Formatter designers from TROFF to FORMAT rather
 describe their programs in terms of instrumental control. Richard Berns, the
@@ -1131,107 +1138,78 @@ information" [@kernighan_troff_1992, 3]. TROFF and FORMAT languages are thus a
 species of Turing computation.[^ln3-complete] They interpret input mixed with
 machine instruction, including codes that halt the process of interpretation.
 Text control can involve operations like "replace word," "make invisible," or
-"insert file." Such commands intertwine with "free-form" content at the
+"insert file." Commands intertwine with "free-form" content at the
 formatting level. They become apparent in the "viewing" stage of text
 processing, where the layers flatten across two-dimensional space. Formats
 thus envelop the text instrumentally. They govern the reification of abstract
 content models into document objects. They shape ideas in the process of
 becoming a thing.
 
-[^ln3-complete]: TROFF at least is actually Turing complete according to
-@raymond_art_2003, 195.
+## Composite Media: Smart Documents
 
-Reading for format therefore involves the reconstruction of rules that govern
-the transformation of text. It delaminates textual composites into layers of
-content, spatial arrangement, and machine instruction.
-
-Format further necessitates the notion of document depth, distinct from the
-metaphorical uses of the word in the discussion on surface reading, where it
-refers to concealed structures of meaning, literary formulae, signification,
-or ideology [See @best_surface_2009]. In another, more literal sense, depth
-refers to the formation of literary laminates that hold the inscription in
-suspense between layers of glass, plastic, liquid crystal, aluminum, iridium,
-and oxide.
-
-The move between paper and such *composite media* carries with it a profound
-shift in the physical affordances of the everyday document. Not much space
-separates ink from paper. There, textuality lies flat, in two dimensions. What
-you see is truly what you get. Not so on the screen connected to other drives,
+The move from paper to such composite media carries with it a profound shift
+in the physical affordances of the everyday document. Not much space separates
+ink from paper. There, textuality lies flat, in two dimensions. What you see
+is truly what you get. Not so on the screen connected to other drives,
 keyboards, and screens. Composite media extends into the third dimension, away
 from the reader and deep into the bowels of the machine.
-
-Stretched between the sites of storage and projection---screens and solid
-state drives---the inscription travels along a long "pipeline" of protocols,
-undergoing arbitrary transformations throughout. On one device, that pipeline
-may extend just a few inches, connecting disk storage to output display. On a
-networked device that pipeline can stretch across continents, spanning widely
-divergent regions of legal and administrative governance. The data that
-assembles the nearby object we call an electronic book may be stored on a
-server on the other side of the country. Whatever the case may be, the reader
-encounters the "protocol stack" from without on the periphery of the
-onion-like network. When paging through an electronic book, usually an
-OSI-compliant device, the reader has access only to the outputs emanating from
-the application layer, and, at that, only at the exposed "window" level of the
-document-object model. The perceived "content" therefore comprises only a
-small fraction of the underlying formal topology. What you see is far less
-than what you get.
-
-## Smart Contracts
-
-I would like to conclude this chapter with a glimpse of several obvious
-formatting structures that increasingly mediate in numerous everyday acts of
-contemporary reading. The Open Systems Interconnection (OSI) reference model
-of communication, implemented in every computer including electronic book
-readers, describes no less than seven layers of communication involved in the
-simple act of sending an email, taking notes in the margins of a networked
-book, or reading a newspaper online.[^ln3-osi] It includes, among others, the
-Application Layer, concerned with the semantics of "all services directly
-comprehensible to the user," the Presentation Layer, which defines the syntax
-for the "representation of the data to be transferred," and the Physical
-Layer, providing the "mechanical, electrical, functional, and procedural
-characteristics" of communication.[^ln3-layers] The specifics of the technical
-documentation are not important for now. Consider only the complexity of the
-entire stratified structure, in which whatever is meant by "content" is
-enveloped within a multiplicity of standards, references, models, and formats
-[@miller_iso_1981, 285; @ncs_open_1981; @ncs_national_1988;
-@day_revised_1995].[^ln3-domlayer] These are not hypothetical considerations.
-They define the medium---the physical preconditions---of digital, simulated
-text.
 
 ![A zoomed out view of the connected OSI model. Single node structure on the
 left. Connected devices on the right. The user has access through the top-most
 (application) level, outermost to the network [@piatkowski_iso-ansi_1980,
 114-15].](images/osi.png)
 
-In his book on protocols, Alexander Galloway discussed the Open Systems
-Interconnection model in reference to what he calls the distributed and
-decentralized networks of control [@galloway_protocol_2006, 28-54]. The OSI
-standard can be called distributed to be sure, although to what extent it is
-decentralized is a matter of some debate. Like a good soldier, each device in
-the network of textual machines connected to other textual machines
-internalizes dozens if not hundreds of protocols that enable the system to
-function seamlessly as a whole, in the way, for example, that your portable
-electronics can at one moment connect to one wireless access point, and at
-another moment to another, with minimal loss of connectivity. Nevertheless,
-communication protocols and document object model hierarchies are also densely
-consolidated. They are, for example, legislated by specific international
-governing bodies like the World Wide Web Consortium, with a member list that
-includes government organizations and large corporate interests.[^ln3-w3c]
+The Open Systems Interconnection (OSI) reference model of communication, for
+example, implemented in every computer including electronic book readers,
+describes no less than seven layers of communication involved in the simple
+act of sending an email, taking notes in the margins of a networked book, or
+reading a newspaper online.[^ln3-osi] It includes, among others:
 
-The reading subject interacts with the application layer and therefore with
-the dynamics of text transformation only superficially. Access to deeper
-layers is sometimes merely obscured by the complexity of technology. At other
-times, it is made illicit outright, as is arguably the case with U.S. Code,
-Title 17, Chapter 12, §1201, titled "Circumvention of copyright protection
-systems," a law passed as part of the Digital Millennium Copyright Act (DMCA)
-in 1998. A literary scholar may be familiar with similar provisions of
-American copyright law governing text as surface representation: US Code,
-Title 17, for example, extends "exclusive rights" to "copyright owners" of
-"literary works." The rights include the ability to "reproduce," "to prepare
-derivative works," "to distribute copies," and "to perform and to display
-publicly" (17.1.106). Surface representation is further subject to
-professional rules of conduct, embodied in practices of quotation, citation,
-and attribution (or lack thereof, as plagiarism). In practice, the easy
+- the Application Layer, concerned with the semantics of "all services
+  directly comprehensible to the user,"
+- the Presentation Layer, which defines the syntax for the "representation of
+  the data to be transferred," and
+- the Physical Layer, which provides "mechanical, electrical, functional, and
+  procedural characteristics" of communication.[^ln3-layers]
+
+Apart from technical intricacy, consider the complexity of the onion-like
+composite. Whatever one designates as "content" is enveloped within a
+multiplicity of standards, references, models, and formats, which in aggregate
+define the medium---the physical preconditions---of laminate
+text.[^ln3-domlayer]
+
+In his book on protocols, Alexander Galloway discussed the Open Systems
+Interconnection model in reference to what he calls distributed and
+decentralized networks of control [@galloway_protocol_2006, 28-54]. The OSI
+standard is distributed to be sure, although to what extent it is
+decentralized is a matter of some debate. Like a good soldier, each device in
+a network of textual machines internalizes dozens if not hundreds of protocols
+that enable the system to function seamlessly as a whole, in the way, for
+example, that our mobile phones connect to multiple transmitting towers with
+minimal loss of connectivity. Communication protocols and document object
+model hierarchies are densely consolidated to ensure such interoperability.
+They are governed by international bodies like the World Wide Web Consortium,
+an organization that encompasses national and corporate
+bureaucracies.[^ln3-w3c]
+
+Stretched between the sites of storage and projection---screens and solid
+state drives---the inscription travels along a lengthy "pipeline" of
+protocols, undergoing arbitrary transformations throughout. On one device,
+that pipeline may extend just a few inches, connecting disk storage to a
+screen. On a networked device that pipeline can stretch across continents,
+spanning widely divergent regions of legal and administrative governance.
+Data comprising an electronic book may be stored on a server on the other side
+of the country. The reader always encounters that elongated "protocol stack"
+from without, on the periphery of the stratified structure. When paging
+through an electronic book, for example, itself usually an OSI-compliant
+device, readers access only to the outputs emanating from the application
+layer, and that only at the exposed "window" level of the document-object
+model. What you see is far less than what you get. The perceived "content"
+exposes only a small fraction of the underlying formal topology.
+
+Reader interaction happens at the superficial application layer which at best
+conceals the dynamics of deep text transformation. In more acute cases, access
+to deep structures is made illicit outright. In practice, the easy
 reproducibility of digital media has served to erode the efficacy of copyright
 restrictions. The work of art in the age of digital reproduction has lost much
 of its already tenuous hold on the material substratum.[^ln3-illusion]
@@ -1239,23 +1217,42 @@ Photocopiers, desktop printers, inexpensive digital storage drives, and
 peer-to-peer file sharing networks reduce the carries to the copying and the
 dissemination of media.
 
+A literary scholar may be familiar with similar provisions of American
+copyright law governing text as surface representation. US Code, Title 17, for
+example, extends "exclusive rights" to "copyright owners" of "literary works."
+The rights include the ability to "reproduce," "prepare derivative works,"
+"distribute copies," "perform," and "display publicly."[^ln3-DMCA2] Surface
+representation is further subject to professional rules of conduct, embodied
+in practices of quotation, citation, and attribution (or lack thereof, as
+plagiarism).
+
 The response from the film, game, music, and publishing industries has been to
-transpose mechanisms of copyright enforcement from legal down to the
-infrastructural levels of enforcement, as software and hardware: from Code to
-code. In the words of Charles Clark, the late British publisher and prominent
-copyright attorney, "the answer to the machine is in the machine
-[@clark_copyright_1996, 81-82]"---by which he meant that copyright enforcement
-should be taken up on the device level by the International Standards
-Organization, the same legislative body responsible for maintaining the
-standards for the Document Object Model and the OSI communication protocol
-stack [@clark_copyright_1996, 84]. As an example of how that might work, Clark
-cites the Copyright in Transmitted Electronic Data Report (CITED), which
-suggests building "a tamper proof software module which acts rather like
-indestructible tachometers installed on long-distance coaches and lorries,
-recording everything that happens to the copyrighted or commercially valuable
-material [...] The basic idea is to link the 'valuable material' of
-intellectual property to a specific piece of software and hardware"
-[@consortium_c.i.t.e.d._1994; @clark_copyright_1996, 83-84].
+embed the mechanisms of copyright enforcement into the medium itself.
+
+
+
+"The
+answer to the machine," wrote Charles Clark, a prominent British copyright
+attorney, "is in the machine. [@clark_copyright_1996, 81-82]" He went on to
+argue for the efficacy of copyright enforcement at the device level and to
+propose that the International Standards Organization (ISO), the same
+legislative body responsible for maintaining the DOM and the OSI, create
+standards for digital rights management [@clark_copyright_1996, 84]. As an
+example of how hard-coded copyright enforcement could work in the real world,
+Clark relies on the Copyright in Transmitted Electronic Data Report (CITED),
+which suggests building:
+
+> a tamper proof software module which acts rather like indestructible
+> tachometers installed on long-distance coaches and lorries, recording
+> everything that happens to the copyrighted or commercially valuable material
+> [...] The basic idea is to link the 'valuable material' of intellectual
+> property to a specific piece of software and hardware"
+> [@consortium_c.i.t.e.d._1994; @clark_copyright_1996, 83-84].
+
+as is arguably the case with
+"Circumvention of copyright protection systems," a law passed as part of the
+Digital Millennium Copyright Act (DMCA) in 1998 in the United
+States.[^ln3-DMCA1]
 
 The emergence of such embedded contractual enforcement mechanisms can be
 subsumed under the broader idea of "smart contracts." In his seminal article
@@ -1439,7 +1436,7 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 [^ln3-layers]: The full OSI protocol stack includes Application, Presentation,
 Session, Transport, Network, Data Link, and Physical layers
 [@piatkowski_iso-ansi_1980; @miller_iso_1981; @ncs_open_1981; @day_osi_1983;
-@day_revised_1995].
+@ncs_national_1988; @day_revised_1995].
 
 [^ln3-modern]: Note that these effects are not limited to contemporary
 literature at all. In purchasing a medieval text, the reader still buys not a
@@ -1501,21 +1498,6 @@ course it is; no one denies this. So what was it about the wax that I
 understood so clearly? Evidently it was not any of the features that the senses
 told me of; for all of them---brought to me through taste, smell, sight, touch
 or hearing---have now altered, yet it is still the same wax."
-
-[^ln3-marinetti]: !!! Original quote in Italian to go here. Fonts other then
-English are not rendering at the moment.
-
-<!-- "Il nostro amore crescente per la materia, la volontà di
-penetrarla e di conoscere le sue vibrazioni, la simpatia fisica che ci lega ai
-motori, ci spingono all'uso dell'onomatopea." [from Lo splendore geometrico a
-meccanico e la sensibilità numerica] -->
-
-[^ln3-echenbaum]: !!! Original quote in Russian will go here.
-
-<!-- "Что касается 'формы', то формалистам было важно только
-повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
-своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
-ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda] -->
 
 [^ln3-translate2]: "In our discussion of this text we have been using an
 authoritative French translation of Plato, the one published by Guillaume Bude.
@@ -1596,4 +1578,12 @@ Web Consortium (W3C) in the case of the DOM.
 representation consisting of plain text plus added information"
 [@unicode_consortium_unicode_1990].
 
+[^ln3-complete]: TROFF at least is actually Turing complete according to
+@raymond_art_2003, 195.
+
+[^ln3-DMCA1]: See U.S. Code, Title 17, Chapter 12, §1201.
+
+[^ln3-DMCA2]: See U.S. Code, Title 17, Chapter 1, §106.
+
 \newpage
+
