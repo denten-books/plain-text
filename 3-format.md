@@ -858,7 +858,7 @@ making a photocopy, readers make value judgements that distinguish those
 physical aspects of the book crucial to interpolation from those that are not.
 
 Reading for format explicitly, would similarly involve the deconstruction,
-both literal and figurative, of the textual laminate. Whatever interpretive
+both literal and figurative, of the *textual laminate*. Whatever interpretive
 activity readers hope to enact at the surface level of content is grounded in
 its deep material affordances. The conflicted properties of electronic text
 entail the added burden of materialist poetics. Reading digitally, one cannot
@@ -964,43 +964,43 @@ divided into "abstract" or "logical" objects and their "concrete"
 instantiations. In this way, a chapter is made up of paragraphs and sentences,
 which could be rendered on pages of different dimensions. In each case, the
 hierarchical relationship between chapters, paragraphs, and sentences persists
-even as the specific dimensions of a page change. The chapter in Tolstoy's
-*War and Peace* remains a chapter containing the same paragraphs and sentences
-despite the layout differences between editions. The class
-identifier---chapter, paragraph, sentence---thus denotes an abstract object,
-where concrete objects occupy "one or more two-dimensional page spaces and
-represent the possible formatted images of abstract objects"
-[@furuta_document_1982, 418]. The concrete object gives physical shape to the
-instantiation of abstract universal classes.
+even as the specific dimensions of a page change. A chapter in Tolstoy's *War
+and Peace* remains a chapter containing the same paragraphs and sentences
+despite layout differences between editions. The class identifier---chapter,
+paragraph, sentence---thus denotes an abstract object, where concrete objects
+occupy "one or more two-dimensional page spaces and represent the possible
+formatted images of abstract objects" [@furuta_document_1982, 418]. The
+concrete object gives physical shape to the instantiation of abstract
+universal classes.
 
 The entirety of a document, a book for example, can subsequently be expressed
 as a hierarchical ordering of such primitive objects as words, sentences,
 paragraph, and chapters. A document of a different type, a research paper for
 example, contains another set of primitive elements not always found in a
-book: a footnote, for example, or an abstract. We may think of a "novel" as an
-abstract succession of "chapters," which in turn encapsulate "paragraphs" that
-contain "sentences and words," further composed of "characters." These
-abstract units must then find their physical manifestation on a page. They
-stand in a hierarchical relationship to each other because paragraphs contain
-sentences, and sentences words, and not the other way around. Together,
-primitive object classes constitute more sophisticated abstractions like
-"letters," "articles," "books," and "journals" [@furuta_document_1982, 417-19;
-@shaw_model_1980].
+book: a footnote, for example, or an abstract. One may describe a "novel" in
+terms of an abstract succession of "chapters" that, in turn, encapsulate
+"paragraphs," which contain "sentences and words," which further comprise
+"characters." These abstract units find their physical manifestation on a
+page. They stand in a hierarchical relationship to each other because
+paragraphs contain sentences, and sentences words, and not the other way
+around. Together, a set of primitive object classes defines more complex
+abstractions like "letters," "articles," "books," and "journals"
+[@furuta_document_1982, 417-19; @shaw_model_1980].
 
 The class / instance distinction gives us the means to discuss editing and
 formatting tasks in terms of state transformations. In this way, editing the
-document involves the transition between abstract states, as when the author
-corrects spelling or changes a word, for example. Concrete to concrete state
+document involves the transition between abstract states, as when an author
+corrects spelling errors or deletes a word. Concrete to concrete state
 transformations involve the spatial rearrangement of abstract objects, as when
-the author justifies text or changes the order of document sections. Crucially
+an author justifies text or changes the order of document sections. Crucially
 for our discussion, Furuta and others define formatting as the reification of
 abstract classes into the concrete: the application of font styles, for
 example. Formatting in that sense converts what the authors call the "intended
-document" into the "visible concrete document." In this way, the abstract idea
-of "emphasis," can be converted into the concrete representation of "bold
-font." Another typesetter may stylistically prefer to represent emphasis in
-italics instead of bold letters. Both convey the same idea in visually
-different ways.
+document" into the "visible concrete document," wherein the abstract idea of
+"emphasis," in our example, is reified into the concrete representation of
+"bold stroke." Another typesetter might stylistically prefer to represent
+emphasis in italics instead of bold letters. Both convey the same idea in
+visually different ways.
 
 +------------------------+--------------+-------------------------------+
 | Transformation         | Type         | Example                       |
@@ -1034,38 +1034,39 @@ regardless of the layout.
 One can think of other formatting operations which move in the opposite
 direction: from concrete to abstract, for example. This happens in optical
 character recognition (OCR), as part of a process by which images of physical
-pages are converted into an "intended," abstract structure, the "content"
+pages are converted into an "intended," abstract structure---the "content"
 thereby lifted from the physical page. A text in the portable document format
-remains a graphic image---a concrete, indivisible object---until the text is
-recognized. One can read it, of course, but it does not, from the machine's
-point of view, contain text or "abstract objects" as such. Recognition implies
-more narrowly the conversion of image into text, converting data structures of
-"image" into "text" types. Text, in that sense, lies at the innermost location
-within a series of nested outer containers. Lacking a model of "comprehension"
-or "understanding," the machine posits text as "content" in the sense of it
-being the "innermost" object of human recognition. Machine recognition happens
-only when the text is de-laminated from its composite medium.
+remains a graphic image---a concrete, indivisible object---until it is
+recognized. One can read it, of course, but it does not, from a machine's
+perspective, contain "abstract objects" as such. Recognition implies more
+narrowly the transformation of images into text and shape into content. Text,
+in that sense, lies at the innermost location within a series of nested outer
+containers. Lacking a model of "comprehension" or "understanding," the machine
+posits text as "content" in the sense of it being the "innermost" object of
+human recognition. Machine recognition happens only when the text is
+delaminated from its composite medium.
 
 The "recognition" of letters does not exhaust the variety of abstract document
-objects that could be gleaned from the bibliographic image, which besides
-letters and words also includes paragraphs, tables, titles, and footnotes
-along with numerous other elements. These also must count as "content," in
-some sense of the word because they are semantic, rather than purely graphic
-units. They mean something to the reader. It is essential therefore to know
-"where text resides on the page," since many elements of text positioning in
-themselves carry meaning. For instance, proper names carry different
-connotations depending on their positioning on the page. A name in the "author
-field" means something distinct from any other name mentioned in the body of
-the document. Lawrence O'Gorman, an influential researcher in the field of
-document image processing, calls the recognition of this sort of object, at
-the intersection of concrete and universal, "document lay-out understanding,"
-which consists of "functional labeling of blocks [...] distinguished in some
-way by their physical features (such as by font size) and by the 'meaning' of
-the block [@ogorman_document_1993, 1162-63; @ogorman_document_1995, 82-99 (in
-the reconstructed edition)]." Note also that document layout (alternatively
-"formatting" or the arrangement of "concrete objects") could also incorporate
-meaningless (to humans) structures, such as the incidental "rivers" of empty
-space formed between the words. That sort of concrete structure goes
+objects gleaned from the bibliographic image. Besides letters and words these
+include also paragraphs, tables, titles, and footnotes along with numerous
+other elements. Such arrangements are also "content," in some sense of the
+word, because they form semantic, rather than purely graphic units. They also
+mean something to the reader. It is essential to know "where text resides on
+the page," because the meaning of semantic elements changes depending on their
+location. For instance, a proper name in the "author field" means something
+distinct from other names mentioned in the body of the document. Lawrence
+O'Gorman, an influential researcher in the field of document image processing,
+has called such spatial recognition, at the intersection of concrete and
+universal, "document lay-out understanding," which consists of "functional
+labeling of blocks [...] distinguished in some way by their physical features
+(such as by font size) and by the 'meaning' of the block
+[@ogorman_document_1993, 1162-63; @ogorman_document_1995, 82-99 (in the
+reconstructed edition)]." A footnote, for example, is a block of text that
+gains meaning in spatial context.
+
+Furthermore, layout, or the arrangement of "concrete objects" on a page,
+contains also meaningless (to humans) structures, such as the incidental
+"rivers" of empty space between words. The incidental concrete structure goes
 unrecognized because it does not correspond to any abstract objects in the
 available document object taxonomy.[^ln3-river]
 
@@ -1081,88 +1082,101 @@ arranged spatially on the disk into another type of concrete object, pixels
 arranged in space on a screen or ink on a page. Something called the Document
 Object Model describes that chain of transformations in detail, containing in
 essence an intermediary map or a blueprint of the intended document. The
-blueprint is not quite concrete, however, because the machine must anticipate
-a number of possible two-dimensional spaces like pages and screens of
-differing sizes, signifying relationships between elements within a range of
-possible concrete objects.[^ln3-dom] In order to materialize, the hierarchical
-model must be arranged and fixed into the surface of an actual medium,
-according to predefined rules specified in the model. These media have actual
-dimensions.  In this way, a footnote specified "at the bottom of the page" at
-the level of the model can then be rendered one way at the bottom of a
+blueprint is not itself a fully formed concrete object, however, because the
+machine must anticipate a number of possible two-dimensional spaces like pages
+and screens of differing sizes, signifying relationships between elements
+within a range of possible concrete objects.[^ln3-dom] In order to
+materialize, the hierarchical model must be arranged and fixed into the
+surface of an actual medium, according to predefined rules specified in the
+model. In this way, a footnote which the model specifies is to be placed "at
+the bottom of the page" can then be rendered one way at the bottom of a
 specific page of a certain size, like A1 (841mm × 1,189mm) for example, and in
 another way at the bottom of another specific piece of paper of a much smaller
 A4-sized sheet (210mm × 297mm).[^ln3-iso216] Viewing and printing operations
-constitute a movement opposite to that of optical character recognition. In
-printing a document, the machine creates a static image, which flattens out
+thus constitute a movement opposite to that of optical character recognition.
+In printing a document, the machine creates a static image, which flattens out
 the layers of content and visual style. Abstract objects specified by the
 abstract model are then reified into a set of relationships between specific
 concrete objects on the page [@furuta_document_1982, 419-20;
 @kimura_structure_1984].
 
-SCRIPT and the related Generalized Markup Language (GML) developed in the late
-1960s by IBM (originally for use on the CP67/CMS time-sharing system), and now
-at the basis of ubiquitous XML and HTML markup languages through ISO 8879,
-describes a number of such text transformations that occur to "generate the
-proper output form." In the process of formatting, SCRIPT represents the
-"logical topology" of text in its "canonical form" to produce an "intermediate
-data structure," which it then "'unfolds' all at once" by "'peeling' the data
-structure one level at a time" [@madnick_script_1968, 97].
+The resulting laminate contains content appropriately formed and fused into
+its medium. SCRIPT and the related Generalized Markup Language (GML) developed
+in the late 1960s by IBM (originally for use on the CP67/CMS time-sharing
+system), and now at the basis of ubiquitous XML and HTML markup languages
+through ISO 8879, describes a number of such text transformations that occur
+to "generate the proper output form." In the process of formatting, SCRIPT
+represents the "logical topology" of text in its "canonical form" to produce
+an "intermediate data structure," which it then "'unfolds' all at once" by
+"'peeling' the data structure one level at a time" [@madnick_script_1968, 97].
 
 !["System Command and Data Flow." Flows and transformations between data
 structures at "disk file" level and text structures at the "user terminal" and
 the "line printer" levels [@madnick_script_1968, 98].](images/script.png)
 
-The idea format must not be reduced to the mere application of visual style to
-words. Formatter designers from TROFF to FORMAT explicitly describe their
-programs in terms of instrumental *control*. For example, Richard Berns, the
-IBM engineer-developer of FORMAT, writes that in his program, "text control"
-aims to accomplish four "basic" tasks: "to read the input, to interpret and
-convert the input as required; to keep the document flowing smoothly from line
-to line, column to column, and page to page, unless otherwise instructed, and
-to break this automatic flow as directed." In FORMAT, the document consists of
-text and intermixed "command words" [@berns_description_1969, 141]. The *TROFF
-User's Manual* describes text processing in terms of accepting "lines of text
-interspersed with lines of format control information" [@kernighan_troff_1992,
-3]. Because format concerns both meaning-carrying and purely decorative
-elements, text control can involve operations like "replace word," "make
-invisible," or "insert file." These commands intertwine with "free-form"
-abstract and ideational content at the formatting level, to come apparent in
-the "viewing" stage of text processing, where the layers flatten across "a
-two-dimensional space" in view of the user. In this onion-like, layered way
-formatting instructions govern the reification of abstract content models into
-specific documents, shaping the idea in the process of becoming a thing.
+The schematics show that formatting involves more than simple application of
+visual style to words. Formatter designers from TROFF to FORMAT rather
+describe their programs in terms of instrumental control. Richard Berns, the
+IBM engineer and developer of FORMAT, wrote that "text control" accomplishes
+four basic tasks:
 
-## Smart Contracts
+> to read the input; to interpret and convert the input as required; to keep
+> the document flowing smoothly from line to line, column to column, and page
+> to page, unless otherwise instructed; and to break this automatic flow as
+> directed [@berns_description_1969, 141].
 
-Reading for format involves the reconstruction of rules that govern the
-transformation of text, thereby creating a notion of literal surface and depth
-that differs from their figurative senses. Metaphorically speaking, textual
-depth refers to concealed structures of meaning, literary formulae,
-signification, or ideology. In another, more literal sense, depth refers to
-the formation of literary laminates that hold the inscription in suspense
-between layers of glass, plastic, liquid crystal, aluminum, iridium, and
-oxide. The move between paper and such *composite media* carries with it a
-profound shift in the physical affordances of the everyday document. Not much
-space separates ink from paper. There, textuality lies flat, in two
-dimensions. What you see is truly what you get. Not so on the screen connected
-to other drives, keyboards, and screens. Networked textuality extends into the
-third dimension, away from the reader and deep into the bowels of the machine.
+*TROFF User's Manual* analogously describes text processing in terms of
+accepting "lines of text interspersed with lines of format control
+information" [@kernighan_troff_1992, 3]. TROFF and FORMAT languages are thus a
+species of Turing computation.[^ln3-complete] They interpret input mixed with
+machine instruction, including codes that halt the process of interpretation.
+Text control can involve operations like "replace word," "make invisible," or
+"insert file." Such commands intertwine with "free-form" content at the
+formatting level. They become apparent in the "viewing" stage of text
+processing, where the layers flatten across two-dimensional space. Formats
+thus envelop the text instrumentally. They govern the reification of abstract
+content models into document objects. They shape ideas in the process of
+becoming a thing.
 
-Stretched between the sites of its archive and its projection, the solid state
-drive and the screen, the inscription travels along a long "pipeline" of
-protocols, undergoing arbitrary transformations throughout. On one device,
-that pipeline may extend just a few inches, connecting disk storage to output
-display. On a networked device that pipeline can stretch across continents,
-spanning widely divergent regions of legal and administrative governance. The
-data that assembles the nearby object we call an electronic book may be stored
-on a server on the other side of the country. Whatever the case may be, the
-reader encounters the "protocol stack" from without on the periphery of the
+[^ln3-complete]: TROFF at least is actually Turing complete according to
+@raymond_art_2003, 195.
+
+Reading for format therefore involves the reconstruction of rules that govern
+the transformation of text. It delaminates textual composites into layers of
+content, spatial arrangement, and machine instruction.
+
+Format further necessitates the notion of document depth, distinct from the
+metaphorical uses of the word in the discussion on surface reading, where it
+refers to concealed structures of meaning, literary formulae, signification,
+or ideology [See @best_surface_2009]. In another, more literal sense, depth
+refers to the formation of literary laminates that hold the inscription in
+suspense between layers of glass, plastic, liquid crystal, aluminum, iridium,
+and oxide.
+
+The move between paper and such *composite media* carries with it a profound
+shift in the physical affordances of the everyday document. Not much space
+separates ink from paper. There, textuality lies flat, in two dimensions. What
+you see is truly what you get. Not so on the screen connected to other drives,
+keyboards, and screens. Composite media extends into the third dimension, away
+from the reader and deep into the bowels of the machine.
+
+Stretched between the sites of storage and projection---screens and solid
+state drives---the inscription travels along a long "pipeline" of protocols,
+undergoing arbitrary transformations throughout. On one device, that pipeline
+may extend just a few inches, connecting disk storage to output display. On a
+networked device that pipeline can stretch across continents, spanning widely
+divergent regions of legal and administrative governance. The data that
+assembles the nearby object we call an electronic book may be stored on a
+server on the other side of the country. Whatever the case may be, the reader
+encounters the "protocol stack" from without on the periphery of the
 onion-like network. When paging through an electronic book, usually an
 OSI-compliant device, the reader has access only to the outputs emanating from
 the application layer, and, at that, only at the exposed "window" level of the
 document-object model. The perceived "content" therefore comprises only a
 small fraction of the underlying formal topology. What you see is far less
 than what you get.
+
+## Smart Contracts
 
 I would like to conclude this chapter with a glimpse of several obvious
 formatting structures that increasingly mediate in numerous everyday acts of
