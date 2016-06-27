@@ -322,7 +322,7 @@ renders the Greek *phantazomenōn* into the English "appearance":
 > Accordingly, since no one of these ever remains identical in appearance
 > [*phantazomenōn*], which of them shall a man definitely affirm to be any one
 > particular element and no other without incurring ridicule?
-> [@plato_plato_1955, 48d]
+> [@plato_plato_1955, 49d]
 
 Both translations of the Greek *phantazomenōn*, form and appearance, capture
 the plain meaning of the passage: the essence of a thing remains even as its
@@ -382,7 +382,7 @@ writes: "Poetry is the universal art of the spirit which has become free in
 itself and which is not tied down for its realization to external sensuous
 material; instead, it launches out exclusively in the inner space and the
 inner time of ideas and feelings" [@hegel_hegels_1998, 89]. Finally,
-"inwardness celebrates its triumph over the external and manifests its victory
+"[i]nwardness celebrates its triumph over the external and manifests its victory
 in and on the external itself, whereby what is apparent to the senses alone
 sinks into worthlessness" [@hegel_hegels_1998, 81]. Romantic art can, in this
 way, triumph over the external, material world, reaching, at its apex, what he
@@ -393,7 +393,7 @@ solidity in its tangible instantiation.
 
 Several lines in Hegel's exposition of Plato's idealism give us a glimpse of
 his struggle with the Platonic concept of form. In his "Lectures on
-Philosophy," Hegel writes that, the "idea is nothing but what is current with
+Philosophy," Hegel writes that, the "[i]dea is nothing but what is current with
 us under the name of the Universal, when this word is not taken in the sense
 of *formal* Universal [*formell Allgemeine*]." The formal universal for him is
 "merely a property of things," whereas in his interpretation Plato must be
@@ -404,7 +404,7 @@ lays a claim to truth alone. Hegel writes: "We translate the Greek word
 a number of similar determinations collected by reflection from several
 individuals, to serve as a *mark* for the convenience of the understanding,
 then we have the Universal in quite an external form" [@hegel_philosophy_1870,
-250]. In other words, as soon as *eidos* is instantiated, it moves from being
+249]. In other words, as soon as *eidos* is instantiated, it moves from being
 an ideal form into an apparent shape, as an epistemological category.
 
 I understand Hegel's problem with "formal Universal" as follows. Imagine
@@ -437,26 +437,27 @@ reasonably transcribed to "form" in English. In an essay on Hegel's concept,
 John Crowe Ransom likens the concrete universal to a "formula of a chemical
 reaction," "the recipe for a dish," and "the blue-print of a machine."
 Crucially, the Hegelian universal becomes concrete when the machine "has been
-materialized," and is "working properly" [@ransom_concrete_1954, 387]. Like
-Wittgenstein, Ransom imagines a perfected kind of a machine, which represents
-the ideal of an aesthetic object.
+materialized," and is "working" properly [@ransom_concrete_1955, 387].<!--two
+entries in zotero; pagination corresponds to 1955 ed. PRP--> Like Wittgenstein,
+Ransom imagines a perfected kind of a machine, which represents the ideal of an
+aesthetic object.
 
 ## Format Theory
 
-The above notes on Plato and Hegel point to series of related folds and
+The above notes on Plato and Hegel point to a series of related folds and
 creases in the formalist tradition.  W.K. Wimsatt once observed that literary
-theorists often persist in making statements that understand a work of
-literary art to be, in a peculiar way, "a very individual thing or a very
-universal thing or both" [@wimsatt_structure_1947, 262]. A work of art, a
-poem, understood as something which "cannot be expressed in other terms" leads
-to the kind of criticism that emphasizes the contemplation of the outward,
-affective, palpable elements of the text. The function of such criticism,
-according to Wimsatt, is to create "approximate descriptions of poems" and
-"multiple restatements of their meaning," which aid the reader in coming to
-their own "intuitive and full realizations" of literature
-[@wimsatt_structure_1947, 280]. Understood as an end product of a living ideal
-or formula, the analysis of literature seeks to recover latent universal
-mechanisms, laws, and deep structures that give rise to surface phenomena.
+theorists often persist in making statements that understand a work of literary
+art to be, in a peculiar way, "a very individual thing or a very universal
+thing or both" [@wimsatt_structure_1947, 262]. A work of art, a poem,
+understood as something which "cannot be expressed in other terms" leads to the
+kind of criticism that emphasizes the contemplation of the outward, affective,
+palpable elements of the text. The function of such criticism, according to
+Wimsatt, is to create "approximate descriptions of poems" and "multiple
+restatements of their meaning," which aid the reader in coming to their own
+"intuitive and full realization[s]" of literature [@wimsatt_structure_1947,
+280]. Understood as an end product of a living ideal or formula, the analysis
+of literature seeks to recover latent universal mechanisms, laws, and deep
+structures that give rise to surface phenomena.
 
 The dual motion of literary criticism, at once towards the extrinsic shape and
 intrinsic formula---poetics and hermeneutics---is perhaps most starkly visible
@@ -489,7 +490,7 @@ to the population of feelings, a direct cry to the predawn of the soul"
 words but with sound," appealing to the senses rather than the intellect.
 "Thought and speech," he wrote:
 
-> cannot keep up with inspired experience, and for this reason artists are >
+> cannot keep up with inspired experience, and for this reason artists are 
 > free to express themselves not only in language of common understanding, but
 > also in private language---language that has no settled sense [...] Lilacs
 > are beautiful, but how deformed [*bezobrazno*] the word "lilac," plundered
@@ -561,31 +562,31 @@ non-apparent deep structural regularities.
 
 Most recently, that theoretical distinction between shape and formula has been
 negotiated in terms of depth and surface. Two types of reading become evident
-in this model. The "symptomatic" literary critic reaches beyond the
-"ephemeral" external appearances to uncover internal and eternal metaphysical
-truth within. For a Marxist critic like Terry Eagleton or Frederic Jameson
-that latent meaning may have something to do with hidden machinations of
-capital and ideology. The psychologically minded critic reads in search of
-hidden drives, desires, or cognitive structures. By contrast to symptomatic
-reading, Stephen Best and Sharon Marcus describe a constellation of reading
-practices concerned with "what is evident, perceptible, apprehensible in text:
-what is neither hidden nor hiding; what, in the geometrical sense, has length
-and breadth but no thickness, and therefore covers no depth." The authors
-identify a constellation of related interpretation practices at the surface:
-reading for material surface, reading for verbal structure, reading for
-affect, reading for description, reading for pattern, and finally, reading for
-literal meaning or "just reading" [@best_surface_2009, 9].
+in this model. The "symptomatic" literary critic reaches beyond the "ephemeral"
+external appearances to uncover internal and eternal metaphysical truth within.
+For a Marxist critic like Terry Eagleton or Frederic Jameson that latent
+meaning may have something to do with hidden machinations of capital and
+ideology. The psychologically minded critic reads in search of hidden drives,
+desires, or cognitive structures. By contrast to symptomatic reading, Stephen
+Best and Sharon Marcus describe a constellation of reading practices concerned
+with "what is evident, perceptible, apprehensible in texts; what is neither
+hidden nor hiding; what, in the geometrical sense, has length and breadth but
+no thickness, and therefore covers no depth" [@best_surface_2009, 9]. The
+authors identify a constellation of related interpretation practices at the
+surface: reading for material surface, reading for verbal structure, reading
+for affect, reading for description, reading for pattern, and finally, reading
+for literal meaning or "just reading" [@best_surface_2009, 12].
 
 In making the argument for surface reading, Best and Marcus gesture toward the
 kind of formal poetics advocated by Susan Sontag in the late 1960s. At the
-time, Sontag wrote about "the need for more attention to form in art."
+time, Sontag wrote about the need for "more attention to form in art."
 Interpretation can be liberating, she wrote, but it can also stifle
-creativity. It "depletes" the world in some way, placing the critic in a
+creativity. It "deplete[s]" the world in some way, placing the critic in a
 privileged and unnecessarily meddling position between reader and text. "If
 excessive stress on content provokes the arrogance of interpretation, more
-extended and more thorough descriptions of form would silence," she wrote,
-"the best criticism, and it is uncommon, is of this sort that dissolves
-considerations of content into those of form" [@sontag_against_1966, 8-9].
+extended and more thorough descriptions of form would silence," she wrote.
+"The best criticism, and it is uncommon, is of this sort that dissolves
+considerations of content into those of form" [@sontag_against_1966, 1-12].
 
 Marcus and Best remind us that Sontag's manifesto was also an "affective and
 ethical stance" [@best_surface_2009, 10]. Strategies of "deep" interpretation
@@ -601,17 +602,17 @@ suggest, of forming their own interpretation.
 Interpretation at the level of meaning alone, for Sontag, was an intellectual
 and ultimately reactionary activity. It aims to find the "maximum amount of
 content" within. It is reactionary because it serves only to multiply the
-available "levels of analysis." In explicating the work of art, the critic
+available "levels" of analysis. In explicating the work of art, the critic
 merely creates alternate copies that diverge from the original. Each layer of
 criticism thus only adds to the content of the work, placing additional burden
-on the readers to come. Sontag believed that to "design" a work of art that
-can be experienced in this way---always on multiple and diverging levels of
+on the readers to come. Sontag believed that to "design" a work of art that can
+be experienced in this way---always on multiple and diverging levels of
 ideation---might have been "creative" and "revolutionary" in the age of
 aesthetic paucity, when creativity and interpretation were limited to a few
 privileged individuals. But her epoch, she believed, was one of creative
-abundance. "Think of the sheer multiplication of works of art available to all
-of us," she wrote. Contemporary culture had become based on "excess" and
-"material plenitude" which dull the senses [@sontag_against_1966, 9-10]. In
+abundance. "Think of the sheer multiplication of works of art available to
+every one of us," she wrote. Contemporary culture had become based on "excess"
+and "material plenitude" which dull the senses [@sontag_against_1966, 9-10]. In
 such conditions, the production of further critical variations on the theme
 only adds to the dulling clutter.
 
@@ -633,20 +634,20 @@ drives behind expression. A Marxist critic may instead look for the concealed
 operation of ideology. Fredrick Jameson, a prominent Marxist critic, wrote
 that:
 
-> the process of criticism is, not so much the interpretation of
-content, as it is a revealing of it, a laying bare, a restoration of the
+> the process of criticism is not so much the interpretation of
+content as it is a revealing of it, a laying bare, a restoration of the
 original message, the original experience, beneath the distortions of the
 various kinds of censorship that have been at work upon it; and this
 revelation takes the form of an explanation of why the content was so
-distorted and is thus inseparable from a description of the mechanisms of the
+distorted and is thus inseparable from a description of the mechanisms of this
 censorship itself [@jameson_marxism_1972, 404].
 
 Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
 deemed the "sensory experience" or the "erotics" of art. In "Against
-Interpretation" Sontag mentions the ideal of transparency as the "highest,
-most liberating value in art and in criticism today [...] transparency means
-experiencing the luminousness of the thing in itself, of things being what
-they are. [@sontag_against_1966, 9]" Rather than show what a work of art
+Interpretation" Sontag mentions the ideal of "transparence" as the "highest,
+most liberating value in art---and in criticism---today. Transparence
+means experiencing the luminousness of the thing in itself, of things being
+what they are. [@sontag_against_1966, 9]" Rather than show what a work of art
 *means*, Sontag urged critics to show "how it is" and "that it is"
 [@sontag_against_1966, 10]. Form, as she saw it, mirrors McKeown's "shape" and
 the "text's physical characteristics" of Hayles.
