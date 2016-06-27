@@ -563,33 +563,29 @@ phenomenon---in our case, communication).
 
 ## The Soap Opera Effect
 
-Consider another case study. Starting in 2010, modern televisions began
-shipping with a feature called "Motion-Compensated Frame Interpolation"
-(MCFI). The technology causes some viewers to report what has been dubbed as
-the "soap opera effect." Everything looks cheap to a viewer experiencing the
-soap opera effect. Even the familiar, critically acclaimed blockbuster
-featuring top acting talent and expensive camera work looks unnatural, like it
-produced on home video. I am quite susceptible to this phenomenon. I can tell
-when MCFI is in effect right away when watching something on someone else's
-television. When under the effect, the dynamics of the shot look somehow fake.
-The actors, even in films that I have seen and love, appear to be acting. I no
-longer believe in their characters as real people. I notice their makeup and
-their props and I just know they are faking it. The sensation is akin to
-watching bad silent cinema. The style of acting seems forced and "over the
-top." One cannot imagine people took that sort of thing seriously. The soap
-opera effect similarly makes relics of contemporary cinema.
+Consider another case study. Modern televisions began shipping with a feature
+called "Motion-Compensated Frame Interpolation" (MCFI) in 2010. It caused some
+viewers to report what was dubbed the "soap opera effect." Everything looks
+cheap to a viewer experiencing the soap opera effect. Even the familiar,
+critically acclaimed blockbuster featuring top acting talent and expensive
+camera work looks unnatural, as if produced on home video. I am quite
+susceptible to this phenomenon myself. Under the MCFI effect, a shot's
+dynamics look somehow fabricated. The actors, even in films that I have known
+and love, appear to be faking it. Their acting seems forced and "over the
+top." I notice their makeup and their props. It is like watching bad silent
+cinema.
 
-The technology behind MCFI was developed in response to motion blur particular
-to flat-panel liquid crystal displays (LCDs). LCDs work by passing light
-through a liquid crystal medium, sandwiched between two polarized light
-filters and rotated at 90 degrees to each other. As light enters through one
-side, it twists following the slightly curved molecular structure of the
-crystal, allowing the beam to rotate and to pass through both filters. The
-structure unwinds when it receives an electrical current, effectively blocking
-the light from passing through the medium. The gates close, so to speak, as
-the second filter begins to block the light from exiting. By these means, a
-series of small, pinhole-like pixels can be turned on and off to create
-shapes, letters, and images on the screen.[^ln3-mishima]
+MCFI was developed to correct motion blur that occurs on flat-panel liquid
+crystal displays (LCDs). LCDs work by passing light through a liquid crystal
+medium, sandwiched between two polarized light filters and positioned at 90
+degrees to each other. As light enters through one side, it twists following
+the slightly curved molecular structure of the crystal, allowing the beam to
+rotate and pass through both filters. The structure unwinds when it receives
+an electrical current, which effectively blocks light from passing through the
+medium. The gates close, so to speak, as the second filter prevents light from
+exiting. By this refractive structure, a series of small, pinhole-like pixels
+can be turned on and off to create shapes, letters, and images on the
+screen.[^ln3-mishima]
 
 [^ln3-mishima]: See @mishima_novel_2004.
 
@@ -600,46 +596,46 @@ the smectic phase to the right. Image licensed under CC-BY-SA 3.0
 
 In addition to filtering light, modern displays also flicker at a precisely
 calibrated rate. What we observe as a static image on the screen, is in
-reality a highly dynamic projection. Traditional film projectors advance from
-one frame to the next at a rate of 24 times each second to match the rate at
-which the film is captured by traditional film cameras. The film camera's
-shutter moves up and down 24 times per second, capturing a static snapshot at
-each turn. The projector's light flickers two to three times per frame, giving
-the projector a "refresh rate" of 48–72 cycles per second, or Hertz (Hz),
-which produces the effect of continuous motion. Without this strobing effect,
-under continuous light, the succession of frames moving past the light would
-appear a blurry streak of undifferentiated images.
+reality a highly dynamic projection. Traditional film projectors advance
+through 24 frames every second. The film camera's shutter similarly moves up
+and down 24 times per second, capturing a static snapshot at each turn. The
+projector and the camera are thus in sync.
+
+Furthermore, a projector's light flickers two to three times per frame, giving
+it a "refresh rate" of 48–72 cycles per second, or Hertz (Hz), which produces
+the effect of continuous motion. Without this strobe effect, under continuous
+light, the succession of frames would appear a blurry streak of
+undifferentiated images.
 
 An image persists in the human visual field for about 16 milliseconds after
-cessation of a stimulus, giving humans the temporal resolution of around 60
-images per second. Consequently, an average person begins to reach the state
-of "critical flicker fusion," where the strobe light becomes unnoticeable at
-refresh rates equal or higher than 60Hz. At the limits of flicker fusion, the
-image begins to persist through the gaps between frames, creating the
-appearance of continuous motion [@efron_conservation_1973;
-@coltheart_iconic_1980; @brannan_applications_1992]. Below the threshold of
-flicker fusion the viewer would begin noticing the strobing effect, which
-would make the viewing difficult. Liquid crystal displays (LCDs) mimic the
-action of the analog projector by refreshing the screen at intervals between
-60 and 120Hz. This happens even when the image is wholly static, as when
-writing digitally or reading an electronic book.
+the stimulus passes, giving humans the temporal resolution of around 60 images
+per second. Consequently, an average person reaches the state of "critical
+flicker fusion"---in which the strobe light becomes unnoticeable---at refresh
+rates equal or higher than 60Hz. At the limits of flicker fusion, the image
+begins to persist through the gaps between frames, creating the appearance of
+continuous motion [@efron_conservation_1973; @coltheart_iconic_1980;
+@brannan_applications_1992]. Below the threshold of flicker fusion the viewer
+would will notice the strobe effect, which hinders viewing.
 
-To complicate matters, human vision is more sensitive to rapid motion at the
-periphery of vision, in a mechanism likely evolved to provide swift response
-to predator attack [@burr_temporal_1981; @didyk_perceptually-motivated_2010].
-As humans move closer to their screens---when sitting in front of a computer
-monitor, fore example---more of the image enters the field of peripheral
-vision, making the viewer more sensitive to screen flicker. When sitting close
-to the screen, the flicker can become more noticeable because more of the
-moving image enters the sensitive area of peripheral vision adept at
-perceiving rapid movement.
+LCDs mimic the action of an analog projector by refreshing the screen at
+intervals between 60 and 120Hz. This happens even when the image is wholly
+static, like the page of an electronic book.
+
+Humans, to complicate matters, are more sensitive to rapid motion at the
+periphery of vision, in a mechanism likely evolved to detect predatory attack
+[@burr_temporal_1981; @didyk_perceptually-motivated_2010]. As humans move
+closer to their screens---when sitting in front of a computer monitor, for
+example---more of the image enters their field of peripheral vision, making
+them more sensitive to screen flicker. When sitting close to the screen, the
+flicker can become more noticeable because more of the moving image enters the
+sensitive area of peripheral vision adept at perceiving rapid movement.
 
 Furthermore, being closer to the screen increases the angular velocity of any
 depicted moving object. When viewed from afar, the movement of several inches
-on the screen corresponds to a change in the sight angle of several degrees,
-and likely a few millimeters of iris movement. When viewed up close, the same
-several inches on the screen represent a much larger angle, forcing the iris
-to move further laterally.
+on the screen corresponds to a change in a sight angle, and likely a few
+millimeters of iris movement. When viewed up close, the same several inches on
+the screen correspond to a much larger angle, forcing the iris to move further
+laterally.
 
 The human visual system is particularly adapt at tracking smooth, horizontal
 movement, cognitively anticipating the perceived trajectory of a laterally
@@ -647,45 +643,44 @@ moving object, while stabilizing the retinal image and keeping it at the
 center of the fovea in what is called "smooth pursuit" lateral eye movement
 [@rottach_comparison_1996; @purves_types_2001;
 @didyk_perceptually-motivated_2010]. To put it simply, we are good at tracking
-things that move horizontally, as when observing an antelope running across
-the plains. Even though our brain cannot capture such movement smoothly, the
-mind fills in such gaps to give the illusion of smooth movement sideways. This
-makes humans good at anticipating the trajectory of laterally moving objects,
-a likely adaptation useful for self-defense and hunting. But beyond some
-threshold, and particularly when things move rapidly up and down, the motion
-begins to appear jerky. Think of tracking a fly, for example, which appears to
-skip from one place to another as the visual system struggles to processes
-complex trajectories at speeds beyond the available threshold.
+things that move horizontally, like an antelope running across the plains.
+Even though our brain cannot capture such movement smoothly, it fills such
+gaps to create the illusion of smooth movement sideways. This makes us good at
+anticipating the trajectory of laterally moving objects, another likely
+adaptation that favors self-defense and hunting. But beyond some threshold,
+and particularly when things move rapidly up and down, the motion begins to
+appear jerky. Think of tracking a fly, for example, which appears to skip from
+one place to another as our visual system struggles to process its complex
+trajectories and threshold-crossing speeds.
 
-The "sample and hold" nature of the liquid crystal display frustrates the
-cognitive assumption of smooth movement. The brain attempts to anticipate the
-trajectory of moving objects on screen assuming that the object is moving
-smoothly. But the object's anticipated location does not always correspond to
-its actual trajectory on the screen, since the motion of a represented
-object-image in the frame does not follow the anticipated physics of a
-similarly sized real-world object. Trajectories of moving objects on the
-screen are subject to the vagrancies of video editing and recording. Because
-of the flicker, the movement is actually jerky; it is missing frames. The
-moving object appears at discrete stationary locations punctuated by gaps in
-on-screen movement. This mismatch between what is expected and what is
-perceived appears to the eye as blur. Shapes become fuzzy in motion under
-certain unfavorable viewing conditions [@klompenhouwer_motion_2004;
-@har-noy_lcd_2008]. To complicate matters further, the on-off phase
-transitions of the liquid crystal medium are not instantaneous. The individual
-pixel "fades" instead of vanishing at once, leaving a physical (and not merely
-a perceptual) trail of not-quite transitioned pixels in the wake of object
-movement [@kurita_moving_2001; @pan_lcd_2005]. Digital television runs into
-the analog limitations of the liquid crystal medium.
+The "sample and hold" nature of LCDs frustrates the cognitive assumption of
+smooth movement. The brain assumes that moving objects move smoothly. But on
+screen, the object's anticipated location does not always correspond to its
+actual trajectory, since the motion of a represented object-image in the frame
+does not follow the anticipated physics of a similarly sized real-world
+object. Trajectories of moving objects on the screen are subject to the
+vagrancies of video editing and recording. Because of the flicker, the
+movement is actually jerky; it is missing frames. The moving object appears at
+discrete stationary locations punctuated by gaps in on-screen movement. This
+mismatch between what is expected and what is perceived appears to the eye as
+blur. Shapes become fuzzy in motion under certain unfavorable viewing
+conditions [@klompenhouwer_motion_2004; @har-noy_lcd_2008]. To complicate
+matters further, the on-off phase transitions of the liquid crystal medium are
+not instantaneous. The individual pixel "fades" instead of vanishing at once,
+leaving a physical (and not merely a perceptual) trail of not-quite
+transitioned pixels in the wake of object movement [@kurita_moving_2001;
+@pan_lcd_2005]. Digital television runs into the analog limitations of the
+liquid crystal medium.
 
 To put all of these factors together: we observe film shot at 24 frames per
 second on LCD screens that redraw the screen at 60-120 times per second. The
 disparity between the low sampling rate of traditional film and high sampling
-rate of modern monitors has unintended side effects when coupled with the
-human perceptual apparatus, evolved to perceive motion in a particular way.
-The liquid crystal does not perfectly transition in a binary way as one would
-expect. To make matters worse we increasingly watch television on small
-hand-held devices, close to our field of vision. The combination of these
-factors made early LCD displays unsuitable for home entertainment.
+rate of modern monitors confounds human perception, which evolved to process
+motion in a particular way. The liquid crystal is also not a perfectly digital
+medium. It exhibits analog trailing effects. To make matters worse we
+increasingly watch television on small hand-held devices, close to our field
+of vision. The combination of these factors made early LCD displays unsuitable
+for home entertainment.
 
 To compensate for motion blur, LCD manufacturers introduced a technology
 called Motion-Compensated Frame Interpolation (MCFI), by which the television
@@ -697,17 +692,19 @@ natural, filling in the missing gaps that confuse the brain. Unfortunately for
 the viewer, the effectively higher sample rates carry a major unintended side
 effect. Most viewers associate sampling rates of 40Hz and above with daytime
 soap operas, which were, for a time, shot on lower quality (but more modern)
-video equipment as opposed to expensive legacy film equipment still in use by
-the big-budget film industry. Film is expensive because film cameras work by
-fixing the image onto the medium through a photochemical process. Like
-traditional film photography, raw footage must be developed and processed
-properly before it can be used for editing, playback, and distribution. Video
-and more modern, digital recorders, by contrast, transform light into
-fluctuations of the magnetic field, storing the results on magnetic tape or
-solid state "floating gate" storage. The transducer (tape head) reads and
-writes directly from and to tape, making magnetic storage significantly more
-compact and less expensive than film, as it does not require chemical
-processing for playback [@edgerton_columbia_2009].
+video equipment as opposed to expensive legacy film equipment used by the
+big-budget film industry.
+
+Film is expensive because film cameras work by fixing the image onto the
+medium through a photochemical process. Like traditional film photography, raw
+footage must be developed and processed properly before it can be used for
+editing, playback, and distribution. Video and more modern, digital recorders,
+by contrast, transform light into fluctuations of the magnetic field, storing
+the results on magnetic tape or solid state "floating gate" storage. The
+transducer (tape head) reads and writes directly from and to tape, making
+magnetic storage significantly more compact and less expensive than film, as
+it does not require chemical processing for playback
+[@edgerton_columbia_2009].
 
 Crucially for our story, video recorders operate at 60 frames per second, a
 recording resolution that together with the distinctive video color profile
@@ -729,119 +726,115 @@ The soap opera effect undercuts some of our most ingrained intuitions about
 the analog--digital divide.
 
 First, it challenges the easy equivalence between "digital" and "discrete"
-properties of the medium so often mentioned in the critical literature.
-Another mechanism must be in play here, since, according to accepted
-intuition, film (the more discrete format of representation) is the one that
-more closely approaches the analog (continuous) nature of observed phenomenon.
-Despite being the more fragmentary medium, film is seen as the more analog
-format than video. Under closer examination, film, usually discussed in the
-context of analog formats, appears to be (in some aspects, as we will explore
-in a later theoretical discussion) more digital than digital video by formal
-definitions, particularly if "digital" is taken to mean "discrete" and
-"differentiated." The incongruity between detailed material contexts of
-perception and theoretical speculation points to a confusion in the common
-terms. Since the screen plays a key part in the reception of all "digital"
-media, film and text, we must carefully peel apart the layers of the visible
-image to reveal the mechanics of projection.
+properties of the medium so often found in critical literature. According to
+accepted intuitions, film (the more discrete format of representation) more
+closely approaches the analog (continuous) nature of observed phenomenon,
+despite being the more fragmentary medium. Under closer examination, however,
+it reveals itself to be more digital than digital video, particularly if we
+take "digital" to mean "discrete" and "differentiated." The incongruity
+between detailed material contexts of perception and theoretical speculation
+points to a confusion in the common terms. Since the screen plays a key part
+in the reception of all "digital" media, film and text, we must carefully peel
+apart the layers of the visible image to reveal the mechanics of projection.
 
 Second, it seems that the material properties involved in our understanding of
 "digital" and "analog" formats are also implicated in higher-level functions
 of aesthetic judgment. Perception of quality in a given recorded performance
 drifts with the vagrancies of encoding. "Good acting" inexplicably falls apart
 with the introduction of extra frames. This should worry the critic unfamiliar
-with the artifacts of digital conversion. Even upon an introductory
-examination of the soap opera effect, we found sensory glitches and
-distortions which affect the coupling between organ and device.  In fact, the
-illusion of cinematic motion in itself takes advantage of the idiosyncratic
-particularities of human vision, evolved to perceive smooth lateral motion and
-limited by image persistence. A more perfected visual apparatus would perceive
-flicker at much higher rates and have no persistence visual trail artifacts.
+with artifacts of digital conversion. Even an introductory examination of the
+soap opera effect, reveals sensory glitches and distortions which affect the
+coupling between organ and device. In fact, the illusion of cinematic motion
+itself takes advantage of the idiosyncratic particularities of human vision,
+which is limited by image persistence and evolved to perceive smooth lateral
+motion. A more perfected visual apparatus would perceive flicker at much
+higher rates and have no persistence visual trail artifacts.
 
 Finally, where the literature often places "artificial" digital discreteness
-in opposition to "natural" analog continuity, a thick description of innate
-human perceptual apparatus reveals a complex patchwork of fragmentary
-cognitive mechanisms, already to an extent digital and discrete in their
-operation. At some level of analysis, gaps in the encoding format relate to
-gaps in human visual processing. Neither can be said to represent reality with
-perfect fidelity. Instead, brains and cameras stitch landscapes together from
-an unevenly sampled landscape of variegated visual topographies, achieving a
-measure of arbitrary synchronicity between human and machine.
+in opposition to "natural" analog continuity, a thick description of our
+perceptual apparatus reveals a complex patchwork of fragmentary cognitive
+mechanisms, already digital and discrete in their operation.
 
-The conversation around all things digital often conflates the discrete nature
-of digital representation with human debasement, following the logic by which
-the perceived material impoverishment in one sphere leads to the implied
-spiritual impoverishment in the other. The sentiment is everywhere in the
-popular press, having deep intellectual roots in the history of thinking about
-technology.  Philosophers of technology from Heidegger to Kittler advance a
-powerful "hermeneutics of suspicion" towards mechanization, digitization, and
-the subsequent computability of human experience. To take that tradition
-seriously is to direct hermeneutic suspicion to aspects of digital being that
-have meaningful socio-political consequences. If, as the case of motion blur
+At some level of analysis, gaps in the encoding format relate to gaps in human
+visual processing. Neither can be said to represent reality with perfect
+fidelity. Instead, brains and cameras stitch landscapes together from unevenly
+sampled visual topographies, achieving a measure of arbitrary synchronicity
+between human and machine.
+
+Critical literature often conflates the discrete nature of digital
+representation with human debasement, following the logic by which the
+perceived material impoverishment in one sphere leads to the implied spiritual
+impoverishment in the other. The sentiment is everywhere in the popular press,
+having deep intellectual roots in the history of thinking about technology.
+Philosophers of technology from Heidegger to Kittler advance a powerful
+"hermeneutics of suspicion" towards mechanization, digitization, and the
+subsequent computability of human experience. To take that tradition seriously
+is to direct hermeneutic suspicion to aspects of digital being that have
+meaningful socio-political consequences. If, as the case of motion blur
 suggests, human experience is already and always "born digital," that is,
 discrete and differentiated throughout, we must find ways of advancing
 critique along theoretical distinctions that better capture the instrumental
 reality of media practice. Nostalgia for "analog" oneness and continuity
 should itself fall under the critical gaze, examined alongside media marketing
 slogans advertising gapless playback and lossless file formats. To long for
-the analog is to desire for the experience of oneness, which was never there
-in the first place.
+the analog is to long for the experience of oneness, which was never there in
+the first place.
 
-At this point it appears that the whole matter of digital representation rests
-on arbitrary and contingent assumptions. If language and literature are
-already digital and discrete systems of representation, why should it bother
-us when it is otherwise digitized or transcoded into other controlled
-vocabularies? The Latin letter already comprises an atomic and indivisible
-unit. When it is further broken down into pixels, the smallest indivisible
-units on the screen, it undergoes little change in its ontological categories.
-Just as one learns to translate the arbitrary shapes of the alphabet into
-distinct sounds one can learn to translate arbitrary digits into letters and
-back into sounds and thoughts. The language of machines, in this view, is
-merely another language. That is not to say that all aspects of the computed
-sign are completely independent of sensory constraint. Humans cannot perceive
-the ultraviolet spectrum, for example. Nor would it be practical to create
-books so heavy as to prevent readers from turning the pages. The medium is
-"tuned" if you will to average human capabilities. Sensory constraints do
-determine the shape of the message to some reasonable extent. Yet other
-techniques of apprehension are socially constructed. Thus although all opera
-is in the human-audible frequency range, acculturation to opera listening
-helps greatly in its enjoyment. Some aspects of opera appreciation are learned
-(like knowing the plot) where others are determined (like the ability to hear
-sounds).
+Indeed, it appears that the whole matter of digital representation rests on
+arbitrary and contingent assumptions. If language and literature are already
+digital and discrete systems of representation, why should it bother us when
+it is otherwise digitized or transcoded into other controlled vocabularies?
+The Latin letter already comprises an atomic and indivisible unit. When it is
+further broken down into pixels, the smallest indivisible units on the screen,
+it undergoes little change in its ontological categories. Just as one learns
+to translate an alphabet's arbitrary shape into distinct sounds, one can learn
+to translate arbitrary digits into letters and back into sounds and thoughts.
+The language of machines, in this sense, is merely another language. Which is
+not to say that all aspects of the computed sign are completely independent of
+sensory constraint. Humans cannot perceive the ultraviolet spectrum, for
+example. Nor would it be practical to create books so heavy as to prevent
+readers from turning the pages. Sensory constraints do determine the shape of
+the message to some reasonable extent. The medium is "tuned" to average human
+capabilities.[^ln4-opera]
+
+[^ln4-opera]: Yet other techniques of apprehension are socially constructed.
+Thus although all opera is in the human-audible frequency range, acculturation
+to opera listening helps greatly in its enjoyment. Some aspects of opera
+appreciation are learned (like knowing the plot) where others are determined
+(like the ability to hear sounds).
 
 ## We Have Always Been Digital
 
-So far, the case studies I have built around the Pollak-Virag telegraph and
-the liquid crystal display reveal the fundamental inadequacy of popular
-understanding of the digital. What does it mean then to "digitize" a book, if
-languages---characters, words, sentences, paragraphs, pages---already function
-digitally? More broadly, if the digital cannot be reduced to the discrete,
-what other properties are being brought forth through digitization? A summary
-of the long-standing discussion about the nature digital representation in the
-fields of aesthetic theory and analytic philosophy helps untangle the
-conceptual complexities involved.
+My case studies of the Pollak-Virag telegraph and the liquid crystal display
+reveal our frequent misunderstanding of the term "digital."  What does it
+mean, for example, to "digitize" film, if is already a digital medium?  What
+properties are being brought forth through digitization, if the digital cannot
+simply be equated with discreteness? Aesthetic theorists and analytic
+philosophers have long debated the nature of digital representation. A summary
+of their conversation lays bare the term's latent complexities.
 
 The difference between discrete and continuous quantities defines the
 conversation about digital media.[^ln3-maley] For example, in a popular book
 about what a "well-informed person should know about computers," Brian
-Kernighan writes about "analog" as something meant to convey "the idea of
-values that change smoothly as something else changes" [@kernighan_d_2011,
-526]. Much of the world is analog, Kernighan explains. A water tap, a pen, or
-a car steering wheel are all examples of analog interfaces. For example, when
-riding a bicycle, turning the handlebars one way results in a corresponding
-motion of the machine. This motion is smooth. Compare that with the action of
-a light switch. A properly functioning light switch takes on two discrete
-states only: on or off. A range of pressure applied to the switch does not
-correspond to any mechanical action of the lever. But once a certain threshold
-is reached, the switch "flips" to change states. "Digital systems deal with
-discrete values," Kernighan writes. The switch contains a limited number of
-state possibilities, where the bicycle handlebars could be rotated in an
-infinite number of minutely differing gradations.
+Kernighan describes "analog" as conveying "the idea of values that change
+smoothly as something else changes" [@kernighan_d_2011, 526]. Much of the
+world is analog, Kernighan explains. A water tap, a pen, or a car steering
+wheel are all examples of analog interfaces. For example, when riding a
+bicycle, turning the handlebars one way results in a corresponding motion of
+the machine. This motion is smooth. Compare that with the action of a light
+switch. A properly functioning light switch takes on two discrete states only:
+on or off. A range of pressure applied to the switch does not correspond to
+any mechanical action of the lever. But once a certain threshold is reached,
+the switch "flips" to change states. "Digital systems," as Kernighan writes,
+"deal with discrete values. [@kernighan_d_2011, 22]" The switch contains a
+limited number of state possibilities, where the bicycle handlebars could be
+rotated in an infinite number of minutely differing gradations.
 
 Nelson Goodman was one of the first philosophers to examine digital
-representation in the context of aesthetic theory, in the late 1960s. Drawing
-from technical intuitions about devices like pressure gauges and computers
-Goodman proposed to call those notational systems "analog" that are "dense"
-and "undifferentiated to the extreme." By contrast, he called digital systems
+representation in the context of aesthetic theory. In the late 1960s, drawing
+on technical intuitions about devices like pressure gauges and computers he
+proposed to call those notational systems "analog" that are "dense" and
+"undifferentiated to the extreme." By contrast, he called digital systems
 those that are "discontinuous" and "differentiated throughout"
 [@goodman_languages_1968, 159-164]. By this definition, written language and
 music notation are digital systems par excellence, having the property of
@@ -853,56 +846,52 @@ would be more of an analog system under the proposed definitions.
 
 In this light, the language of cubist painting, which breaks shapes down into
 their modular atomic components, transforms an analog art form into into a
-digital one. Similarly, in the cuboid world of *Minecraft*, a popular
-world-building computer game, the player interacts with blocks, the block
-being the smallest meaningful and differentiated unit that constitutes all
-other meaningful things in the game. The world of *Minecraft* is sparse and
-therefore digital. By contrast, the world of the hyper-realistic *Myst*, a
-landmark graphic adventure puzzle game from the 1990s, depicts the
-painting-like, semantically irregular reality that cannot be broken down into
-neat components. *Myst*, a digital game, depicts a dense, undifferentiated,
-and analog world.
+digital one. Similarly, in the cuboid world of *Minecraft* the player
+interacts with blocks: the smallest differentiated units that constitute all
+other more complex things in the game. The world of *Minecraft* is sparse and
+therefore digital. By contrast, the world of the hyper-realistic *Myst*
+depicts the painting-like, semantically irregular reality that cannot be
+broken down into neat components. *Myst*, a digital game, depicts a dense,
+undifferentiated, and analog world.
 
-Our definitions strain under closer examination. Plainly, *Myst* is also a
-digital game. All digital images (and worlds) follow the logic of cubism to
-its deconstructive conclusion in that they atomize analog quantities into
-discrete and differentiated points of light. The world of *Myst* like the
+But Goodman's definitions strain under closer examination. Plainly, *Myst* is
+also a digital game. All digital images (and worlds) follow the logic of
+cubism to its deconstructive conclusion in that they atomize analog quantities
+into discrete and differentiated points of light. The world of *Myst* like the
 world of *Minecraft* is made of pixels. At some deeper level of analysis, both
-worlds are sparse and differentiated throughout. But could we not say the same
+worlds are sparse and differentiated throughout. Could we not say the same
 thing about all rule based analog games, like chess? On the level of syntax,
 Chess is also a sparse game, discrete and differentiated throughout like its
 computer counterparts. One plays on top of a grid with pieces that move
-according to rigidly proscribed rules, and along binary color distinctions. At
-another scale of analysis however, chess is an analog game.  The wood grain of
-the chess board is part of the dense, undifferentiated world. At a deeper
-level still, at the atomic scale of observation, the chess board again begins
-to appear sparse, discontinuous, and differentiated throughout. We are left
-without the critical means to tell wood-and-(faux)ivory chess pieces part from
-block-and-pixel pieces of *Minecraft*.
+according to rigidly proscribed rules and along binary color distinctions. At
+another scale of analysis however, chess is an analog game. The wood grain of
+the chess board is part of a dense, undifferentiated world. At a deeper level
+still, at the atomic scale of observation, the chess board again begins to
+appear sparse, discontinuous, and differentiated throughout. We are left
+without the critical means to tell wood-and-(faux)ivory chess pieces apart
+from block-and-pixel pieces of *Minecraft*.
 
-The quality of being digital seems depend on our perspective. The
-*perception* of density and sparseness changes with the viewer's ability to
-perceive differentiation. Ultimately, the qualities of density and
-sparseness, and therefore of digital and analog representation, belong not to
-the object of representation---chess or computer game---but to the viewer. In
-the 1980s, philosophers engaging in dialog with Goodman's earlier work began
-to move away from discussing digital representation in terms of media
-properties and towards a more process-based, viewer-depended understanding of
-the terms.
+The quality of being digital depends on our perspective. Density and
+sparseness changes with the viewer's ability to *perceive* differentiation.
+Ultimately, these qualities belong not to the object of representation---chess
+or computer game---but to the viewer. In the 1980s, philosophers engaging with
+Goodman's earlier work, began to move away from discussing digital
+representation in terms of media properties and towards a more process-based,
+viewer-depended understanding of the terms.
 
 For example, an interesting corollary to the continuous property of analog
 systems is our inability to duplicate their states exactly. I can approximate
 the pressure someone else puts on their bicycle handlebars with some arbitrary
-measure of precision that can never reach perfect reproducibility. This means
+measure of precision that never reaches perfect reproducibility. This means
 also that while more digital art forms like literature are, in some sense,
-perfectly reproducible, analog forms, like painting, are not. Following a
-similar chain of reasoning, the American philosopher John Haugeland proposed
-to consider the quality of being reproducible as essential to our
-understanding of digital representation. Reproducibility, for Haugeland,
-involved "flawless copying and preservation." To the definition of Goodman's
-digital systems, Haugeland therefore adds the notion of "feasible procedures"
-that can lead to "positive and reliable" processes for reading and writing
-digital tokens [@haugeland_analog_1981, 213-225].
+perfectly reproducible, analog forms, like painting, are not. Following
+similar reasoning, the American philosopher John Haugeland proposed to
+consider the quality of being reproducible as essential to our understanding
+of digital representation. Reproducibility, for Haugeland, involved "flawless
+copying and preservation." To the definition of Goodman's digital systems, he
+therefore added the notion of "feasible procedures" that can lead to "positive
+and reliable" processes for reading and writing digital tokens
+[@haugeland_analog_1981, 213-225].
 
 Let us consider Haugeland's propositions in relation to some of our previous
 case studies. The movements of the chess game are indeed perfectly
@@ -913,180 +902,162 @@ individual chess sets are not perfectly reproducible. Each is a somewhat
 unique version of the same "regulation" ideal. Importantly, sometimes drastic
 differences in the shape of the figures and the materials used to make chess
 sets are not meaningful in the context of the game. They may be meaningful to
-collectors, who may prize certain chess sets for their craftsmanship, for
-example. But "craftsmanship" is not in itself a signifying property int the
-game of chess. Rather, it attains meaning in the "game" of collecting.
+those collectors, who prize certain chess sets for their craftsmanship. But
+"craftsmanship" is not in itself a signifying property of chess. It is only
+meaningful in the "game" of collecting.
 
-A painting by Rembrandt occupies a place on the "perfect reproducibility"
-diametrically opposite to chess. No amount of copying however perfect can
-reproduce the value of the original painting. Every aspect of the painting is
-meaningful, including those not visible to the naked eye: like the traces of
-other paintings or sketches hidden under the surface representation. This
-would hold true even if a technique were invented by which it would become
-possible to make a perfect, molecule-by-molecule reproduction of Rembrandt
-paintings. The rules of fine art collection demand an original work of art
-that preserves the provenance of the artifact, including incidental bumps,
-scratches, and patina accrued through history. Such marks carry no meaning "by
-the rules" of painting, but they do carry meaning "by the rules" of
-collecting. Conventionally, we think of painting as an analog genre by
-Haugeland's definitions. But if someone chose to disregard the rules of
-collecting; if one simply enjoyed looking at beautiful pictures, for example;
-they would be justified in treating painting as a perfectly reproducible art
-form. It would in essence attain the quality of being more digital than
-painting in the world of fine art collecting. Following this line of
-reasoning, our ability to reproduce Rembrandt makes his paintings more
-digital. Now this is strange: nothing about the object changed. Its
-ontological status shifts however with the viewer's technological
-capabilities.
+By contrast, no amount of copying can reproduce an original Rembrandt. Every
+aspect of the painting is meaningful, including those not visible to the naked
+eye: like the traces of other paintings or sketches hidden under the surface
+representation. This would hold true even if an invented technique could make
+a perfect, molecule-by-molecule, reproduction of Rembrandt paintings. The
+rules of fine art collection demand an original work of art that preserves the
+provenance of the artifact, including incidental bumps, scratches, and patina
+accrued through history. Such marks carry no meaning "by the rules" of
+painting, but they do carry meaning "by the rules" of collecting.  By
+Haugeland's definitions painting is an analog genre. But if one were to
+disregard the rules of collecting, if one simply enjoyed looking at beautiful
+pictures, they would be justified in treating painting as a perfectly
+reproducible art form. Painting would, in essence, become digital for them.
+Similarly, our ability to reproduce Rembrandt makes his paintings more
+digital, which is strange because this changes nothing about the object. Its
+ontological status shifts with the viewer's technological capabilities.
 
-The moving image lies somewhere in the middle between the extremes of
-competitive chess and fine art. In the case of the soap opera effect, we may
-think of analog film as a series of still shots. For some purposes, these
+With regard to discreteness, moving images lie somewhere between the extremes
+of competitive chess and fine art. In the case of the soap opera effect, we
+may think of analog film as a series of still shots. For some purposes, these
 still shots are reproducible in mass quantities, although not perfectly.
 Multiple copies of each film reel are routinely distributed to multiple
 cinemas. Each is "authentic" in the sense that is is sanctioned by the movie
-studio. Yet from another perspective, each frame is also an irreproducible
+studio. Yet, from another perspective, each frame is also an irreproducible
 work of art, which like painting can accrue the patina of time, and in some
 context attain value based on such unique properties as belonging to this or
-that prominent film director. If celluloid-based film cinematography can be
-considered in terms of "irreproducible series of paintings," magnetic
-storage-based videography can be considered in terms "perfectly copyable
-magnetic facsimiles." It is possible to imagine some magnetic tapes also
-attaining value on par with painting or film stills; to become in a sense, a
-unique work of art. But such a thought experiment is made difficult by the
-fact that humans lack the sensory faculties necessary to observe the magnetic
-trace directly.  Distortions to the magnetic field are therefore lost to
-direct observation. Whatever sense of valuable degradation or patina
-particular to magnetic storage media is lost on the average human collector.
-Once again, we see that qualities like "reproducibility" and "patina" depend
-on the capabilities of the observer and not on any intrinsic property of the
-medium.
+that prominent film director. If we consider celluloid-based film
+cinematography in terms of "irreproducible series of paintings," we can also
+consider magnetic storage-based videography in terms of "perfectly copyable
+magnetic facsimiles." It becomes possible then to value magnetic tapes on par
+with paintings or film stills. Magnetic tapes can become, in a sense, unique
+works of art. But such thought experiments are rendered void because humans
+cannot observe magnetic traces directly. Whatever sense of valuable
+degradation or patina particular to magnetic storage media is lost on the
+average human collector. Once again, we see that qualities like
+"reproducibility" and "patina" depend on the capabilities of the observer and
+not on any intrinsic property of the medium.
 
 In 2008, the philosopher Matthew Katz proposed two further important
-theoretical qualifications to the discussion, already implicit in Haugeland.
-First, Katz made the distinction between "format" and "medium" of digital
-representation.  Second, he noticed that the distinction between digital and
-analog systems sometimes depends on facts about the observer or user of the
-system. To illustrate these two amendments, Katz imagined a measuring system
-that involves a supply of marbles in a large beaker. We can then agree to use
-a "handful" as an approximate unit of measurement. Thus it becomes possible to
-observe something like "the beaker contains three handfuls of marbles." Even
-though marbles are a perfectly discrete medium, the system is analog because
-no convention is established to reproduce "handfuls" with any sense of
-precision. In other words, the marble-beaker system violates Haugeland's
-requirement for "positive and reliable" standards of reproducibility. My two
-handfuls might be different from yours due to the difference in the size or
-our hands. Where the medium (marbles) is discrete the format (handfuls) is
-analog.
+theoretical qualifications to the digital-analog debate. First, he
+distinguished between "format" and "medium" in digital representation.
+Second, he proposed that the digital-analog distinction often depends the
+observer. To illustrate these two amendments, Katz imagined a measuring system
+that involves a supply of marbles in a large beaker. We can thereby agree to
+use a "handful" as an approximate unit of measurement with that system. Thus
+one can observe a situation in which the beaker contains "three handfuls of
+marbles." Katz's system is analog, even though marbles themselves are a
+perfectly discrete medium, because it establishes no precise convention to
+reproduce handfuls. The marble-beaker system violates Haugeland's requirement
+for "positive and reliable" standards of reproducibility. My two handfuls
+might be different from yours due to the difference in the size or our hands.
+Where the medium (marbles) is discrete the format (handfuls) is analog.
 
-But whether handfuls are perfectly reproducible or not is again a property of
-the individual doing the measuring. It lies in our imperfect ability to
-perceive multitude quantities. Were humans endowed with the magical ability to
-discern the exact number of water molecules in a beaker, previously analog
-systems (like unmarked beakers) would in effect become digital under the
-expanded definition. Similarly, were all humans endowed with hands of a
-definite size and volume, "handfuls" would also be counted as discrete and
-therefore digital quantities. From similar thought experiments Katz concludes
-that the physical, perceptual, and cognitive capabilities of the "user"
-(reader, audience, perceiver) affect the ontological status of the system, a
-handful of marbles or a work of art [@katz_analog_2008].
+The mechanism of measuring is depended on the measurer. It is analog because
+we cannot accurately perceive approximate quantities. Were humans able to
+magically discern the exact number of water molecules in a beaker, previously
+analog systems (like unmarked beakers) would in effect become digital.
+Similarly, were humans endowed with hands of a definite size and volume,
+"handfuls" would be counted as discrete and therefore digital quantities.
+From similar thought experiments, Katz concludes that the physical,
+perceptual, and cognitive capabilities of the "user" (reader, audience,
+perceiver) affect the ontological status of the system, a handful of marbles
+or a work of art [@katz_analog_2008].
 
-Katz's seemingly minor amendments to Haugeland carry several radical practical
-consequences relevant to our discussion. If we can reflect for a moment on the
-distinction Katz makes between "medium" and "format" we would be forced to
-conclude that the ultimate nature of the medium only matters in so far as it
-is tied to the observer's ability to impose formats. It does not matter for
-the definitions if the beaker is full of marbles or full of water.  What
-matters only is our ability to "format" the medium into exactly reproducible
-chunks. I am in fact able to do that with marbles (by counting) but unable to
-do it with water (without specialized instruments). In other words,
-undifferentiated matter like cake is only analog until someone cuts it into
-pieces. And how it is cut matters. The ontological status of cake changes
-depending on the agent doing the cutting. For someone armed with a laser
-cutter and a microscope the cake is, on a spectrum, a near perfectly digital
-medium. It is analog for those cake cutters who approximate their slices.
+Katz's seemingly minor amendments to Haugeland have several radical practical
+consequences on our discussion. The physics of the medium, he reveals, are
+significant only in so far as they are tied to our ability to impose order in
+formatting. Whether the beaker is full of marbles or water is irrelevant.
+What is crucial is our ability to format the medium into exactly reproducible
+chunks. We are can do that with marbles by counting, but cannot with water.
+Undifferentiated matter like cake is only analog until someone cuts it into
+pieces. And the technique of cutting is important. The ontological status of
+cake changes depending on the agent doing the cutting. For someone armed with
+a laser cutter and a microscope the cake is, on a spectrum, a near perfect
+digital medium. It is analog for those cake cutters who approximate their
+slices.
 
-In this light, our confusion about the dual status of *Myst* as both a digital
-and an analog artifact resolves when we introduce the distinction medium and
-format. The medium is digital *for those who have the access to the binary
-layer of the game.* This layer is not normally accessible at the site of the
-projection. The player does not operate at the site of the archive, where the
-bits that produce surface images actually reside. The player therefore
-perceives the computed scenery as analog representation. The property of being
-digital thus indicates the *systematic ability to impose structure*. The game
-is digital for a programmer and analog for the player.  The quality of the
-digital separates those that create differentiation from those who
-holistically apprehend the differentiated structure---those to whom structure
-is an absolute given.
+Our confusion about the dual status of *Myst* therefore resolves when we
+introduce the distinction between medium and format. *Myst* is digital *for
+those who can access the game's code*. This binary layer is not normally
+accessible at the site of the projection. The player does not operate at the
+site of the archive, where the bits that produce surface images actually
+reside. The player therefore perceives the computed scenery as analog
+representation. The property of being digital thus indicates the *systematic
+ability to impose structure*. *Myst* is digital for a programmer and analog
+for the player. The quality of the digital separates those that create
+differentiation from those who holistically apprehend the differentiated
+structure---those to whom structure is an absolute given.
 
 Further, note that from an instrumental point of view, to make something
 digital, in Katz's final formulation, implies the separation of structure from
 the medium. The painting remains analog as long as it remains irreproducible.
 It becomes digital when the viewer is able to impose structure, by which the
-visual form is "lifted" from the medium of canvas. Another way to put it would
-be to say that to digitize means also to enable "flawless copying and
-preservation" through "positive and reliable means." When taken outside of
-their philosophic context, such actions acquire an immediate practical
-implication, for a librarian for example. The mechanisms of "flawless copying
-and preservation" are social, technological, and institutional mechanisms.
-They vary by cultural and political contexts.
+visual form is "lifted" from the medium of canvas. We could also say that to
+digitize means to enable "flawless copying and preservation" through "positive
+and reliable means." When taken outside of their philosophical context, such
+actions acquire an immediate practical implication, say to a librarian. The
+mechanisms of "flawless copying and preservation" are social, technological,
+and institutional mechanisms. They vary by cultural and political contexts.
 
 Human language can be thought of as a digital artifact then, as long as it is
-free, that is, as long as it participates in the unhindered trans-mediation of
-thought---from mind states to voice, from voice to paper, and from paper to
-other mind states. Without such chains of transmission there can be no
-culture, in the sense that culture constitutes a shared intellectual
-achievement. Any sense of collectivity relies on each participant's ability to
-effect change in the material contexts of representation. I participate in the
-collective as long as I am free to separate thought from its natural medium
----my brain: to speak out loud, to write thoughts down on paper, and to pass
-notes to others. When we insist on preserving some notion of holistic analog
-unity, we ultimately risk total censorship. At the extreme of a purely analog
-representation lie mental images that cannot be separated from their medium
-and therefore cannot be transmitted. Media independence transcends the
-intellectual confines of an individual. Without digital, in this new sense,
-portability, all representation---art and knowledge---attaches itself
-irrecoverably to untranslatable and irreproducible conditions of its material
-production.
+free and participates in the unhindered trans-mediation of thought---from mind
+states to voice, from voice to paper, and from paper to other mind states.
+Without such chains of transmission there can be no culture, in the sense that
+culture constitutes a shared intellectual achievement. Any sense of
+collectivity relies on each participant's ability to effect change in the
+material contexts of representation. I participate in the collective as long
+as I am free to separate thought from its natural medium ---my brain: to speak
+out loud, to write thoughts down on paper, and to pass notes to others. When
+we insist on preserving some notion of holistic analog unity, we ultimately
+risk total censorship. At the extreme of a purely analog representation lie
+mental images that cannot be separated from their medium and therefore cannot
+be transmitted. Media independence transcends the intellectual confines of an
+individual. Without digital, in this new sense, portability, all
+representation---art and knowledge---attaches itself irrecoverably to
+untranslatable and irreproducible conditions of its material production.
 
 These are the beginnings of an argument against analog modes of being. Truly
 digital text can be copied and placed into other hands and minds, feasibly and
 reliably. The possibility of enacting such procedures is what ultimately gives
-representation its digital form. Our senses limit our ability to format or in
-other words to impose structure onto media. For this reason, we cannot, for
-example, communicate in the infrared spectrum, without proper instrumentation.
-But much more commonly, our ability to format or in other words to impose
-structure onto media, to make it digital, is limited from without, by
-political means. A document classified by a government, for example, loses
-some of the necessary preconditions for being digital. One is literally not
-allowed to copy it. It has to remain embedded within this particular piece of
-paper on this particular desk. Technologies like "digital rights management"
-(DRM), which work to limit the reader's ability to copy books similarly
-transform digital content into its media-dependent, irreproducible, and analog
-forms. Paradoxically, a paper-an-ink book that places no restrictions on
-copying and transmediation provides for a more digital format than its
-electronic book analogs, particularly when such electronic books restrict the
-reader's ability to copy and transmediate. Another way to put it would be to
-say that on "protected" devices like proprietary e-book readers the content
-is digital for some users and analog for those without permissions to copy,
-share, and transform. Technologies like Digital Rights Management separate
-those for whom texts remain fluid and digital from those for whom texts become
-fixed and analog artifacts.
+representation its digital form. Our senses limit our ability to format: to
+impose structure onto media. We cannot, for example, communicate in the
+infrared spectrum, without proper instrumentation. In general, our ability to
+format media, to make it digital, is limited from without, by political means.
+A document classified by a government, for example, loses some of the
+necessary preconditions for being digital. One is literally not allowed to
+copy it. It has to remain embedded within this particular piece of paper on
+this particular desk. Technologies like "digital rights management" (DRM),
+which limit a reader's ability to copy books similarly transform digital
+content into its media-dependent, irreproducible, and ultimately analog forms.
+Paradoxically, a paper-an-ink book that places no restrictions on copying and
+transmediation provides for a more digital format than its electronic book
+analogs, particularly when such electronic books restrict the reader's ability
+to copy and transmediate. Another way to put it would be to say that on
+"protected" devices like proprietary e-book readers the content is digital for
+some users and analog for those without permissions to copy, share, and
+transform.
 
 The word, already a discrete quantity, comes into digital being as form when
 coupled loosely to its material contexts. Ontologically, text is by nature a
 digital format: first because it represents discrete units of information
 about the world, and second, because it allows for some measure of "flawless
 copying and preservation." Copying and preservation constitute the logic
-compelling the historical advancement of writing. But, also note that
-"flawless copying and preservation" are in themselves contingent (not fully
-determined) properties of writing. For example, imagine a world in which ideas
-forever "adhere" to their brain-bound media.[^ln3-brain] Imagine also a
-society that positively prohibits the transmediation of thought, on paper or
-between brain cells. Envision extreme forms of thought control that restrict
-fundamental basics of speech and literacy, prohibiting the manufacture of
-pens, paper, computers, photocopiers, voice recorders, and word processors.
-Such prohibitions would amount to total censorship. A radically analog society
+compelling the historical advancement of writing. But, note that "flawless
+copying and preservation" are in themselves contingent (not fully determined)
+properties of writing. For example, imagine a world in which ideas forever
+"adhere" to their brain-bound media.[^ln3-brain] Imagine also a society that
+positively prohibits the transmediation of thought, on paper or between brain
+cells. Envision extreme forms of thought control that restrict fundamental
+basics of speech and literacy, prohibiting the manufacture of pens, paper,
+computers, photocopiers, voice recorders, and word processors.  Such
+prohibitions would amount to total censorship. A radically analog society
 would also be wholly mute.
 
 Understanding digitality as an kind of order, a format that arranges matter in
@@ -1094,8 +1065,8 @@ certain ways tied to particular affordances of specific devices, recasts the
 history of computing into something other than simple "mathesis," the idea
 that computation reduces the world into more discrete, and therefore
 computable, elements. That notion would be true if the computer was simply a
-glorified calculator. Computers are more than that: in practice, they reveal
-themselves to be self-amending machines for universal transmediation
+glorified calculator. But computers are more than that. In practice, they
+reveal themselves to be self-amending machines for universal transmediation
 ---machines that, depending on the user's acuity and dispensation to access
 deep structure, separate readers into those for whom texts and images exist as
 fixed analog given and those for whom they exist in a fluid form. Computation
@@ -1105,29 +1076,24 @@ one symbolic order for another among signs, people, and machines.
 ## The Medium Is Not the Message
 
 In examining the material conditions of digital representation we find
-format---a quality distinct from both medium and semantic content of the
-message---to emerge as a political construct governing the physical
-affordances of communication. In this thesis lies the crux of the chapter's
-argument. Where we started with vague intuitions about the essence of digital
+format---a quality distinct from both medium and content---emerging as a
+political construct that governs the physical affordances of communication.
+Where we started with vague intuitions about the essence of digital
 representation, we end on firmer ground, at which formatting identifies the
-ability to impose structure onto the medium. Formatting, long under-theorized
-in the critical literature, matters because the ability to cut the cake
-structures not only the cake but also portion size. That is to say that
-formatting frames the medium as well as the affordances of apprehension. Thus
-to format text without margins, to take a relatively benign example, is also
-to deny marginalia. And to format text in a way that prevents further
-remediation is to deny the formation of shared culture.
+ability to impose structure onto the medium. Formatting, long under-theorized,
+matters because it frames the medium as well as the affordances of
+apprehension. How the cake is cut also determines how we eat. To format text
+without margins, for example, is also to deny marginalia. And to format text
+in a way that prevents further remediation is to deny the formation of shared
+culture.
 
-Critics like Fish and Golumbia are therefore correct in treating unexamined
-claims to digitization with suspicion, but not quite for the right reasons.
-Digitization threatens humanity only in so far that it lays and has always
-lain claim on the recipient of the message. In its benign form it facilitates
-understanding. Thus to shape undifferentiated blocks of text into paragraphs
-and to take care of gutters and margins is to help the reader better apprehend
-the message being conveyed. But formatting of another kind can also conversely
-hinder apprehension. It can structure attention in ways that discourage or
-outright prevent practices that accompany critical thought, like note taking
-and public discussion.
+Critics like Fish and Golumbia are rightfully suspicious of unexamined claims
+about digitization. But they are suspicious for the wrong reasons.
+Digitization threatens humanity only in so far that it lays claim on the
+recipient of the message. It can facilitates understanding by shaping
+undifferentiated blocks of text into paragraphs, by giving space to
+annotation. But formatting can also hinder apprehension. It can structure
+attention in ways that discourages or outright prevents critical thought.
 
 In his influential essay on the political quality of technological artifacts,
 Langdon Winner famously argued that in modern times "people are often willing
@@ -1141,28 +1107,26 @@ mismatch between political belief in practice comes from the lack of critical
 engagement with technology, which as Winner writes, requires "both the study
 of specific technical systems and their history as well as a thorough grasp of
 the concepts and controversies of political theory" [@winner_artifacts_1980,
-135]. Winner gives the paradigmatic example of this dynamic in the case study
-of Robert Moses and his twentieth century highway building projects in New
-York city. Moses built low overpasses with an eye towards discouraging bus
-travel, which reflected his social and racial biases, Winner argues. Such
-infrastructural biases in effect carry the force of legislation. The limited
-access to public parks and beaches for poor people and people of color who
-could not at the time afford personal transportation at scale.
+135]. Winner elucidates this dynamic through the case study of Robert Moses
+and his twentieth century highway building projects in New York city. Moses
+built low overpasses with an eye towards discouraging bus travel, which
+reflected his social and racial biases. These in effect carried the force of
+legislation, Moses argued, denying people of color and the poor access to
+public spaces.
 
 Similarly, in our case, claims on a reader's attention can happen through
 legislation, by social convention, or through specific material affordances,
-like the inability to take notes or to share books among family and friends,
-for example. Such technological constraints disproportionately affect those
-most reliant on informal knowledge networks, which exist outside of economies
-of wealth and prestige. Digitizing the public archive without a thorough
-understanding of the kind of platforms and technologies involved risks
-committing the public to an empty and impoverished vision of social knowledge
-production. Technologies that hinder "feasible procedures" for reliable
-"copying and preservation" create textual artifacts less digital than paper
-books. They push us towards knowledge economies in which to read means to
-purchase temporary reading rights and to take notes means to labor
-intellectually on commercialized and centralized platforms susceptible to
-exploitation, censorship, and surveillance.
+like the inability to take notes or to share books among family and friends.
+Such technological constraints disproportionately affect those most reliant on
+informal knowledge networks, which exist outside of economies of wealth and
+prestige. Digitizing the public archive without a thorough understanding of
+the platforms and technologies involved, risks committing the public to an
+empty and impoverished vision of social knowledge production. Technologies
+that hinder "feasible procedures" for reliable "copying and preservation"
+create textual artifacts less digital than paper books. They push us towards
+privatized knowledge economies. To "read" becomes to "purchase temporary
+reading rights"; note-taking becomes susceptible to exploitation, censorship,
+and surveillance.
 
 Consider the seemingly innocuous decision to distribute scientific literature
 formatted in the ubiquitous Adobe Portable Document Format (.pdf). Adobe, the
@@ -1177,57 +1141,55 @@ recipient reads on a small, portable device. Because the formatting is not
 fixed, the email program is able to reflow the lines appropriately. You have
 in essence delegated the responsibility for formatting the text to the
 reader's device. Readers are then free to apprehend it in a manner most
-convenient for them, tailored to their specific needs, attention spans, and
+convenient for them: tailored to their specific needs, attention spans, and
 body types. The downside of having this freedom is that the sender cannot
 assure excellence in formatting. The reader's software may render the text
 poorly or make it outright unreadable.
 
-The Adobe Portable Document Format solves the problem by guaranteeing the
-recipient receive the message exactly as written, without delegating the
-responsibility of rendering it to the reader. In essence, the format mimics
-the constraints of the printed page, which similarly preserves the shape of
-the message during transmission. When writing a letter by hand, you know that
-your recipient will see what you see, in the same shape and form. But to
-achieve the effect, the portable document format must also limit the viewing
-possibilities of the document. Thus if the sender fixes the width of the page
-to the standard legal letter size, the reader would be pained to read such a
-document on a smaller, portable device. The PDF converts an essentially
-textual, that is digital format into a visual one. Strictly speaking, PDF
-documents do not contain text, in a way that an email does. Rather, they
-contain text in a way a photograph of a printed page does, in an image. Such
-constraint is useful for business communication, as when writing contracts for
-example. The party responsible for drafting the contract wants to know that it
-would signed without alteration.
+The PDF solves this problem by guaranteeing its recipient receive the message
+exactly as written, without delegating the responsibility of rendering it to
+the reader. In essence, the format mimics the constraints of the printed page,
+which similarly preserves the shape of the message during transmission. When
+writing a letter by hand, you know that your recipient will see what you see,
+in the same shape and form. But to achieve the effect, the portable document
+format must also limit the viewing possibilities of the document. Thus if the
+sender fixes the width of the page to the standard legal letter size, the
+reader would be pained to read such a document on a smaller, portable device.
+The PDF converts an essentially textual, that is digital format into a visual
+one. Strictly speaking, PDF documents do not contain text, in a way that an
+email does. Rather, they contain text like a photograph of a printed page
+does, as an image. Such constraint is useful for business communication, when
+writing contracts for example. The party responsible for drafting the contract
+wants to know that it would signed without alteration.
 
 Yet for other purposes, such fixity of formatting is detrimental to
 communication.  Where reading paper contracts sent through the mail is free,
 the reading of PDF documents requires specialized software, which may cost
 money. PDF further hinders the copying and the preservation of text---the
-formal prerequisites for digital media. The simple act of taking notes (to use
-the same example as above) becomes a paid feature of the Adobe Acrobat
-software. What was gained in a minor (for scholarly communication) convenience
-of formatting is lost in a major concession to the privatization of public
-knowledge. We have in effect instituted a document format that in some
-important for us ways is less flexible than paper. Because "copying and
-preservation" are key values for university libraries, the loss of unimpeded
-"copying and preservation" should outweigh any gains in purely ornamental
-stability of document format. This does not mean that we should not use Adobe
-Acrobat files, only that we must, in all cases, be intellectually invested in
-the compromises involved.
+formal prerequisites for digital media. The simple act of taking notes becomes
+a paid feature of the Adobe Acrobat software. What was gained in a minor (for
+scholarly communication) convenience of formatting is lost in a major
+concession to the privatization of public knowledge. We have in effect
+instituted a document format that is less flexible than paper. Because
+"copying and preservation" are key values for university libraries, the loss
+of unimpeded "copying and preservation" should outweigh any gains in purely
+ornamental stability of document format. This does not mean that we should not
+use Adobe Acrobat files, only that we must, in all cases, be intellectually
+invested in the compromises involved.
 
 Technology does not determine the literary space: it has only the potential to
 hide implicit mechanisms of machine control, or, to offer possibilities for
-transformation not otherwise available to other forms of textuality. Loosely
-coupled to its material contexts, text can continue its relentless drive from
-matter to idea and into other matters as long as its passage is not hampered
-by regimes that prohibit further sharing, remixing, and transmediation. I say
-nothing yet of the potential necessity of such regulation. Under certain
-conditions, in the name of privacy, security, or property rights, it may
-become necessary to flatten out and to treat text as more of an analog,
-media-bound modality of communication, limited in its ability to move across
-minds and cultures. But, it is also in our broadly human, civic interest to
-keep such mechanisms of constraint visible to view, under continual scrutiny
-of critical, close, and closest possible reading.
+transformation into other forms of textuality. Loosely coupled to its material
+contexts, text can continue its relentless drive from matter to idea and into
+other matters as long as its passage is not hampered by regimes that prohibit
+further sharing, remixing, and transmediation. I say nothing yet of the
+potential necessity of such regulation. Under certain conditions, in the name
+of privacy, security, or property rights, it may become necessary to flatten
+out and to treat text as more of an analog, media-bound modality of
+communication, limited in its ability to move across minds and cultures. But,
+it is also in our broadly human, civic interest to keep such mechanisms of
+constraint visible to view, under continual scrutiny of critical, close, and
+closest possible reading.
 
 [^ln3-ndc]: Also known as the "single current" or "single Morse" system.
 
