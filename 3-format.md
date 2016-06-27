@@ -107,7 +107,7 @@ specification describes features that include "accessibility of content to
 those with disabilities," "digital signatures to certify authenticity,"
 "electronic forms to gather data," "preservation of document fidelity
 independent of the device, platform, and software," and "security and
-permission to allow the creator to retain control of the document and
+permissions to allow the creator to retain control of the document and
 associated rights" [@iso_portable_2008, vii].
 
 These capabilities mediate between visible image and stored information: one
@@ -118,14 +118,15 @@ authors, readers, and devices. In our example, the PDF encodes among other
 things ideas about "reading," "authenticity," "fidelity," "preservation," and
 "authorship." Whatever literary-theoretical framework the reader brings to the
 process of interpretation must therefore meet the affordances encoded into the
-electronic text itself. Such an encounter happens not on the level of
-representation or ideology, but on the level of the physical, the phatic, and
-the imperative, where formatting and control codes reside. Thick content
-accounts for the disparity between plain and fancy text.[^ln3-fancy] The
-explication of such thick content requires thick description that draws on
-material particulates. These further acquire tactical significance in
-practice: the text that edits itself or one that collects its own fees
-necessitates new formalisms and new strategies of interpretation.
+electronic text itself.<!--It might be cool to call back to Levine, here, like
+you do with Baudrillard above. PRP--> Such an encounter happens not on the
+level of representation or ideology, but on the level of the physical, the
+phatic, and the imperative, where formatting and control codes reside. Thick
+content accounts for the disparity between plain and fancy text.[^ln3-fancy]
+The explication of such thick content requires thick description that draws on
+material particulates. These further acquire tactical significance in practice:
+the text that edits itself or one that collects its own fees necessitates new
+formalisms and new strategies of interpretation.
 
 The familiar paper paragraph structure already presents several interesting
 problems for analysis. A paragraph, we intuitively believe, corresponds to a
@@ -140,15 +141,17 @@ the screen: paragraphs, pages, files, and folders. These resemble their paper
 counterparts, but they represent other, less familiar and nonequivalent
 ordering structures on disk.
 
-![Data structures in the brain, on a page, on disk.](images/forms.png)
+![Data structures in the brain, on a page, on disk.](images/forms.png)<!--is
+there a source for this? PRP -->
 
 Formats mediate between data structures, transforming one into the other
 according to predefined rules. Mental image, information stored in the head,
-becomes inscription, information stored in the machine, which turns into a
-projection, content arranged on the screen. The complexities of the
-transformation stem from the fundamental incompatibility between what the
-media scholar Alexander Galloway calls "incommensurate physicalities
-[@galloway_interface_2012, viii]" between human and machine. Format
+becomes inscription, information stored in the machine, which turns into
+a projection, content arranged on the screen. The complexities of the
+transformation stem from the fundamental incompatibility between what the media
+scholar Alexander Galloway calls "incommensurate physicalities
+[@galloway_interface_2012, viii]"<!--I can't find any record of this quote, in
+"Interface" or "Protocol"; PRP--> between human and machine. Format
 specifications govern the transference of data structures from one medium into
 the other, at the point of contact between human, symbol, and machine.
 
@@ -209,15 +212,14 @@ intrinsic formula and form as extrinsic shape. In what remains, to my
 knowledge, a singular article-length treatment on the topic in literary
 studies, G. Thomas Tanselle approaches the concept of formatting from the
 perspective of textual criticism---the practice of compiling, editing,
-annotating, preserving, and publishing scholarly critical editions of
-canonical texts. For Tanselle's narrow purposes, the concept of formatting
-encompasses something like the "number of page units placed on the press at
-one time" [@tanselle_concept_2000, 112-3]. He acknowledges, however, formats
-refer also to the "nature and the order of the contents"
-[@tanselle_concept_2000, 67-8]. The genre of "soap opera," for example, evokes
-both a medium, daytime television and the specific kind of a story told in
-that medium, melodrama and pulp. The format of a journal may be "broadsheet
-daily" or "tabloid."
+annotating, preserving, and publishing scholarly critical editions of canonical
+texts. For Tanselle's narrow purposes, the concept of formatting encompasses
+something like the "number of page-units placed on the press at one time"
+[@tanselle_concept_2000, 113]. He acknowledges, however, that formats refer
+also to the "nature and order of the contents" [@tanselle_concept_2000, 67].
+The genre of "soap opera," for example, evokes both a medium, daytime
+television and the specific kind of a story told in that medium, melodrama and
+pulp. The format of a journal may be "broadsheet daily" or "tabloid."
 
 The notion of a format identifies matter both of particular shape and content.
 The soap opera is a kind of a daytime melodrama of a certain length, for
@@ -234,18 +236,18 @@ how, and in what order.
 
 Whatever the tradition of writing about form, the concept is usually
 contraposed to some idea of content: as in form and content. Content in that
-sense refers to the stuff being shaped or arranged, whether by intrinsic law
-or extrinsic forces. R.G. Collingwood famously described the distinction
-between classical and romantic art in terms of the form-content divide:
-"classical art," he wrote, "stands for form; romantic art for content"
+sense refers to the stuff being shaped or arranged, whether by intrinsic law or
+extrinsic forces. R.G. Collingwood famously described the distinction between
+classical and romantic art in terms of the form-content divide: "classical
+art," he wrote, "stands for form; romantic art for content"
 [@collingwood_form_1929, 335]. The distinction is evoked in other fields as
 well. In her recent work on computational text generation, the computer
-statist Kathleen McKeown wrote that to produce discourse, writers and speakers
-"must decide what to say and how to present it effectively"
-[@mckeown_text_1992, 1]. Similarly, in her influential essay "Print Is Flat,
-Code Is Deep," Katherine Hayles discussed "the interplay between a text's
-physical characteristics and its signifying strategies" [@hayles_print_2004,
-72].
+statist<!--statistician? PRP--> Kathleen McKeown wrote that to produce
+discourse, writers and speakers "must decide what it is that they want to say
+and how to present it effectively" [@mckeown_text_1992, 1]. Similarly, in her
+influential essay "Print Is Flat, Code Is Deep," Katherine Hayles discussed
+"the interplay between a text's physical characteristics and its signifying
+strategies" [@hayles_print_2004, 72].
 
 The distinction between text, its content, and presentation, its form, entails
 the distinction between the work of art in the abstract sense and the object
@@ -286,12 +288,14 @@ works by defining abstract "object classes" and invoking them into "class
 instances" [@hoare_record_1965; @nygaard_history_1981]. The abstract class can
 further be modified or extended when called into action. In this way, the
 abstract category of "chairs" becomes a given chair, complete with individual
-flaws and imperfections. I could, for example, modify the chair by attaching a
-small desk. The modified chair remains a chair. As before, flaws and
-emendations are considered insignificant when compared to the perfected form
-of the ideal chair. In the idealist tradition, ideas provide us with lasting
+flaws and imperfections. I could, for example, modify the chair by attaching
+a small desk. The modified chair remains a chair. As before, flaws and
+emendations are considered insignificant when compared to the perfected form of
+the ideal chair. In the idealist tradition, ideas provide us with lasting
 universal "templates" for instantiation within the contingent and always
-changing physical confines of the material world.[^ln3-descartes]
+changing physical confines of the material world.[^ln3-descartes]<!--This seems
+like it should either be developed or dropped, imo---in a footnote, it just
+raises a lot of questions. PRP-->
 
 So far, I have been using the term "form" quite liberally, relying on the
 reader's familiarity with its contradictory everyday usage. A closer look at
@@ -1574,7 +1578,7 @@ Web Consortium (W3C) in the case of the DOM.
 
 [^ln3-fancy]: The Unicode Consortium defines fancy text as "text
 representation consisting of plain text plus added information"
-[@unicode_consortium_unicode_1990].
+[@unicode_consortium_unicode_1990, 9-10].
 
 [^ln3-complete]: TROFF at least is actually Turing complete according to
 @raymond_art_2003, 195.
