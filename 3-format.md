@@ -673,7 +673,7 @@ Blake's poetry lost, textual critics would reconstruct the texts' genealogy
 from extant remnants. They could, for example, infer the missing illustrations
 based on reception history. "The textual critic," Phelps wrote "is concerned
 mainly with the fact of the [textual] change itself. [@phelps_edition_1994,
-65-6]" Reading for format thus involves a series of value judgements about
+65]" Reading for format thus involves a series of value judgements about
 what the text should be and what it is.
 
 [^ln3-printers]: See for example the discussion on the limits of the inductive
@@ -727,10 +727,10 @@ the gates of hermeneutics.
 @greetham_textual_1989.
 
 In an essay on pictographs and pictographic logic, Johanna Drucker and Jerome
-McGann discuss how the "presentational form of texts" usually masks its
+McGann discuss how the "presentational form of texts" usually masks their
 "logical operations in a surface rhetoric that dominates and controls our
 conscious attention." At the same time, what the authors call the "holistic
-repleteness of images" also keeps us from perceiving their "conceptual order
+repleteness of images" also "keeps us from perceiving their conceptual order
 [...] as if the graphic character of the work were completely obvious"
 [@drucker_images_2010]. Their insight captures the dual movement of
 formatting: at once towards the physical and the mental characteristics of
@@ -748,7 +748,7 @@ designer know the image to be a carefully constructed composite. They know the
 particulates of page composition invisible to a lay reader. Drucker and McGann
 conclude that "systems of graphic presentation are operational, not merely
 passive schematic structures [...] active agents for creating meaning,
-instructions for reading, viewing, comprehending information
+instructions for reading, viewing, comprehending information"
 [@drucker_images_2010].  Choices were made, in other words, that would later
 affect meaning making. Apprehension precedes comprehension. Processes of
 interpretation have commenced and in some cases concluded before the reader
@@ -788,24 +788,24 @@ offline." The platform's "features" include the ability to "download and
 transfer books between devices" and to "search eBooks." It supports multiple
 languages, the ability to borrow books, printing, limited support for visually
 impaired readers, bookmarking, highlights, notes, and file organization
-[@_plans_2016]. The company's own competing Adobe Document Cloud reading
-platform includes the Free, Standard, and Pro versions of Acrobat Reader, "the
-global standard for reliably viewing, printing, and commenting on PDF
-documents" [@_adobe_2016]. Only the most expensive Pro version allows one to
-"create and validate PDFs to meet accessibility standards for people with
-disabilities." The free version does not support bookmarks or document
-editing. The Pro version enables readers to "redact and permanently remove
-sensitive information in PDFs" and to "compare two versions of a document to
-see what's changed" [@_plans_2016].
+[@_plans_2016].<!--broken link, unable to confirm; PRP--> The company's own
+competing Adobe Document Cloud reading platform includes the Free, Standard,
+and Pro versions of Acrobat Reader, the "global standard for reliably viewing,
+printing, and commenting on PDF documents" [@_adobe_2016]. Only the most
+expensive Pro version allows one to "create and validate PDFs to meet
+accessibility standards for people with disabilities." The free version does
+not support bookmarks or document editing. The Pro version enables readers to
+"redact and permanently remove sensitive information in PDFs" and to "compare
+two versions of a document to see what's changed" [@_plans_2016].
 
-Another popular electronic book format, the Amazon Kindle reader, by
-comparison to PDF, includes a feature called "Public Notes" which allows
-Kindle customers to "make their highlights and notes available for anyone to
-see" [@_amazon_2015]. Kindle's Frequently Asked Question (FAQ) page further
-explains that "if someone you follow has highlighted a passage in a book and
-has turned on Public Notes for the book, you'll see that passage highlighted
-along with the name of the person who highlighted it." It continues to tout
-the platform's benefits:
+Another popular electronic book format, the Amazon Kindle reader, by comparison
+to PDF, includes a feature called "Public Notes" which allows Kindle customers
+to "make public their highlights and notes" for "any other customer who follows
+them [...] to see" [@_amazon_2015]. Kindle's Frequently Asked Question (FAQ)
+page further explains that if "someone you follow has highlighted a passage in
+a book and has turned on Public Notes for the book, you'll see that passage
+highlighted along with the name of the person who highlighted it." It continues
+to tout the platform's benefits:
 
 > Now authors, thought leaders, passionate readers, professors and all Kindle
 users can opt-in to share their notes with other readers, helping friends,
@@ -824,17 +824,18 @@ Encoded ideas about intellectual property are another stark manifestation of
 inter-platform incompatibility. Whatever its comparative affordances, reading
 software always emulates the logic of ownership. To own a book electronically
 means to have access to the bits that bring the simulation of that book into
-existence. At some lower level of abstraction, however,  the variety of
-reading platforms rests on the same computational substratum. Both Amazon and
-Adobe books rely on the underlying capabilities of the personal computer. This
-hyper-media, as Lev Manovich has called it, lies at the base of all competing
-ebook formats [@manovich_software_2013]. Owning a book on that level, must
+existence. At some lower level of abstraction, however,  the variety of reading
+platforms rests on the same computational substratum. Both Amazon and Adobe
+books rely on the underlying capabilities of the personal computer. This
+"hypermedia," as Lev Manovich has called it, lies at the base of all competing
+ebook formats [@manovich_software_2013, 71, 79-80. He adopts the term from
+Theodore H. Nelson---see @nelson_file_2003]. Owning a book on that level, must
 involve manipulating hardware states. A common act of epistemic disobedience,
 to borrow a phrase from Walter Mignolo, therefore includes accessing the book
 bits directly, through channels not afforded by the publisher
 [@mignolo_epistemic_2009]. Such acts disentangle the mechanisms of book
-ownership as defined by Google or Amazon, from the book's "content" proper.
-The so called "ripping" of proprietary book libraries involves reformatting
+ownership as defined by Google or Amazon, from the book's "content" proper. The
+so called "ripping" of proprietary book libraries involves reformatting
 individual books into other file formats which could hypothetically enable
 unconstrained copying and circulation of the text. The activity need not be
 illicit. The extraction of plain text from the Portable Document Format
@@ -901,15 +902,15 @@ mainframe computers in use at Bell Labs in 1968. I look to its blueprints to
 recover a model of document structure. "The publication editor is divided into
 three related sections," wrote Arthur Kaiman, one of the system's engineers.
 These included the "facilities" for "document layout," "editing," and
-"printing" [@kaiman_computer-aided_1968, 66]. "Layout," in the language of
+"printing" [@kaiman_computer-aided_1968, 65-6]. "Layout," in the language of
 *EDIT*, facilitates the justification, indentation, and spacing of text. "The
 user types the document layout file and the text file," Kaiman explained,
 "then produces a proof or master copy of the text by printing the text
 according to the directions of the layout file. The text file contains layout
-marks to be interpreted by the layout processor [@kaiman_computer-aided_1968,
+marks to be interpreted by the document layout file" [@kaiman_computer-aided_1968,
 66]. "Text," in this schema, constitutes content meaningful only to the user,
 whereas layout contains some elements meaningful to humans and others intended
-for machine instruction. Crucially, "no document text may appear in the layout
+for machine instruction. Crucially, "[n]o document text may appear in the layout
 file," Kaiman wrote [@kaiman_computer-aided_1968, 67-8]. Layout in his sense
 asks the human editor distinguish between semantic and spatial units: words
 and their coordinates. These two separate streams of data are then stored in
@@ -937,19 +938,18 @@ would then be combined together for printing operations
 
 Separate from the aims of text editors like EDIT and QED, a text formatter was
 meant to arrange text spatially. To the small number of editing instructions,
-the formatter added instructions for typesetting: size, position, stroke
-width, transparency. The authors of IBM's FORMAT program, written in FORTRAN
-IV for OS/360 devices in 1968, explained that "all input to FORMAT is
-free-form," in that it contained "no positional
-constraints.[@berns_format_1968, 85; @berns_description_1969, 141]." The
-FORMAT system enabled further instructions for "layout control," which
-included `P` for "begin new paragraph," `T` for "tab," and `U` for
-"underline." It also contained more complex "command operands" like
-"CAPITALIZE AUTOMATICALLY," "JUSTIFY THE TEXT," and "REPEAT THE TITLE ON EVERY
-PAGE. [@berns_description_1969, 141-2]" Finally, FORMAT had the capability of
-building an index, in effect listing all the unique words in any given
-document, along with a rudimentary facility for search, "locating text words,
-phrases, and strings in the input stream" [@berns_format_1968, 91;
+the formatter added instructions for typesetting: size, position, stroke width,
+transparency. The authors of IBM's FORMAT program, written in FORTRAN IV for
+OS/360 devices in 1968, explained that "[a]ll input to FORMAT is free-form," in
+that it contained "no positional constraints" [@berns_format_1968, 85;
+@berns_description_1969, 141]. The FORMAT system enabled further instructions
+for "layout control," which included `P` for "begin new paragraph," `T` for
+"tab," and `U` for "underline." It also contained more complex "command
+operands" like "CAPITALIZE AUTOMATICALLY," "JUSTIFY THE TEXT," and "REPEAT THE
+TITLE ON EVERY PAGE. [@berns_description_1969, 141-2]" Finally, FORMAT had the
+capability of building an index, in effect listing all the unique words in any
+given document, along with a rudimentary facility for search, "locating text
+words, phrases, and strings in the input stream" [@berns_format_1968, 91;
 @berns_description_1969, 145].
 
 !["Portion of listing of input stream." The layout of paper citations in
@@ -960,8 +960,8 @@ Kernighan and Joseph Ossanna described TROFF, a text processor written around
 1973 for the PDP-11 outputting to Graphic Systems Cat typesetter. In 1979,
 Kernighan modified the original program to produce output for a greater
 variety of typesetters. He explained that "TROFF produces its output in a
-device-independent form" and that its output "must be processed by a drive for
-that device to produce printed output" [@kernighan_troff_1992]. The program
+device-independent form" and that its output "must be processed by a driver for
+that device to produce printed output" [@kernighan_troff_1992, 1]. The program
 made no ontological claims on the textual artifact. Rather, it embodied the
 idea of text independent of its medium and "free of form." The digital writer
 operates with text in one location, without knowing its output in another. The
@@ -975,7 +975,7 @@ structure, and were ultimately omitted from view.
 More than a decade later, reflecting on the proliferation of text editors, a
 group of computer scientists from the University of Washington advanced the
 following unified theory of format. "A *document* is an object composed of a
-hierarchy of primitive objects," the group wrote. The objects are further
+hierarchy of more primitive objects," the group wrote. The objects are further
 divided into "abstract" or "logical" objects and their "concrete"
 instantiations. In this way, a chapter is made up of paragraphs and sentences,
 which could be rendered on pages of different dimensions. In each case, the
@@ -984,7 +984,7 @@ even as the specific dimensions of a page change. A chapter in Tolstoy's *War
 and Peace* remains a chapter containing the same paragraphs and sentences
 despite layout differences between editions. The class identifier---chapter,
 paragraph, sentence---thus denotes an abstract object, where concrete objects
-occupy "one or more two-dimensional page spaces and represent the possible
+occupy "one or more two-dimensional *page spaces* and represent the possible
 formatted images of abstract objects" [@furuta_document_1982, 418]. The
 concrete object gives physical shape to the instantiation of abstract
 universal classes.
@@ -1075,9 +1075,9 @@ O'Gorman, an influential researcher in the field of document image processing,
 has called such spatial recognition, at the intersection of concrete and
 universal, "document lay-out understanding," which consists of "functional
 labeling of blocks [...] distinguished in some way by their physical features
-(such as by font size) and by the 'meaning' of the block
+(such as by font size) and by the 'meaning' of the block"
 [@ogorman_document_1993, 1162-63; @ogorman_document_1995, 82-99 (in the
-reconstructed edition)]." A footnote, for example, is a block of text that
+reconstructed edition)]. A footnote, for example, is a block of text that
 gains meaning in spatial context.
 
 Furthermore, layout, or the arrangement of "concrete objects" on a page,
@@ -1116,15 +1116,15 @@ abstract model are then reified into a set of relationships between specific
 concrete objects on the page [@furuta_document_1982, 419-20;
 @kimura_structure_1984].
 
-The resulting laminate contains content appropriately formed and fused into
-its medium. SCRIPT and the related Generalized Markup Language (GML) developed
-in the late 1960s by IBM (originally for use on the CP67/CMS time-sharing
-system), and now at the basis of ubiquitous XML and HTML markup languages
-through ISO 8879, describes a number of such text transformations that occur
-to "generate the proper output form." In the process of formatting, SCRIPT
-represents the "logical topology" of text in its "canonical form" to produce
-an "intermediate data structure," which it then "'unfolds' all at once" by
-"'peeling' the data structure one level at a time" [@madnick_script_1968, 97].
+The resulting laminate contains content appropriately formed and fused into its
+medium. SCRIPT and the related Generalized Markup Language (GML) developed in
+the late 1960s by IBM (originally for use on the CP67/CMS time-sharing system),
+and now at the basis of ubiquitous XML and HTML markup languages through ISO
+8879, describes a number of such text transformations that occur to "generating
+the correct output form." In the process of formatting, SCRIPT represents the
+"logical topology" of text in its "canonical form" to produce an "intermediate
+data structure," which is then "'unfolded' all at once" by "'peeling' the data
+structure one level at a time" [@madnick_script_1968, 92, 97].
 
 The schematics show that formatting involves more than simple application of
 visual style to words. Formatter designers from TROFF to FORMAT rather
@@ -1139,7 +1139,7 @@ four basic tasks:
 
 *TROFF User's Manual* analogously describes text processing in terms of
 accepting "lines of text interspersed with lines of format control
-information" [@kernighan_troff_1992, 3]. TROFF and FORMAT languages are thus a
+information" [@kernighan_troff_1992, 1]. TROFF and FORMAT languages are thus a
 species of Turing computation.[^ln3-complete] They interpret input mixed with
 machine instruction, including codes that halt the process of interpretation.
 Text control can involve operations like "replace word," "make invisible," or
@@ -1170,10 +1170,10 @@ reading a newspaper online.[^ln3-osi] It includes, among others:
 
 - the Application Layer, concerned with the semantics of "all services
   directly comprehensible to the user,"
-- the Presentation Layer, which defines the syntax for the "representation of
-  the data to be transferred," and
+- the Presentation Layer, which defines the syntax for the "representation and 
+  manipulation" of data to be transferred, and
 - the Physical Layer, which provides "mechanical, electrical, functional, and
-  procedural characteristics" of communication.[^ln3-layers]
+  procedural" characteristics of communication.[^ln3-layers]
 
 Apart from technical intricacy, consider the complexity of the onion-like
 composite. Whatever one designates as "content" is enveloped within a
@@ -1421,8 +1421,8 @@ purposes. See @liu_dmca_2003; @ku_critique_2004; @herman_catch_2005;
 @armstrong_digital_2006.
 
 [^ln3-dom]: See @furuta_document_1982, 418: "Concrete objects are defined over
-one or more two dimensional page spaces and represent possible formatted images
-of abstract objects."
+one or more two dimensional *page spaces* and represent possible formatted images
+of abstract objects."<!--this is already quoted above, necessary? PRP-->
 
 [^ln3-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
 in the history of writing technologies in that they present a premeditated
@@ -1438,7 +1438,7 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 
 [^ln3-layers]: The full OSI protocol stack includes Application, Presentation,
 Session, Transport, Network, Data Link, and Physical layers
-[@piatkowski_iso-ansi_1980; @miller_iso_1981; @ncs_open_1981; @day_osi_1983;
+[@miller_iso_1981, 285-6; @piatkowski_iso-ansi_1980; @ncs_open_1981; @day_osi_1983;
 @ncs_national_1988; @day_revised_1995].
 
 [^ln3-modern]: Note that these effects are not limited to contemporary
