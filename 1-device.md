@@ -1472,11 +1472,6 @@ action as far as this is practically feasible, we would always have two very
 certain means of recognizing that they were not at all, for that reason, true
 men." Also quoted in @dennett_can_2004, 297.
 
-[^ln1-google]: "Google's mission is to organize the world's information and
-make it universally accessible and useful" (@google_about_2015).  See also
-Johanna Drucker's discussion on "the totalizing drive of the digital" in
-[@drucker_digital_2001, 145].
-
 [^ln1-infinite]: A true universal Turing machine would require a tape that is
 infinitely long. See @turing_computable_1937, 249.
 
