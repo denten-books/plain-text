@@ -1216,18 +1216,18 @@ to deep structures is made illicit outright.
 ## Composite Media: Smart Contracts
 
 Text at a document's surface is subject to professional rules of conduct
-governing practices of sharing, quotation, and attribution. The American
-reader may further be familiar with portions of US copyright law, which codify
-these practices more formally, entailing a degree of legal accountability. US
-Code Title 17, for example, extends "exclusive rights" to "copyright owners"
-of "literary works." Such rights include the ability to "reproduce," "prepare
-derivative works," "distribute copies," "perform," and "display
+governing practices of sharing, quotation, and attribution. The American reader
+may further be familiar with portions of US copyright law, which codify these
+practices more formally, entailing a degree of legal accountability. US Code
+Title 17, for example, extends "exclusive rights" to "owner[s] of copyright" of
+"literary" works. Such rights include the ability to "reproduce," "prepare
+derivative works," "distribute copies," "perform," and "display [...]
 publicly."[^ln3-DMCA2] The easy reproducibility of digital media has, however,
-eroded the efficacy of legal copyright restrictions. The work of art in the
-age of digital reproduction has lost much of its already tenuous hold on the
-material substratum.[^ln3-illusion] Photocopiers, desktop printers,
-inexpensive digital storage drives, and peer-to-peer file sharing networks
-reduce the carries to the copying and the dissemination of media.
+eroded the efficacy of legal copyright restrictions. The work of art in the age
+of digital reproduction has lost much of its already tenuous hold on the
+material substratum.[^ln3-illusion] Photocopiers, desktop printers, inexpensive
+digital storage drives, and peer-to-peer file sharing networks reduce the
+carries to the copying and the dissemination of media.
 
 The response from the film, game, music, and publishing industries has been to
 shift the mechanisms of copyright enforcement from legal structures into the
@@ -1241,7 +1241,7 @@ OSI, create standards for digital rights management [@clark_copyright_1996,
 real world, Clark relied on the Copyright in Transmitted Electronic Data
 Report (CITED), which suggests building:
 
-> a tamper proof software module which acts rather like indestructible
+> a tamper-proof software module which acts rather like indestructible
 > tachometers installed on long-distance coaches and lorries, recording
 > everything that happens to the copyrighted or commercially valuable material
 > [...] The basic idea is to link the 'valuable material' of intellectual
@@ -1252,7 +1252,7 @@ The emergence of such embedded contractual enforcement mechanisms can be
 subsumed under the broader idea of "smart contracts." In his seminal article
 on "Formalizing and Securing Relationships in Public Networks," Nick Szabo
 explained that "smart contracts combine protocols, user interfaces, and
-promises expressed via those interfaces to formalize and secure relationships
+promises expressed via those interfaces, to formalize and secure relationships
 over computer networks" [@szabo_formalizing_1997]. Clark, CITED, and Szabo
 were instrumental in the rise of smart contracts in the 1990s in an attempt to
 redress the fading efficacy of legal copyright protections.[^ln3-smart]
@@ -1266,8 +1266,8 @@ wrote:
 > want to define different rules of engagement for different types of users
 > and different types of security depending on the value of particular
 > objects. The rules defined by him shall govern the automated operations
-> enabled by data services and networking. The owner may also sell composite
-> objects with different rules governing each constituent object
+> enabled by data services and networking. The owner may also want to sell 
+> composite objects with different rules governing each constituent object
 > [@benson_method_1998].
 
 The data object, in this case, stands for any media content, from books to
@@ -1301,12 +1301,12 @@ be prevented from accessing deep structure. In fact, laws like the 1998
 Digital Millennium Copyright Act (DMCA) criminalize the circumvention of such
 systems, even in cases where the reader owns the smart document
 outright.[^ln3-DMCA1] The smart document limits reading practice to the
-"manner specified. " The reader holds no rights to comprehension at depth.
+"manner" specified. The reader holds no rights to comprehension at depth.
 Unsanctioned modes of access to the material are deemed illicit. Contrast this
 with the ownership of a paper text, which places no such limits on access or
 interpretation.
 
-The DMCA stipulates that "no person shall circumvent a technological measure
+The DMCA stipulates that "No person shall circumvent a technological measure
 that effectively controls access to a work protected under this
 title."[^ln3-DMCA3] The letter of the law further specifies that to
 "circumvent a technological measure," in this case, means "to descramble a
@@ -1324,17 +1324,17 @@ reprobation.[^ln3-fairuse]
 
 The short history of DMCA "anti-circumvention" provisions is already littered
 with ambiguous case law, which the Electronic Frontiers Foundation believes to
-have the effect of "stifling a wide range of legitimate activities," "chilling
-free expression and academic research," "jeopardizing fair use," and "impeding
-innovation. [@von_lohmann_unintended_2010]" Several incidents relate to the
-practice of interpretation directly. In one case, a security researcher
-exploring the activity of censorship filters on public library computers was
-forced to seek DMCA exemption from the Librarian of Congress
-[@fry_circumventing_2009]. In another, a Russian programmer speaking at a
-security conference was jailed and detained for several months for developing
-software that converts Adobe electronic book files into the PDF format, in a
-process that could potentially remove embedded digital rights management
-protections [@ferullo_major_2004; @mueller_reinventing_2004;
+have the effect of "stifl[ing] a wide array of legitimate activities,"
+"chilling free expression and scientific research," "jeopardiz[ing] fair use,"
+and "imped[ing] competition and innovation" [@von_lohmann_unintended_2010].
+Several incidents relate to the practice of interpretation directly. In one
+case, a security researcher exploring the activity of censorship filters on
+public library computers was forced to seek DMCA exemption from the Librarian
+of Congress [@fry_circumventing_2009]. In another, a Russian programmer
+speaking at a security conference was jailed and detained for several months
+for developing software that converts Adobe electronic book files into the PDF
+format, in a process that could potentially remove embedded digital rights
+management protections [@ferullo_major_2004; @mueller_reinventing_2004;
 @postigo_information_2010]. Finally, in 2005, the Agfa Monotype Corporation
 took Adobe Systems to court in a dispute over its Acrobat "Free Text" tool,
 which allowed users to "change text annotations using Plaintiff's TrueType
@@ -1348,12 +1348,12 @@ precedent which can be used to further limit the efficacy of reading digital
 texts.
 
 The lack of access to deep structure exposes a glaring problem at the heart of
-smart contracts. The spirit of contractual obligation demands explicit
-consent. In the language of English common law, contracts involve promises
-that "manifest intention" and adopt an "external or objective standard for
-interpreting conduct [@american_law_institute_restatement_1973, §1-2.]" The
-contract between authors, publishers, and readers by extension must exist in
-an objectively verifiable manner, accessible for analysis to both parties.
+smart contracts. The spirit of contractual obligation demands explicit consent.
+In the language of English common law, contracts involve promises that are
+"manifestation[s] of intention" and adopt an "external or objective standard
+for interpreting conduct" [@american_law_institute_restatement_1973, §1-2]. The
+contract between authors, publishers, and readers by extension must exist in an
+objectively verifiable manner, accessible for analysis to both parties.
 
 Smart contracts, in contrast, obscure the contract by design. Readers lack the
 physical means to examine its terms or interpret the conduct of the party
@@ -1427,8 +1427,8 @@ of abstract objects."<!--this is already quoted above, necessary? PRP-->
 [^ln3-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
 in the history of writing technologies in that they present a premeditated
 material environment built and engineered to propagate an illusion of
-immateriality; the digital nature of computational representation is what
-enables this illusion---or else call it a working model---of immaterial
+immateriality; the digital nature of computational representation is precisely
+what enables this illusion---or else call it a working model---of immaterial
 behavior" [@kirschenbaum_mechanisms:_2008, 135].
 
 [^ln3-iso216]: A series of paper sizes are governed by the International
