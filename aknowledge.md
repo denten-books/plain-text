@@ -4,13 +4,14 @@ The book's faults, to quote Will Durant, are all mine. Its strengths, however,
 derive from the support of a community.
 
 The project could not have been possible without the generous support of
-Harvard's Comparative Literature department. Its publication was, in fact,
-subsidized in part by Harvard Studies in Comparative Literature. Initial
-sketches of the book appeared in conversation with Aleksey Berg, Jacob Emory,
-Elena Fratto, Natalia and Ilya Kun Anders Engberg-Pedersen, Guy Smoot, Simos
-Zenios, and many others who made Dana-Palmer House their home away from home.
-The reader will recognize the influence of Svetlana Boym, Peter Gallison,
-Richard Moran, Elaine Scarry, William Todd, and Roberto Mangabeira Unger.
+Harvard's Comparative Literature department. Its publication was subsidized in
+part by Harvard Studies in Comparative Literature. Initial sketches of the
+book appeared in conversation with Aleksey Berg, Jacob Emory, Elena Fratto,
+Natalia and Ilya Kun, Anders Engberg-Pedersen, Guy Smoot, Simos Zeniou, and
+many others who made Dana-Palmer House their home away from home. The reader
+will recognize the influence of Svetlana Boym, Peter Gallison, Richard Moran,
+Elaine Scarry, William Todd, and Roberto Mangabeira Unger. Their thought was
+formative in the manuscript's early stages.
 
 A fellowship from the Berkman Center for Internet and Society gave me the time
 and means to develop a deep research archive. I would like to thank Yochai
@@ -29,39 +30,37 @@ Marianne Hirsch, Jean Howard, Matt Jones, Sharon Marcus, Edward Mendelson,
 Frances Negrón-Muntaner Bruce Robbins, and Gayatri Spivak had a hand in
 individual chapters. The book became stronger with their guidance. Kaiama
 Glover, Marguerite Holloway, Bernard Harcourt, Matt Hart, Lydia Liu, Anupama
-Rao, Jesús R. Velasco, and Bill Worthen offered invaluable advice. Columbia's
-Comparative Media University Seminar provided an important forum for several
+Rao, Jesús R. Velasco, and Bill Worthen offered valuable advice. Columbia's
+Comparative Media university seminar provided an important forum for several
 of the book's chapters, involving Stefan Andriopoulos, Noam Elcott, Brian
-Larkin, Reinhold Martin, Rosalind C.  Morris, and Felicity Scott, among
-others. Columbia University Summer Grant Program in the Humanities and the
-Lenfest Junior Faculty Development Grant gave support in the concluding stages
-of manuscript preparation. Members of the Experimental Methods Group, Alex
-Gil, Susanna Allés Torrent, and Grant Wythoff gave feedback and support.
+Larkin, Reinhold Martin, Rosalind C. Morris, and Felicity Scott, among others.
+Columbia University Summer Grant Program in the Humanities and the Lenfest
+Junior Faculty Development Grant provided support in the concluding stages of
+manuscript preparation. Weekly meetings with members of the Experimental
+Methods Group---Alex Gil, Susanna Allés Torrent, Grant Wythoff, and
+others---grounded my thought in practice, among many inspiring projects.
 
 Manan Ahmed and Durba Mitra, both members of our co-presence writing group,
-deserve a special mention. The last year-and-a-half of the book's development
-happened in almost daily communication with them. Ahmed's *A Book of Conquest:
-The Chachnama and Muslim Origins in South Asia* forthcoming from Harvard
-University Press and Mitra's "Indian Sex Life: Women and the New Science of
-Society" were at various stages of development at the same time. Their warmth,
-humor, patience, and intelligence reflects on every page.
+deserve a special mention and my heartfelt gratitude. The last year-and-a-half
+of the book's development happened in almost daily communication with them.
+Ahmed's *A Book of Conquest: The Chachnama and Muslim Origins in South Asia*
+forthcoming from Harvard University Press and Mitra's "Indian Sex Life: Women
+and the New Science of Society" were at various stages of development at the
+same time. Their warmth, humor, and intelligence brightened every page.
 
 Matt Gold of CUNY and Jentery Sayers at University of Victoria both assigned
 early drafts of individual chapters. The experience was immensely helpful in
-imagining my audience.
+imagining my audience. Siddhartha Lokanandi and Ann Kay line edited
+extensively. Barbara Herrnstein Smith and Johanna Drucker advised on
+individual chapters. Raja Adal, Janet Vertesi, and Susan Zieger were some of
+the most insightful public respondents to text on the conference circuit.
 
-Stanford. 
-Siddhartha Lokanandi. Barbara Herrnstein Smith. Johanna Drucker.
-Matthew Fuller, Ray Siemens, and other anonymous reviewers.
+Emily-Jane Cohen and her team at Stanford University Press expertly guided the
+book to publication. I received careful consideration and comments from
+Matthew Fuller, Ray Siemens, and two other anonymous reviewers. I would like
+to thank Micah Siegel, COPYEDITOR NAME HERE, INDEXER NAME HERE, for their
+patience, hard work, and attention to detail.
 
-Ann Kay (Proofreader)
-Emily-Jane Cohen
-Alex Gil.
-
-## Other Faculty
-
-    Raja Adal
-    Janet Vertesi
-
-    Trevor Jockims
-    Yoora Yi Tenen
+Finally, a book extracts its heaviest toll from those that are closest to the
+author. My family and my partner Yoora gave the time, space, and love
+required.
