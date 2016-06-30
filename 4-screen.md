@@ -1193,14 +1193,6 @@ closest possible reading.
 
 [^ln3-ndc]: Also known as the "single current" or "single Morse" system.
 
-[^ln3-murray]: The Australian Donald Murray improved on the Baudot system to
-minimize the amount of "designed to punch as few holes as possible," allotting
-fewer perforations to common English letters (@murray_setting_1905, 567).
-
-[^ln3-zero]: Twenty-eight measures to indicate the numerical "figure space" and
-26 to indicate double quotes (which shared the encoding length with the letter
-"z").
-
 [^ln3-current]: ITA-2 could also be adopted to work with "double current"
 devices, in which case 0 would represent "negative current" and 1 "positive
 current" [@itu_telegraph_1932, 36].
