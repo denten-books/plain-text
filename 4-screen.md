@@ -130,23 +130,25 @@ that is meant to take on the digital as a property: the digital wake.
 
 When we constrict the image-search to the twenty-first century, we see these
 cool-blue images give way to a more varied palette: bright prime greens,
-yellows, and reds in retro-geometric pixelated shapes. Pixels take the place
-of numbers here---not the small, invisible pixels of contemporary computer
-screens, but the large and boxy pixels that by their pronounced boxiness
-flaunt their digital being. These images allude to a time when pixels really
-did stand out as individual units, when technology was not refined enough to
-produce the illusion of visual continuity. This faux lo-fi aesthetic likely
-appeals to the romantic nostalgia many feel for the early days of computing,
-and yet it also asserts its independence from that history. No longer shall
-the digital serve to emulate reality, nor be judged merely by its degree of
-lifelike verisimilitude. The blocky world of Markus Persson's *Minecraft*
-(2009) stands in antithesis to the magical realism of Cyan's *Myst* (1995),
-the best-selling graphic-adventure PC game of the twentieth century. Where the
-critics lauded the latter for its moody and atmospheric photo-realistic
-environments, the former embraces the playful, 8-bit, low-fidelity aesthetic
-of gaming consoles from the 1980s. The pseudo-pixelated world of Minecraft
-encourages its inhabitants to experiment with deconstruction, producing cuboid
-landscapes that foreground discontinuity of form and surface.
+yellows, and reds in retro-geometric pixelated shapes. Pixels take the place of
+numbers here---not the small, invisible pixels of contemporary computer
+screens, but the large and boxy pixels that by their pronounced boxiness flaunt
+their digital being. These images allude to a time when pixels really did stand
+out as individual units, when technology was not refined enough to produce the
+illusion of visual continuity. This faux lo-fi aesthetic likely appeals to the
+romantic nostalgia many feel for the early days of computing, and yet it also
+asserts its independence from that history. No longer shall the digital serve
+to emulate reality, nor be judged merely by its degree of lifelike
+verisimilitude. The blocky world of Markus Persson's *Minecraft* (2011) stands
+in antithesis to the magical realism of Cyan's *Myst* (1993), the best-selling
+graphic-adventure PC game of the twentieth century.<!--note, development for
+Minecraft started in '09, but it was first released in 2011; Myst was released
+on Mac OS in '93. PRP--> Where the critics lauded the latter for its moody and
+atmospheric photo-realistic environments, the former embraces the playful,
+8-bit, low-fidelity aesthetic of gaming consoles from the 1980s. The
+pseudo-pixelated world of Minecraft encourages its inhabitants to experiment
+with deconstruction, producing cuboid landscapes that foreground discontinuity
+of form and surface.
 
 Digital iconography works in another direction too, by approaching and
 challenging the perceived continuity of the analog world. Liquid-metal
@@ -195,15 +197,15 @@ deterministic. In his influential monograph *The Cultural Logic of
 Computation*, for example, David Golumbia insists that "languages are not
 codes." Human language practice for him therefore should not be reduced to a
 "single correct interpretation" or "at the absolute limit, a determinate
-number of discrete interpretations" [@golumbia_cultural_2009, 291]. "To submit
+number of discrete interpretations" [@golumbia_cultural_2009, 19]. "To submit
 a phenomenon to computation," Golumbia writes, "is to striate otherwise-smooth
-details, analog details" [@golumbia_cultural_2009, 159]. Following Deleuze, he
+details, analog details" [@golumbia_cultural_2009, 11]. Following Deleuze, he
 conceives of "striated space" in opposition to spaces "smooth" and "analog"
 like brains, society, politics, language, and baseball
-[@golumbia_cultural_2009, 231 & 343]. For Golumbia, striated and digital
+[@golumbia_cultural_2009, 22, 130-5]. For Golumbia, striated and digital
 phenomena fall under suspicion because "our society is already oriented
 towards binarisms, hierarchy, and instrumental rationality"
-[@golumbia_cultural_2009, 3043].
+[@golumbia_cultural_2009, 222].
 
 In his essay against digital humanities, Stephen Marche worries about the
 digitization of human experience for the opposite reason. Smoothness, in his
@@ -242,7 +244,7 @@ because it does not offer *enough* of a difference:
 > / Eccentric, intervolved, yet regular / Then most when most irregular they
 > seem, / And in their motions harmony divine / So smooths her charming tones,
 > that God's own ear / Listens delighted. (John Milton, "Paradise Lost," V,
-> 620, 622-627)
+> 620, 622-627) [@fish_digital_2012]
 
 Whether too discrete or too continuous, critics agree on the danger of
 digitization. Digital being follows determinism and mechanization as the
@@ -275,7 +277,7 @@ In what follows I offer two case studies that challenge commonly expressed
 intuitions about digital media. They reveal that ostensible "properties" of
 media are in fact claims on the mode of perception.
 
-[^ln5-apriori]: An apriori given because one must be human first to critically
+[^ln5-apriori]: An a priori given because one must be human first to critically
 examine the concept.
 
 ## Spiritual Telegraph
@@ -1246,7 +1248,7 @@ this part of the argument unconvincing.
 
 [^ln3-oed]: The Oxford English suggests as one of the usages "Any physical
 material (as tape, disk, paper, etc.) used for recording or reproducing data,
-images, or sound."
+images, or sound." [@medium_oed_2001]
 
 [^ln3-siegert]: Siegert takes the Virag as an "apocryphal emblem" of a
 "systematic logic in the dominant cultural technique," representative of the
