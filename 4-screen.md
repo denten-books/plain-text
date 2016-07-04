@@ -823,7 +823,7 @@ The difference between discrete and continuous quantities defines the
 conversation about digital media.[^ln3-maley] For example, in a popular book
 about what a "well-informed person should know about computers," Brian
 Kernighan describes "analog" as conveying "the idea of values that change
-smoothly as something else changes" [@kernighan_d_2011, 526]. Much of the
+smoothly as something else changes" [@kernighan_d_2011, 21]. Much of the
 world is analog, Kernighan explains. A water tap, a pen, or a car steering
 wheel are all examples of analog interfaces. For example, when riding a
 bicycle, turning the handlebars one way results in a corresponding motion of
@@ -832,7 +832,7 @@ switch. A properly functioning light switch takes on two discrete states only:
 on or off. A range of pressure applied to the switch does not correspond to
 any mechanical action of the lever. But once a certain threshold is reached,
 the switch "flips" to change states. "Digital systems," as Kernighan writes,
-"deal with discrete values. [@kernighan_d_2011, 22]" The switch contains a
+"deal with discrete values" [@kernighan_d_2011, 22]. The switch contains a
 limited number of state possibilities, where the bicycle handlebars could be
 rotated in an infinite number of minutely differing gradations.
 
@@ -840,7 +840,7 @@ Nelson Goodman was one of the first philosophers to examine digital
 representation in the context of aesthetic theory. In the late 1960s, drawing
 on technical intuitions about devices like pressure gauges and computers he
 proposed to call those notational systems "analog" that are "dense" and
-"undifferentiated to the extreme." By contrast, he called digital systems
+"undifferentiated in the extreme." By contrast, he called digital systems
 those that are "discontinuous" and "differentiated throughout"
 [@goodman_languages_1968, 159-164]. By this definition, written language and
 music notation are digital systems par excellence, having the property of
@@ -851,14 +851,15 @@ language, cannot be reduced to the production of discrete semantic units, and
 would be more of an analog system under the proposed definitions.
 
 In this light, the language of cubist painting, which breaks shapes down into
-their modular atomic components, transforms an analog art form into into a
-digital one. Similarly, in the cuboid world of *Minecraft* the player
-interacts with blocks: the smallest differentiated units that constitute all
-other more complex things in the game. The world of *Minecraft* is sparse and
-therefore digital. By contrast, the world of the hyper-realistic *Myst*
-depicts the painting-like, semantically irregular reality that cannot be
-broken down into neat components. *Myst*, a digital game, depicts a dense,
-undifferentiated, and analog world.
+their modular atomic components<!--Do you mean pointillism? If not, a citation
+might help here---hard for me to understand this as part of cubism without more
+explanation. PRP-->, transforms an analog art form into into a digital one.
+Similarly, in the cuboid world of *Minecraft* the player interacts with blocks:
+the smallest differentiated units that constitute all other more complex things
+in the game. The world of *Minecraft* is sparse and therefore digital. By
+contrast, the world of the hyper-realistic *Myst* depicts the painting-like,
+semantically irregular reality that cannot be broken down into neat components.
+*Myst*, a digital game, depicts a dense, undifferentiated, and analog world.
 
 But Goodman's definitions strain under closer examination. Plainly, *Myst* is
 also a digital game. All digital images (and worlds) follow the logic of
@@ -890,14 +891,14 @@ systems is our inability to duplicate their states exactly. I can approximate
 the pressure someone else puts on their bicycle handlebars with some arbitrary
 measure of precision that never reaches perfect reproducibility. This means
 also that while more digital art forms like literature are, in some sense,
-perfectly reproducible, analog forms, like painting, are not. Following
-similar reasoning, the American philosopher John Haugeland proposed to
-consider the quality of being reproducible as essential to our understanding
-of digital representation. Reproducibility, for Haugeland, involved "flawless
-copying and preservation." To the definition of Goodman's digital systems, he
-therefore added the notion of "feasible procedures" that can lead to "positive
-and reliable" processes for reading and writing digital tokens
-[@haugeland_analog_1981, 213-225].
+perfectly reproducible, analog forms, like painting, are not. Following similar
+reasoning, the American philosopher John Haugeland proposed to consider the
+quality of being reproducible as essential to our understanding of digital
+representation. Reproducibility, for Haugeland, involved "flawless copying
+[...] and preservation" [@haugeland_analog_1981, 213]. To the definition of
+Goodman's digital systems, he therefore added the notion of "feasible
+procedures" that can lead to "positive" and "reliable" processes for reading and
+writing digital tokens [@haugeland_analog_1981, 214].
 
 Let us consider Haugeland's propositions in relation to some of our previous
 case studies. The movements of the chess game are indeed perfectly
@@ -957,9 +958,9 @@ Second, he proposed that the digital-analog distinction often depends the
 observer. To illustrate these two amendments, Katz imagined a measuring system
 that involves a supply of marbles in a large beaker. We can thereby agree to
 use a "handful" as an approximate unit of measurement with that system. Thus
-one can observe a situation in which the beaker contains "three handfuls of
-marbles." Katz's system is analog, even though marbles themselves are a
-perfectly discrete medium, because it establishes no precise convention to
+one can observe a situation in which the beaker contains three handfuls of
+marbles. Katz's system is analog, even though marbles themselves are a
+perfectly" discrete medium, because it establishes no precise convention to
 reproduce handfuls. The marble-beaker system violates Haugeland's requirement
 for "positive and reliable" standards of reproducibility. My two handfuls
 might be different from yours due to the difference in the size or our hands.
@@ -1042,7 +1043,7 @@ copy it. It has to remain embedded within this particular piece of paper on
 this particular desk. Technologies like "digital rights management" (DRM),
 which limit a reader's ability to copy books similarly transform digital
 content into its media-dependent, irreproducible, and ultimately analog forms.
-Paradoxically, a paper-an-ink book that places no restrictions on copying and
+Paradoxically, a paper-and-ink book that places no restrictions on copying and
 transmediation provides for a more digital format than its electronic book
 analogs, particularly when such electronic books restrict the reader's ability
 to copy and transmediate. Another way to put it would be to say that on
@@ -1104,7 +1105,7 @@ attention in ways that discourages or outright prevents critical thought.
 In his influential essay on the political quality of technological artifacts,
 Langdon Winner famously argued that in modern times "people are often willing
 to make drastic changes in the way they live to accord with technological
-innovation" where they would at the same time, "resist similar kinds of
+innovation" where they would at the same time "resist similar kinds of
 changes justified on political grounds" [@winner_artifacts_1980, 135]. The
 insight is yet to filter into the life of literature. Readers, writers, and
 critics who would be pained to support legislation in favor of literary
@@ -1118,7 +1119,7 @@ and his twentieth century highway building projects in New York city. Moses
 built low overpasses with an eye towards discouraging bus travel, which
 reflected his social and racial biases. These in effect carried the force of
 legislation, Moses argued, denying people of color and the poor access to
-public spaces.
+public spaces [@winner_artifacts_1980].
 
 Similarly, in our case, claims on a reader's attention can happen through
 legislation, by social convention, or through specific material affordances,
@@ -1233,23 +1234,24 @@ at the brain, as when thoughts are initially transcribed onto paper.
 gallery perseveres through the continual loss and rearrangement of its
 constituent art works.
 
-[^ln3-maley]: See for example @maley_analog_2011: "The received view is that
+[^ln3-maley]: See for example @maley_analog_2011: "the received view is that
 analog representations vary smoothly, while digital representations vary in
 stepwise manner. In other words, 'digital' is synonymous with 'discrete,' while
-'analog' is synonymous with 'continuous.'" See also @kittler_there_1995,
-"Confronted as they are with a continuous environment of weather, waves, and
-wars, digital computers can cope with this real number-avalanche only by adding
-element to element."
+'analog' is synonymous with 'continuous'" [@maley_analog_2011, 117]. See also
+@kittler_there_1995, "Confronted as they are with a continuous environment of
+weather, waves, and wars, digital computers can cope with this real
+number-avalanche only by adding element to element."
 
 [^ln3-goodman]: Goodman differentiates between "syntactic" and "semantic"
 density. Some notational systems like writing and the decimal system are,
-according to Goodman, "syntactically differentiated but semantically dense."
-The key distinction for him seems to be a "limit on the length of message," by
-which I think he means something related to infinite divisibility. The decimal
-system as a whole can continue to approach a quantity indefinitely, reaching an
-arbitrary point of precision. The computer limits decimal precision to some
-arbitrary "depth" of approximation, making it semantically discrete. I find
-this part of the argument unconvincing.
+according to Goodman, "syntactically differentiated but semantically dense"
+[@goodman_languages_1968, 161]. The key distinction for him seems to be
+a "limit on the length of message," by which I think he means something related
+to infinite divisibility [@goodman_languages_1968, 164]. The decimal system as
+a whole can continue to approach a quantity indefinitely, reaching an arbitrary
+point of precision. The computer limits decimal precision to some arbitrary
+"depth" of approximation, making it semantically discrete. I find this part of
+the argument unconvincing.
 
 [^ln3-oed]: The Oxford English suggests as one of the usages "Any physical
 material (as tape, disk, paper, etc.) used for recording or reproducing data,
