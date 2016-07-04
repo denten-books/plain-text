@@ -594,7 +594,11 @@ screen.[^ln3-mishima]
 ![Liquid crystal in phase transition between polarizers. Schlieren texture
 characteristic nematic phase to the left, and circular focal conic domains in
 the smectic phase to the right. Image licensed under CC-BY-SA 3.0
-[@polimerek_smectic_2004].](images/liquid.jpg)
+[@polimerek_smectic_2004].](images/liquid.jpg)<!--Two things here: 1. Should it
+be cited from Wikimedia Commons? Might be clearer than the current Wikipedia
+citation. 2. This is uses the GNU FDL license, which "requires all copies and
+derivatives to be available under the same license," which I don't imagine will
+be true in this case... Just a thought! -->
 
 In addition to filtering light, modern displays also flicker at a precisely
 calibrated rate. What we observe as a static image on the screen, is in
