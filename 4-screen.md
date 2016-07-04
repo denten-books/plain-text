@@ -297,23 +297,23 @@ based systems. A few technical details are necessary to understand how an
 argument about engineering designs gained a metaphysical significance.
 
 Telegraph systems based on direct current design converted electrical current
-flow into dashes, and the absence of current into dots
-[@welk_neutral_2000].[^ln3-ndc] Systems based on alternating current designs
-converted Morse code (and other encoding systems) into pulses of alternating
-positive and negative current, where positive current could stand for "dashes"
-and negative for "dots." Direct current designs preferred the use of the "saw
-tooth" or "square" periodic waveforms to represent binary states. The signal
-was either "on" or "off" with nothing in between. By contrast, literature on
-alternating current designs often argued for the use of the more round,
-sinusoidal signal, which covered a more "organic" range of amplitudes. The
-sinusoidal wave could be modulated into a multitude of states
-[@crehore_practical_1900; @hausmann_telegraph_1915, 374]. Instead of being
-just "on" or "off" it offered measurable points of current intensity along the
-curve of the sine wave. Consequently, alternating current designs tended
-towards the transmission of continuous quantities like images and cursive
-handwriting. The sinusoidal curve itself resembled natural, organic shapes,
-like handwriting. The alternating current suggested a visual analogy between
-the thing being transmitted (picture or text) and electric signal.
+flow into dashes, and the absence of current into dots.[^ln3-ndc] Systems based
+on alternating current designs converted Morse code (and other encoding
+systems) into pulses of alternating positive and negative current, where
+positive current could stand for "dashes" and negative for "dots." Direct
+current designs preferred the use of the "saw tooth" or "square" periodic
+waveforms to represent binary states. The signal was either "on" or "off" with
+nothing in between. By contrast, literature on alternating current designs
+often argued for the use of the more round, sinusoidal signal, which covered
+a more "organic" range of amplitudes. The sinusoidal wave could be modulated
+into a multitude of states [@crehore_practical_1900; @hausmann_telegraph_1915,
+374]. Instead of being just "on" or "off" it offered measurable points of
+current intensity along the curve of the sine wave. Consequently, alternating
+current designs tended towards the transmission of continuous quantities like
+images and cursive handwriting. The sinusoidal curve itself resembled natural,
+organic shapes, like handwriting. The alternating current suggested a visual
+analogy between the thing being transmitted (picture or text) and electric
+signal.
 
 The Pollak-Virag telegraph that Bernhard Siegert mentions briefly in his
 seminal essay on German media theory was one such device.[^ln3-virag] The
@@ -322,9 +322,9 @@ means of alternating current of two different polarities and two different
 strengths, for a total of four types of signals.[^ln3-siegert] Other than the
 irregular signal shape and the use of alternating current, the Pollak-Virag
 encoding differed little from single-Morse systems. By 1901, however, the
-authors were issued an American patent for the "Writing Telegraph," which
-built on their previous design in an interesting way.  Rather than using a
-wave in four steps, the authors proposed an "automatic transmitter capable of
+authors were issued an American patent for the "Writing Telegraph," which built
+on their previous design in an interesting way.  Rather than using a wave in
+four steps, the authors proposed an "automatic transmitter [...] capable of
 sending current impulses over the line which correspond to the direction and
 the size of a single letter element" [@pollak_writing-telegraph_1901, 3]. In
 other words, they wanted to bend the sinusoidal wave to correspond roughly to
@@ -346,17 +346,17 @@ Pollak-Virag encoding thus represented a continuous quality---cursive
 script---through discrete atomic elements, as punches that moved the writing
 stylus in cardinal directions---up, down, left, or right. It was not a purely
 analog device. The analogy was rather achieved through a process of discrete
-analytic atomization of script on ticker tape and its subsequent
-reconstitution into a continuous shape. The cardinal directions comprise an
-intermediate, discrete description of smooth handwriting curves. Pollak and
-Virag believed that their sine wave telegraph had the distinct advantage of
-transmitting messages "recorded in ordinary written or script characters." In
-the language of the patent, other forms of "facsimile" telegraph transmitted
-merely the "conventional form" of the letter, and not the letter itself,
-whereas the Pollak-Virag system was "non-autographic." The autographic
-telegraph preserved the particularity of the human hand. It purported to
-transmit the peculiarity of an individual's signature. It was the "humane"
-telegraph in the sense that it preserved a human trace.
+analytic atomization of script on ticker tape and its subsequent reconstitution
+into a continuous shape. The cardinal directions comprise an intermediate,
+discrete description of smooth handwriting curves. Pollak and Virag believed
+that their sine wave telegraph had the distinct advantage of transmitting
+messages "recorded in ordinary written or script characters." In the language
+of the patent, other forms of "facsimile" telegraph transmitted merely the
+"conventional form" of the letter, and not the letter itself, whereas the
+Pollak-Virag system was "non-autographic" [@pollak_writing-telegraph_1901, 1].
+The autographic telegraph preserved the particularity of the human hand. It
+purported to transmit the peculiarity of an individual's signature. It was the
+"humane" telegraph in the sense that it preserved a human trace.
 
 The metaphysics accompanying telegraph communication at the time were in fact
 often concerned with human erasure. Notions of material discreteness and
@@ -364,18 +364,18 @@ continuity represented not mere physical attributes of encoding or electricity
 but higher-order cultural and even ethical categories. Beneath the technical
 conversations about the advantages of discrete or continuous electrical signal
 lay a philosophic concern with the fundamental makeup of the universe itself.
-For Henri Bergson, the "real whole of the universe" constituted an
-"indivisible continuity" [@bergson_creative_1944, 36]. Science, technology,
-and other "artificial systems" in his thought imposed discrete "partial views"
-on the whole.[^ln3-bergsonism] The partial views, for Bergson, resembled the
+For Henri Bergson, the "real whole...of the universe" constituted an
+"indivisible continuity" [@bergson_creative_1944, 36]. Science, technology, and
+other "artificial systems" in his thought imposed discrete "partial views" on
+the whole.[^ln3-bergsonism] The partial views, for Bergson, resembled the
 operation of the cinematograph, which divides continuous motion into distinct
 frames. By running the frames through the projecting apparatus, the telegraph
 reconstituted "the individuality of each particular movement." "Such is the
-contrivance of the cinematograph," Bergson wrote, "and such is also that of
-our knowledge. [@bergson_creative_1944, 332]" In this way, the intellect
-continually separated the undifferentiated reality into discrete states of
-time and space [@bergson_creative_1944, 167-182; @russell_philosophy_1914, 4].
-But these states were virtually, not actually, discrete. The evolution of life
+contrivance of the cinematograph," Bergson wrote. "And such is also that of our
+knowledge" [@bergson_creative_1944, 332]. In this way, the intellect
+continually separated the undifferentiated reality into discrete states of time
+and space [@bergson_creative_1944, 167-182; @russell_philosophy_1914, 4]. But
+these states were virtually, not actually, discrete. The evolution of life
 proceeded, according to Bergson, "rather like a shell" which "bursts into
 fragments," which are themselves again shells [@bergson_creative_1944, 109].
 
@@ -384,8 +384,8 @@ discrete and analytic. expand to simplify -->
 
 In Bergson's view of the universe, the brain and the central nervous system
 act as a "central telephonic exchange," which communicates between the
-extrinsic continuous world and the intrinsic "snapshots" stored in memory
-[@bergson_matter_1912, 19]. The mind receives "images" of the world that it
+extrinsic continuous world and the intrinsic "memory-shot[s]" of our perception
+[@bergson_matter_1912, 19, 280]. The mind receives "images" of the world that it
 compares with existing "stored" images to produce a new composite image that
 is once again stored into memory. Bergson thus denied the "flashlight" model
 of perception. The mind, according to him, does not shine a light to bring
@@ -394,7 +394,7 @@ attention to this or that hidden feature of the world:
 > Metaphor for metaphor, we would rather compare the elementary work of
 > attention to that of the telegraph clerk who, on receipt of an important
 > dispatch, sends it back again, word for word, in order to check its accuracy
-> [@bergson_matter_1912, 129].
+> [@bergson_matter_1912, 123].
 
 The object in the world is thus neither an independent thing nor purely a
 product of the mind. By this "telegraphic" model of perception, Bergson avoids
@@ -434,9 +434,9 @@ point of such a pyramid:
 > [@brittan_spiritual_1854, 169].
 
 The discrete degree must be preserved, in other words, because without it the
-hierarchy would lose meaning. Thus in order to facilitate the transmission of
-impressions, "the recipient" of the vital flow "must be willing to receive
-instruction and assume the passive or negative relation of a learner." Without
+hierarchy would lose meaning. Thus "[i]n order to facilitate the transmission of
+impressions," "the recipient" of the vital flow "must be willing to receive
+instruction, and assume the passive or negative relation of a learner." Without
 discreteness and without hierarchy he will resist "the infusion of foreign
 impressions and Divine ideas" [@brittan_spiritual_1854, 169].
 
@@ -455,7 +455,7 @@ continuity not discreteness. Witness one George Henry Dole writing in his
 > the ultimates*, and they have thereby failed to penetrate to *interior
 > things of discrete degree* [emphasis mine]. Consequently they derive life as
 > not from the Lord, but from nature, of which they have no other idea than
-> that it is something mechanical [@dole_philosophy_1906].
+> that it is something mechanical [@dole_philosophy_1906, 236-7].
 
 Telegraph spiritualists shunned continuity because it mixed sacred and
 profane. They believed that a truly Christian order would remain digital in
@@ -464,18 +464,18 @@ essence. To claim otherwise would be to propagate the Gnostic heresy
 
 Where Bergson believed the telegraph to translate continuous "analog"
 experience into discrete "digital" snapshots, the Swedenborgian mystic saw it
-as a model of communication that maintained fidelity to the hidden order of a
-well-differentiated and discrete universe. Their intuitions were completely
+as a model of communication that maintained fidelity to the hidden order of
+a well-differentiated and discrete universe. Their intuitions were completely
 opposed. When arguing against sine-wave telegraphy in 1905, Donald Murray,
-whose alphabet would become the basis for modern character encodings like
-ASCII and UTF-8, displayed a similar bias against analog quantities, which,
-for him, could encode complex human activity like writing or dance. "About ten
-years ago, there was a brisk discussion in some of the electrical journals in
-regards to simple harmonic curve or sine wave for the transmission of power by
-by the alternating current," he wrote:
+whose alphabet would become the basis for modern character encodings like ASCII
+and UTF-8, displayed a similar bias against analog quantities, which, for him,
+could encode complex human activity like writing or dance. "About ten years ago
+there was a brisk discussion in some of the electrical journals in regard to
+the advantages of the simple harmonic curve or sine wave for the transmission
+of power by by the alternating current," he wrote.
 
-> If Smith wants to make Jones spin round like a dancing Dervish, the best way
-> might be for Smith to transmit sine waves [...] but in practice Smith always
+> [I]f Smith wants to make Jones spin round like a dancing dervish, the best way
+> might be for Smith to transmit sine waves [...] but in practice, Smith always
 > wants to make Jones perform an excessively complicated and irregular series
 > of motions, and for this purpose it is essential to transmit similar motions
 > by introducing upper harmonics in a fragmentary, non-periodic, and very
@@ -1194,6 +1194,7 @@ constraint visible to view, under continual scrutiny of critical, close, and
 closest possible reading.
 
 [^ln3-ndc]: Also known as the "single current" or "single Morse" system.
+[@welk_neutral_2000]
 
 [^ln3-current]: ITA-2 could also be adopted to work with "double current"
 devices, in which case 0 would represent "negative current" and 1 "positive
@@ -1203,7 +1204,7 @@ current" [@itu_telegraph_1932, 36].
 Friedrich Kittler's *Gramophone, Film, Typewriter*.
 
 [^ln3-tele]: See for example @angell_pro_2009, 233:  "The telegraph is a
-digital device sending only high and low pulses through the wire;"
+digital device, sending only high and low pulses through the wire;"
 @jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
 dashes in a manner similar to the ones and zeroes of digital logic;"
 @comer_internet_2006, 32: "The telegraph is a digital device because instead of
@@ -1250,21 +1251,21 @@ this part of the argument unconvincing.
 material (as tape, disk, paper, etc.) used for recording or reproducing data,
 images, or sound." [@medium_oed_2001]
 
-[^ln3-siegert]: Siegert takes the Virag as an "apocryphal emblem" of a
-"systematic logic in the dominant cultural technique," representative of the
+[^ln3-siegert]: Siegert takes the Virag as an "apocryphal" emblem of a
+"systemic...logic" in the "dominant cultural technique," representative of the
 "order of digital signals" [@siegert_cacography_2011, 41]. Although not
 concerned with the history or philosophy of digital media explicitly, Siegert
 suggests that the writing telegraph symbolizes the cleansing of "the noise of
 all graphic form." His theory of cultural techniques instead creates "an
 awareness for the plenitude of a world of as yet undistinguished things, that,
 as an inexhaustible reservoir of possibilities, remain the basic point of
-reference for every type of culture" [@siegert_cacography_2011, 35].
+reference for every type of culture" [@siegert_cacography_2011, 32, 35].
 
 [^ln3-virag]: The Pollak-Virag device also proposed an "electromagnetic
 vibrator" coupled to a recording "mirror-galvanometer." The authors further
-specify for "the vibrator on the receiving instrument [to] vibrate in harmony
+specify for "the vibrator of the receiving instrument [to] vibrat[e] in harmony
 with these impulses, vibrating in one direction or the other, according to
-their sign and to an extent depending on their intensity" [@pollak_means_1900].
+their sign and to an extent depending upon their intensity" [@pollak_means_1900].
 
 [^ln3-dervish]: One could make more of the Dervish being used here as a
 negative example, in an instance of colonial gaze. But Murray himself was an
@@ -1272,13 +1273,13 @@ empire outsider, born in the small, remote town of Invercargill, New Zealand
 (a town that also happens to be one of the southern-most cities in world). "I
 am a child of the Southern Cross," he writes in *Philosophy of Power*, "and I
 have no preordained respect for geniuses born under the Northern
-constellations" [@murray_philosophy_1939, 51].
+constellations." [@murray_philosophy_1939, 51]
 
 [^ln3-swedenborg]: See @swedenborg_treatise_1778, regarding the "gross error of
 those who assert the materiality of the soul, affirming it to be homogeneous,
 and continuous with the body; whereas it is heterogeneous, and discrete" (24).
 Swedenborg gives the neoplatonic, monistic articulation of the matter to the
-angels, in the "Angelic Idea of Creation," writing "The question was asked,
+angels, in the "Angelic Idea of Creation," writing, "The question was asked,
 'Whence, then, is hell?' They said, 'From man's freedom, without which a man
 would not be a man,' because man, from that freedom, broke the continuity in
 himself; and this being broken, separation took place; and the continuity,
@@ -1304,8 +1305,8 @@ apprehension.
 [^ln3-digital]: For a summary of digital physics and metaphysics see
 @steinhart_digital_1998 and @floridi_against_2009.
 
-[^ln3-bergsonism]: On the rather complex topic of discrete vs. continuous
-multiplicities in Bergsonian thought see also @james_pluralistic_1909 and
-@deleuze_bergsonism_1990.
+[^ln3-bergsonism]: [@bergson_creative_1944, 36] On the rather complex topic of
+discrete vs. continuous multiplicities in Bergsonian thought see also
+@james_pluralistic_1909 and @deleuze_bergsonism_1990.
 
 \newpage

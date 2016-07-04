@@ -17,3 +17,4 @@ date,punchin,punchout,total
 6/28/16,11:00,1:15,2.25
 ~first hours report~
 6/30/16,10:45,11:45,1
+7/4/16,9:00,10:00,1
