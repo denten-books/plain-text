@@ -734,7 +734,7 @@ output of text.
 
 Built on a simpler architecture than its supercomputer cousins, the MT/ST used
 a single tape read and write mechanism. An advertisement in the American Bar
-Association circa 1968 calls it the $10,000 typewriter that is "worth every
+Association circa 1968 calls it the \$10,000 typewriter that is "worth every
 penny." Before, the typist would have to stop and erase every mistake, the copy
 reads. But with IBM MT/ST it is possible to "backspace, retype, and keep
 going." The mistake is changed on magnetic tape, "where all typing is recorded
@@ -783,26 +783,26 @@ The magnetic reader comprised a flat box that resembles a book. Youngquist and
 Hanes proposed to fill the cover plate of their box with a transparent liquid
 to host "visible, weakly ferromagnetic crystals." When sandwiched between the
 two plates, a piece of magnetic tape would activate the crystals to align with
-the embedded inscription. In this way, the top plate would reveal the "visible
-outlines" of the underlying magnetic symbol [@youngquist_magnetic_1961, 1].
+the embedded inscription. In this way, the top plate would reveal the "visibl[e]
+outline[s]" of the underlying magnetic symbol [@youngquist_magnetic_1961, 1].
 
 !["The positioning of a magnetic recording card for visual observation of
-symbols recorded thereon," from [@youngquist_magnetic_1961,
-1]](images/youngquist.png)
+symbols recorded thereon," from
+[@youngquist_magnetic_1961]](images/youngquist.png)
 
 Yet the problem remained. Data arrangement along the length of the narrow
-magnetic tape had a fundamentally differing structure from data arranged on a
-broad sheet of paper. The next generation of IBM Magnetic Selectric
+magnetic tape had a fundamentally differing structure from data arranged on
+a broad sheet of paper. The next generation of IBM Magnetic Selectric
 typewriters added a "composer" control unit to further address that difference.
 The IBM Composer could restore some of the formatting lost in the transition
 between paper and magnet. It added capabilities for margin control and text
 justification. The original IBM Composer unit achieved margin justification
 (its chief innovation over the typewriter) by asking the operator to type each
-line twice: "one rough typing to determine what a line would contain, and a
-second justified typing" [@morgan_ibm_1968, 69]. After the "first typing," an
-indicator mechanism helped the operator calculate the variable spacing needed
-to achieve paragraph justification. The formatting and content of each line
-thus required separate input passes to achieve the desired result.
+line twice: "one rough typing to determine what words a line would contain, and
+a second, justified typing" [@morgan_ibm_1968, 69]. After the "first typing,"
+an indicator mechanism helped the operator calculate the variable spacing
+needed to achieve paragraph justification. The formatting and content of each
+line thus required separate input passes to achieve the desired result.
 
 +-------------------+---------------+-------------------------------+
 |  Model            | Year          | Technologies                  |
@@ -851,20 +851,19 @@ stored serially, as one long column of codes, on a magnetic card the spatial
 relation between elements could be preserved. The 1968 patent for "Data
 Reading, Recording, and Positioning System" describes a method for arranging
 information on such a card "recording and playback system which accurately
-positions each character recorded relative to each previous character
-recorded" [@clancy_data_1970, 1]. In 1969 IBM introduced magnetic card storage
-units into its Selectric Composer line of word processors. Fredrick May, whose
-name often appears on word processing related patents form this period, would
-later reflect on magnetic cards, writing that a "major reason for the choice
-of a magnetic card for the recording of medium was the simple relationship
-that could be maintained between a typed page and a recorded card"
-[@may_ibm_1981, 743]. The card could be thought of as a miniature page, making
-the magnetic card a "unit of record of storage of a typed page"
-[@may_ibm_1981, 743].
+positions each character recorded relative to each previous character recorded"
+[@clancy_data_1970, 1]. In 1969 IBM introduced magnetic card storage units into
+its Selectric Composer line of word processors. Fredrick May, whose name often
+appears on word processing related patents form this period, would later
+reflect on magnetic cards, writing that a "major reason for the choice of
+a magnetic card for the recording of medium was the simple relationship that
+could be maintained between a typed page and a recorded card" [@may_ibm_1981,
+743]. The card could be thought of as a miniature page, making the magnetic
+card a "unit record of storage for a typed page" [@may_ibm_1981, 743].
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
-Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
-a typed page and a recorded card" [@may_ibm_1981, 744]. Image by Pointillist
+Typewriter (MC/ST) in 1969. A "simple relationship ... could be maintained between
+a typed page and a recorded card" [@may_ibm_1981, 743]. Image by Pointillist
 under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
 
 The Mag Card soon passed from use due to its limited storage capabilities and
@@ -921,26 +920,26 @@ accomplished by:
 
 > mounting the original tape and the correction tape, if any, on the
 > two-station reader output unit, setting the pitch, leading, impression
-> control and dead key space of the composer unit to the desired values, and
-> entering set-up instructions on the console control (e.g., one-station or
-> two-station tape read, depending on whether the correction tape is present;
-> line count instructions for the format control and space to be left for
+> control and dead key space of the Composer unit to the desired values, and
+> entering set-up instructions on the console control panel (e.g., one-station
+or > two-station tape read, depending on whether a correction tape is present;
+> line count instructions for format control and space to be left for
 > pictures, etc.; special format instructions; and any required control codes
-> known to be omitted from the input tape. During printing, the operator
+> known to have been omitted from the input tape). During printing the operator
 > changes type elements when necessary, loads paper as required, and makes and
 > enters hyphenation decisions if justified copy is being printed
 > [@bishop_development_1968, 382].
 
 The tape unit and the control unit thus intervene between the keyboard and the
-printed page. The "final printing" combines roughly the "prepared copy" with
-"control and reference codes" and "printer output" [@bishop_development_1968;
-@may_ibm_1981]. The materials from the time often speak of three distinct
-human operators that could be responsible for each stage of the production:
-one entering the copy, one specifying the control codes, and one responsible
-for handling the paper output. The machine operators could hypothetically work
-in isolation from one another. The typist would see only elements of the copy;
-the typesetter or the controller only formatting and control codes; and the
-printer only the interpolated results.
+printed page. The "final printing" combines roughly the "prepared...copy" with
+"control" and "reference" codes and "printer output" [@bishop_development_1968
+382; @may_ibm_1981]. The materials from the time often speak of three distinct
+human operators that could be responsible for each stage of the production: one
+entering the copy, one specifying the control codes, and one responsible for
+handling the paper output. The machine operators could hypothetically work in
+isolation from one another. The typist would see only elements of the copy; the
+typesetter or the controller only formatting and control codes; and the printer
+only the interpolated results.
 
 <!--
 !["Block diagram of MT/SC system" @bishop_development_1968, 381.](images/mt-sc.png)
