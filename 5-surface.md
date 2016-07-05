@@ -1,7 +1,7 @@
 # Chapter 5: Recondite Surfaces
 
 The scholar Wendy Hui Kyong Chun views magnetic storage as an "enduringly
-ephemeral" medium, which "creates unforeseen degenerative links between humans
+ephemeral" medium, which "creat[es] unforeseen degenerative links between humans
 and machines" [@chun_enduring_2008, 148]. If the floating gate transistor,
 where my text now lives, can be called enduring and ephemeral, I will call my
 liquid crystal display, where the text shows itself, fading and
@@ -39,12 +39,12 @@ site of its archival immanence. The two schools of thought disagree because
 they speak neither of the same phenomenon nor at the same site. The former
 group highlights ephemeral, transcendent qualities of the projected word. The
 latter foregrounds the "uniquely indelible nature of magnetic storage"
-[@kirschenbaum_mechanisms:_2008], the "drives, tapes, and disks," the
-"fundamental physical support," and the "material substrates of computing"
-[@drucker_performative_2013]. Screen and hard drive partition the sign between
-surface and depth, projection and archive. At the site of projection one
-speaks of texts that are---I have kept a list of adjectives when reviewing the
-literature---*ephemeral*, *shimmering*, *electric*, *flimsy*, *contingent*,
+[@kirschenbaum_mechanisms:_2008, 51], the "drives, tracks, and disks," the
+"fundamental physical supports," and the "material substrates of computing"
+[@drucker_performative_2013, para. 2]. Screen and hard drive partition the sign
+between surface and depth, projection and archive. At the site of projection
+one speaks of texts that are---I have kept a list of adjectives when reviewing
+the literature---*ephemeral*, *shimmering*, *electric*, *flimsy*, *contingent*,
 *malleable*, *impermanent*, *flowing*, *transcendent*, *ghostly*, and
 *radiant*. At the archival site language changes to inscription that is
 *enduring*, *solid*, *persistent*, *permanent*, *indelible*, *hard*,
@@ -169,15 +169,16 @@ machines [@hough_wired_1931; @adler_knitting_1933; @casper_remote_1934].
 
 Language compressed and pushed through the wires underwent a number of
 transformations. Donald Murray, the inventor of the popular Murray telegraph
-alphabet, conceived of telecommunications in terms of time and space.
-Advancing a self-professed "metaphysics of telegraph signalling alphabets," he
-described spatial writing symbols that "appeal to the eye," and temporal,
-"telephonic" signals that "appeal to the ear." Paradoxically, space signals
-(like words on a billboard) occupy little space, but persist in time.  "For
-instance," Murray wrote, "a signboard may extend over 10 feet and 100 years."
-Time signals, by contrast, are ephemeral: "a Morse signal in a wire may extend
-over half a second and 500 miles" [@murray_setting_1905, 86]. The signal is
-long duration but short on space.
+alphabet, conceived of telecommunications in terms of time and space. Advancing
+a self-professed metaphysics of telegraph signalling alphabets, he described
+spatial writing symbols that "appeal to the eye," and temporal, "telephonic"
+signals that "appeal to the ear" [@murray_setting_1905, 36]. Paradoxically,
+space signals (like words on a billboard) occupy little space, but persist in
+time.  "For instance," Murray wrote, "a signboard may extend over 10 feet and
+100 years" [@murray_setting_1905, 36]. Time signals, by contrast, are
+ephemeral: "a Morse signal in a wire may extend over half a second and 500
+miles" [@murray_setting_1905, 86]. The signal is long duration but short on
+space.
 
 <!-- rewrite this to make clear -->
 In print, the reader could mentally assemble consecutive physical markings
@@ -214,10 +215,10 @@ depressed vertically would complete an electric circuit to produce the signal.
 Writing in 1929 for the journal *American Speech*, Hervey Brackbill preserved
 some of the specialized language associated with Morse code culture. "Morse
 telegraphy is commonly referred to as a 'game,'" he wrote, "and the operator
-'works a wire.'" Operators tapping keys used "bugs," which where insect-like
-machines that had "long slender levers and springs." Bugs had trade names like
-"Lighting Bug," "Gold Bug," and "Cootie" (for a small model)
-[@brackbill_telegraphers_1929, 287-288].
+'works a wire'" [@brackbill_telegraphers_1929, 288]. Operators tapping keys
+used "bugs," which where insect-like machines that had "long slender levers and
+springs." Bugs had trade names like "Lighting Bug," "Gold Bug," and "Cootie"
+(for a small model) [@brackbill_telegraphers_1929, 288].
 
 Operators using "straight keys" achieved speeds upwards of 25--30 words per
 minute, limited by the shortest possible length of the smallest transmitted
@@ -243,16 +244,18 @@ message and its recipient, the human posed a limiting factor.
 
 Telegraph operators working a "hand sender" often developed partial paralysis
 in their wrists or arms. The condition was commonly known as "glass arm"
-[@brackbill_telegraphers_1929;
-@u.s._bureau_of_labor_statistics_displacement_1932]. Senders were called
-"hams" or "bums" when they "fell down" or made frequent errors. To "put
-someone under the table" in sender's lingo was to transmit faster than a
-receiver could transcribe. The "reader" was "burnt up" when he fell behind.
-He had to "break," or interrupt the sender to ask for repetition. To "paste"
-someone was to deliberately burn him up.[^ln4-men]
+[@brackbill_telegraphers_1929, 288;
+@u.s._bureau_of_labor_statistics_displacement_1932]. Senders were called "hams"
+or "bums" when they "fell down" or made frequent errors
+[@brackbill_telegraphers_1929, 288]. To "put someone under the table" in
+sender's lingo was to transmit faster than a receiver could transcribe
+[@brackbill_telegraphers_1929, 289]. The "reader" was "burnt up" when he fell
+behind. He had to "break," or interrupt the sender to ask for repetition
+[@brackbill_telegraphers_1929, 289]. To "paste" someone was to deliberately
+burn him up.[^ln4-men]
 
-[^ln4-men]: See @brackbill_telegraphers_1929. The operators at the time were
-all almost exclusively male.
+[^ln4-men]: See @brackbill_telegraphers_1929, 288-9. The operators at the time
+were all almost exclusively male.
 
 The 1908 ITC in Lisbon, ratified two additional alphabet standards for
 international use: Hughes and Baudot. Both were developed in response to
@@ -303,7 +306,8 @@ tuning bell, two operators would send separate messages along the same
 channel. The receiving machine would then separate one message from the other
 based on its time signature [@murray_setting_1905].
 
-![Multiple Printing Telegraph, 1905 [@murray_setting_1905].](images/multiplex.png)
+![Multiple Printing Telegraph, 1905 [@murray_setting_1905,
+574].](images/multiplex.png)
 
 It was important to maintain unison in such multiplexed systems. Time-shared
 device operators had to know when it was their turn to type. The Baudot
@@ -353,12 +357,12 @@ string of As and Bs. The letter A, for example, became "aaaaa." B became
 "aaaab," C "aaaba," and so on to Z, rendered as "babbb." "Neither is this a
 small matter," Bacon wrote:
 
-> These Cypher-Characters have, and may performe: For by this *Art* a way is
+> these Cypher-Characters have, and may performe: For by this *Art* a way is
 > opened, whereby a man may expresse and signifie the intentions of his minde,
 > at any distance of place, by objects which may be presented to the eye, an
 > accommodated to the eare: provided those objects be capable of a twofold
 > difference only; as by Bells, by Trumpets, by Lights and Torches, by the
-> report of Muskets, an any instruments of like nature [@bacon_advancement_1987,
+> report of Muskets, and any instruments of like nature [@bacon_advancement_1987,
 > 266].
 
 Writing more than two centuries before the telegraph's invention, Bacon
@@ -392,7 +396,7 @@ encoding from transmission. Fixed-length encoding could not be done in
 advance, with more facility and in volume. The prepared message could then be
 fed into a machine without human assistance. In 1905, Donald Murray wrote that
 "the object of machine telegraphy [is] not only to increase the saving of
-telegraph wire [...] but also to reduce the labor cost of translation and
+telegraph wire [...] but also to reduce the labour cost of translation and
 writing by the use of suitable machines" [@murray_setting_1905, 557]. Baudot's
 and Murray's codes were not only shorter, they were simpler and less
 error-prone, and thus resulted in less complicated and more durable devices.
@@ -429,27 +433,28 @@ from questions of access and legibility: who gets to understand the encoded
 message and when?
 
 For example, the Final Protocol to the Telegraph Regulations, ratified in
-Madrid in 1932 by the governments of more than seventy countries, included a
-special provision delineating the difference between transmitting "plain," and
-"secret" language. The protocols grouped "secret languages" into "code" and
+Madrid in 1932 by the governments of more than seventy countries, included
+a special provision delineating the difference between transmitting "plain,"
+and "secret" language. The protocols grouped "secret languages" into "code" and
 "cypher" categories. "Plain language" was defined as words which present "an
-intelligible meaning in one or more of the languages authorized for
+intelligible meaning in one or more of the languages authorised for
 international telegraph correspondence, each word and each expression having
 the meaning normally assigned to it in the language to which it belongs"
 [@itu_telegraph_1932, 12]. By contrast, "code language" was defined as
-"composed either of artificial words, or of real words not used in the meaning
-normally assigned to them in the language to which they belong and
-consequently not forming intelligible phrases" [@itu_telegraph_1932, 12].
-Codes were not permitted to contain more than five characters and were charged
-at 6/10th of the agreed tariff rate. Upon request, the sender of the telegram
-in code language was required to "produce the code from which the text or part
-of the text of the telegram has been compiled" [@itu_telegraph_1932, 13].
+"composed either of artificial words, or of real words not used with the
+meaning normally assigned to them in the language to which they belong and
+consequently not forming intelligible phrases" [@itu_telegraph_1932, 12]. Codes
+were not permitted to contain more than five characters and were charged at
+6/10th of the agreed tariff rate. Upon request, the sender of the telegram in
+code language was required to "produce the code from which the text or part of
+the text of the telegram has been compiled" [@itu_telegraph_1932, 13].
 Otherwise, the language was considered to be a secret "cypher," defined as
-"groups or series of Arabic figures with a secret meaning." The terms of the
-convention were binding. Participants agreed to accept and pass telegrams in
-plain language through their jurisdictions. They also agreed to let secret
-communications pass, although they were not obligated to accept or help
-deliver such messages [@itu_telegraph_1932, 13].
+"groups or series of Arabic figures with a secret meaning"
+[@itu_telegraph_1932, 13]. The terms of the convention were binding.
+Participants agreed to accept and pass telegrams in plain language through
+their jurisdictions. They also agreed to let secret communications pass,
+although they were not obligated to accept or help deliver such messages
+[@itu_telegraph_1932, 13].
 
 <!-- transition missing -->
 
@@ -462,7 +467,7 @@ Morse code operators between 1915 and 1931. Morse operators referred to the
 tele-typists on the sending side as "punchers" and on the receiving side as
 "printer men."[^ln2-printermen] The printer men responsible for assembling
 pages from ticker tape were called "pasters" and sometimes, derisively, as
-"paperhangers" [@brackbill_telegraphers_1929]. Teletype automated this entire
+"paperhangers" [@brackbill_telegraphers_1929, 290]. Teletype automated this entire
 process, rendering punchers, pasters, and paperhangers obsolete. Operators
 could now enter printed characters directly into the machine, using a keyboard
 similar to the typewriter, which, by that time, was widely available for
@@ -474,19 +479,20 @@ control receded out of sight.
 ![Goldberg's Control Cards [@goldberg_controller_1915].](images/control-2.png)
 
 Hymen Goldberg's 1911 Controller addressed the telegraph's legibility problem.
-"You must acknowledge that this is readable without special training,"
-Goldberg wrote, "my invention relates to all controllers." His controller was
-made "to provide a mechanism operable by a control sheet which is legible to
-every person having sufficient education to enable him to read." In an
-illustration attached to his patent, Goldberg showed "a control sheet in which
-the control characters are in the form of the letters of the ordinary English
-alphabet" [@goldberg_controller_1915]. Rather than using ticker tape, he
-proposed the use of perforations that where capable of actuating machine
-levers and also formed letters. To counteract illegibility, Goldberg imagined
-using cards, perforated in the shape of English letters. His cards thus did
-the "double duty" of carrying human-readable content and mechanically
-manipulating machine "blocks," "handles," "terminal blades," and "plungers"
-[@goldberg_controller_1915].
+"You must acknowledge that this is readable without special training," Goldberg
+wrote [@goldberg_controller_1915, sheet 3]. "My invention relates to all
+controllers" [@goldberg_controller_1915, 1]. His controller was made "to
+provide [a] mechanism operable by a control sheet which is legible to every
+person having sufficient education to enable him to read"
+[@goldberg_controller_1915, 1]. In an illustration attached to his patent,
+Goldberg showed "a control sheet in which the control characters are in the
+form of the letters of the ordinary English alphabet"
+[@goldberg_controller_1915, 1]. Rather than using ticker tape, he proposed the use
+of perforations that where capable of actuating machine levers and also formed
+letters. To counteract illegibility, Goldberg imagined using cards, perforated
+in the shape of English letters. His cards thus did the "double duty" of
+carrying human-readable content and mechanically manipulating machine "blocks,"
+"handles," "terminal blades," and "plungers" [@goldberg_controller_1915, 1-4].
 
 Human and machine language coincided on the same plane, if only for a time.
 The inscription remained visible at the surface of Goldberg's control sheet,
@@ -1275,11 +1281,11 @@ legibility.
 
 [^ln2-gate]: Solid state memory technology, flash memory for example, store
 information in capacitor "circuit states." This by contrast with
-electromagnetic storage that works by modulating electrical charge over a
-magnetic surface. Solid state capacitor storage was used in the earliest
-computers [@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
-manufacture until well into the twenty-first century, when solid state drives
-began to replace electromagnetic storage in consumer electronics. In an early
+electromagnetic storage that works by modulating electrical charge over
+a magnetic surface. Solid state capacitor storage was used in the earliest
+computers, but was prohibitively expensive to manufacture until well into the
+twenty-first century, when solid state drives began to replace electromagnetic
+storage in consumer electronics [@kahng_semipermanent_1967, 1296]. In an early
 (1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
 and Sze explain: "A structure has been proposed and fabricated in which
 semipermanent charge storage is possible. A floating gate is placed a small
