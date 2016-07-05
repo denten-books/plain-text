@@ -1052,9 +1052,9 @@ interaction, Engelbart writes:
 
 > One of the potentially most promising means for delivering and receiving
 > information to and from digital computers involves the display of computer
-> outputs as visual representation on a cathode ray tube and the alternation
+> outputs as visual representations on a cathode ray tube and the alteration
 > of the display by human operator in order to deliver instructions to the
-> computer" [@engelbart_x-y_1970].
+> computer [@engelbart_x-y_1970, 1].
 
 The short-lived screenless word processors of the early 1960s (like the IBM
 MT/ST) necessitated the cognitively arduous task of continuously keeping the
@@ -1088,7 +1088,7 @@ phenomenological self-assessment:[^ln2-follow]
     piece of information that isn't related to the work
     of the moment, one can very quickly and easily
     insert a note within the structure of a file at such
-    a place that it will nether get in the way nor get
+    a place that it will neither get in the way nor get
     lost.
 
     1B2B2 "Later, working in another part of the file,
@@ -1098,7 +1098,8 @@ phenomenological self-assessment:[^ln2-follow]
 
     1B2B3 "As any such miscellaneous thought develops,
     it is easy (and delightful) to reshape the structure
-    and content of its discussion material.
+    and content of its discussion material. 
+    [@engelbart_human_1969, 48-9]
 ```
 
 In other words, what the typist previously perceived as an ordered and
@@ -1121,11 +1122,11 @@ Discussion" section of the report contain the following anonymous
 contemplation:
 
 ```
-1B4 "I find that I can express myself better, if I can
-make all the little changes and experiments with wording
-and structure as they occur to me." [Here the user
-experiments a little with using structural decomposition
-of a complex sentence.]
+    1B4 "I find that I can express myself better, if I can
+    make all the little changes and experiments with wording
+    and structure as they occur to me." [Here the user
+    experiments a little with using structural decomposition
+    of a complex sentence.][@engelbart_human_1969, 50]
 ```
 
 A decomposition follows indeed, as the author deviates dramatically from the
@@ -1136,12 +1137,13 @@ towards the lyric:
 ```
     1B4A "I find that I write faster and more freely,
 
-        1B4A1 "pouring thoughts and trial words on the
+        1B4A1 "pouring thoughts and trial words onto the
         screen with much less inhibition,
+
         1B4A2 "finding it easy to repair mistakes or wrong
         choices
 
-            1B4A22 "so while capturing a thought I don't
+            1B4A2A "so while capturing a thought I don't
             have to inhibit the outpouring of thought and
             action to do it with particular correctness,
 
@@ -1151,17 +1153,17 @@ towards the lyric:
             1B4A3A "so I can experiment, easily take a look
             and see how a new version strikes me--and often
             the first unworried attempt at a way to express
-            something turn out to be satisfactory, or at
+            something turns out to be satisfactory, or at
             least to require only minor touch up.
 
         1B4A4 "Finding that where I might otherwise
         hesitate in search of the right word, I now pour out
         a succession of potentially appropriate words,
-        leaving them all the while the rest of the
+        leaving them all there while the rest of the
         statement takes shape. Then I select from among
         them, or replace them all, or else merely change the
         list a it and wait for a later movement of the
-        spirit.
+        spirit.[@engelbart_human_1969, 50-1]
 ```
 
 When input and output coincide in time, as they do on paper, mistakes are
@@ -1192,32 +1194,40 @@ Anonymous continues to report:
 
             1B4B1A "the relationships among the phrases of a
             sentence,
+
             1B4B1B "among the statements of a list,
+
             1B4B1C "and among the various level and members
             of a branch,
 
         1B4B2 "being able
 
             1B4B2A "to view them in different ways,
+
             1B4B2B "to rearrange them easily,
+
             1B4B2C "to experiment with certain special
             portrayals,
 
-                1B4B2C1 "not available easily in unstructured data
+                1B4B2C1 "not available easily in unstructured
+                data
+
                 1B4B2C2 "or usable without the CRT display,
 
         1B4B3 "and being aware that
 
             1B4B3A "I can (and am seeking to) develop still
             further special conventions and computer aids
+
             1B4B3B "to make even more of this available and
             easy,
 
         1B4B4 "all tend to increase
 
             1B4B4A "my interest and experimentation
+
             1B4B4B "and my conviction that this is but a
-            peek at what is to come soon.
+            peek at what is to come soon.[@engelbart_human_1969, 51]
 ```
 
 The passages appear too contrived to be spontaneous admissions of
@@ -1228,17 +1238,18 @@ cannot help but be carried away by the fluency of the prose and by the sheer
 audacity of the project.
 
 Engelbart's research into intellect augmentation created tools that augment
-research. In an image that evokes Baron Münchhausen pulling himself out of a
-swamp by his own bootstraps, Engelbart described the methodology employed by
+research. In an image that evokes Baron Münchhausen pulling himself out of
+a swamp by his own bootstraps, Engelbart described the methodology employed by
 his lab as "bootstrapping." Bootstrapping for Engelbart involved the recursive
 strategy of "developing tools and techniques" to develop better tools and
-techniques. The "tangible product" of such an activity was "a constantly
-improving augmentation system for use in developing and studying augmentation
-systems." It is an appealing vision, but only as long as it remained
-recursive. The lab benefits from creating its own tools and methods.  But
-Engelbart also hoped that his system could be "transferred---as a whole or by
-pieces of concept, principle and technique---to help others develop
-augmentation systems for many other disciplines and activities." Undoubtedly,
+techniques [@engelbart_research_1968, 396]. The "tangible product" of such an
+activity was "a constantly improving augmentation system for use in developing
+and studying augmentation systems" [@engelbart_human_1969, 6]. It is an
+appealing vision, but only as long as it remained recursive. The lab benefits
+from creating its own tools and methods.  But Engelbart also hoped that his
+system could be "transferred---as a whole or by pieces of concept, principle
+and technique---to help others develop augmentation systems for many other
+disciplines and activities" [@engelbart_human_1969, 6]. Undoubtedly,
 Engelbart's ideas about intellect augmentation have had a broad impact on
 knowledge work across disciplines. However, Engelbart's vision loses the
 property of self determination in the transfer outside of the narrow confines
