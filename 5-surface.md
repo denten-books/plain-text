@@ -504,9 +504,10 @@ for data storage.
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
-influential monograph that continues to shape the field of software studies.
-She quotes several prominent computer scientists and media historians to the
-same effect. But what gives software its ephemeral quality?
+influential monograph that continues to shape the field of software studies
+[@chun_programmed_2011, 3]. She quotes several prominent computer scientists
+and media historians to the same effect. But what gives software its ephemeral
+quality?
 
 Embossed onto ticker tape or punched into the card, early software protruded
 through the medium. In the age of the telegraph, the biggest barrier to the
@@ -570,25 +571,25 @@ said the following:
 > To transport human speech over a distance of one thousand miles is a
 > wonderful achievement. How much more wonderful, then, is the achievement
 > that makes possible [...] its storage at the receiving end, so that the
-> exact sentence, the exact intonation of the voice, the exact timbre may be
-> reproduced over and over again, an endless number of times"
-> [@fankhauser_telegraphone_1909, 39]
+> exact sentence, the exact intonation of the voice, the exact timbre, may be
+> reproduced over and over again, an endless number of times.
+> [@fankhauser_telegraphone_1909, 37-8]
 
 Comparing magnetic recording to the invention of the Gutenberg press,
 Fankhauser went on to say:
 
 > It is my belief that what type has been to the spoken word, the telegraphone
-> will be to the electrically transmitted word [...] As printing spread
+> will be to the electrically transmitted word. [...] As printing spread
 > learning and civilization among the peoples of the earth and influenced
 > knowledge and intercourse among men, so I believe the telegraphone will
 > influence and spread electrical communication among men"
 > [@fankhauser_telegraphone_1909, 40].
 
-In that speech, Fankhauser laments what he calls the "evanescence" of
-telegraph and telephone communications. The telephone fails to preserve "an
-authentic record of the conversion over the wire"
-[@fankhauser_telegraphone_1909, 40]. Fankhauser imagines his telegraphone in
-use by "the sick, the infirm, and the aged:"
+In that speech, Fankhauser laments what he calls the "evanescen[ce]" of
+telegraph and telephone communications [@fankhauser_telegraphone_1909, 39]. The
+telephone fails to preserve "an authentic record of conversation over the
+wire" [@fankhauser_telegraphone_1909, 40]. Fankhauser imagines his telegraphone
+in use by "the sick, the infirm, [and] the aged":
 
 > A book can be read to the sightless or the invalid by the machine, while the
 > patient lies in bed. Lectures, concerts, recitations---what one wishes, may
@@ -598,32 +599,32 @@ use by "the sick, the infirm, and the aged:"
 
 Anticipating the popularity of twenty-first century audio media formats like
 the podcast and the audio book, Fankhauser imagines "tired and jaded" workers
-who "sooth themselves into a state of restfulness" by listening to their
-favorite authors. Poulsen's "electric writing" will finally emerge "as clear
-and as distinct as the writing by hand, an absolutely legal and conclusive
-record," Fankhauser concludes [@fankhauser_telegraphone_1909, 41].
+who "soothe [themselves] into a state of restfulness" by listening to their
+favorite authors [@fankhauser_telegraphone_1909, 45]. Poulsen's "electric
+writing" will finally emerge "as clear and distinct as the writing by hand, and
+an absolutely legal and conclusive record," Fankhauser concludes
+[@fankhauser_telegraphone_1909, 41].
 
 In the first decade of the twentieth century, Fankhauser imagined magnetic
 storage as an audio format, combining the best of telegraphy and telephony in
-one device. For the purposes of data storage, magnetic recording technology
-did not mature until the 1950s, when advances in composite plastics made it
+one device. For the purposes of data storage, magnetic recording technology did
+not mature until the 1950s, when advances in composite plastics made it
 possible to manufacture tape cheaper and more durable than its paper
 alternatives. The state of the art relay calculator commissioned by the Bureau
 of Ordinance of the Navy Department in 1944 and built by the Harvard
-Computation laboratory in 1947 still made use of standard issue telegraph
-"tape readers and punchers," adapted for computation with the aid of engineers
-from Western Union Telegraph Company [@staff_description_1949,
-1-40].[^ln2-punch] The relay calculator was equipped with a number of Teletype
-Model 12A tape readers and Model 10B perforators, using 11/16-inch wide paper
-tape, partitioned into "five intelligence holes." To give you a sense of the
-machine's storage capacity, each quantity entered for computation took up
-thirteen lines of code [@staff_description_1949, 30]. The readers and punches
-were capable of running at 600 operations per minute. Four Model 15
-Page-Printers gave the means to compare the printed characters with the digits
-stored in the ticker tape-based controlling print register. In this setup, the
-numerical inscription was therefore already split between input and output
-channels: with input stored on ticker tape and output on the printed page for
-verification.
+Computation laboratory in 1947 still made use of standard issue telegraph "tape
+readers and punchers," adapted for computation with the aid of engineers from
+Western Union Telegraph Company.[^ln2-punch] The relay calculator was equipped
+with a number of Teletype Model 12A tape readers and Model 10B perforators,
+using 11/16-inch wide paper tape, partitioned into "five intelligence holes."
+To give you a sense of the machine's storage capacity, each quantity entered
+for computation took up thirteen lines of code [@staff_description_1949, 30].
+The readers and punches were capable of running at 600 operations per minute.
+Four Model 15 Page-Printers gave the means to compare the printed characters
+with the digits stored in the ticker tape-based controlling print register. In
+this setup, the numerical inscription was therefore already split between input
+and output channels: with input stored on ticker tape and output on the printed
+page for verification.
 
 The Mark III Calculator which followed the Harvard Computation Laboratory's
 earlier efforts was likewise commissioned by the Navy's Bureau of Ordinance.
@@ -652,12 +653,12 @@ portable. Operators could prepare tape in advance, in a different room, at the
 alloted Instructional Tape Preparation Table. The information on tape would
 then be transferred to a slow moving magnetic drum, and, when the two drums
 matched in speed, transferred again to the fast-moving internal drum for data
-calculation, machine sequencing, and control. Mark III was further equipped
-with five printers "for presenting computed results in a form suitable for
-publication." The printers were capable of determining the "number of digits
-to be printed, the intercolumnar and interlinear spacing, and other items
-related to the typography of the printed page" [@staff_description_1952,
-1-40].
+calculation, machine sequencing, and control [@staff_description_1952, 1-40].
+Mark III was further equipped with five printers "for presenting computed
+results in a form suitable for publication." The printers were capable of
+determining the "number of digits to be printed, the intercolumnar and
+interlinear spacing, and other items related to the typography of the printed
+page" [@staff_description_1952, 34-5].
 
 Data was recorded on tape using binary numerical notation. To enter the number
 onto tape, the operator sat at the "numerical tape preparation table," another
@@ -666,11 +667,12 @@ along two channels, running the length of the tape. The operator entered each
 number twice, first into Channel A and then into Channel B. This was done to
 prevent errors, since the operator worked blindly, without being able to see
 whether the intended mark registered properly upon first entry. An error bell
-would sound when the first quantity did not match the second, in which case
-the operator would have to reenter the mismatched digits
-[@staff_description_1952, 143-88]. To further "ensure completely reliable
-results" the operator could use one of the five attached Underwood Electric
-teletypes to print all of the tape's columns and confirm visually.
+would sound when the first quantity did not match the second, in which case the
+operator would have to reenter the mismatched digits [@staff_description_1952,
+143-88]. To further ensure "completely reliable
+results"[@staff_description_1952, 35] the operator could use one of the five
+attached Underwood Electric teletypes to print all of the tape's columns and
+confirm visually.
 
 I draw on a thick technical description throughout the chapter to make sure
 that the reader understands the terms like "textual fissure" and "multiple
@@ -733,13 +735,15 @@ output of text.
 Built on a simpler architecture than its supercomputer cousins, the MT/ST used
 a single tape read and write mechanism. An advertisement in the American Bar
 Association circa 1968 calls it the $10,000 typewriter that is "worth every
-penny." Before, the typist would have to stop and erase every mistake, the
-copy reads. But with IBM MT/ST it is possible to "backspace, retype, and keep
+penny." Before, the typist would have to stop and erase every mistake, the copy
+reads. But with IBM MT/ST it is possible to "backspace, retype, and keep
 going." The mistake is changed on magnetic tape, "where all typing is recorded
-and played back correctly at incredible speed" [@association_aba_1966, 998].
-But just as it was with the Mark III, information stored on magnetic tape was
-absolutely invisible to the typist. At the time, the only way to verify the
-magnetic inscription was to print it out.
+and played back correctly at incredible speed" [@association_aba_1966,
+998].<!--I can't find these quotes anywhere! I went through the attached PDF
+and the 1966 January issue, but no luck.--> But just as it was with the Mark
+III, information stored on magnetic tape was absolutely invisible to the
+typist. At the time, the only way to verify the magnetic inscription was to
+print it out.
 
 What was gained in the freeing of text from the confines of immutable media
 like ink and paper, was gotten at the price of legibility. Encoding used by
@@ -1322,7 +1326,7 @@ electronic computing" outlined in Peter Denning's "theory of operating systems"
 
 [^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
 truckloads of punched cards being transported from one center to another in
-Italy."
+Italy" (para. 8).
 
 [^ln2-magnet]: See for example @stefanita_magnetism:_2012, 1-69 and
 @ohmori_memory_2015.
@@ -1349,14 +1353,14 @@ aid of the party;' also the opening sentence of the Declaration of
 Independence [...] were repeated many times in order to test the speed of the
 machine."
 
-[^ln2-punch]: "Two means are available for preparing the functional tapes
-required for the operation of the interpolators. First, when the tabular
-values of *f(x)* have been previously published, they may be copied on the
-keys of the functional tape preparation unit [...] and the tape produced by
-the punches associated with this unit, under manual control. Second, as
-suitable control tape may be coded directing the calculator to compute the
-values of *f(x)* and record them by means of one of the four output punches,
-mounted on the right wing of the machine" [@staff_description_1949, 34].
+[^ln2-punch]:  See [@staff_description_1949, 1-40]. "Two means are available
+for preparing the functional tapes required for the operation of the
+interpolators. First, when the tabular values of *f(x)* have been previously
+published, they may be copied on the keys of the functional tape preparation
+unit [...] and the tape produced by the punches associated with this unit,
+under manual control. Second, as suitable control tape may be coded directing
+the calculator to compute the values of *f(x)* and record them by means of one
+of the four output punches, mounted on the right wing of the machine" (33-4).
 
 [^ln2-hayles]: See also @hayles_print_2004.
 
