@@ -1255,7 +1255,7 @@ the argument unconvincing.
 
 [^ln3-oed]: The Oxford English suggests as one of the usages "Any physical
 material (as tape, disk, paper, etc.) used for recording or reproducing data,
-images, or sound." [@medium_oed_2001]
+images, or sound." [@oed_medium_2001]
 
 [^ln3-siegert]: Siegert takes the Virag as an "apocryphal" emblem of a
 "systemic...logic" in the "dominant cultural technique," representative of the

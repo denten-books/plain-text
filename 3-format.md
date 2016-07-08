@@ -788,7 +788,7 @@ offline." The platform's "features" include the ability to "download and
 transfer books between devices" and to "search eBooks." It supports multiple
 languages, the ability to borrow books, printing, limited support for visually
 impaired readers, bookmarking, highlights, notes, and file organization
-[@_plans_2016].<!--broken link, unable to confirm; PRP--> The company's own
+[@adobe_plans_2016].<!--broken link, unable to confirm; PRP--> The company's own
 competing Adobe Document Cloud reading platform includes the Free, Standard,
 and Pro versions of Acrobat Reader, the "global standard for reliably viewing,
 printing, and commenting on PDF documents" [@_adobe_2016]. Only the most
@@ -796,7 +796,7 @@ expensive Pro version allows one to "create and validate PDFs to meet
 accessibility standards for people with disabilities." The free version does
 not support bookmarks or document editing. The Pro version enables readers to
 "redact and permanently remove sensitive information in PDFs" and to "compare
-two versions of a document to see what's changed" [@_plans_2016].
+two versions of a document to see what's changed" [@adobe_plans_2016].
 
 Another popular electronic book format, the Amazon Kindle reader, by comparison
 to PDF, includes a feature called "Public Notes" which allows Kindle customers
@@ -818,7 +818,7 @@ see the notes that they made in the book [@_amazon_2016].
 The Google Play Books platform does not have the public note features nor does
 it support book editing. It does, however, allow readers to translate words
 and passages and look up phrases using the company's search engine
-[@_read_2016].
+[@google_read_2016].
 
 Encoded ideas about intellectual property are another stark manifestation of
 inter-platform incompatibility. Whatever its comparative affordances, reading
@@ -1183,7 +1183,7 @@ text.[^ln3-domlayer]
 
 In his book on protocols, Alexander Galloway discussed the Open Systems
 Interconnection model in reference to what he calls distributed and
-decentralized networks of control [@galloway_protocol_2006, 28-54]. The OSI
+decentralized networks of control [@galloway_protocol:_2006, 28-54]. The OSI
 standard is distributed to be sure, although to what extent it is
 decentralized is a matter of some debate. Like a good soldier, each device in
 a network of textual machines internalizes dozens if not hundreds of protocols
@@ -1450,7 +1450,7 @@ function.
 [^ln3-move]: "Move" in the sense that *Harai Goshi* is a "Sweeping Hip Throw"
 "move" in Judo, and a part of *Koshi-Waza* or "hip technique."
 
-[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
+[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol:_2006;
 @conti_visual_2008; and @kirschenbaum_mechanisms_2012.
 
 [^ln3-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the

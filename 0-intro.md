@@ -953,7 +953,7 @@ English.
 
 [^ln-capital]: Scholars like Alexander Galloway, David Golumbia, Bernard
 Harcourt have advanced critique along similar lines. See
-@galloway_protocol_2006, @golumbia_cultural_2009, and @harcourt_exposed:_2015.
+@galloway_protocol:_2006, @golumbia_cultural_2009, and @harcourt_exposed:_2015.
 
 [^ln-cog]: See for example @gibbs_categorization_1992; @blasko_effects_1993;
 @gibbs_poetics_1994; @neal_role_1997, 441-463; @gentner_alignment_1997.
