@@ -107,7 +107,7 @@ specification describes features that include "accessibility of content to
 those with disabilities," "digital signatures to certify authenticity,"
 "electronic forms to gather data," "preservation of document fidelity
 independent of the device, platform, and software," and "security and
-permission to allow the creator to retain control of the document and
+permissions to allow the creator to retain control of the document and
 associated rights" [@iso_portable_2008, vii].
 
 These capabilities mediate between visible image and stored information: one
@@ -118,14 +118,15 @@ authors, readers, and devices. In our example, the PDF encodes among other
 things ideas about "reading," "authenticity," "fidelity," "preservation," and
 "authorship." Whatever literary-theoretical framework the reader brings to the
 process of interpretation must therefore meet the affordances encoded into the
-electronic text itself. Such an encounter happens not on the level of
-representation or ideology, but on the level of the physical, the phatic, and
-the imperative, where formatting and control codes reside. Thick content
-accounts for the disparity between plain and fancy text.[^ln3-fancy] The
-explication of such thick content requires thick description that draws on
-material particulates. These further acquire tactical significance in
-practice: the text that edits itself or one that collects its own fees
-necessitates new formalisms and new strategies of interpretation.
+electronic text itself.<!--It might be cool to call back to Levine, here, like
+you do with Baudrillard above. PRP--> Such an encounter happens not on the
+level of representation or ideology, but on the level of the physical, the
+phatic, and the imperative, where formatting and control codes reside. Thick
+content accounts for the disparity between plain and fancy text.[^ln3-fancy]
+The explication of such thick content requires thick description that draws on
+material particulates. These further acquire tactical significance in practice:
+the text that edits itself or one that collects its own fees necessitates new
+formalisms and new strategies of interpretation.
 
 The familiar paper paragraph structure already presents several interesting
 problems for analysis. A paragraph, we intuitively believe, corresponds to a
@@ -140,15 +141,17 @@ the screen: paragraphs, pages, files, and folders. These resemble their paper
 counterparts, but they represent other, less familiar and nonequivalent
 ordering structures on disk.
 
-![Data structures in the brain, on a page, on disk.](images/forms.png)
+![Data structures in the brain, on a page, on disk.](images/forms.png)<!--is
+there a source for this? PRP -->
 
 Formats mediate between data structures, transforming one into the other
 according to predefined rules. Mental image, information stored in the head,
-becomes inscription, information stored in the machine, which turns into a
-projection, content arranged on the screen. The complexities of the
-transformation stem from the fundamental incompatibility between what the
-media scholar Alexander Galloway calls "incommensurate physicalities
-[@galloway_interface_2012, viii]" between human and machine. Format
+becomes inscription, information stored in the machine, which turns into
+a projection, content arranged on the screen. The complexities of the
+transformation stem from the fundamental incompatibility between what the media
+scholar Alexander Galloway calls "incommensurate physicalities
+[@galloway_interface_2012, viii]"<!--I can't find any record of this quote, in
+"Interface" or "Protocol"; PRP--> between human and machine. Format
 specifications govern the transference of data structures from one medium into
 the other, at the point of contact between human, symbol, and machine.
 
@@ -209,15 +212,14 @@ intrinsic formula and form as extrinsic shape. In what remains, to my
 knowledge, a singular article-length treatment on the topic in literary
 studies, G. Thomas Tanselle approaches the concept of formatting from the
 perspective of textual criticism---the practice of compiling, editing,
-annotating, preserving, and publishing scholarly critical editions of
-canonical texts. For Tanselle's narrow purposes, the concept of formatting
-encompasses something like the "number of page units placed on the press at
-one time" [@tanselle_concept_2000, 112-3]. He acknowledges, however, formats
-refer also to the "nature and the order of the contents"
-[@tanselle_concept_2000, 67-8]. The genre of "soap opera," for example, evokes
-both a medium, daytime television and the specific kind of a story told in
-that medium, melodrama and pulp. The format of a journal may be "broadsheet
-daily" or "tabloid."
+annotating, preserving, and publishing scholarly critical editions of canonical
+texts. For Tanselle's narrow purposes, the concept of formatting encompasses
+something like the "number of page-units placed on the press at one time"
+[@tanselle_concept_2000, 113]. He acknowledges, however, that formats refer
+also to the "nature and order of the contents" [@tanselle_concept_2000, 67].
+The genre of "soap opera," for example, evokes both a medium, daytime
+television and the specific kind of a story told in that medium, melodrama and
+pulp. The format of a journal may be "broadsheet daily" or "tabloid."
 
 The notion of a format identifies matter both of particular shape and content.
 The soap opera is a kind of a daytime melodrama of a certain length, for
@@ -234,18 +236,18 @@ how, and in what order.
 
 Whatever the tradition of writing about form, the concept is usually
 contraposed to some idea of content: as in form and content. Content in that
-sense refers to the stuff being shaped or arranged, whether by intrinsic law
-or extrinsic forces. R.G. Collingwood famously described the distinction
-between classical and romantic art in terms of the form-content divide:
-"classical art," he wrote, "stands for form; romantic art for content"
+sense refers to the stuff being shaped or arranged, whether by intrinsic law or
+extrinsic forces. R.G. Collingwood famously described the distinction between
+classical and romantic art in terms of the form-content divide: "classical
+art," he wrote, "stands for form; romantic art for content"
 [@collingwood_form_1929, 335]. The distinction is evoked in other fields as
 well. In her recent work on computational text generation, the computer
-statist Kathleen McKeown wrote that to produce discourse, writers and speakers
-"must decide what to say and how to present it effectively"
-[@mckeown_text_1992, 1]. Similarly, in her influential essay "Print Is Flat,
-Code Is Deep," Katherine Hayles discussed "the interplay between a text's
-physical characteristics and its signifying strategies" [@hayles_print_2004,
-72].
+statist<!--statistician? PRP--> Kathleen McKeown wrote that to produce
+discourse, writers and speakers "must decide what it is that they want to say
+and how to present it effectively" [@mckeown_text_1992, 1]. Similarly, in her
+influential essay "Print Is Flat, Code Is Deep," Katherine Hayles discussed
+"the interplay between a text's physical characteristics and its signifying
+strategies" [@hayles_print_2004, 72].
 
 The distinction between text, its content, and presentation, its form, entails
 the distinction between the work of art in the abstract sense and the object
@@ -286,12 +288,14 @@ works by defining abstract "object classes" and invoking them into "class
 instances" [@hoare_record_1965; @nygaard_history_1981]. The abstract class can
 further be modified or extended when called into action. In this way, the
 abstract category of "chairs" becomes a given chair, complete with individual
-flaws and imperfections. I could, for example, modify the chair by attaching a
-small desk. The modified chair remains a chair. As before, flaws and
-emendations are considered insignificant when compared to the perfected form
-of the ideal chair. In the idealist tradition, ideas provide us with lasting
+flaws and imperfections. I could, for example, modify the chair by attaching
+a small desk. The modified chair remains a chair. As before, flaws and
+emendations are considered insignificant when compared to the perfected form of
+the ideal chair. In the idealist tradition, ideas provide us with lasting
 universal "templates" for instantiation within the contingent and always
-changing physical confines of the material world.[^ln3-descartes]
+changing physical confines of the material world.[^ln3-descartes]<!--This seems
+like it should either be developed or dropped, imo---in a footnote, it just
+raises a lot of questions. PRP-->
 
 So far, I have been using the term "form" quite liberally, relying on the
 reader's familiarity with its contradictory everyday usage. A closer look at
@@ -318,7 +322,7 @@ renders the Greek *phantazomenōn* into the English "appearance":
 > Accordingly, since no one of these ever remains identical in appearance
 > [*phantazomenōn*], which of them shall a man definitely affirm to be any one
 > particular element and no other without incurring ridicule?
-> [@plato_plato_1955, 48d]
+> [@plato_plato_1955, 49d]
 
 Both translations of the Greek *phantazomenōn*, form and appearance, capture
 the plain meaning of the passage: the essence of a thing remains even as its
@@ -378,7 +382,7 @@ writes: "Poetry is the universal art of the spirit which has become free in
 itself and which is not tied down for its realization to external sensuous
 material; instead, it launches out exclusively in the inner space and the
 inner time of ideas and feelings" [@hegel_hegels_1998, 89]. Finally,
-"inwardness celebrates its triumph over the external and manifests its victory
+"[i]nwardness celebrates its triumph over the external and manifests its victory
 in and on the external itself, whereby what is apparent to the senses alone
 sinks into worthlessness" [@hegel_hegels_1998, 81]. Romantic art can, in this
 way, triumph over the external, material world, reaching, at its apex, what he
@@ -389,7 +393,7 @@ solidity in its tangible instantiation.
 
 Several lines in Hegel's exposition of Plato's idealism give us a glimpse of
 his struggle with the Platonic concept of form. In his "Lectures on
-Philosophy," Hegel writes that, the "idea is nothing but what is current with
+Philosophy," Hegel writes that, the "[i]dea is nothing but what is current with
 us under the name of the Universal, when this word is not taken in the sense
 of *formal* Universal [*formell Allgemeine*]." The formal universal for him is
 "merely a property of things," whereas in his interpretation Plato must be
@@ -400,7 +404,7 @@ lays a claim to truth alone. Hegel writes: "We translate the Greek word
 a number of similar determinations collected by reflection from several
 individuals, to serve as a *mark* for the convenience of the understanding,
 then we have the Universal in quite an external form" [@hegel_philosophy_1870,
-250]. In other words, as soon as *eidos* is instantiated, it moves from being
+249]. In other words, as soon as *eidos* is instantiated, it moves from being
 an ideal form into an apparent shape, as an epistemological category.
 
 I understand Hegel's problem with "formal Universal" as follows. Imagine
@@ -433,26 +437,27 @@ reasonably transcribed to "form" in English. In an essay on Hegel's concept,
 John Crowe Ransom likens the concrete universal to a "formula of a chemical
 reaction," "the recipe for a dish," and "the blue-print of a machine."
 Crucially, the Hegelian universal becomes concrete when the machine "has been
-materialized," and is "working properly" [@ransom_concrete_1954, 387]. Like
-Wittgenstein, Ransom imagines a perfected kind of a machine, which represents
-the ideal of an aesthetic object.
+materialized," and is "working" properly [@ransom_concrete_1955, 387].<!--two
+entries in zotero; pagination corresponds to 1955 ed. PRP--> Like Wittgenstein,
+Ransom imagines a perfected kind of a machine, which represents the ideal of an
+aesthetic object.
 
 ## Format Theory
 
-The above notes on Plato and Hegel point to series of related folds and
+The above notes on Plato and Hegel point to a series of related folds and
 creases in the formalist tradition.  W.K. Wimsatt once observed that literary
-theorists often persist in making statements that understand a work of
-literary art to be, in a peculiar way, "a very individual thing or a very
-universal thing or both" [@wimsatt_structure_1947, 262]. A work of art, a
-poem, understood as something which "cannot be expressed in other terms" leads
-to the kind of criticism that emphasizes the contemplation of the outward,
-affective, palpable elements of the text. The function of such criticism,
-according to Wimsatt, is to create "approximate descriptions of poems" and
-"multiple restatements of their meaning," which aid the reader in coming to
-their own "intuitive and full realizations" of literature
-[@wimsatt_structure_1947, 280]. Understood as an end product of a living ideal
-or formula, the analysis of literature seeks to recover latent universal
-mechanisms, laws, and deep structures that give rise to surface phenomena.
+theorists often persist in making statements that understand a work of literary
+art to be, in a peculiar way, "a very individual thing or a very universal
+thing or both" [@wimsatt_structure_1947, 262]. A work of art, a poem,
+understood as something which "cannot be expressed in other terms" leads to the
+kind of criticism that emphasizes the contemplation of the outward, affective,
+palpable elements of the text. The function of such criticism, according to
+Wimsatt, is to create "approximate descriptions of poems" and "multiple
+restatements of their meaning," which aid the reader in coming to their own
+"intuitive and full realization[s]" of literature [@wimsatt_structure_1947,
+280]. Understood as an end product of a living ideal or formula, the analysis
+of literature seeks to recover latent universal mechanisms, laws, and deep
+structures that give rise to surface phenomena.
 
 The dual motion of literary criticism, at once towards the extrinsic shape and
 intrinsic formula---poetics and hermeneutics---is perhaps most starkly visible
@@ -485,7 +490,7 @@ to the population of feelings, a direct cry to the predawn of the soul"
 words but with sound," appealing to the senses rather than the intellect.
 "Thought and speech," he wrote:
 
-> cannot keep up with inspired experience, and for this reason artists are >
+> cannot keep up with inspired experience, and for this reason artists are 
 > free to express themselves not only in language of common understanding, but
 > also in private language---language that has no settled sense [...] Lilacs
 > are beautiful, but how deformed [*bezobrazno*] the word "lilac," plundered
@@ -557,31 +562,31 @@ non-apparent deep structural regularities.
 
 Most recently, that theoretical distinction between shape and formula has been
 negotiated in terms of depth and surface. Two types of reading become evident
-in this model. The "symptomatic" literary critic reaches beyond the
-"ephemeral" external appearances to uncover internal and eternal metaphysical
-truth within. For a Marxist critic like Terry Eagleton or Frederic Jameson
-that latent meaning may have something to do with hidden machinations of
-capital and ideology. The psychologically minded critic reads in search of
-hidden drives, desires, or cognitive structures. By contrast to symptomatic
-reading, Stephen Best and Sharon Marcus describe a constellation of reading
-practices concerned with "what is evident, perceptible, apprehensible in text:
-what is neither hidden nor hiding; what, in the geometrical sense, has length
-and breadth but no thickness, and therefore covers no depth." The authors
-identify a constellation of related interpretation practices at the surface:
-reading for material surface, reading for verbal structure, reading for
-affect, reading for description, reading for pattern, and finally, reading for
-literal meaning or "just reading" [@best_surface_2009, 9].
+in this model. The "symptomatic" literary critic reaches beyond the "ephemeral"
+external appearances to uncover internal and eternal metaphysical truth within.
+For a Marxist critic like Terry Eagleton or Frederic Jameson that latent
+meaning may have something to do with hidden machinations of capital and
+ideology. The psychologically minded critic reads in search of hidden drives,
+desires, or cognitive structures. By contrast to symptomatic reading, Stephen
+Best and Sharon Marcus describe a constellation of reading practices concerned
+with "what is evident, perceptible, apprehensible in texts; what is neither
+hidden nor hiding; what, in the geometrical sense, has length and breadth but
+no thickness, and therefore covers no depth" [@best_surface_2009, 9]. The
+authors identify a constellation of related interpretation practices at the
+surface: reading for material surface, reading for verbal structure, reading
+for affect, reading for description, reading for pattern, and finally, reading
+for literal meaning or "just reading" [@best_surface_2009, 12].
 
 In making the argument for surface reading, Best and Marcus gesture toward the
 kind of formal poetics advocated by Susan Sontag in the late 1960s. At the
-time, Sontag wrote about "the need for more attention to form in art."
+time, Sontag wrote about the need for "more attention to form in art."
 Interpretation can be liberating, she wrote, but it can also stifle
-creativity. It "depletes" the world in some way, placing the critic in a
+creativity. It "deplete[s]" the world in some way, placing the critic in a
 privileged and unnecessarily meddling position between reader and text. "If
 excessive stress on content provokes the arrogance of interpretation, more
-extended and more thorough descriptions of form would silence," she wrote,
-"the best criticism, and it is uncommon, is of this sort that dissolves
-considerations of content into those of form" [@sontag_against_1966, 8-9].
+extended and more thorough descriptions of form would silence," she wrote.
+"The best criticism, and it is uncommon, is of this sort that dissolves
+considerations of content into those of form" [@sontag_against_1966, 1-12].
 
 Marcus and Best remind us that Sontag's manifesto was also an "affective and
 ethical stance" [@best_surface_2009, 10]. Strategies of "deep" interpretation
@@ -597,17 +602,17 @@ suggest, of forming their own interpretation.
 Interpretation at the level of meaning alone, for Sontag, was an intellectual
 and ultimately reactionary activity. It aims to find the "maximum amount of
 content" within. It is reactionary because it serves only to multiply the
-available "levels of analysis." In explicating the work of art, the critic
+available "levels" of analysis. In explicating the work of art, the critic
 merely creates alternate copies that diverge from the original. Each layer of
 criticism thus only adds to the content of the work, placing additional burden
-on the readers to come. Sontag believed that to "design" a work of art that
-can be experienced in this way---always on multiple and diverging levels of
+on the readers to come. Sontag believed that to "design" a work of art that can
+be experienced in this way---always on multiple and diverging levels of
 ideation---might have been "creative" and "revolutionary" in the age of
 aesthetic paucity, when creativity and interpretation were limited to a few
 privileged individuals. But her epoch, she believed, was one of creative
-abundance. "Think of the sheer multiplication of works of art available to all
-of us," she wrote. Contemporary culture had become based on "excess" and
-"material plenitude" which dull the senses [@sontag_against_1966, 9-10]. In
+abundance. "Think of the sheer multiplication of works of art available to
+every one of us," she wrote. Contemporary culture had become based on "excess"
+and "material plenitude" which dull the senses [@sontag_against_1966, 9-10]. In
 such conditions, the production of further critical variations on the theme
 only adds to the dulling clutter.
 
@@ -629,20 +634,20 @@ drives behind expression. A Marxist critic may instead look for the concealed
 operation of ideology. Fredrick Jameson, a prominent Marxist critic, wrote
 that:
 
-> the process of criticism is, not so much the interpretation of
-content, as it is a revealing of it, a laying bare, a restoration of the
+> the process of criticism is not so much the interpretation of
+content as it is a revealing of it, a laying bare, a restoration of the
 original message, the original experience, beneath the distortions of the
 various kinds of censorship that have been at work upon it; and this
 revelation takes the form of an explanation of why the content was so
-distorted and is thus inseparable from a description of the mechanisms of the
+distorted and is thus inseparable from a description of the mechanisms of this
 censorship itself [@jameson_marxism_1972, 404].
 
 Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
 deemed the "sensory experience" or the "erotics" of art. In "Against
-Interpretation" Sontag mentions the ideal of transparency as the "highest,
-most liberating value in art and in criticism today [...] transparency means
-experiencing the luminousness of the thing in itself, of things being what
-they are. [@sontag_against_1966, 9]" Rather than show what a work of art
+Interpretation" Sontag mentions the ideal of "transparence" as the "highest,
+most liberating value in art---and in criticism---today. Transparence
+means experiencing the luminousness of the thing in itself, of things being
+what they are. [@sontag_against_1966, 9]" Rather than show what a work of art
 *means*, Sontag urged critics to show "how it is" and "that it is"
 [@sontag_against_1966, 10]. Form, as she saw it, mirrors McKeown's "shape" and
 the "text's physical characteristics" of Hayles.
@@ -668,7 +673,7 @@ Blake's poetry lost, textual critics would reconstruct the texts' genealogy
 from extant remnants. They could, for example, infer the missing illustrations
 based on reception history. "The textual critic," Phelps wrote "is concerned
 mainly with the fact of the [textual] change itself. [@phelps_edition_1994,
-65-6]" Reading for format thus involves a series of value judgements about
+65]" Reading for format thus involves a series of value judgements about
 what the text should be and what it is.
 
 [^ln3-printers]: See for example the discussion on the limits of the inductive
@@ -722,10 +727,10 @@ the gates of hermeneutics.
 @greetham_textual_1989.
 
 In an essay on pictographs and pictographic logic, Johanna Drucker and Jerome
-McGann discuss how the "presentational form of texts" usually masks its
+McGann discuss how the "presentational form of texts" usually masks their
 "logical operations in a surface rhetoric that dominates and controls our
 conscious attention." At the same time, what the authors call the "holistic
-repleteness of images" also keeps us from perceiving their "conceptual order
+repleteness of images" also "keeps us from perceiving their conceptual order
 [...] as if the graphic character of the work were completely obvious"
 [@drucker_images_2010]. Their insight captures the dual movement of
 formatting: at once towards the physical and the mental characteristics of
@@ -743,7 +748,7 @@ designer know the image to be a carefully constructed composite. They know the
 particulates of page composition invisible to a lay reader. Drucker and McGann
 conclude that "systems of graphic presentation are operational, not merely
 passive schematic structures [...] active agents for creating meaning,
-instructions for reading, viewing, comprehending information
+instructions for reading, viewing, comprehending information"
 [@drucker_images_2010].  Choices were made, in other words, that would later
 affect meaning making. Apprehension precedes comprehension. Processes of
 interpretation have commenced and in some cases concluded before the reader
@@ -783,24 +788,24 @@ offline." The platform's "features" include the ability to "download and
 transfer books between devices" and to "search eBooks." It supports multiple
 languages, the ability to borrow books, printing, limited support for visually
 impaired readers, bookmarking, highlights, notes, and file organization
-[@_plans_2016]. The company's own competing Adobe Document Cloud reading
-platform includes the Free, Standard, and Pro versions of Acrobat Reader, "the
-global standard for reliably viewing, printing, and commenting on PDF
-documents" [@_adobe_2016]. Only the most expensive Pro version allows one to
-"create and validate PDFs to meet accessibility standards for people with
-disabilities." The free version does not support bookmarks or document
-editing. The Pro version enables readers to "redact and permanently remove
-sensitive information in PDFs" and to "compare two versions of a document to
-see what's changed" [@_plans_2016].
+[@adobe_plans_2016].<!--broken link, unable to confirm; PRP--> The company's own
+competing Adobe Document Cloud reading platform includes the Free, Standard,
+and Pro versions of Acrobat Reader, the "global standard for reliably viewing,
+printing, and commenting on PDF documents" [@_adobe_2016]. Only the most
+expensive Pro version allows one to "create and validate PDFs to meet
+accessibility standards for people with disabilities." The free version does
+not support bookmarks or document editing. The Pro version enables readers to
+"redact and permanently remove sensitive information in PDFs" and to "compare
+two versions of a document to see what's changed" [@adobe_plans_2016].
 
-Another popular electronic book format, the Amazon Kindle reader, by
-comparison to PDF, includes a feature called "Public Notes" which allows
-Kindle customers to "make their highlights and notes available for anyone to
-see" [@_amazon_2015]. Kindle's Frequently Asked Question (FAQ) page further
-explains that "if someone you follow has highlighted a passage in a book and
-has turned on Public Notes for the book, you'll see that passage highlighted
-along with the name of the person who highlighted it." It continues to tout
-the platform's benefits:
+Another popular electronic book format, the Amazon Kindle reader, by comparison
+to PDF, includes a feature called "Public Notes" which allows Kindle customers
+to "make public their highlights and notes" for "any other customer who follows
+them [...] to see" [@_amazon_2015]. Kindle's Frequently Asked Question (FAQ)
+page further explains that if "someone you follow has highlighted a passage in
+a book and has turned on Public Notes for the book, you'll see that passage
+highlighted along with the name of the person who highlighted it." It continues
+to tout the platform's benefits:
 
 > Now authors, thought leaders, passionate readers, professors and all Kindle
 users can opt-in to share their notes with other readers, helping friends,
@@ -813,23 +818,24 @@ see the notes that they made in the book [@_amazon_2016].
 The Google Play Books platform does not have the public note features nor does
 it support book editing. It does, however, allow readers to translate words
 and passages and look up phrases using the company's search engine
-[@_read_2016].
+[@google_read_2016].
 
 Encoded ideas about intellectual property are another stark manifestation of
 inter-platform incompatibility. Whatever its comparative affordances, reading
 software always emulates the logic of ownership. To own a book electronically
 means to have access to the bits that bring the simulation of that book into
-existence. At some lower level of abstraction, however,  the variety of
-reading platforms rests on the same computational substratum. Both Amazon and
-Adobe books rely on the underlying capabilities of the personal computer. This
-hyper-media, as Lev Manovich has called it, lies at the base of all competing
-ebook formats [@manovich_software_2013]. Owning a book on that level, must
+existence. At some lower level of abstraction, however,  the variety of reading
+platforms rests on the same computational substratum. Both Amazon and Adobe
+books rely on the underlying capabilities of the personal computer. This
+"hypermedia," as Lev Manovich has called it, lies at the base of all competing
+ebook formats [@manovich_software_2013, 71, 79-80. He adopts the term from
+Theodore H. Nelson---see @nelson_file_2003]. Owning a book on that level, must
 involve manipulating hardware states. A common act of epistemic disobedience,
 to borrow a phrase from Walter Mignolo, therefore includes accessing the book
 bits directly, through channels not afforded by the publisher
 [@mignolo_epistemic_2009]. Such acts disentangle the mechanisms of book
-ownership as defined by Google or Amazon, from the book's "content" proper.
-The so called "ripping" of proprietary book libraries involves reformatting
+ownership as defined by Google or Amazon, from the book's "content" proper. The
+so called "ripping" of proprietary book libraries involves reformatting
 individual books into other file formats which could hypothetically enable
 unconstrained copying and circulation of the text. The activity need not be
 illicit. The extraction of plain text from the Portable Document Format
@@ -896,15 +902,15 @@ mainframe computers in use at Bell Labs in 1968. I look to its blueprints to
 recover a model of document structure. "The publication editor is divided into
 three related sections," wrote Arthur Kaiman, one of the system's engineers.
 These included the "facilities" for "document layout," "editing," and
-"printing" [@kaiman_computer-aided_1968, 66]. "Layout," in the language of
+"printing" [@kaiman_computer-aided_1968, 65-6]. "Layout," in the language of
 *EDIT*, facilitates the justification, indentation, and spacing of text. "The
 user types the document layout file and the text file," Kaiman explained,
 "then produces a proof or master copy of the text by printing the text
 according to the directions of the layout file. The text file contains layout
-marks to be interpreted by the layout processor [@kaiman_computer-aided_1968,
+marks to be interpreted by the document layout file" [@kaiman_computer-aided_1968,
 66]. "Text," in this schema, constitutes content meaningful only to the user,
 whereas layout contains some elements meaningful to humans and others intended
-for machine instruction. Crucially, "no document text may appear in the layout
+for machine instruction. Crucially, "[n]o document text may appear in the layout
 file," Kaiman wrote [@kaiman_computer-aided_1968, 67-8]. Layout in his sense
 asks the human editor distinguish between semantic and spatial units: words
 and their coordinates. These two separate streams of data are then stored in
@@ -932,19 +938,18 @@ would then be combined together for printing operations
 
 Separate from the aims of text editors like EDIT and QED, a text formatter was
 meant to arrange text spatially. To the small number of editing instructions,
-the formatter added instructions for typesetting: size, position, stroke
-width, transparency. The authors of IBM's FORMAT program, written in FORTRAN
-IV for OS/360 devices in 1968, explained that "all input to FORMAT is
-free-form," in that it contained "no positional
-constraints.[@berns_format_1968, 85; @berns_description_1969, 141]." The
-FORMAT system enabled further instructions for "layout control," which
-included `P` for "begin new paragraph," `T` for "tab," and `U` for
-"underline." It also contained more complex "command operands" like
-"CAPITALIZE AUTOMATICALLY," "JUSTIFY THE TEXT," and "REPEAT THE TITLE ON EVERY
-PAGE. [@berns_description_1969, 141-2]" Finally, FORMAT had the capability of
-building an index, in effect listing all the unique words in any given
-document, along with a rudimentary facility for search, "locating text words,
-phrases, and strings in the input stream" [@berns_format_1968, 91;
+the formatter added instructions for typesetting: size, position, stroke width,
+transparency. The authors of IBM's FORMAT program, written in FORTRAN IV for
+OS/360 devices in 1968, explained that "[a]ll input to FORMAT is free-form," in
+that it contained "no positional constraints" [@berns_format_1968, 85;
+@berns_description_1969, 141]. The FORMAT system enabled further instructions
+for "layout control," which included `P` for "begin new paragraph," `T` for
+"tab," and `U` for "underline." It also contained more complex "command
+operands" like "CAPITALIZE AUTOMATICALLY," "JUSTIFY THE TEXT," and "REPEAT THE
+TITLE ON EVERY PAGE. [@berns_description_1969, 141-2]" Finally, FORMAT had the
+capability of building an index, in effect listing all the unique words in any
+given document, along with a rudimentary facility for search, "locating text
+words, phrases, and strings in the input stream" [@berns_format_1968, 91;
 @berns_description_1969, 145].
 
 !["Portion of listing of input stream." The layout of paper citations in
@@ -955,8 +960,8 @@ Kernighan and Joseph Ossanna described TROFF, a text processor written around
 1973 for the PDP-11 outputting to Graphic Systems Cat typesetter. In 1979,
 Kernighan modified the original program to produce output for a greater
 variety of typesetters. He explained that "TROFF produces its output in a
-device-independent form" and that its output "must be processed by a drive for
-that device to produce printed output" [@kernighan_troff_1992]. The program
+device-independent form" and that its output "must be processed by a driver for
+that device to produce printed output" [@kernighan_troff_1992, 1]. The program
 made no ontological claims on the textual artifact. Rather, it embodied the
 idea of text independent of its medium and "free of form." The digital writer
 operates with text in one location, without knowing its output in another. The
@@ -970,7 +975,7 @@ structure, and were ultimately omitted from view.
 More than a decade later, reflecting on the proliferation of text editors, a
 group of computer scientists from the University of Washington advanced the
 following unified theory of format. "A *document* is an object composed of a
-hierarchy of primitive objects," the group wrote. The objects are further
+hierarchy of more primitive objects," the group wrote. The objects are further
 divided into "abstract" or "logical" objects and their "concrete"
 instantiations. In this way, a chapter is made up of paragraphs and sentences,
 which could be rendered on pages of different dimensions. In each case, the
@@ -979,7 +984,7 @@ even as the specific dimensions of a page change. A chapter in Tolstoy's *War
 and Peace* remains a chapter containing the same paragraphs and sentences
 despite layout differences between editions. The class identifier---chapter,
 paragraph, sentence---thus denotes an abstract object, where concrete objects
-occupy "one or more two-dimensional page spaces and represent the possible
+occupy "one or more two-dimensional *page spaces* and represent the possible
 formatted images of abstract objects" [@furuta_document_1982, 418]. The
 concrete object gives physical shape to the instantiation of abstract
 universal classes.
@@ -1070,9 +1075,9 @@ O'Gorman, an influential researcher in the field of document image processing,
 has called such spatial recognition, at the intersection of concrete and
 universal, "document lay-out understanding," which consists of "functional
 labeling of blocks [...] distinguished in some way by their physical features
-(such as by font size) and by the 'meaning' of the block
+(such as by font size) and by the 'meaning' of the block"
 [@ogorman_document_1993, 1162-63; @ogorman_document_1995, 82-99 (in the
-reconstructed edition)]." A footnote, for example, is a block of text that
+reconstructed edition)]. A footnote, for example, is a block of text that
 gains meaning in spatial context.
 
 Furthermore, layout, or the arrangement of "concrete objects" on a page,
@@ -1111,15 +1116,15 @@ abstract model are then reified into a set of relationships between specific
 concrete objects on the page [@furuta_document_1982, 419-20;
 @kimura_structure_1984].
 
-The resulting laminate contains content appropriately formed and fused into
-its medium. SCRIPT and the related Generalized Markup Language (GML) developed
-in the late 1960s by IBM (originally for use on the CP67/CMS time-sharing
-system), and now at the basis of ubiquitous XML and HTML markup languages
-through ISO 8879, describes a number of such text transformations that occur
-to "generate the proper output form." In the process of formatting, SCRIPT
-represents the "logical topology" of text in its "canonical form" to produce
-an "intermediate data structure," which it then "'unfolds' all at once" by
-"'peeling' the data structure one level at a time" [@madnick_script_1968, 97].
+The resulting laminate contains content appropriately formed and fused into its
+medium. SCRIPT and the related Generalized Markup Language (GML) developed in
+the late 1960s by IBM (originally for use on the CP67/CMS time-sharing system),
+and now at the basis of ubiquitous XML and HTML markup languages through ISO
+8879, describes a number of such text transformations that occur to "generating
+the correct output form." In the process of formatting, SCRIPT represents the
+"logical topology" of text in its "canonical form" to produce an "intermediate
+data structure," which is then "'unfolded' all at once" by "'peeling' the data
+structure one level at a time" [@madnick_script_1968, 92, 97].
 
 The schematics show that formatting involves more than simple application of
 visual style to words. Formatter designers from TROFF to FORMAT rather
@@ -1134,7 +1139,7 @@ four basic tasks:
 
 *TROFF User's Manual* analogously describes text processing in terms of
 accepting "lines of text interspersed with lines of format control
-information" [@kernighan_troff_1992, 3]. TROFF and FORMAT languages are thus a
+information" [@kernighan_troff_1992, 1]. TROFF and FORMAT languages are thus a
 species of Turing computation.[^ln3-complete] They interpret input mixed with
 machine instruction, including codes that halt the process of interpretation.
 Text control can involve operations like "replace word," "make invisible," or
@@ -1165,10 +1170,10 @@ reading a newspaper online.[^ln3-osi] It includes, among others:
 
 - the Application Layer, concerned with the semantics of "all services
   directly comprehensible to the user,"
-- the Presentation Layer, which defines the syntax for the "representation of
-  the data to be transferred," and
+- the Presentation Layer, which defines the syntax for the "representation and 
+  manipulation" of data to be transferred, and
 - the Physical Layer, which provides "mechanical, electrical, functional, and
-  procedural characteristics" of communication.[^ln3-layers]
+  procedural" characteristics of communication.[^ln3-layers]
 
 Apart from technical intricacy, consider the complexity of the onion-like
 composite. Whatever one designates as "content" is enveloped within a
@@ -1178,7 +1183,7 @@ text.[^ln3-domlayer]
 
 In his book on protocols, Alexander Galloway discussed the Open Systems
 Interconnection model in reference to what he calls distributed and
-decentralized networks of control [@galloway_protocol_2006, 28-54]. The OSI
+decentralized networks of control [@galloway_protocol:_2006, 28-54]. The OSI
 standard is distributed to be sure, although to what extent it is
 decentralized is a matter of some debate. Like a good soldier, each device in
 a network of textual machines internalizes dozens if not hundreds of protocols
@@ -1211,18 +1216,18 @@ to deep structures is made illicit outright.
 ## Composite Media: Smart Contracts
 
 Text at a document's surface is subject to professional rules of conduct
-governing practices of sharing, quotation, and attribution. The American
-reader may further be familiar with portions of US copyright law, which codify
-these practices more formally, entailing a degree of legal accountability. US
-Code Title 17, for example, extends "exclusive rights" to "copyright owners"
-of "literary works." Such rights include the ability to "reproduce," "prepare
-derivative works," "distribute copies," "perform," and "display
+governing practices of sharing, quotation, and attribution. The American reader
+may further be familiar with portions of US copyright law, which codify these
+practices more formally, entailing a degree of legal accountability. US Code
+Title 17, for example, extends "exclusive rights" to "owner[s] of copyright" of
+"literary" works. Such rights include the ability to "reproduce," "prepare
+derivative works," "distribute copies," "perform," and "display [...]
 publicly."[^ln3-DMCA2] The easy reproducibility of digital media has, however,
-eroded the efficacy of legal copyright restrictions. The work of art in the
-age of digital reproduction has lost much of its already tenuous hold on the
-material substratum.[^ln3-illusion] Photocopiers, desktop printers,
-inexpensive digital storage drives, and peer-to-peer file sharing networks
-reduce the carries to the copying and the dissemination of media.
+eroded the efficacy of legal copyright restrictions. The work of art in the age
+of digital reproduction has lost much of its already tenuous hold on the
+material substratum.[^ln3-illusion] Photocopiers, desktop printers, inexpensive
+digital storage drives, and peer-to-peer file sharing networks reduce the
+carries to the copying and the dissemination of media.
 
 The response from the film, game, music, and publishing industries has been to
 shift the mechanisms of copyright enforcement from legal structures into the
@@ -1236,7 +1241,7 @@ OSI, create standards for digital rights management [@clark_copyright_1996,
 real world, Clark relied on the Copyright in Transmitted Electronic Data
 Report (CITED), which suggests building:
 
-> a tamper proof software module which acts rather like indestructible
+> a tamper-proof software module which acts rather like indestructible
 > tachometers installed on long-distance coaches and lorries, recording
 > everything that happens to the copyrighted or commercially valuable material
 > [...] The basic idea is to link the 'valuable material' of intellectual
@@ -1247,7 +1252,7 @@ The emergence of such embedded contractual enforcement mechanisms can be
 subsumed under the broader idea of "smart contracts." In his seminal article
 on "Formalizing and Securing Relationships in Public Networks," Nick Szabo
 explained that "smart contracts combine protocols, user interfaces, and
-promises expressed via those interfaces to formalize and secure relationships
+promises expressed via those interfaces, to formalize and secure relationships
 over computer networks" [@szabo_formalizing_1997]. Clark, CITED, and Szabo
 were instrumental in the rise of smart contracts in the 1990s in an attempt to
 redress the fading efficacy of legal copyright protections.[^ln3-smart]
@@ -1261,8 +1266,8 @@ wrote:
 > want to define different rules of engagement for different types of users
 > and different types of security depending on the value of particular
 > objects. The rules defined by him shall govern the automated operations
-> enabled by data services and networking. The owner may also sell composite
-> objects with different rules governing each constituent object
+> enabled by data services and networking. The owner may also want to sell 
+> composite objects with different rules governing each constituent object
 > [@benson_method_1998].
 
 The data object, in this case, stands for any media content, from books to
@@ -1296,12 +1301,12 @@ be prevented from accessing deep structure. In fact, laws like the 1998
 Digital Millennium Copyright Act (DMCA) criminalize the circumvention of such
 systems, even in cases where the reader owns the smart document
 outright.[^ln3-DMCA1] The smart document limits reading practice to the
-"manner specified. " The reader holds no rights to comprehension at depth.
+"manner" specified. The reader holds no rights to comprehension at depth.
 Unsanctioned modes of access to the material are deemed illicit. Contrast this
 with the ownership of a paper text, which places no such limits on access or
 interpretation.
 
-The DMCA stipulates that "no person shall circumvent a technological measure
+The DMCA stipulates that "No person shall circumvent a technological measure
 that effectively controls access to a work protected under this
 title."[^ln3-DMCA3] The letter of the law further specifies that to
 "circumvent a technological measure," in this case, means "to descramble a
@@ -1319,17 +1324,17 @@ reprobation.[^ln3-fairuse]
 
 The short history of DMCA "anti-circumvention" provisions is already littered
 with ambiguous case law, which the Electronic Frontiers Foundation believes to
-have the effect of "stifling a wide range of legitimate activities," "chilling
-free expression and academic research," "jeopardizing fair use," and "impeding
-innovation. [@von_lohmann_unintended_2010]" Several incidents relate to the
-practice of interpretation directly. In one case, a security researcher
-exploring the activity of censorship filters on public library computers was
-forced to seek DMCA exemption from the Librarian of Congress
-[@fry_circumventing_2009]. In another, a Russian programmer speaking at a
-security conference was jailed and detained for several months for developing
-software that converts Adobe electronic book files into the PDF format, in a
-process that could potentially remove embedded digital rights management
-protections [@ferullo_major_2004; @mueller_reinventing_2004;
+have the effect of "stifl[ing] a wide array of legitimate activities,"
+"chilling free expression and scientific research," "jeopardiz[ing] fair use,"
+and "imped[ing] competition and innovation" [@von_lohmann_unintended_2010].
+Several incidents relate to the practice of interpretation directly. In one
+case, a security researcher exploring the activity of censorship filters on
+public library computers was forced to seek DMCA exemption from the Librarian
+of Congress [@fry_circumventing_2009]. In another, a Russian programmer
+speaking at a security conference was jailed and detained for several months
+for developing software that converts Adobe electronic book files into the PDF
+format, in a process that could potentially remove embedded digital rights
+management protections [@ferullo_major_2004; @mueller_reinventing_2004;
 @postigo_information_2010]. Finally, in 2005, the Agfa Monotype Corporation
 took Adobe Systems to court in a dispute over its Acrobat "Free Text" tool,
 which allowed users to "change text annotations using Plaintiff's TrueType
@@ -1343,12 +1348,12 @@ precedent which can be used to further limit the efficacy of reading digital
 texts.
 
 The lack of access to deep structure exposes a glaring problem at the heart of
-smart contracts. The spirit of contractual obligation demands explicit
-consent. In the language of English common law, contracts involve promises
-that "manifest intention" and adopt an "external or objective standard for
-interpreting conduct [@american_law_institute_restatement_1973, §1-2.]" The
-contract between authors, publishers, and readers by extension must exist in
-an objectively verifiable manner, accessible for analysis to both parties.
+smart contracts. The spirit of contractual obligation demands explicit consent.
+In the language of English common law, contracts involve promises that are
+"manifestation[s] of intention" and adopt an "external or objective standard
+for interpreting conduct" [@american_law_institute_restatement_1973, §1-2]. The
+contract between authors, publishers, and readers by extension must exist in an
+objectively verifiable manner, accessible for analysis to both parties.
 
 Smart contracts, in contrast, obscure the contract by design. Readers lack the
 physical means to examine its terms or interpret the conduct of the party
@@ -1416,14 +1421,14 @@ purposes. See @liu_dmca_2003; @ku_critique_2004; @herman_catch_2005;
 @armstrong_digital_2006.
 
 [^ln3-dom]: See @furuta_document_1982, 418: "Concrete objects are defined over
-one or more two dimensional page spaces and represent possible formatted images
-of abstract objects."
+one or more two dimensional *page spaces* and represent possible formatted images
+of abstract objects."<!--this is already quoted above, necessary? PRP-->
 
 [^ln3-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
 in the history of writing technologies in that they present a premeditated
 material environment built and engineered to propagate an illusion of
-immateriality; the digital nature of computational representation is what
-enables this illusion---or else call it a working model---of immaterial
+immateriality; the digital nature of computational representation is precisely
+what enables this illusion---or else call it a working model---of immaterial
 behavior" [@kirschenbaum_mechanisms:_2008, 135].
 
 [^ln3-iso216]: A series of paper sizes are governed by the International
@@ -1433,7 +1438,7 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 
 [^ln3-layers]: The full OSI protocol stack includes Application, Presentation,
 Session, Transport, Network, Data Link, and Physical layers
-[@piatkowski_iso-ansi_1980; @miller_iso_1981; @ncs_open_1981; @day_osi_1983;
+[@miller_iso_1981, 285-6; @piatkowski_iso-ansi_1980; @ncs_open_1981; @day_osi_1983;
 @ncs_national_1988; @day_revised_1995].
 
 [^ln3-modern]: Note that these effects are not limited to contemporary
@@ -1445,7 +1450,7 @@ function.
 [^ln3-move]: "Move" in the sense that *Harai Goshi* is a "Sweeping Hip Throw"
 "move" in Judo, and a part of *Koshi-Waza* or "hip technique."
 
-[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
+[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol:_2006;
 @conti_visual_2008; and @kirschenbaum_mechanisms_2012.
 
 [^ln3-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
@@ -1574,7 +1579,7 @@ Web Consortium (W3C) in the case of the DOM.
 
 [^ln3-fancy]: The Unicode Consortium defines fancy text as "text
 representation consisting of plain text plus added information"
-[@unicode_consortium_unicode_1990].
+[@unicode_consortium_unicode_1990, 9-10].
 
 [^ln3-complete]: TROFF at least is actually Turing complete according to
 @raymond_art_2003, 195.

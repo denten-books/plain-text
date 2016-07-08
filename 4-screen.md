@@ -130,23 +130,25 @@ that is meant to take on the digital as a property: the digital wake.
 
 When we constrict the image-search to the twenty-first century, we see these
 cool-blue images give way to a more varied palette: bright prime greens,
-yellows, and reds in retro-geometric pixelated shapes. Pixels take the place
-of numbers here---not the small, invisible pixels of contemporary computer
-screens, but the large and boxy pixels that by their pronounced boxiness
-flaunt their digital being. These images allude to a time when pixels really
-did stand out as individual units, when technology was not refined enough to
-produce the illusion of visual continuity. This faux lo-fi aesthetic likely
-appeals to the romantic nostalgia many feel for the early days of computing,
-and yet it also asserts its independence from that history. No longer shall
-the digital serve to emulate reality, nor be judged merely by its degree of
-lifelike verisimilitude. The blocky world of Markus Persson's *Minecraft*
-(2009) stands in antithesis to the magical realism of Cyan's *Myst* (1995),
-the best-selling graphic-adventure PC game of the twentieth century. Where the
-critics lauded the latter for its moody and atmospheric photo-realistic
-environments, the former embraces the playful, 8-bit, low-fidelity aesthetic
-of gaming consoles from the 1980s. The pseudo-pixelated world of Minecraft
-encourages its inhabitants to experiment with deconstruction, producing cuboid
-landscapes that foreground discontinuity of form and surface.
+yellows, and reds in retro-geometric pixelated shapes. Pixels take the place of
+numbers here---not the small, invisible pixels of contemporary computer
+screens, but the large and boxy pixels that by their pronounced boxiness flaunt
+their digital being. These images allude to a time when pixels really did stand
+out as individual units, when technology was not refined enough to produce the
+illusion of visual continuity. This faux lo-fi aesthetic likely appeals to the
+romantic nostalgia many feel for the early days of computing, and yet it also
+asserts its independence from that history. No longer shall the digital serve
+to emulate reality, nor be judged merely by its degree of lifelike
+verisimilitude. The blocky world of Markus Persson's *Minecraft* (2011) stands
+in antithesis to the magical realism of Cyan's *Myst* (1993), the best-selling
+graphic-adventure PC game of the twentieth century.<!--note, development for
+Minecraft started in '09, but it was first released in 2011; Myst was released
+on Mac OS in '93. PRP--> Where the critics lauded the latter for its moody and
+atmospheric photo-realistic environments, the former embraces the playful,
+8-bit, low-fidelity aesthetic of gaming consoles from the 1980s. The
+pseudo-pixelated world of Minecraft encourages its inhabitants to experiment
+with deconstruction, producing cuboid landscapes that foreground discontinuity
+of form and surface.
 
 Digital iconography works in another direction too, by approaching and
 challenging the perceived continuity of the analog world. Liquid-metal
@@ -195,15 +197,15 @@ deterministic. In his influential monograph *The Cultural Logic of
 Computation*, for example, David Golumbia insists that "languages are not
 codes." Human language practice for him therefore should not be reduced to a
 "single correct interpretation" or "at the absolute limit, a determinate
-number of discrete interpretations" [@golumbia_cultural_2009, 291]. "To submit
+number of discrete interpretations" [@golumbia_cultural_2009, 19]. "To submit
 a phenomenon to computation," Golumbia writes, "is to striate otherwise-smooth
-details, analog details" [@golumbia_cultural_2009, 159]. Following Deleuze, he
+details, analog details" [@golumbia_cultural_2009, 11]. Following Deleuze, he
 conceives of "striated space" in opposition to spaces "smooth" and "analog"
 like brains, society, politics, language, and baseball
-[@golumbia_cultural_2009, 231 & 343]. For Golumbia, striated and digital
+[@golumbia_cultural_2009, 22, 130-5]. For Golumbia, striated and digital
 phenomena fall under suspicion because "our society is already oriented
 towards binarisms, hierarchy, and instrumental rationality"
-[@golumbia_cultural_2009, 3043].
+[@golumbia_cultural_2009, 222].
 
 In his essay against digital humanities, Stephen Marche worries about the
 digitization of human experience for the opposite reason. Smoothness, in his
@@ -242,7 +244,7 @@ because it does not offer *enough* of a difference:
 > / Eccentric, intervolved, yet regular / Then most when most irregular they
 > seem, / And in their motions harmony divine / So smooths her charming tones,
 > that God's own ear / Listens delighted. (John Milton, "Paradise Lost," V,
-> 620, 622-627)
+> 620, 622-627) [@fish_digital_2012]
 
 Whether too discrete or too continuous, critics agree on the danger of
 digitization. Digital being follows determinism and mechanization as the
@@ -275,7 +277,7 @@ In what follows I offer two case studies that challenge commonly expressed
 intuitions about digital media. They reveal that ostensible "properties" of
 media are in fact claims on the mode of perception.
 
-[^ln5-apriori]: An apriori given because one must be human first to critically
+[^ln5-apriori]: An a priori given because one must be human first to critically
 examine the concept.
 
 ## Spiritual Telegraph
@@ -295,23 +297,23 @@ based systems. A few technical details are necessary to understand how an
 argument about engineering designs gained a metaphysical significance.
 
 Telegraph systems based on direct current design converted electrical current
-flow into dashes, and the absence of current into dots
-[@welk_neutral_2000].[^ln3-ndc] Systems based on alternating current designs
-converted Morse code (and other encoding systems) into pulses of alternating
-positive and negative current, where positive current could stand for "dashes"
-and negative for "dots." Direct current designs preferred the use of the "saw
-tooth" or "square" periodic waveforms to represent binary states. The signal
-was either "on" or "off" with nothing in between. By contrast, literature on
-alternating current designs often argued for the use of the more round,
-sinusoidal signal, which covered a more "organic" range of amplitudes. The
-sinusoidal wave could be modulated into a multitude of states
-[@crehore_practical_1900; @hausmann_telegraph_1915, 374]. Instead of being
-just "on" or "off" it offered measurable points of current intensity along the
-curve of the sine wave. Consequently, alternating current designs tended
-towards the transmission of continuous quantities like images and cursive
-handwriting. The sinusoidal curve itself resembled natural, organic shapes,
-like handwriting. The alternating current suggested a visual analogy between
-the thing being transmitted (picture or text) and electric signal.
+flow into dashes, and the absence of current into dots.[^ln3-ndc] Systems based
+on alternating current designs converted Morse code (and other encoding
+systems) into pulses of alternating positive and negative current, where
+positive current could stand for "dashes" and negative for "dots." Direct
+current designs preferred the use of the "saw tooth" or "square" periodic
+waveforms to represent binary states. The signal was either "on" or "off" with
+nothing in between. By contrast, literature on alternating current designs
+often argued for the use of the more round, sinusoidal signal, which covered
+a more "organic" range of amplitudes. The sinusoidal wave could be modulated
+into a multitude of states [@crehore_practical_1900; @hausmann_telegraph_1915,
+374]. Instead of being just "on" or "off" it offered measurable points of
+current intensity along the curve of the sine wave. Consequently, alternating
+current designs tended towards the transmission of continuous quantities like
+images and cursive handwriting. The sinusoidal curve itself resembled natural,
+organic shapes, like handwriting. The alternating current suggested a visual
+analogy between the thing being transmitted (picture or text) and electric
+signal.
 
 The Pollak-Virag telegraph that Bernhard Siegert mentions briefly in his
 seminal essay on German media theory was one such device.[^ln3-virag] The
@@ -320,9 +322,9 @@ means of alternating current of two different polarities and two different
 strengths, for a total of four types of signals.[^ln3-siegert] Other than the
 irregular signal shape and the use of alternating current, the Pollak-Virag
 encoding differed little from single-Morse systems. By 1901, however, the
-authors were issued an American patent for the "Writing Telegraph," which
-built on their previous design in an interesting way.  Rather than using a
-wave in four steps, the authors proposed an "automatic transmitter capable of
+authors were issued an American patent for the "Writing Telegraph," which built
+on their previous design in an interesting way.  Rather than using a wave in
+four steps, the authors proposed an "automatic transmitter [...] capable of
 sending current impulses over the line which correspond to the direction and
 the size of a single letter element" [@pollak_writing-telegraph_1901, 3]. In
 other words, they wanted to bend the sinusoidal wave to correspond roughly to
@@ -344,17 +346,17 @@ Pollak-Virag encoding thus represented a continuous quality---cursive
 script---through discrete atomic elements, as punches that moved the writing
 stylus in cardinal directions---up, down, left, or right. It was not a purely
 analog device. The analogy was rather achieved through a process of discrete
-analytic atomization of script on ticker tape and its subsequent
-reconstitution into a continuous shape. The cardinal directions comprise an
-intermediate, discrete description of smooth handwriting curves. Pollak and
-Virag believed that their sine wave telegraph had the distinct advantage of
-transmitting messages "recorded in ordinary written or script characters." In
-the language of the patent, other forms of "facsimile" telegraph transmitted
-merely the "conventional form" of the letter, and not the letter itself,
-whereas the Pollak-Virag system was "non-autographic." The autographic
-telegraph preserved the particularity of the human hand. It purported to
-transmit the peculiarity of an individual's signature. It was the "humane"
-telegraph in the sense that it preserved a human trace.
+analytic atomization of script on ticker tape and its subsequent reconstitution
+into a continuous shape. The cardinal directions comprise an intermediate,
+discrete description of smooth handwriting curves. Pollak and Virag believed
+that their sine wave telegraph had the distinct advantage of transmitting
+messages "recorded in ordinary written or script characters." In the language
+of the patent, other forms of "facsimile" telegraph transmitted merely the
+"conventional form" of the letter, and not the letter itself, whereas the
+Pollak-Virag system was "non-autographic" [@pollak_writing-telegraph_1901, 1].
+The autographic telegraph preserved the particularity of the human hand. It
+purported to transmit the peculiarity of an individual's signature. It was the
+"humane" telegraph in the sense that it preserved a human trace.
 
 The metaphysics accompanying telegraph communication at the time were in fact
 often concerned with human erasure. Notions of material discreteness and
@@ -362,18 +364,18 @@ continuity represented not mere physical attributes of encoding or electricity
 but higher-order cultural and even ethical categories. Beneath the technical
 conversations about the advantages of discrete or continuous electrical signal
 lay a philosophic concern with the fundamental makeup of the universe itself.
-For Henri Bergson, the "real whole of the universe" constituted an
-"indivisible continuity" [@bergson_creative_1944, 36]. Science, technology,
-and other "artificial systems" in his thought imposed discrete "partial views"
-on the whole.[^ln3-bergsonism] The partial views, for Bergson, resembled the
+For Henri Bergson, the "real whole...of the universe" constituted an
+"indivisible continuity" [@bergson_creative_1944, 36]. Science, technology, and
+other "artificial systems" in his thought imposed discrete "partial views" on
+the whole.[^ln3-bergsonism] The partial views, for Bergson, resembled the
 operation of the cinematograph, which divides continuous motion into distinct
 frames. By running the frames through the projecting apparatus, the telegraph
 reconstituted "the individuality of each particular movement." "Such is the
-contrivance of the cinematograph," Bergson wrote, "and such is also that of
-our knowledge. [@bergson_creative_1944, 332]" In this way, the intellect
-continually separated the undifferentiated reality into discrete states of
-time and space [@bergson_creative_1944, 167-182; @russell_philosophy_1914, 4].
-But these states were virtually, not actually, discrete. The evolution of life
+contrivance of the cinematograph," Bergson wrote. "And such is also that of our
+knowledge" [@bergson_creative_1944, 332]. In this way, the intellect
+continually separated the undifferentiated reality into discrete states of time
+and space [@bergson_creative_1944, 167-182; @russell_philosophy_1914, 4]. But
+these states were virtually, not actually, discrete. The evolution of life
 proceeded, according to Bergson, "rather like a shell" which "bursts into
 fragments," which are themselves again shells [@bergson_creative_1944, 109].
 
@@ -382,8 +384,8 @@ discrete and analytic. expand to simplify -->
 
 In Bergson's view of the universe, the brain and the central nervous system
 act as a "central telephonic exchange," which communicates between the
-extrinsic continuous world and the intrinsic "snapshots" stored in memory
-[@bergson_matter_1912, 19]. The mind receives "images" of the world that it
+extrinsic continuous world and the intrinsic "memory-shot[s]" of our perception
+[@bergson_matter_1912, 19, 280]. The mind receives "images" of the world that it
 compares with existing "stored" images to produce a new composite image that
 is once again stored into memory. Bergson thus denied the "flashlight" model
 of perception. The mind, according to him, does not shine a light to bring
@@ -392,7 +394,7 @@ attention to this or that hidden feature of the world:
 > Metaphor for metaphor, we would rather compare the elementary work of
 > attention to that of the telegraph clerk who, on receipt of an important
 > dispatch, sends it back again, word for word, in order to check its accuracy
-> [@bergson_matter_1912, 129].
+> [@bergson_matter_1912, 123].
 
 The object in the world is thus neither an independent thing nor purely a
 product of the mind. By this "telegraphic" model of perception, Bergson avoids
@@ -432,9 +434,9 @@ point of such a pyramid:
 > [@brittan_spiritual_1854, 169].
 
 The discrete degree must be preserved, in other words, because without it the
-hierarchy would lose meaning. Thus in order to facilitate the transmission of
-impressions, "the recipient" of the vital flow "must be willing to receive
-instruction and assume the passive or negative relation of a learner." Without
+hierarchy would lose meaning. Thus "[i]n order to facilitate the transmission of
+impressions," "the recipient" of the vital flow "must be willing to receive
+instruction, and assume the passive or negative relation of a learner." Without
 discreteness and without hierarchy he will resist "the infusion of foreign
 impressions and Divine ideas" [@brittan_spiritual_1854, 169].
 
@@ -453,7 +455,7 @@ continuity not discreteness. Witness one George Henry Dole writing in his
 > the ultimates*, and they have thereby failed to penetrate to *interior
 > things of discrete degree* [emphasis mine]. Consequently they derive life as
 > not from the Lord, but from nature, of which they have no other idea than
-> that it is something mechanical [@dole_philosophy_1906].
+> that it is something mechanical [@dole_philosophy_1906, 236-7].
 
 Telegraph spiritualists shunned continuity because it mixed sacred and
 profane. They believed that a truly Christian order would remain digital in
@@ -462,18 +464,18 @@ essence. To claim otherwise would be to propagate the Gnostic heresy
 
 Where Bergson believed the telegraph to translate continuous "analog"
 experience into discrete "digital" snapshots, the Swedenborgian mystic saw it
-as a model of communication that maintained fidelity to the hidden order of a
-well-differentiated and discrete universe. Their intuitions were completely
+as a model of communication that maintained fidelity to the hidden order of
+a well-differentiated and discrete universe. Their intuitions were completely
 opposed. When arguing against sine-wave telegraphy in 1905, Donald Murray,
-whose alphabet would become the basis for modern character encodings like
-ASCII and UTF-8, displayed a similar bias against analog quantities, which,
-for him, could encode complex human activity like writing or dance. "About ten
-years ago, there was a brisk discussion in some of the electrical journals in
-regards to simple harmonic curve or sine wave for the transmission of power by
-by the alternating current," he wrote:
+whose alphabet would become the basis for modern character encodings like ASCII
+and UTF-8, displayed a similar bias against analog quantities, which, for him,
+could encode complex human activity like writing or dance. "About ten years ago
+there was a brisk discussion in some of the electrical journals in regard to
+the advantages of the simple harmonic curve or sine wave for the transmission
+of power by by the alternating current," he wrote.
 
-> If Smith wants to make Jones spin round like a dancing Dervish, the best way
-> might be for Smith to transmit sine waves [...] but in practice Smith always
+> [I]f Smith wants to make Jones spin round like a dancing dervish, the best way
+> might be for Smith to transmit sine waves [...] but in practice, Smith always
 > wants to make Jones perform an excessively complicated and irregular series
 > of motions, and for this purpose it is essential to transmit similar motions
 > by introducing upper harmonics in a fragmentary, non-periodic, and very
@@ -592,7 +594,11 @@ screen.[^ln3-mishima]
 ![Liquid crystal in phase transition between polarizers. Schlieren texture
 characteristic nematic phase to the left, and circular focal conic domains in
 the smectic phase to the right. Image licensed under CC-BY-SA 3.0
-[@polimerek_smectic_2004].](images/liquid.jpg)
+[@polimerek_smectic_2004].](images/liquid.jpg)<!--Two things here: 1. Should it
+be cited from Wikimedia Commons? Might be clearer than the current Wikipedia
+citation. 2. This is uses the GNU FDL license, which "requires all copies and
+derivatives to be available under the same license," which I don't imagine will
+be true in this case... Just a thought! -->
 
 In addition to filtering light, modern displays also flicker at a precisely
 calibrated rate. What we observe as a static image on the screen, is in
@@ -817,7 +823,7 @@ The difference between discrete and continuous quantities defines the
 conversation about digital media.[^ln3-maley] For example, in a popular book
 about what a "well-informed person should know about computers," Brian
 Kernighan describes "analog" as conveying "the idea of values that change
-smoothly as something else changes" [@kernighan_d_2011, 526]. Much of the
+smoothly as something else changes" [@kernighan_d_2011, 21]. Much of the
 world is analog, Kernighan explains. A water tap, a pen, or a car steering
 wheel are all examples of analog interfaces. For example, when riding a
 bicycle, turning the handlebars one way results in a corresponding motion of
@@ -826,7 +832,7 @@ switch. A properly functioning light switch takes on two discrete states only:
 on or off. A range of pressure applied to the switch does not correspond to
 any mechanical action of the lever. But once a certain threshold is reached,
 the switch "flips" to change states. "Digital systems," as Kernighan writes,
-"deal with discrete values. [@kernighan_d_2011, 22]" The switch contains a
+"deal with discrete values" [@kernighan_d_2011, 22]. The switch contains a
 limited number of state possibilities, where the bicycle handlebars could be
 rotated in an infinite number of minutely differing gradations.
 
@@ -834,7 +840,7 @@ Nelson Goodman was one of the first philosophers to examine digital
 representation in the context of aesthetic theory. In the late 1960s, drawing
 on technical intuitions about devices like pressure gauges and computers he
 proposed to call those notational systems "analog" that are "dense" and
-"undifferentiated to the extreme." By contrast, he called digital systems
+"undifferentiated in the extreme." By contrast, he called digital systems
 those that are "discontinuous" and "differentiated throughout"
 [@goodman_languages_1968, 159-164]. By this definition, written language and
 music notation are digital systems par excellence, having the property of
@@ -845,14 +851,15 @@ language, cannot be reduced to the production of discrete semantic units, and
 would be more of an analog system under the proposed definitions.
 
 In this light, the language of cubist painting, which breaks shapes down into
-their modular atomic components, transforms an analog art form into into a
-digital one. Similarly, in the cuboid world of *Minecraft* the player
-interacts with blocks: the smallest differentiated units that constitute all
-other more complex things in the game. The world of *Minecraft* is sparse and
-therefore digital. By contrast, the world of the hyper-realistic *Myst*
-depicts the painting-like, semantically irregular reality that cannot be
-broken down into neat components. *Myst*, a digital game, depicts a dense,
-undifferentiated, and analog world.
+their modular atomic components<!--Do you mean pointillism? If not, a citation
+might help here---hard for me to understand this as part of cubism without more
+explanation. PRP-->, transforms an analog art form into into a digital one.
+Similarly, in the cuboid world of *Minecraft* the player interacts with blocks:
+the smallest differentiated units that constitute all other more complex things
+in the game. The world of *Minecraft* is sparse and therefore digital. By
+contrast, the world of the hyper-realistic *Myst* depicts the painting-like,
+semantically irregular reality that cannot be broken down into neat components.
+*Myst*, a digital game, depicts a dense, undifferentiated, and analog world.
 
 But Goodman's definitions strain under closer examination. Plainly, *Myst* is
 also a digital game. All digital images (and worlds) follow the logic of
@@ -884,14 +891,14 @@ systems is our inability to duplicate their states exactly. I can approximate
 the pressure someone else puts on their bicycle handlebars with some arbitrary
 measure of precision that never reaches perfect reproducibility. This means
 also that while more digital art forms like literature are, in some sense,
-perfectly reproducible, analog forms, like painting, are not. Following
-similar reasoning, the American philosopher John Haugeland proposed to
-consider the quality of being reproducible as essential to our understanding
-of digital representation. Reproducibility, for Haugeland, involved "flawless
-copying and preservation." To the definition of Goodman's digital systems, he
-therefore added the notion of "feasible procedures" that can lead to "positive
-and reliable" processes for reading and writing digital tokens
-[@haugeland_analog_1981, 213-225].
+perfectly reproducible, analog forms, like painting, are not. Following similar
+reasoning, the American philosopher John Haugeland proposed to consider the
+quality of being reproducible as essential to our understanding of digital
+representation. Reproducibility, for Haugeland, involved "flawless copying
+[...] and preservation" [@haugeland_analog_1981, 213]. To the definition of
+Goodman's digital systems, he therefore added the notion of "feasible
+procedures" that can lead to "positive" and "reliable" processes for reading and
+writing digital tokens [@haugeland_analog_1981, 214].
 
 Let us consider Haugeland's propositions in relation to some of our previous
 case studies. The movements of the chess game are indeed perfectly
@@ -951,9 +958,9 @@ Second, he proposed that the digital-analog distinction often depends the
 observer. To illustrate these two amendments, Katz imagined a measuring system
 that involves a supply of marbles in a large beaker. We can thereby agree to
 use a "handful" as an approximate unit of measurement with that system. Thus
-one can observe a situation in which the beaker contains "three handfuls of
-marbles." Katz's system is analog, even though marbles themselves are a
-perfectly discrete medium, because it establishes no precise convention to
+one can observe a situation in which the beaker contains three handfuls of
+marbles. Katz's system is analog, even though marbles themselves are a
+perfectly" discrete medium, because it establishes no precise convention to
 reproduce handfuls. The marble-beaker system violates Haugeland's requirement
 for "positive and reliable" standards of reproducibility. My two handfuls
 might be different from yours due to the difference in the size or our hands.
@@ -1036,7 +1043,7 @@ copy it. It has to remain embedded within this particular piece of paper on
 this particular desk. Technologies like "digital rights management" (DRM),
 which limit a reader's ability to copy books similarly transform digital
 content into its media-dependent, irreproducible, and ultimately analog forms.
-Paradoxically, a paper-an-ink book that places no restrictions on copying and
+Paradoxically, a paper-and-ink book that places no restrictions on copying and
 transmediation provides for a more digital format than its electronic book
 analogs, particularly when such electronic books restrict the reader's ability
 to copy and transmediate. Another way to put it would be to say that on
@@ -1098,7 +1105,7 @@ attention in ways that discourages or outright prevents critical thought.
 In his influential essay on the political quality of technological artifacts,
 Langdon Winner famously argued that in modern times "people are often willing
 to make drastic changes in the way they live to accord with technological
-innovation" where they would at the same time, "resist similar kinds of
+innovation" where they would at the same time "resist similar kinds of
 changes justified on political grounds" [@winner_artifacts_1980, 135]. The
 insight is yet to filter into the life of literature. Readers, writers, and
 critics who would be pained to support legislation in favor of literary
@@ -1112,7 +1119,7 @@ and his twentieth century highway building projects in New York city. Moses
 built low overpasses with an eye towards discouraging bus travel, which
 reflected his social and racial biases. These in effect carried the force of
 legislation, Moses argued, denying people of color and the poor access to
-public spaces.
+public spaces [@winner_artifacts_1980].
 
 Similarly, in our case, claims on a reader's attention can happen through
 legislation, by social convention, or through specific material affordances,
@@ -1192,6 +1199,7 @@ constraint visible to view, under continual scrutiny of critical, close, and
 closest possible reading.
 
 [^ln3-ndc]: Also known as the "single current" or "single Morse" system.
+[@welk_neutral_2000]
 
 [^ln3-current]: ITA-2 could also be adopted to work with "double current"
 devices, in which case 0 would represent "negative current" and 1 "positive
@@ -1201,7 +1209,7 @@ current" [@itu_telegraph_1932, 36].
 Friedrich Kittler's *Gramophone, Film, Typewriter*.
 
 [^ln3-tele]: See for example @angell_pro_2009, 233:  "The telegraph is a
-digital device sending only high and low pulses through the wire;"
+digital device, sending only high and low pulses through the wire;"
 @jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
 dashes in a manner similar to the ones and zeroes of digital logic;"
 @comer_internet_2006, 32: "The telegraph is a digital device because instead of
@@ -1226,43 +1234,44 @@ at the brain, as when thoughts are initially transcribed onto paper.
 gallery perseveres through the continual loss and rearrangement of its
 constituent art works.
 
-[^ln3-maley]: See for example @maley_analog_2011: "The received view is that
+[^ln3-maley]: See for example @maley_analog_2011: "the received view is that
 analog representations vary smoothly, while digital representations vary in
 stepwise manner. In other words, 'digital' is synonymous with 'discrete,' while
-'analog' is synonymous with 'continuous.'" See also @kittler_there_1995,
-"Confronted as they are with a continuous environment of weather, waves, and
-wars, digital computers can cope with this real number-avalanche only by adding
-element to element."
+'analog' is synonymous with 'continuous'" [@maley_analog_2011, 117]. See also
+@kittler_there_1995, "Confronted as they are with a continuous environment of
+weather, waves, and wars, digital computers can cope with this real
+number-avalanche only by adding element to element."
 
 [^ln3-goodman]: Goodman differentiates between "syntactic" and "semantic"
 density. Some notational systems like writing and the decimal system are,
-according to Goodman, "syntactically differentiated but semantically dense."
-The key distinction for him seems to be a "limit on the length of message," by
-which I think he means something related to infinite divisibility. The decimal
-system as a whole can continue to approach a quantity indefinitely, reaching an
-arbitrary point of precision. The computer limits decimal precision to some
-arbitrary "depth" of approximation, making it semantically discrete. I find
-this part of the argument unconvincing.
+according to Goodman, "syntactically differentiated but semantically dense"
+[@goodman_languages_1968, 161]. The key distinction for him seems to be
+a "limit on the length of message," by which I think he means something related
+to infinite divisibility [@goodman_languages_1968, 164]. The decimal system as
+a whole can continue to approach a quantity indefinitely, reaching an arbitrary
+point of precision. The computer limits decimal precision to some arbitrary
+"depth" of approximation, making it semantically discrete. I find this part of
+the argument unconvincing.
 
 [^ln3-oed]: The Oxford English suggests as one of the usages "Any physical
 material (as tape, disk, paper, etc.) used for recording or reproducing data,
-images, or sound."
+images, or sound." [@oed_medium_2001]
 
-[^ln3-siegert]: Siegert takes the Virag as an "apocryphal emblem" of a
-"systematic logic in the dominant cultural technique," representative of the
+[^ln3-siegert]: Siegert takes the Virag as an "apocryphal" emblem of a
+"systemic...logic" in the "dominant cultural technique," representative of the
 "order of digital signals" [@siegert_cacography_2011, 41]. Although not
 concerned with the history or philosophy of digital media explicitly, Siegert
 suggests that the writing telegraph symbolizes the cleansing of "the noise of
 all graphic form." His theory of cultural techniques instead creates "an
 awareness for the plenitude of a world of as yet undistinguished things, that,
 as an inexhaustible reservoir of possibilities, remain the basic point of
-reference for every type of culture" [@siegert_cacography_2011, 35].
+reference for every type of culture" [@siegert_cacography_2011, 32, 35].
 
 [^ln3-virag]: The Pollak-Virag device also proposed an "electromagnetic
 vibrator" coupled to a recording "mirror-galvanometer." The authors further
-specify for "the vibrator on the receiving instrument [to] vibrate in harmony
+specify for "the vibrator of the receiving instrument [to] vibrat[e] in harmony
 with these impulses, vibrating in one direction or the other, according to
-their sign and to an extent depending on their intensity" [@pollak_means_1900].
+their sign and to an extent depending upon their intensity" [@pollak_means_1900].
 
 [^ln3-dervish]: One could make more of the Dervish being used here as a
 negative example, in an instance of colonial gaze. But Murray himself was an
@@ -1270,13 +1279,13 @@ empire outsider, born in the small, remote town of Invercargill, New Zealand
 (a town that also happens to be one of the southern-most cities in world). "I
 am a child of the Southern Cross," he writes in *Philosophy of Power*, "and I
 have no preordained respect for geniuses born under the Northern
-constellations" [@murray_philosophy_1939, 51].
+constellations." [@murray_philosophy_1939, 51]
 
 [^ln3-swedenborg]: See @swedenborg_treatise_1778, regarding the "gross error of
 those who assert the materiality of the soul, affirming it to be homogeneous,
 and continuous with the body; whereas it is heterogeneous, and discrete" (24).
 Swedenborg gives the neoplatonic, monistic articulation of the matter to the
-angels, in the "Angelic Idea of Creation," writing "The question was asked,
+angels, in the "Angelic Idea of Creation," writing, "The question was asked,
 'Whence, then, is hell?' They said, 'From man's freedom, without which a man
 would not be a man,' because man, from that freedom, broke the continuity in
 himself; and this being broken, separation took place; and the continuity,
@@ -1302,8 +1311,8 @@ apprehension.
 [^ln3-digital]: For a summary of digital physics and metaphysics see
 @steinhart_digital_1998 and @floridi_against_2009.
 
-[^ln3-bergsonism]: On the rather complex topic of discrete vs. continuous
-multiplicities in Bergsonian thought see also @james_pluralistic_1909 and
-@deleuze_bergsonism_1990.
+[^ln3-bergsonism]: [@bergson_creative_1944, 36] On the rather complex topic of
+discrete vs. continuous multiplicities in Bergsonian thought see also
+@james_pluralistic_1909 and @deleuze_bergsonism_1990.
 
 \newpage

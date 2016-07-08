@@ -1,7 +1,7 @@
 # Chapter 5: Recondite Surfaces
 
 The scholar Wendy Hui Kyong Chun views magnetic storage as an "enduringly
-ephemeral" medium, which "creates unforeseen degenerative links between humans
+ephemeral" medium, which "creat[es] unforeseen degenerative links between humans
 and machines" [@chun_enduring_2008, 148]. If the floating gate transistor,
 where my text now lives, can be called enduring and ephemeral, I will call my
 liquid crystal display, where the text shows itself, fading and
@@ -39,12 +39,12 @@ site of its archival immanence. The two schools of thought disagree because
 they speak neither of the same phenomenon nor at the same site. The former
 group highlights ephemeral, transcendent qualities of the projected word. The
 latter foregrounds the "uniquely indelible nature of magnetic storage"
-[@kirschenbaum_mechanisms:_2008], the "drives, tapes, and disks," the
-"fundamental physical support," and the "material substrates of computing"
-[@drucker_performative_2013]. Screen and hard drive partition the sign between
-surface and depth, projection and archive. At the site of projection one
-speaks of texts that are---I have kept a list of adjectives when reviewing the
-literature---*ephemeral*, *shimmering*, *electric*, *flimsy*, *contingent*,
+[@kirschenbaum_mechanisms:_2008, 51], the "drives, tracks, and disks," the
+"fundamental physical supports," and the "material substrates of computing"
+[@drucker_performative_2013, para. 2]. Screen and hard drive partition the sign
+between surface and depth, projection and archive. At the site of projection
+one speaks of texts that are---I have kept a list of adjectives when reviewing
+the literature---*ephemeral*, *shimmering*, *electric*, *flimsy*, *contingent*,
 *malleable*, *impermanent*, *flowing*, *transcendent*, *ghostly*, and
 *radiant*. At the archival site language changes to inscription that is
 *enduring*, *solid*, *persistent*, *permanent*, *indelible*, *hard*,
@@ -169,15 +169,16 @@ machines [@hough_wired_1931; @adler_knitting_1933; @casper_remote_1934].
 
 Language compressed and pushed through the wires underwent a number of
 transformations. Donald Murray, the inventor of the popular Murray telegraph
-alphabet, conceived of telecommunications in terms of time and space.
-Advancing a self-professed "metaphysics of telegraph signalling alphabets," he
-described spatial writing symbols that "appeal to the eye," and temporal,
-"telephonic" signals that "appeal to the ear." Paradoxically, space signals
-(like words on a billboard) occupy little space, but persist in time.  "For
-instance," Murray wrote, "a signboard may extend over 10 feet and 100 years."
-Time signals, by contrast, are ephemeral: "a Morse signal in a wire may extend
-over half a second and 500 miles" [@murray_setting_1905, 86]. The signal is
-long duration but short on space.
+alphabet, conceived of telecommunications in terms of time and space. Advancing
+a self-professed metaphysics of telegraph signalling alphabets, he described
+spatial writing symbols that "appeal to the eye," and temporal, "telephonic"
+signals that "appeal to the ear" [@murray_setting_1905, 36]. Paradoxically,
+space signals (like words on a billboard) occupy little space, but persist in
+time.  "For instance," Murray wrote, "a signboard may extend over 10 feet and
+100 years" [@murray_setting_1905, 36]. Time signals, by contrast, are
+ephemeral: "a Morse signal in a wire may extend over half a second and 500
+miles" [@murray_setting_1905, 86]. The signal is long duration but short on
+space.
 
 <!-- rewrite this to make clear -->
 In print, the reader could mentally assemble consecutive physical markings
@@ -214,10 +215,10 @@ depressed vertically would complete an electric circuit to produce the signal.
 Writing in 1929 for the journal *American Speech*, Hervey Brackbill preserved
 some of the specialized language associated with Morse code culture. "Morse
 telegraphy is commonly referred to as a 'game,'" he wrote, "and the operator
-'works a wire.'" Operators tapping keys used "bugs," which where insect-like
-machines that had "long slender levers and springs." Bugs had trade names like
-"Lighting Bug," "Gold Bug," and "Cootie" (for a small model)
-[@brackbill_telegraphers_1929, 287-288].
+'works a wire'" [@brackbill_telegraphers_1929, 288]. Operators tapping keys
+used "bugs," which where insect-like machines that had "long slender levers and
+springs." Bugs had trade names like "Lighting Bug," "Gold Bug," and "Cootie"
+(for a small model) [@brackbill_telegraphers_1929, 288].
 
 Operators using "straight keys" achieved speeds upwards of 25--30 words per
 minute, limited by the shortest possible length of the smallest transmitted
@@ -243,16 +244,18 @@ message and its recipient, the human posed a limiting factor.
 
 Telegraph operators working a "hand sender" often developed partial paralysis
 in their wrists or arms. The condition was commonly known as "glass arm"
-[@brackbill_telegraphers_1929;
-@u.s._bureau_of_labor_statistics_displacement_1932]. Senders were called
-"hams" or "bums" when they "fell down" or made frequent errors. To "put
-someone under the table" in sender's lingo was to transmit faster than a
-receiver could transcribe. The "reader" was "burnt up" when he fell behind.
-He had to "break," or interrupt the sender to ask for repetition. To "paste"
-someone was to deliberately burn him up.[^ln4-men]
+[@brackbill_telegraphers_1929, 288;
+@u.s._bureau_of_labor_statistics_displacement_1932]. Senders were called "hams"
+or "bums" when they "fell down" or made frequent errors
+[@brackbill_telegraphers_1929, 288]. To "put someone under the table" in
+sender's lingo was to transmit faster than a receiver could transcribe
+[@brackbill_telegraphers_1929, 289]. The "reader" was "burnt up" when he fell
+behind. He had to "break," or interrupt the sender to ask for repetition
+[@brackbill_telegraphers_1929, 289]. To "paste" someone was to deliberately
+burn him up.[^ln4-men]
 
-[^ln4-men]: See @brackbill_telegraphers_1929. The operators at the time were
-all almost exclusively male.
+[^ln4-men]: See @brackbill_telegraphers_1929, 288-9. The operators at the time
+were all almost exclusively male.
 
 The 1908 ITC in Lisbon, ratified two additional alphabet standards for
 international use: Hughes and Baudot. Both were developed in response to
@@ -303,7 +306,8 @@ tuning bell, two operators would send separate messages along the same
 channel. The receiving machine would then separate one message from the other
 based on its time signature [@murray_setting_1905].
 
-![Multiple Printing Telegraph, 1905 [@murray_setting_1905].](images/multiplex.png)
+![Multiple Printing Telegraph, 1905 [@murray_setting_1905,
+574].](images/multiplex.png)
 
 It was important to maintain unison in such multiplexed systems. Time-shared
 device operators had to know when it was their turn to type. The Baudot
@@ -353,12 +357,12 @@ string of As and Bs. The letter A, for example, became "aaaaa." B became
 "aaaab," C "aaaba," and so on to Z, rendered as "babbb." "Neither is this a
 small matter," Bacon wrote:
 
-> These Cypher-Characters have, and may performe: For by this *Art* a way is
+> these Cypher-Characters have, and may performe: For by this *Art* a way is
 > opened, whereby a man may expresse and signifie the intentions of his minde,
 > at any distance of place, by objects which may be presented to the eye, an
 > accommodated to the eare: provided those objects be capable of a twofold
 > difference only; as by Bells, by Trumpets, by Lights and Torches, by the
-> report of Muskets, an any instruments of like nature [@bacon_advancement_1987,
+> report of Muskets, and any instruments of like nature [@bacon_advancement_1987,
 > 266].
 
 Writing more than two centuries before the telegraph's invention, Bacon
@@ -392,7 +396,7 @@ encoding from transmission. Fixed-length encoding could not be done in
 advance, with more facility and in volume. The prepared message could then be
 fed into a machine without human assistance. In 1905, Donald Murray wrote that
 "the object of machine telegraphy [is] not only to increase the saving of
-telegraph wire [...] but also to reduce the labor cost of translation and
+telegraph wire [...] but also to reduce the labour cost of translation and
 writing by the use of suitable machines" [@murray_setting_1905, 557]. Baudot's
 and Murray's codes were not only shorter, they were simpler and less
 error-prone, and thus resulted in less complicated and more durable devices.
@@ -429,27 +433,28 @@ from questions of access and legibility: who gets to understand the encoded
 message and when?
 
 For example, the Final Protocol to the Telegraph Regulations, ratified in
-Madrid in 1932 by the governments of more than seventy countries, included a
-special provision delineating the difference between transmitting "plain," and
-"secret" language. The protocols grouped "secret languages" into "code" and
+Madrid in 1932 by the governments of more than seventy countries, included
+a special provision delineating the difference between transmitting "plain,"
+and "secret" language. The protocols grouped "secret languages" into "code" and
 "cypher" categories. "Plain language" was defined as words which present "an
-intelligible meaning in one or more of the languages authorized for
+intelligible meaning in one or more of the languages authorised for
 international telegraph correspondence, each word and each expression having
 the meaning normally assigned to it in the language to which it belongs"
 [@itu_telegraph_1932, 12]. By contrast, "code language" was defined as
-"composed either of artificial words, or of real words not used in the meaning
-normally assigned to them in the language to which they belong and
-consequently not forming intelligible phrases" [@itu_telegraph_1932, 12].
-Codes were not permitted to contain more than five characters and were charged
-at 6/10th of the agreed tariff rate. Upon request, the sender of the telegram
-in code language was required to "produce the code from which the text or part
-of the text of the telegram has been compiled" [@itu_telegraph_1932, 13].
+"composed either of artificial words, or of real words not used with the
+meaning normally assigned to them in the language to which they belong and
+consequently not forming intelligible phrases" [@itu_telegraph_1932, 12]. Codes
+were not permitted to contain more than five characters and were charged at
+6/10th of the agreed tariff rate. Upon request, the sender of the telegram in
+code language was required to "produce the code from which the text or part of
+the text of the telegram has been compiled" [@itu_telegraph_1932, 13].
 Otherwise, the language was considered to be a secret "cypher," defined as
-"groups or series of Arabic figures with a secret meaning." The terms of the
-convention were binding. Participants agreed to accept and pass telegrams in
-plain language through their jurisdictions. They also agreed to let secret
-communications pass, although they were not obligated to accept or help
-deliver such messages [@itu_telegraph_1932, 13].
+"groups or series of Arabic figures with a secret meaning"
+[@itu_telegraph_1932, 13]. The terms of the convention were binding.
+Participants agreed to accept and pass telegrams in plain language through
+their jurisdictions. They also agreed to let secret communications pass,
+although they were not obligated to accept or help deliver such messages
+[@itu_telegraph_1932, 13].
 
 <!-- transition missing -->
 
@@ -462,7 +467,7 @@ Morse code operators between 1915 and 1931. Morse operators referred to the
 tele-typists on the sending side as "punchers" and on the receiving side as
 "printer men."[^ln2-printermen] The printer men responsible for assembling
 pages from ticker tape were called "pasters" and sometimes, derisively, as
-"paperhangers" [@brackbill_telegraphers_1929]. Teletype automated this entire
+"paperhangers" [@brackbill_telegraphers_1929, 290]. Teletype automated this entire
 process, rendering punchers, pasters, and paperhangers obsolete. Operators
 could now enter printed characters directly into the machine, using a keyboard
 similar to the typewriter, which, by that time, was widely available for
@@ -474,19 +479,20 @@ control receded out of sight.
 ![Goldberg's Control Cards [@goldberg_controller_1915].](images/control-2.png)
 
 Hymen Goldberg's 1911 Controller addressed the telegraph's legibility problem.
-"You must acknowledge that this is readable without special training,"
-Goldberg wrote, "my invention relates to all controllers." His controller was
-made "to provide a mechanism operable by a control sheet which is legible to
-every person having sufficient education to enable him to read." In an
-illustration attached to his patent, Goldberg showed "a control sheet in which
-the control characters are in the form of the letters of the ordinary English
-alphabet" [@goldberg_controller_1915]. Rather than using ticker tape, he
-proposed the use of perforations that where capable of actuating machine
-levers and also formed letters. To counteract illegibility, Goldberg imagined
-using cards, perforated in the shape of English letters. His cards thus did
-the "double duty" of carrying human-readable content and mechanically
-manipulating machine "blocks," "handles," "terminal blades," and "plungers"
-[@goldberg_controller_1915].
+"You must acknowledge that this is readable without special training," Goldberg
+wrote [@goldberg_controller_1915, sheet 3]. "My invention relates to all
+controllers" [@goldberg_controller_1915, 1]. His controller was made "to
+provide [a] mechanism operable by a control sheet which is legible to every
+person having sufficient education to enable him to read"
+[@goldberg_controller_1915, 1]. In an illustration attached to his patent,
+Goldberg showed "a control sheet in which the control characters are in the
+form of the letters of the ordinary English alphabet"
+[@goldberg_controller_1915, 1]. Rather than using ticker tape, he proposed the use
+of perforations that where capable of actuating machine levers and also formed
+letters. To counteract illegibility, Goldberg imagined using cards, perforated
+in the shape of English letters. His cards thus did the "double duty" of
+carrying human-readable content and mechanically manipulating machine "blocks,"
+"handles," "terminal blades," and "plungers" [@goldberg_controller_1915, 1-4].
 
 Human and machine language coincided on the same plane, if only for a time.
 The inscription remained visible at the surface of Goldberg's control sheet,
@@ -498,9 +504,10 @@ for data storage.
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
-influential monograph that continues to shape the field of software studies.
-She quotes several prominent computer scientists and media historians to the
-same effect. But what gives software its ephemeral quality?
+influential monograph that continues to shape the field of software studies
+[@chun_programmed_2011, 3]. She quotes several prominent computer scientists
+and media historians to the same effect. But what gives software its ephemeral
+quality?
 
 Embossed onto ticker tape or punched into the card, early software protruded
 through the medium. In the age of the telegraph, the biggest barrier to the
@@ -564,25 +571,25 @@ said the following:
 > To transport human speech over a distance of one thousand miles is a
 > wonderful achievement. How much more wonderful, then, is the achievement
 > that makes possible [...] its storage at the receiving end, so that the
-> exact sentence, the exact intonation of the voice, the exact timbre may be
-> reproduced over and over again, an endless number of times"
-> [@fankhauser_telegraphone_1909, 39]
+> exact sentence, the exact intonation of the voice, the exact timbre, may be
+> reproduced over and over again, an endless number of times.
+> [@fankhauser_telegraphone_1909, 37-8]
 
 Comparing magnetic recording to the invention of the Gutenberg press,
 Fankhauser went on to say:
 
 > It is my belief that what type has been to the spoken word, the telegraphone
-> will be to the electrically transmitted word [...] As printing spread
+> will be to the electrically transmitted word. [...] As printing spread
 > learning and civilization among the peoples of the earth and influenced
 > knowledge and intercourse among men, so I believe the telegraphone will
 > influence and spread electrical communication among men"
 > [@fankhauser_telegraphone_1909, 40].
 
-In that speech, Fankhauser laments what he calls the "evanescence" of
-telegraph and telephone communications. The telephone fails to preserve "an
-authentic record of the conversion over the wire"
-[@fankhauser_telegraphone_1909, 40]. Fankhauser imagines his telegraphone in
-use by "the sick, the infirm, and the aged:"
+In that speech, Fankhauser laments what he calls the "evanescen[ce]" of
+telegraph and telephone communications [@fankhauser_telegraphone_1909, 39]. The
+telephone fails to preserve "an authentic record of conversation over the
+wire" [@fankhauser_telegraphone_1909, 40]. Fankhauser imagines his telegraphone
+in use by "the sick, the infirm, [and] the aged":
 
 > A book can be read to the sightless or the invalid by the machine, while the
 > patient lies in bed. Lectures, concerts, recitations---what one wishes, may
@@ -592,32 +599,32 @@ use by "the sick, the infirm, and the aged:"
 
 Anticipating the popularity of twenty-first century audio media formats like
 the podcast and the audio book, Fankhauser imagines "tired and jaded" workers
-who "sooth themselves into a state of restfulness" by listening to their
-favorite authors. Poulsen's "electric writing" will finally emerge "as clear
-and as distinct as the writing by hand, an absolutely legal and conclusive
-record," Fankhauser concludes [@fankhauser_telegraphone_1909, 41].
+who "soothe [themselves] into a state of restfulness" by listening to their
+favorite authors [@fankhauser_telegraphone_1909, 45]. Poulsen's "electric
+writing" will finally emerge "as clear and distinct as the writing by hand, and
+an absolutely legal and conclusive record," Fankhauser concludes
+[@fankhauser_telegraphone_1909, 41].
 
 In the first decade of the twentieth century, Fankhauser imagined magnetic
 storage as an audio format, combining the best of telegraphy and telephony in
-one device. For the purposes of data storage, magnetic recording technology
-did not mature until the 1950s, when advances in composite plastics made it
+one device. For the purposes of data storage, magnetic recording technology did
+not mature until the 1950s, when advances in composite plastics made it
 possible to manufacture tape cheaper and more durable than its paper
 alternatives. The state of the art relay calculator commissioned by the Bureau
 of Ordinance of the Navy Department in 1944 and built by the Harvard
-Computation laboratory in 1947 still made use of standard issue telegraph
-"tape readers and punchers," adapted for computation with the aid of engineers
-from Western Union Telegraph Company [@staff_description_1949,
-1-40].[^ln2-punch] The relay calculator was equipped with a number of Teletype
-Model 12A tape readers and Model 10B perforators, using 11/16-inch wide paper
-tape, partitioned into "five intelligence holes." To give you a sense of the
-machine's storage capacity, each quantity entered for computation took up
-thirteen lines of code [@staff_description_1949, 30]. The readers and punches
-were capable of running at 600 operations per minute. Four Model 15
-Page-Printers gave the means to compare the printed characters with the digits
-stored in the ticker tape-based controlling print register. In this setup, the
-numerical inscription was therefore already split between input and output
-channels: with input stored on ticker tape and output on the printed page for
-verification.
+Computation laboratory in 1947 still made use of standard issue telegraph "tape
+readers and punchers," adapted for computation with the aid of engineers from
+Western Union Telegraph Company.[^ln2-punch] The relay calculator was equipped
+with a number of Teletype Model 12A tape readers and Model 10B perforators,
+using 11/16-inch wide paper tape, partitioned into "five intelligence holes."
+To give you a sense of the machine's storage capacity, each quantity entered
+for computation took up thirteen lines of code [@staff_description_1949, 30].
+The readers and punches were capable of running at 600 operations per minute.
+Four Model 15 Page-Printers gave the means to compare the printed characters
+with the digits stored in the ticker tape-based controlling print register. In
+this setup, the numerical inscription was therefore already split between input
+and output channels: with input stored on ticker tape and output on the printed
+page for verification.
 
 The Mark III Calculator which followed the Harvard Computation Laboratory's
 earlier efforts was likewise commissioned by the Navy's Bureau of Ordinance.
@@ -646,12 +653,12 @@ portable. Operators could prepare tape in advance, in a different room, at the
 alloted Instructional Tape Preparation Table. The information on tape would
 then be transferred to a slow moving magnetic drum, and, when the two drums
 matched in speed, transferred again to the fast-moving internal drum for data
-calculation, machine sequencing, and control. Mark III was further equipped
-with five printers "for presenting computed results in a form suitable for
-publication." The printers were capable of determining the "number of digits
-to be printed, the intercolumnar and interlinear spacing, and other items
-related to the typography of the printed page" [@staff_description_1952,
-1-40].
+calculation, machine sequencing, and control [@staff_description_1952, 1-40].
+Mark III was further equipped with five printers "for presenting computed
+results in a form suitable for publication." The printers were capable of
+determining the "number of digits to be printed, the intercolumnar and
+interlinear spacing, and other items related to the typography of the printed
+page" [@staff_description_1952, 34-5].
 
 Data was recorded on tape using binary numerical notation. To enter the number
 onto tape, the operator sat at the "numerical tape preparation table," another
@@ -660,11 +667,12 @@ along two channels, running the length of the tape. The operator entered each
 number twice, first into Channel A and then into Channel B. This was done to
 prevent errors, since the operator worked blindly, without being able to see
 whether the intended mark registered properly upon first entry. An error bell
-would sound when the first quantity did not match the second, in which case
-the operator would have to reenter the mismatched digits
-[@staff_description_1952, 143-88]. To further "ensure completely reliable
-results" the operator could use one of the five attached Underwood Electric
-teletypes to print all of the tape's columns and confirm visually.
+would sound when the first quantity did not match the second, in which case the
+operator would have to reenter the mismatched digits [@staff_description_1952,
+143-88]. To further ensure "completely reliable
+results"[@staff_description_1952, 35] the operator could use one of the five
+attached Underwood Electric teletypes to print all of the tape's columns and
+confirm visually.
 
 I draw on a thick technical description throughout the chapter to make sure
 that the reader understands the terms like "textual fissure" and "multiple
@@ -726,14 +734,16 @@ output of text.
 
 Built on a simpler architecture than its supercomputer cousins, the MT/ST used
 a single tape read and write mechanism. An advertisement in the American Bar
-Association circa 1968 calls it the $10,000 typewriter that is "worth every
-penny." Before, the typist would have to stop and erase every mistake, the
-copy reads. But with IBM MT/ST it is possible to "backspace, retype, and keep
+Association circa 1968 calls it the \$10,000 typewriter that is "worth every
+penny." Before, the typist would have to stop and erase every mistake, the copy
+reads. But with IBM MT/ST it is possible to "backspace, retype, and keep
 going." The mistake is changed on magnetic tape, "where all typing is recorded
-and played back correctly at incredible speed" [@association_aba_1966, 998].
-But just as it was with the Mark III, information stored on magnetic tape was
-absolutely invisible to the typist. At the time, the only way to verify the
-magnetic inscription was to print it out.
+and played back correctly at incredible speed" [@association_aba_1966,
+998].<!--I can't find these quotes anywhere! I went through the attached PDF
+and the 1966 January issue, but no luck.--> But just as it was with the Mark
+III, information stored on magnetic tape was absolutely invisible to the
+typist. At the time, the only way to verify the magnetic inscription was to
+print it out.
 
 What was gained in the freeing of text from the confines of immutable media
 like ink and paper, was gotten at the price of legibility. Encoding used by
@@ -773,26 +783,26 @@ The magnetic reader comprised a flat box that resembles a book. Youngquist and
 Hanes proposed to fill the cover plate of their box with a transparent liquid
 to host "visible, weakly ferromagnetic crystals." When sandwiched between the
 two plates, a piece of magnetic tape would activate the crystals to align with
-the embedded inscription. In this way, the top plate would reveal the "visible
-outlines" of the underlying magnetic symbol [@youngquist_magnetic_1961, 1].
+the embedded inscription. In this way, the top plate would reveal the "visibl[e]
+outline[s]" of the underlying magnetic symbol [@youngquist_magnetic_1961, 1].
 
 !["The positioning of a magnetic recording card for visual observation of
-symbols recorded thereon," from [@youngquist_magnetic_1961,
-1]](images/youngquist.png)
+symbols recorded thereon," from
+[@youngquist_magnetic_1961]](images/youngquist.png)
 
 Yet the problem remained. Data arrangement along the length of the narrow
-magnetic tape had a fundamentally differing structure from data arranged on a
-broad sheet of paper. The next generation of IBM Magnetic Selectric
+magnetic tape had a fundamentally differing structure from data arranged on
+a broad sheet of paper. The next generation of IBM Magnetic Selectric
 typewriters added a "composer" control unit to further address that difference.
 The IBM Composer could restore some of the formatting lost in the transition
 between paper and magnet. It added capabilities for margin control and text
 justification. The original IBM Composer unit achieved margin justification
 (its chief innovation over the typewriter) by asking the operator to type each
-line twice: "one rough typing to determine what a line would contain, and a
-second justified typing" [@morgan_ibm_1968, 69]. After the "first typing," an
-indicator mechanism helped the operator calculate the variable spacing needed
-to achieve paragraph justification. The formatting and content of each line
-thus required separate input passes to achieve the desired result.
+line twice: "one rough typing to determine what words a line would contain, and
+a second, justified typing" [@morgan_ibm_1968, 69]. After the "first typing,"
+an indicator mechanism helped the operator calculate the variable spacing
+needed to achieve paragraph justification. The formatting and content of each
+line thus required separate input passes to achieve the desired result.
 
 +-------------------+---------------+-------------------------------+
 |  Model            | Year          | Technologies                  |
@@ -841,20 +851,19 @@ stored serially, as one long column of codes, on a magnetic card the spatial
 relation between elements could be preserved. The 1968 patent for "Data
 Reading, Recording, and Positioning System" describes a method for arranging
 information on such a card "recording and playback system which accurately
-positions each character recorded relative to each previous character
-recorded" [@clancy_data_1970, 1]. In 1969 IBM introduced magnetic card storage
-units into its Selectric Composer line of word processors. Fredrick May, whose
-name often appears on word processing related patents form this period, would
-later reflect on magnetic cards, writing that a "major reason for the choice
-of a magnetic card for the recording of medium was the simple relationship
-that could be maintained between a typed page and a recorded card"
-[@may_ibm_1981, 743]. The card could be thought of as a miniature page, making
-the magnetic card a "unit of record of storage of a typed page"
-[@may_ibm_1981, 743].
+positions each character recorded relative to each previous character recorded"
+[@clancy_data_1970, 1]. In 1969 IBM introduced magnetic card storage units into
+its Selectric Composer line of word processors. Fredrick May, whose name often
+appears on word processing related patents form this period, would later
+reflect on magnetic cards, writing that a "major reason for the choice of
+a magnetic card for the recording of medium was the simple relationship that
+could be maintained between a typed page and a recorded card" [@may_ibm_1981,
+743]. The card could be thought of as a miniature page, making the magnetic
+card a "unit record of storage for a typed page" [@may_ibm_1981, 743].
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
-Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
-a typed page and a recorded card" [@may_ibm_1981, 744]. Image by Pointillist
+Typewriter (MC/ST) in 1969. A "simple relationship ... could be maintained between
+a typed page and a recorded card" [@may_ibm_1981, 743]. Image by Pointillist
 under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
 
 The Mag Card soon passed from use due to its limited storage capabilities and
@@ -911,26 +920,26 @@ accomplished by:
 
 > mounting the original tape and the correction tape, if any, on the
 > two-station reader output unit, setting the pitch, leading, impression
-> control and dead key space of the composer unit to the desired values, and
-> entering set-up instructions on the console control (e.g., one-station or
-> two-station tape read, depending on whether the correction tape is present;
-> line count instructions for the format control and space to be left for
+> control and dead key space of the Composer unit to the desired values, and
+> entering set-up instructions on the console control panel (e.g., one-station
+or > two-station tape read, depending on whether a correction tape is present;
+> line count instructions for format control and space to be left for
 > pictures, etc.; special format instructions; and any required control codes
-> known to be omitted from the input tape. During printing, the operator
+> known to have been omitted from the input tape). During printing the operator
 > changes type elements when necessary, loads paper as required, and makes and
 > enters hyphenation decisions if justified copy is being printed
 > [@bishop_development_1968, 382].
 
 The tape unit and the control unit thus intervene between the keyboard and the
-printed page. The "final printing" combines roughly the "prepared copy" with
-"control and reference codes" and "printer output" [@bishop_development_1968;
-@may_ibm_1981]. The materials from the time often speak of three distinct
-human operators that could be responsible for each stage of the production:
-one entering the copy, one specifying the control codes, and one responsible
-for handling the paper output. The machine operators could hypothetically work
-in isolation from one another. The typist would see only elements of the copy;
-the typesetter or the controller only formatting and control codes; and the
-printer only the interpolated results.
+printed page. The "final printing" combines roughly the "prepared...copy" with
+"control" and "reference" codes and "printer output" [@bishop_development_1968
+382; @may_ibm_1981]. The materials from the time often speak of three distinct
+human operators that could be responsible for each stage of the production: one
+entering the copy, one specifying the control codes, and one responsible for
+handling the paper output. The machine operators could hypothetically work in
+isolation from one another. The typist would see only elements of the copy; the
+typesetter or the controller only formatting and control codes; and the printer
+only the interpolated results.
 
 <!--
 !["Block diagram of MT/SC system" @bishop_development_1968, 381.](images/mt-sc.png)
@@ -1043,9 +1052,9 @@ interaction, Engelbart writes:
 
 > One of the potentially most promising means for delivering and receiving
 > information to and from digital computers involves the display of computer
-> outputs as visual representation on a cathode ray tube and the alternation
+> outputs as visual representations on a cathode ray tube and the alteration
 > of the display by human operator in order to deliver instructions to the
-> computer" [@engelbart_x-y_1970].
+> computer [@engelbart_x-y_1970, 1].
 
 The short-lived screenless word processors of the early 1960s (like the IBM
 MT/ST) necessitated the cognitively arduous task of continuously keeping the
@@ -1079,7 +1088,7 @@ phenomenological self-assessment:[^ln2-follow]
     piece of information that isn't related to the work
     of the moment, one can very quickly and easily
     insert a note within the structure of a file at such
-    a place that it will nether get in the way nor get
+    a place that it will neither get in the way nor get
     lost.
 
     1B2B2 "Later, working in another part of the file,
@@ -1089,7 +1098,8 @@ phenomenological self-assessment:[^ln2-follow]
 
     1B2B3 "As any such miscellaneous thought develops,
     it is easy (and delightful) to reshape the structure
-    and content of its discussion material.
+    and content of its discussion material. 
+    [@engelbart_human_1969, 48-9]
 ```
 
 In other words, what the typist previously perceived as an ordered and
@@ -1112,11 +1122,11 @@ Discussion" section of the report contain the following anonymous
 contemplation:
 
 ```
-1B4 "I find that I can express myself better, if I can
-make all the little changes and experiments with wording
-and structure as they occur to me." [Here the user
-experiments a little with using structural decomposition
-of a complex sentence.]
+    1B4 "I find that I can express myself better, if I can
+    make all the little changes and experiments with wording
+    and structure as they occur to me." [Here the user
+    experiments a little with using structural decomposition
+    of a complex sentence.][@engelbart_human_1969, 50]
 ```
 
 A decomposition follows indeed, as the author deviates dramatically from the
@@ -1127,12 +1137,13 @@ towards the lyric:
 ```
     1B4A "I find that I write faster and more freely,
 
-        1B4A1 "pouring thoughts and trial words on the
+        1B4A1 "pouring thoughts and trial words onto the
         screen with much less inhibition,
+
         1B4A2 "finding it easy to repair mistakes or wrong
         choices
 
-            1B4A22 "so while capturing a thought I don't
+            1B4A2A "so while capturing a thought I don't
             have to inhibit the outpouring of thought and
             action to do it with particular correctness,
 
@@ -1142,17 +1153,17 @@ towards the lyric:
             1B4A3A "so I can experiment, easily take a look
             and see how a new version strikes me--and often
             the first unworried attempt at a way to express
-            something turn out to be satisfactory, or at
+            something turns out to be satisfactory, or at
             least to require only minor touch up.
 
         1B4A4 "Finding that where I might otherwise
         hesitate in search of the right word, I now pour out
         a succession of potentially appropriate words,
-        leaving them all the while the rest of the
+        leaving them all there while the rest of the
         statement takes shape. Then I select from among
         them, or replace them all, or else merely change the
         list a it and wait for a later movement of the
-        spirit.
+        spirit.[@engelbart_human_1969, 50-1]
 ```
 
 When input and output coincide in time, as they do on paper, mistakes are
@@ -1183,32 +1194,40 @@ Anonymous continues to report:
 
             1B4B1A "the relationships among the phrases of a
             sentence,
+
             1B4B1B "among the statements of a list,
+
             1B4B1C "and among the various level and members
             of a branch,
 
         1B4B2 "being able
 
             1B4B2A "to view them in different ways,
+
             1B4B2B "to rearrange them easily,
+
             1B4B2C "to experiment with certain special
             portrayals,
 
-                1B4B2C1 "not available easily in unstructured data
+                1B4B2C1 "not available easily in unstructured
+                data
+
                 1B4B2C2 "or usable without the CRT display,
 
         1B4B3 "and being aware that
 
             1B4B3A "I can (and am seeking to) develop still
             further special conventions and computer aids
+
             1B4B3B "to make even more of this available and
             easy,
 
         1B4B4 "all tend to increase
 
             1B4B4A "my interest and experimentation
+
             1B4B4B "and my conviction that this is but a
-            peek at what is to come soon.
+            peek at what is to come soon.[@engelbart_human_1969, 51]
 ```
 
 The passages appear too contrived to be spontaneous admissions of
@@ -1219,17 +1238,18 @@ cannot help but be carried away by the fluency of the prose and by the sheer
 audacity of the project.
 
 Engelbart's research into intellect augmentation created tools that augment
-research. In an image that evokes Baron Münchhausen pulling himself out of a
-swamp by his own bootstraps, Engelbart described the methodology employed by
+research. In an image that evokes Baron Münchhausen pulling himself out of
+a swamp by his own bootstraps, Engelbart described the methodology employed by
 his lab as "bootstrapping." Bootstrapping for Engelbart involved the recursive
 strategy of "developing tools and techniques" to develop better tools and
-techniques. The "tangible product" of such an activity was "a constantly
-improving augmentation system for use in developing and studying augmentation
-systems." It is an appealing vision, but only as long as it remained
-recursive. The lab benefits from creating its own tools and methods.  But
-Engelbart also hoped that his system could be "transferred---as a whole or by
-pieces of concept, principle and technique---to help others develop
-augmentation systems for many other disciplines and activities." Undoubtedly,
+techniques [@engelbart_research_1968, 396]. The "tangible product" of such an
+activity was "a constantly improving augmentation system for use in developing
+and studying augmentation systems" [@engelbart_human_1969, 6]. It is an
+appealing vision, but only as long as it remained recursive. The lab benefits
+from creating its own tools and methods.  But Engelbart also hoped that his
+system could be "transferred---as a whole or by pieces of concept, principle
+and technique---to help others develop augmentation systems for many other
+disciplines and activities" [@engelbart_human_1969, 6]. Undoubtedly,
 Engelbart's ideas about intellect augmentation have had a broad impact on
 knowledge work across disciplines. However, Engelbart's vision loses the
 property of self determination in the transfer outside of the narrow confines
@@ -1275,11 +1295,11 @@ legibility.
 
 [^ln2-gate]: Solid state memory technology, flash memory for example, store
 information in capacitor "circuit states." This by contrast with
-electromagnetic storage that works by modulating electrical charge over a
-magnetic surface. Solid state capacitor storage was used in the earliest
-computers [@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
-manufacture until well into the twenty-first century, when solid state drives
-began to replace electromagnetic storage in consumer electronics. In an early
+electromagnetic storage that works by modulating electrical charge over
+a magnetic surface. Solid state capacitor storage was used in the earliest
+computers, but was prohibitively expensive to manufacture until well into the
+twenty-first century, when solid state drives began to replace electromagnetic
+storage in consumer electronics [@kahng_semipermanent_1967, 1296]. In an early
 (1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
 and Sze explain: "A structure has been proposed and fabricated in which
 semipermanent charge storage is possible. A floating gate is placed a small
@@ -1316,7 +1336,7 @@ electronic computing" outlined in Peter Denning's "theory of operating systems"
 
 [^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
 truckloads of punched cards being transported from one center to another in
-Italy."
+Italy" (para. 8).
 
 [^ln2-magnet]: See for example @stefanita_magnetism:_2012, 1-69 and
 @ohmori_memory_2015.
@@ -1343,14 +1363,14 @@ aid of the party;' also the opening sentence of the Declaration of
 Independence [...] were repeated many times in order to test the speed of the
 machine."
 
-[^ln2-punch]: "Two means are available for preparing the functional tapes
-required for the operation of the interpolators. First, when the tabular
-values of *f(x)* have been previously published, they may be copied on the
-keys of the functional tape preparation unit [...] and the tape produced by
-the punches associated with this unit, under manual control. Second, as
-suitable control tape may be coded directing the calculator to compute the
-values of *f(x)* and record them by means of one of the four output punches,
-mounted on the right wing of the machine" [@staff_description_1949, 34].
+[^ln2-punch]:  See [@staff_description_1949, 1-40]. "Two means are available
+for preparing the functional tapes required for the operation of the
+interpolators. First, when the tabular values of *f(x)* have been previously
+published, they may be copied on the keys of the functional tape preparation
+unit [...] and the tape produced by the punches associated with this unit,
+under manual control. Second, as suitable control tape may be coded directing
+the calculator to compute the values of *f(x)* and record them by means of one
+of the four output punches, mounted on the right wing of the machine" (33-4).
 
 [^ln2-hayles]: See also @hayles_print_2004.
 

@@ -109,9 +109,11 @@ maintain that meaning arises out of the subject's interaction with its
 environment. The subject and object are brought into what Uexküll calls
 harmony:
 
-> If the flower were not bee-like
-> If the bee were not flower-like
-> The harmony would never succeed [@uexkull_foray_2010, 198].
+```
+    If the flower were not bee-like
+    If the bee were not flower-like
+    The harmony would never succeed [@uexkull_foray_2010, 198].
+```
 
 Similarly, the pea and the pea weevil achieve harmony through "meaning
 transfer" between the pea and the weevil larvae, which allows the larvae to
@@ -124,18 +126,18 @@ prepare an escape hatch through vegetative matter in advance of its pupation
 The literature of post-humanism privileges these moments of alien subjectivity
 because they destabilize an anthropocentric view of the world. What gets lost
 in the shifting of perspectives is the apparent contradiction at the very core
-of what the writer Dorion Sagan calls the "Gaia sciences"
-[@uexkull_foray_2010, 12], the idea ascendant in diverse fields from literary
-studies to information theory and free-market economics, relegating meaning
-creation from the level of the subject to the level of complex system.
-Paradoxically, because Uexküll's model of communication makes meaning
-available only at the system level ("oak plus rain" or "bee plus flower"), it
-is never available to the subject itself (bees or flowers). The quest for
-alien semiotics leads to, in Uexküll's own words, "mute interaction"
-[@uexkull_foray_2010, 148], meaningful only from some vantage point outside of
-the system. The forest always "understands" more than the tree, the planet
-more than the forest, and so on, in a regression that can only conclude with
-whole-universe monism: the One.
+of what the writer Dorion Sagan calls "Gaia science" [@uexkull_foray_2010, 12],
+the idea ascendant in diverse fields from literary studies to information
+theory and free-market economics, relegating meaning creation from the level of
+the subject to the level of complex system. Paradoxically, because Uexküll's
+model of communication makes meaning available only at the system level ("oak
+plus rain" or "bee plus flower"), it is never available to the subject itself
+(bees or flowers). The quest for alien semiotics leads to, in Uexküll's own
+words, "mute" interaction<!--note, full phrase "mute interaction" only in
+intro, p 28. PRP-->[@uexkull_foray_2010, 148], meaningful only from some
+vantage point outside of the system. The forest always "understands" more than
+the tree, the planet more than the forest, and so on, in a regression that can
+only conclude with whole-universe monism: the One.
 
 In his essay on the subjective experience of bats, Thomas Nagel concludes that
 there must be something about the experience of a bat *for* a bat
@@ -150,7 +152,7 @@ is a quiet humanism in Nagel's suggestion that we should confine our remarks to
 objective phenomenology, not dependent on the self-deceiving acts of the
 imagination [@nagel_what_1974, 449]. After all, one can never truly become a
 bat or a tick.  We can only imagine what it is like to be a bat *for* a human.
-"Certainly it appears unlikely," Nagel writes, "that we will get closer to the
+"Certainly it *appears* unlikely," Nagel writes, "that we will get closer to the
 real nature of human experience by leaving behind the particularity of our
 human point of view and striving for a description in terms accessible to
 beings that could not imagine what it was like to be us" [@nagel_what_1974,
@@ -166,8 +168,8 @@ of the system from the only perspective available to me. These blueprints and
 diagrams are all we have to understand the ways in which the system affects its
 constituents. Paying attention to the details of the schematics is the only way
 to "dig" ourselves into something like an alien phenomenology. As the
-humanities move in search of the digital, I find that they need to regain a
-sense of the human. No perspective is available otherwise from which to enact
+humanities move in search of the digital, I find that they need to regain
+a sense of the human. No perspective is available otherwise from which to enact
 analysis or critique. Once recovered, that Archimedean point of leverage can
 serve as a starting point for the work of de-naturalizing comfortable (if
 calcified) notions of the digital. It is in this de-familiarization (in a sense
@@ -179,27 +181,26 @@ technological other we see the human world anew.
 
 I return, then, to the subject of time, found throughout in the background of
 this book. The popular imagination of digital machines belies a deep sense of
-anxiety about the rhythm of the system as a whole, in which humans play only a
-small part (as bug operators, users, or receivers). Telegraphs and
+anxiety about the rhythm of the system as a whole, in which humans play only
+a small part (as bug operators, users, or receivers). Telegraphs and
 subsequently computers force an atomization of experience into discrete bits,
-along with the opposite movement toward continuity fluid and rapid enough as
-to move beyond the boundaries of human perception. Attention to the material
+along with the opposite movement toward continuity fluid and rapid enough as to
+move beyond the boundaries of human perception. Attention to the material
 conditions of removable storage media reveals a delicate negotiation of
 synchronicity between human and machine time, in a complex chain of encoding
 and re-mediation that connects differing and incongruent perceptual apparatus.
-Under these conditions, it would be a mistake to conflate digital and
-discrete, just as it would be a mistake to reduce the human to the
-continuous.[^ln3-cont] Homeostasis is found at some arbitrary point,
-contingently connected to human biology and to current technological
-capability. The question of "What constitutes a moment?" when watching
-television or reading a book, can become then, "What *should* constitute a
-moment?" For the tick lying in wait for its next warm meal, a moment can last
-for decades (Uexküll reports up to 18 years). "Time, which frames all events,"
-Uexküll writes, "seemed to us to be the only objectively consistent factor
-[…], but now we see that the subject controls the time of its environment"
-[@uexkull_foray_2010, 52]. The computational environment before us constitutes
-the grounds for all higher-level interpretive activity---from reading poetry
-to debugging code or diagnosing a patient. From the textual grounds of
-human-machine interaction it then becomes possible to derive a poetics, in the
-sense of a study and an art of creating one's own time: prosody, meter,
-harmony, cadence, and syncopation.
+Under these conditions, it would be a mistake to conflate digital and discrete,
+just as it would be a mistake to reduce the human to the continuous.
+Homeostasis is found at some arbitrary point, contingently connected to human
+biology and to current technological capability. The question of "What
+constitutes a moment?" when watching television or reading a book, can become
+then, "What *should* constitute a moment?" For the tick lying in wait for its
+next warm meal, a moment can last for decades (Uexküll reports up to 18 years).
+"Time, which frames all events," Uexküll writes, "seemed to us to be the only
+objectively consistent factor, […] but now we see that the subject controls the
+time of its environment" [@uexkull_foray_2010, 52]. The computational
+environment before us constitutes the grounds for all higher-level interpretive
+activity---from reading poetry to debugging code or diagnosing a patient. From
+the textual grounds of human-machine interaction it then becomes possible to
+derive a poetics, in the sense of a study and an art of creating one's own
+time: prosody, meter, harmony, cadence, and syncopation.
