@@ -177,18 +177,21 @@ described spatial writing symbols that "appeal to the eye," and temporal,
 instance," Murray wrote, "a signboard may extend over 10 feet and 100 years."
 Time signals, by contrast, are ephemeral: "a Morse signal in a wire may extend
 over half a second and 500 miles" [@murray_setting_1905, 86]. The signal is
-long duration but short on space.
+long in duration but short in space.
 
-<!-- rewrite this to make clear -->
-In print, the reader could mentally assemble consecutive physical markings
-into sentences, paragraphs, and chapters---abstract categories not otherwise
-accessible to the mind. Electric signs were not readily visible either.
-Besides reassembling the sign in time the reader must also walk the length of
-the inscription to discern its shape. The inscription gains a complex new time
-signature which extends away and beyond the reader's field of view.
+Physical structures like sentences and paragraphs that appear on a page take
+shape in the reader's mind. Unlike a painting, a paragraph cannot be perceived
+wholly and at once; it must be reassembled mentally. The printed word thus
+extends in time. By contrast, the electric signal is near instantaneous. But
+it extends in space. A telegraphic letter may span continents. A perceptive
+electronic reader would therefore also need to reconstruct the sign's spatial
+characteristics. The inscription gains a new dimension which extends away and
+beyond the reader's field of vision. Elongation in space compounds elongation
+in time to complicate reading.
 
-As telegraphy spanned national boundaries, agreements were needed to
-standardize conventions for equipment and message encoding
+The new spatial dimension of electronic writing presented novel technological
+challenges. As telegraphy spanned national boundaries, agreements were needed
+to standardize conventions for equipment and message encoding
 [@international_telegraph_union_journal_1899, 82-91]. They were handled on a
 regional, ad-hoc basis until 1865, when the International Telegraph Union
 (ITU) was created. The International Telegraph Conference (ITC) in Paris, held
@@ -382,9 +385,7 @@ ten units) [@murray_setting_1905; @beauchamp_history_2001 380-397].
 ![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys
 [@murray_setting_1905].](images/murray-keyboard.png)
 
-<!--
 ![Table of Alphabets, 1901 [@vansize_new_1901, 23].](images/alphabets-vansize.png)
--->
 
 Fixed-length signal alphabets further separated human and machine
 communication. Significantly, the automated printing telegraph decoupled
