@@ -1184,7 +1184,7 @@ strategy of "developing tools and techniques" to develop better tools and
 techniques. The "tangible product" of such an activity was a "constantly
 improving augmentation system for use in developing and studying augmentation
 systems." It is an appealing vision, but only as long as it remained
-recursive. The lab benefits from creating its own tools and methods.  But
+recursive. The lab benefits from creating its own tools and methods. But
 Engelbart also hoped that his system could be "transferred---as a whole or by
 pieces of concept, principle and technique---to help others develop
 augmentation systems for many other disciplines and activities." Undoubtedly,
@@ -1212,6 +1212,13 @@ The diagram shows care and love for the craft of writing. But there is also
 complexity. The feeling of transcendence the anonymous author describes in
 using the system engages a sophisticated mechanism. But it was not the
 mechanism that lifted the community up, it was the process of creating it.
+Contemporary word processors enable us to drag and drop passages with
+unprecedented facility. But readers and writers hardly comprise a
+"bootstrapping community," of the kind Engelbart imagined. The contemporary
+writer is bootstrapped passively to whatever prevailing vision of intellect
+augmentation. The very discussion about "intellect augmentation" is erased
+when augmentation becomes a commodity. It is beyond critique.
+
 Engaged in a methodical discipline of self-reflection the architects of
 intellect augmentation followed traditional Delphic ideals of self actuation.
 The very metaphor of bootstrapping suggests the impossibility of using one's
@@ -1220,15 +1227,8 @@ research program therefore left another less lofty imprint on the everyday
 practice of modern intellectual life. Text, which before the advent of the
 cathode ray was readily apparent on the page in all of its fullness, finally
 entered a complex system of executable code and inscrutable control
-instruction.  The material lightness of textual being came at the price of
+instruction. The material lightness of textual being came at the price of
 legibility.
-
-Contemporary word processors enable us to drag and drop passages with
-unprecedented facility. But readers and writers hardly comprise a
-"bootstrapping community," of the kind Engelbart imagined. The contemporary
-writer is bootstrapped passively to whatever prevailing vision of intellect
-augmentation. The very discussion about "intellect augmentation" is erased
-when augmentation becomes a commodity. It is beyond critique.
 
 [^ln2-gate]: Solid state memory technology, flash memory for example, store
 information in capacitor "circuit states." This by contrast with
