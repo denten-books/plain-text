@@ -933,55 +933,47 @@ writing and textuality.
 
 ## C. Restored Sight
 
-In decoupling input and output, magnetic storage and solid state media afford
-the injection of time and space, in arbitrary intervals, between the process
-of inscription and comprehension. Content coupled with control code and
-encoded into an electrical charge sinks beneath the matte surface of an
-inscrutable medium. The final movement in the textual fissure restores a sense
-of immediacy into the process of inscription through screen projection. Text,
-invisible in its material substratum, reappears on the screen, but, crucially,
-the correspondence between the archived inscription and its projected image
-can no longer be guaranteed. The very admixture of formatting and control code
-which we saw emerge in the first stage of the movement towards simulation
-remains out of sight. The condition of simulated text is as liberating as it
-is perilous: liberating, because loosely coupled to their material substratum
-texts become both more fluid and more portable; and perilous because the flows
-of power and control can now be submerged beneath the visible surface of the
-screen. Plainly put, the systematic barriers to copying, sharing, exchanging,
-editing, remixing, and disseminating texts are reduced to a minimum, while the
+By decoupling input and output, magnetic storage and solid state media inject
+time and space, in arbitrary intervals, between the process of inscription and
+comprehension. Content and control code, when encoded into electrical charge,
+sink beneath the matte surface of an inscrutable medium. Screen projection
+makes inscription seem immediate once again. Text, invisible in its material
+substratum, now reappears. But, crucially, the correspondence between archived
+inscription and its projected image is no longer guaranteed. The very
+admixture of formatting and control code remains out of sight. The condition
+of simulated text is as liberating as it is perilous: liberating, because
+loosely coupled to their material substratum, texts become both more fluid and
+more portable; and perilous, because flows of power and control are now
+submerged beneath the screen. Systematic barriers to copying, sharing,
+exchanging, editing, remixing, and disseminating texts diminish, while the
 barriers to comprehension increase.
 
-I propose to treat the year 1968 as the year in which the contemporary textual
-condition took its present, completed form. Subsequent generations of
-computational devices would change in terms of size, speed, and ubiquity. But
-they also retain essentially the same architecture, comprising (i)
+In 1968, the contemporary textual condition took its present form. Subsequent
+generations of computational devices changed in terms of size, speed, and
+ubiquity. But they retain the same essential architecture, comprising (i)
 programmable storage media; (ii) internal memory, magnetic, solid or other
 types of external storage; and (iii) keyboards and screen displays for
-human-machine interaction. The addition of the screen completed the circuit
-between human-initiated input and human-legible output. The screen "opened a
-window" onto the submerged world of magnetic storage.
+human-machine interaction. Screens completed the circuit between
+human-initiated input and human-legible output. They "opened a window" onto
+the submerged world of magnetic storage.
 
 In theory, the screen updates multiple times per second to give an accurate
 up-to-the moment view of the system's internal states, which are otherwise
-opaque and illegible. In practice, the machine operator must have trust in the
-design of the system to render its own internal states faithfully. And because
-system control characters grew from several machine instructions in the first
-decades of the twentieth century to complicated and infinitely extensible
-"Turing-complete" programming languages by the 1950s, much of the systems
-internals are habitually hidden from the average machine user. For
-convenience's sake, and later for loftier reasons like intellectual rights
-management and system security, the user is given access to partial, simulated
-representations of machine internals. Such compromise informs the architecture
-of most computer systems, from digital cameras to mobile phones, and to
-electronic book readers.
+opaque and illegible. In practice, the machine operator trusts the system's
+design to render its internal states faithfully. And because system control
+characters grew in complexity, our writing machines have become increasingly
+inscrutable. For convenience's sake, and later for loftier reasons like
+intellectual rights management and system security, users were presented with
+only partial, simulated representations of machine internals. Such compromises
+inform the architecture of most computer systems, from digital cameras to
+mobile phones and electronic book readers.
 
 On December 9, 1968 Douglas Engelbart, then founder and primary investigator
 at the NASA- and ARPA-funded Augmentation Research Center lab at the Stanford
-Research Institute, gave what later became known colloquially as "the mother
-of all demos" before the audience of roughly one thousand or so computer
-professionals attending the Joint Computer Conference held at the Convention
-Center in San Francisco [@rogers_demo_2005; @tweney_mother_2008]. The flyer
-advertising the event described it as follows:
+Research Institute, gave what later became known as the "mother of all demos"
+to an audience of roughly one thousand or so computer professionals attending
+the Joint Computer Conference in San Francisco [@rogers_demo_2005;
+@tweney_mother_2008]. The flyer advertising the event described it as follows:
 
 > This session is entirely devoted to a presentation by Dr. Engelbart on a
 > computer-based, interactive, multiconsole display system which is being
@@ -996,33 +988,32 @@ advertising the event described it as follows:
 > room set aside for that purpose [@engelbart_doug_1968].
 
 The demo announced the arrival of almost every technology prophesied by
-Vannevar Bush in his influential 1945 piece for *The Atlantic*, "As We May
-Think" [@bush_as_1945]. During his one hour or so lecture, Engelbart features
-functional  prototypes of the following: graphical user interfaces, video
-conferencing, remote camera monitoring, links and hypertext, version control,
-text search, image manipulation, windows-based user interfaces, digital
-slides, networked machines, mouse, stylus, and joystick inputs, and "what you
-see is what you get" (WYSIWYG) word processing.
+Vannevar Bush in his influential 1945 *Atlantic* essay, "As We May Think"
+[@bush_as_1945]. During his short lecture, Engelbart presented functional
+prototypes of the following: graphical user interfaces, video conferencing,
+remote camera monitoring, links and hypertext, version control, text search,
+image manipulation, windows-based user interfaces, digital slides, networked
+machines, mouse, stylus, and joystick inputs, and "what you see is what you
+get" (WYSIWYG) word processing.
 
-In his report to NASA, the agency which sponsored the research, Engelbart
-described his lab as a group of scientists "developing an experimental
-laboratory around an interactive, multiconsole computer-display system" and
-"working to learn the principles by which interactive computer aids can
-augment the intellectual capability of the subjects" [@engelbart_human_1969,
-1]. Cathode Ray Tube (CRT) displays were central to this research mission. In
-one of many patents that came out of his "intellect augmentation" laboratory,
-Engelbart pictured the "display system" as a workstation that combines a
-typewriter, a CRT screen, and a mouse. The patent schematics show the
-workstation in action, with the words "NOW IS THE TIME FOB" prominently
-displayed on the screen. Although Engelbart did not explain the meaning of the
-message, the system's user is evidently in the process of editing a sentence
-and about to correct the nonsensical FOB into a FOR.[^ln5-timefob]
+In his report to NASA, Engelbart described his lab as a group of scientists
+"developing an experimental laboratory around an interactive, multiconsole
+computer-display system" and "working to learn the principles by which
+interactive computer aids can augment the intellectual capability of the
+subjects" [@engelbart_human_1969, 1]. Cathode Ray Tube (CRT) displays were
+central to this research mission. In one of many patents that came out of his
+"intellect augmentation" laboratory, Engelbart pictured the "display system"
+as a workstation that combines a typewriter, a CRT screen, and a mouse. The
+patent schematics show the workstation in action, with the words "NOW IS THE
+TIME FOB" prominently displayed on screen. The system's user was evidently in
+the process of editing a sentence and about to correct the nonsensical FOB
+into a FOR.[^ln5-timefob]
 
 !["NOW IS THE TIME FOB." Schematics for a "display system"
 [@engelbart_x-y_1970].](images/engel.png)
 
 Commenting on the use of "visual display systems" for human-computer
-interaction, Engelbart writes:
+interaction, Engelbart wrote:
 
 > One of the potentially most promising means for delivering and receiving
 > information to and from digital computers involves the display of computer
@@ -1030,32 +1021,27 @@ interaction, Engelbart writes:
 > of the display by human operator in order to deliver instructions to the
 > computer" [@engelbart_x-y_1970].
 
-The short-lived screenless word processors of the early 1960s (like the IBM
-MT/ST) necessitated the cognitively arduous task of continuously keeping the
-underlying document structure in the mind's eye. The screen removes that
-burden by reconstructing the document structure topographically, along the
-*x/y* axes. It restores a sense of apparent and organized space to data stored
-in ad-hoc and impalpable structures along the surface of then magnetic storage
-and now solid state medium. The contemporary "digital" document may resemble a
-page on the screen, but beneath it, it is a jumble of bits, split into the
-various regions of internal memory. The screen attempts to restore unity. It
-recombines the bits to once again produce something resembling a paragraph, a
-page, or a book, recreating some of the natural affordances of print, like
-"turning the page," "writing on the margins, and "bookmarking." But these
-actions are mere simulations of paper formats. Even as it gives the machine
-operator some familiar visual cues guided by the physics of paper and ink, the
-simulation itself follows the laws of physics that govern magnets and
-electricity. The simulated text does not transcend matter, it merely
-dissembles, concealing most of its material properties while simulating
-others. The act of continual dissemblage---one medium imitating the
-other---gives rise to the ephemeral illusion, by which pages fade in and out
-of sight, paper folds in improbable ways, and words glide effortlessly between
-registers of copy and paste.
+Short-lived screenless word processors of the early 1960s (like the IBM MT/ST)
+forced writers to maintain a mental image of their document structure.
+Screens remove this burden by reconstructing the document structure
+topographically. They restored a sense of apparent and organized space to
+impalpable data, stored along magnetic surfaces or in solid state media. The
+contemporary "digital" document may resemble a page on the screen, but beneath
+it, it is a jumble of bits, split into the various regions of internal memory.
+Tough screens seem to restore document unity by presenting wholistic images of
+paragraphs, pages, and books, these structures are mere simulations. The
+simulation seems to follow the physics of paper and ink---one can turn pages,
+write in margins, make bookmarks---it is really governed by electromagnetics.
+The simulated text does not transcend matter, it merely dissembles. It
+conceals its true material properties while recreating others artificially.
+The act of continual dissemblage---one medium imitating the other---creates
+the ephemeral illusion, by which pages fade in and out of sight, paper folds
+in improbable ways, and words glide effortlessly between registers of copy and
+paste.
 
-Humans reading and writing on magnetic media with the aid of the screen for
-the first time reported a feeling of freedom and liberation from paper. An
-anonymous account included in Engelbart's report offers the following
-phenomenological self-assessment:[^ln2-follow]
+The first humans to read and write on screen reported feeling freedom and
+liberation from paper. An anonymous account included in Engelbart's report
+offered the following phenomenological self-assessment:[^ln2-follow]
 
 ```
     1B2B1 "To accommodate and preserve a thought or
@@ -1075,24 +1061,17 @@ phenomenological self-assessment:[^ln2-follow]
     and content of its discussion material.
 ```
 
-In other words, what the typist previously perceived as an ordered and
-continuous activity of writing one word after the other, could now be
-performed in a more disjointed way. The typist describes deriving delight from
-shaping physical paragraph structure in ways that more closely match the
-perception of his own mental activity. For the typist habituated to
-typewriters, the addition of the screen restored some of the facility with the
-word lost to the rigid mechanism that forced sequential, line by line entry.
-The author could now think two thoughts at the same time if you will,
-documenting both at different parts of the file as one would on a sketch pad
-or in a notebook. The author suggests that this new way asynchronous and
-multi-threaded way of writing better resembles the natural, spontaneous
-operation of the human mind.
+Writing, which the typist previously perceived as an ordered and continuous
+activity, she now performed in a more disjointed way. She delights in shaping
+paragraphs that more closely match her mental activity. Screens thus restored
+some of the fluidity of writing that typewriters denied. Writers could, for
+example, pursue two thoughts at the same time, documenting both at different
+parts of the file as one would in a notebook. Not constrained by the rigidity
+of a linear mechanism, they could move around the document at will.
 
-Interested in documenting such empirical phenomenological reflections of
-system use, Engelbart recorded what must count as some the most evocative
-passages to appear on the pages of a NASA technical report. The "Results and
-Discussion" section of the report contain the following anonymous
-contemplation:
+Engelbart recorded what must count as some the most evocative passages to
+appear in a NASA technical report. Its "Results and Discussion" contains the
+following anonymous contemplation:
 
 ```
 1B4 "I find that I can express myself better, if I can
@@ -1102,10 +1081,9 @@ experiments a little with using structural decomposition
 of a complex sentence.]
 ```
 
-A decomposition follows indeed, as the author deviates dramatically from the
-conventions of a technical report. Numbered passages along with unexpected
-enjambment heighten the staccato quality of the prose, which at times reaches
-towards the lyric:
+A decomposition follows indeed. The author deviates dramatically from
+technical writing conventions. Numbered passages along with unexpected
+enjambment heighten the staccato quality of the often lyrical prose:
 
 ```
     1B4A "I find that I write faster and more freely,
@@ -1138,6 +1116,7 @@ towards the lyric:
         spirit.
 ```
 
+<!-- unpack the quote a bit more -->
 When input and output coincide in time, as they do on paper, mistakes are
 costly. Once inscribed, the sign gains permanence. It is difficult to emend.
 An eraser of some sort can help remove a layer of physical material.
@@ -1146,18 +1125,15 @@ Engelbart's anonymous subject reports the feeling of freedom from such
 commitment to a physical medium. He or she can simply "backspace" and start
 over.
 
-The previous generation of word processors allowed for dynamic erasure, but
-with the introduction of the screen the writer can now follow along and "see"
-the changes in real time. Freed, seemingly, from the immediate and permanent
-commitment to a medium like paper or punch card writing "comes easy" and
-"uninhibited." Instead of carefully selecting the right words for the final
-draft the writer "pours" them all out and then "selects" the ones that seem
-appropriate, without hesitation. The highly hierarchical and blocky paragraph
-structure, along with its repetitive refrain, "finding" and "I find that,"
-gives the prose a hypnotic drive forward. The cadence matches the reported
-experience of liberation.
+Though previous generation of word processors allowed for dynamic erasure, it
+was only screens that let writers see changes in real time.  Freed, seemingly,
+from the immediate and permanent commitments of a medium like paper or punch
+card, writing "came easily" and "without inhibition." <!-- more analysis -->
+The highly hierarchical and blocky paragraph structure, along with its
+repetitive refrain, "finding" and "I find that," gives the prose a hypnotic
+drive forward. The cadence matches the reported experience of liberation.
 
-Anonymous continues to report:
+Anonymous continues:
 
 ```
     1B4B "I find that,
@@ -1194,19 +1170,18 @@ Anonymous continues to report:
             peek at what is to come soon.
 ```
 
-The passages appear too contrived to be spontaneous admissions of
-phenomenological experience. Despite their experimental structure, the words
-advance key elements of Engelbart's research program, which aimed to develop
-new data structures in combination with new ways of displaying them. Yet I
-cannot help but be carried away by the fluency of the prose and by the sheer
-audacity of the project.
+The passages appear too contrived to be spontaneous. Despite their
+experimental structure, the words advance key elements of Engelbart's research
+program, which aimed to develop new data structures in combination with new
+ways of displaying them. Yet I cannot help but be moved by the fluency of the
+prose and by the sheer audacity of the project.
 
 Engelbart's research into intellect augmentation created tools that augment
 research. In an image that evokes Baron Münchhausen pulling himself out of a
 swamp by his own bootstraps, Engelbart described the methodology employed by
 his lab as "bootstrapping." Bootstrapping for Engelbart involved the recursive
 strategy of "developing tools and techniques" to develop better tools and
-techniques. The "tangible product" of such an activity was "a constantly
+techniques. The "tangible product" of such an activity was a "constantly
 improving augmentation system for use in developing and studying augmentation
 systems." It is an appealing vision, but only as long as it remained
 recursive. The lab benefits from creating its own tools and methods.  But
@@ -1214,29 +1189,21 @@ Engelbart also hoped that his system could be "transferred---as a whole or by
 pieces of concept, principle and technique---to help others develop
 augmentation systems for many other disciplines and activities." Undoubtedly,
 Engelbart's ideas about intellect augmentation have had a broad impact on
-knowledge work across disciplines. However, Engelbart's vision loses the
-property of self determination in the transfer outside of the narrow confines
-of his lab. At large, it no longer involved a community pulling itself by the
-bootstraps. Rather it became augmentation enforced from without, adhering to
-values and principles no longer comprehensible to the entity being augmented.
-
-Contemporary word processors enable us to drag and drop passages with
-unprecedented facility. But readers and writers hardly comprise a
-"bootstrapping community" of their own, of the kind Engelbart imagined for his
-laboratory peers. The contemporary writer is bootstrapped passively to
-whatever prevailing vision of intellect augmentation. The very discussion
-about what "intellect augmentation" means, passes from view as the tools of
-augmentation become a commodity. They are beyond reading or critique as they
-are no longer legible to the community of readers and writers.
+knowledge work across disciplines. However, his vision loses self
+determination when transferred outside the narrow confines of his lab. At
+large, it no longer involved a community pulling itself by the bootstraps.
+Rather it became augmentation enforced from without, adhering to values and
+principles no longer comprehensible to the entity being augmented.
 
 To bring his system into being, Engelbart convened a bootstrap community which
 through recursive self-improvement could lift itself up towards a smarter,
-more efficient, more human way of doing research. To accomplish their task,
-the group crafted novel instruments for input and output. They wrote new
-programming languages, compilers to interpret them, and debuggers to
-troubleshoot. They invented word editors and format control languages. Here's
-how Engelbart diagrams a *part* of his text-manipulation language in the same
-report:
+more efficient, more human way of doing research. The group crafted novel
+instruments for input and output. They wrote new programming languages,
+compilers to interpret them, and debuggers to troubleshoot. They invented word
+editors and format control languages. Here's how Engelbart diagrams a *part*
+of his text-manipulation language in the same report:
+
+<!-- the diagram should be introduced and discussed explicitly -->
 
 !["State--chart portrayal of part of text--manipulation control language"
 [@engelbart_human_1969, 36].](images/engel-edit.png)
@@ -1255,6 +1222,13 @@ cathode ray was readily apparent on the page in all of its fullness, finally
 entered a complex system of executable code and inscrutable control
 instruction.  The material lightness of textual being came at the price of
 legibility.
+
+Contemporary word processors enable us to drag and drop passages with
+unprecedented facility. But readers and writers hardly comprise a
+"bootstrapping community," of the kind Engelbart imagined. The contemporary
+writer is bootstrapped passively to whatever prevailing vision of intellect
+augmentation. The very discussion about "intellect augmentation" is erased
+when augmentation becomes a commodity. It is beyond critique.
 
 [^ln2-gate]: Solid state memory technology, flash memory for example, store
 information in capacitor "circuit states." This by contrast with
