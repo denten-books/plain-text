@@ -99,15 +99,14 @@ sign and archived inscription. I will begin by providing a historical account
 of a letter's passage from paper to pixel. My narrative arc proceeds in three
 stages, which I summarize here and expand upon later.
 
-First, with the advance of telecommunications, at the turn of the twentieth
-century, we observe an emerging divide between human-readable text and
-machine-readable code. Removable storage media like ticker tape and punch
-cards constituted a machine instruction set, meant to actuate mechanisms which
-in turn produced human-legible inscriptions. Unintelligible (to humans without
-special training) control codes "driving" the machine were thereby mixed with
-plain text, the content of communication. Inscription split between sites of
-storage, which archives an expanded machine instruction set, and projection,
-which displays human alphabets.
+First, with the advance of telecommunications, we observe an emerging divide
+between human-readable text and machine-readable code. Removable storage media
+like ticker tape and punch cards constituted a machine instruction set, meant
+to actuate mechanisms which in turn produced human-legible inscriptions.
+Unintelligible (to humans without special training) control codes "driving"
+the machine were thereby mixed with plain text, the content of communication.
+Inscription split between sites of storage, which archives an expanded machine
+instruction set, and projection, which displays human alphabets.
 
 Second, where ticker tape and punch cards were legible to the naked eye,
 magnetic tape storage made for an inscrutable medium, inaccessible without
@@ -145,16 +144,20 @@ the heart of our contemporary textual predicament.
 
 ## A. Perforation
 
-First, some background to telegraphy. The turn of the twentieth century was a
-pivotal period in the history of letters. It saw the language of people and
-the language of machines combine. The Morse and Baudot codes paved the way for
-language automation. The great variety of human scripts was finally reduced to
-thirty-two discrete and reproducible characters. So regularized, type was
-converted into electrical signal, sent over great distances, and used to
-program machines remotely. But these new affordances came at a price of
-legibility. A cadre of specially trained machine operators was required to
-translate human alphabets into machine transmittable code. Eventually,
-specialized equipment automated this process.
+To begin, some background on telegraphy. The turn of the twentieth century was
+a pivotal period in the history of letters. It saw the languages of people and
+machines enter the same mixed communications stream. Artificial, fixed-length
+alphabets like the Baudot code paved the way for the automation of language.
+The great variety of human scripts was reduced to a set of discrete and
+reproducible characters. So regularized, type was converted into electrical
+signal, sent over great distances, and used to program machines remotely. But
+these new affordances came at a price of legibility. Initially, a cadre of
+trained machine operators was required to translate human language into
+machine transmittable code. Eventually, specialized equipment automated this
+process, removing the human from the equation. Machines could communicate with
+other machines without human intervention, triggering a chain of cascading
+events that reverberate today: from algorithmic financial trading to the war
+between junk (spam) mail generators and their filters.
 
 The advent of programmable media---punch cards and ticker tape---coupled
 human-compatible alphabets with machine control code. Reduced to a discrete
@@ -166,9 +169,10 @@ that affected machine state changes at a distance. Initially, such state
 changes were simple: "begin transmission," "sound error bell," "start new
 line." With time, they developed into what we now know as programming
 languages. Content meant for people was being routinely intermixed with code
-meant to control machine devices. Such remote capabilities were used to
-control everything from radio stations, to advertising billboards, to knitting
-machines [@hough_wired_1931; @adler_knitting_1933; @casper_remote_1934].
+meant to control machine devices. Such early remote capabilities were quickly
+adapted to control everything from radio stations to advertising billboards
+and knitting machines [@hough_wired_1931; @adler_knitting_1933;
+@casper_remote_1934].
 
 Language compressed and pushed through the wires underwent a number of
 transformations. Donald Murray, the inventor of the popular Murray telegraph
@@ -178,44 +182,46 @@ described spatial writing symbols that "appeal to the eye," and temporal,
 "telephonic" signals that "appeal to the ear." Paradoxically, space signals
 (like words on a billboard) occupy little space, but persist in time.  "For
 instance," Murray wrote, "a signboard may extend over 10 feet and 100 years."
-Time signals, by contrast, are ephemeral: "a Morse signal in a wire may extend
-over half a second and 500 miles" [@murray_setting_1905, 86]. The signal is
-long in duration but short in space.
+Time signals, by contrast, dilate in space where they contract in time. "A
+Morse signal in a wire may extend over half a second," Murray wrote, and 500
+miles [@murray_setting_1905, 86].
 
 Physical structures like sentences and paragraphs that appear on a page take
 shape in the reader's mind. Unlike a painting, a paragraph cannot be perceived
 wholly and at once; it must be reassembled mentally. The printed word thus
-extends in time. By contrast, the electric signal is near instantaneous. But
-it extends in space. A telegraphic letter may span continents. A perceptive
-electronic reader would therefore also need to reconstruct the sign's spatial
-characteristics. The inscription gains a new dimension which extends away and
-beyond the reader's field of vision. Elongation in space compounds elongation
-in time to complicate reading.
+extends in time. By contrast, the electric signal is near instantaneous. It
+claims space however in transmission. A perceptive reader of electric letters
+reconstructs the sign's spatial along with its temporal characteristics. The
+digital inscription gains a new dimension which extends away and beyond the
+reader's field of vision. Elongation in space compounds elongation in time to
+complicate the tactics of reading.
 
-The new spatial dimension of electronic writing presented novel technological
-challenges. As telegraphy spanned national boundaries, agreements were needed
-to standardize conventions for equipment and message encoding
-[@international_telegraph_union_journal_1899, 82-91]. They were handled on a
-regional, ad-hoc basis until 1865, when the International Telegraph Union
-(ITU) was created. The International Telegraph Conference (ITC) in Paris, held
-between March 1 and May 17 of 1865, adopted, among other things, the use of a
-modified Morse code character set, containing 33 Latin letters (including
-characters from the French, German, and Spanish alphabets), 10 numbers (0--9),
-14 punctuation marks (including a fraction bar), and 10 control codes
-(including "end of service," "attention," and "error")
+The electronic letter's emergent physics presented new technological and
+administrative challenges. As telegraphy spanned national boundaries,
+agreements were needed to standardize conventions for equipment and message
+encoding [@international_telegraph_union_journal_1899, 82-91]. These were
+handled on a regional, ad-hoc basis until 1865, when the International
+Telegraph Union (ITU) was created. The International Telegraph Conference
+(ITC) in Paris, held between March 1 and May 17 of 1865, adopted, among other
+things, the use of a modified Morse code character set, containing 33 Latin
+letters (including characters from the French, German, and Spanish alphabets),
+10 numbers (0--9), 14 punctuation marks (including a fraction bar), and 10
+control codes (including "end of service," "attention," and "error")
 [@international_telegraph_union_documents_1865]. In specifying the conversion
 tables for the Morse alphabet, the 1865 ITU rules required a silence equal to
 three dots (or one dash) to indicate the space between two letters, and a
-silence equivalent to four dots (later changed to seven) to indicate the space
+silence equivalent to four dots (later changed to seven) to indicate a gap
 between words.
 
 Although Morse code is commonly imagined as a binary code, comprising ones and
 zeroes, it is technically ternary, because it uses three elements: dots,
 dashes, and silences. In Morse code, characters are of variable length: one
 dash for "t," for example, and six dots for the number six. The transmission
-of variable length codes thus required the presence of a human operator who
-could "translate" from natural to machine language using a "key" which when
+of variable length codes thus required the presence of human operators who
+could "translate" from natural to machine language using "keys" which when
 depressed vertically would complete an electric circuit to produce the signal.
+The key interfaced between disparate conduits---paper and wire---that hosted
+human and machine languages.
 
 Writing in 1929 for the journal *American Speech*, Hervey Brackbill preserved
 some of the specialized language associated with Morse code culture. "Morse
@@ -227,19 +233,20 @@ machines that had "long slender levers and springs." Bugs had trade names like
 
 Operators using "straight keys" achieved speeds upwards of 25--30 words per
 minute, limited by the shortest possible length of the smallest transmitted
-unit (a dot), fixed by the American and the International Morse Code
-conventions to 1/24 of a second in duration.
+unit (a dot), fixed by the American and International Morse Code conventions
+to 1/24 of a second in duration.
 
 At the time, companies like Vibroplex began manufacturing semi-automatic keys,
-which made use of a horizontal switch capable of emitting a rapid succession
+which made use of horizontal switches capable of emitting a rapid succession
 of dots to one side of the action, and dashes to the other
-[@martin_telegraphic_1904; @boyd_telegraph-key_1916]. A bug was said to "run
-away" when adjusted for too high of a speed. Vibroplex keys would greatly
-alter the "fist," or the operator's individual transmission style. They also
-allowed for speeds approaching 50 words per minute and above, if not following
-the minimum signal length specifications [@mcnicol_american_1913, 207;
+[@martin_telegraphic_1904; @boyd_telegraph-key_1916]. A semi-automatic bug was
+said to "run away" when adjusted for too high of a speed. Vibroplex keys would
+also greatly alter the "fist," or the operator's individual transmission
+style, by which telegraphers could be previously recognized. They allowed for
+speeds approaching 50 words per minute and above, when not following the
+minimum signal length specifications [@mcnicol_american_1913, 207;
 @u.s._bureau_of_labor_statistics_displacement_1932; @halstead_genesis_1949].
-Despite the improvements, Morse code was showing its age. Although the
+Despite such improvements, Morse code was showing its age. Although the
 convention stipulated fixed length, the actual length of silences between
 meaning-carrying units varied greatly with the vagrancies of transmitting
 media. Cross talk between wires and weather interference was common;
@@ -275,8 +282,9 @@ printed to tape using a letter wheel. Hughes referred to his invention as a
 "Compound Magnetic and Vibrating Printing Instrument," a name that hints at
 its fragility. When the sending and receiving drums fell out of sync, the
 message became impossible to decipher [@hughes_improvement_1856;
-@hayles_print_2004, 145-147; @noll_evolution_2007, 20-21]. Coordination
-between the various machines and their operators was of paramount importance.
+@hayles_print_2004, 145-147; @noll_evolution_2007, 20-21]. Precise
+coordination between the various drums and their operators was of paramount
+importance.
 
 The number and size of telegraph cables further limited the system's
 "information density." Independent developments in communication technology
@@ -295,16 +303,16 @@ reception and decoding across multiple simultaneous wave frequencies.
 Emile Baudot, among others, noticed that the prevailing Morse and Hughes
 telegraph systems also failed to make full use of the *time* allotted for
 message transmission. Hughes telegraphs in particular extensively used long
-silences, which could have been condensed to extract more channel utility.
-Baudot-type time multiplexers utilized synchronized rotating mechanisms at the
-sending and receiving end. These distributed units of time among multiple
-operators. One operator could, for example, send messages on top of the hour
-and the other at the bottom. In this way, receivers could sort messages based
-on time signature: all those sent on top of the hour go into one pile, all
+silences, which could have been condensed to improve bandwidth. Baudot-type
+time multiplexers utilized synchronized rotating mechanisms at the sending and
+receiving ends. These distributed units of time among multiple operators. One
+operator could, for example, send messages on top of the minute and the other
+at the bottom. In this way, receivers could sort messages based on time
+signatures: all those sent on top of the minute would go into one pile, all
 those on the bottom, into another. A "duplex" printing telegraph, of the
 Murray type, involved a complicated synchronization device, known as the
 "distributor," capable of orchestrating two distinct streams of transmission
-along the same channel. Taking turns to transmit, to the regular tolling of a
+along the same channel. Taking turns to transmit to the regular tolling of a
 tuning bell, two operators would send separate messages along the same
 channel. The receiving machine would then separate one message from the other
 based on its time signature [@murray_setting_1905].
@@ -336,8 +344,8 @@ comprehension, to a point where human operators could no longer decipher
 signals without machine assistance. In the language of wiremen, bugs were
 "running away" with the whole "game" [@brackbill_telegraphers_1929, 288]. A
 human operator examining wire signals directly would find a jumble of data.
-This, in fact, is a good definition of data: information beyond human time,
-not available to attempts of unmediated, direct interpretation.
+This, in fact, is a decent provisional definition of data: information beyond
+human time, not amenable to unmediated interpretation.
 
 Hundreds of alphabet systems were devised to speed up automated
 communications. These evolved from variable-length alphabets like Morse and
@@ -346,18 +354,19 @@ the signal---always the same length, always at the same time---moved the dial
 further from natural human languages, which rely on affect and variation, to
 artificial codes, which necessitate consistency and reproducibility.
 
-The discovery of binary arithmetic belongs to Gottfried Leibniz, who,
+The discovery of *binary* arithmetic belongs to Gottfried Leibniz, who,
 influenced by hexagrams of the *I Ching*, articulated his own system in his
 1979 *Explication de l'Arithmétique Binaire* [@leibnitz_explication_1703].
-But, Francis Bacon deserves credit for articulating a fixed-length binary
-code. In the sixth book of his *De augmentis scientiarum*, an encyclopedic
-treatise on the "partition of sciences," Bacon boast of inventing a "highest
-degree of cipher" that can signify "all in all" (*omnia per omnia*).
-[^ln2-bacon] He proceeds to describe a "fivefold," "bi-literarie" alphabet,
-which encodes each letter of the English language using a five-character long
-string of As and Bs. The letter A, for example, became "aaaaa." B became
-"aaaab," C "aaaba," and so on to Z, rendered as "babbb." "Neither is this a
-small matter," Bacon wrote:
+Francis Bacon deserves credit for articulating a *fixed-length* binary code.
+In the sixth book of his *De augmentis scientiarum*, an encyclopedic treatise
+on the "partition of sciences," Bacon mentioned a "highest degree of cipher"
+that could signify "all in all" [*omnia per omnia*].[^ln2-bacon] He proceeded
+to describe a "fivefold," "bi-literarie" alphabet, which encoded each letter
+of the English language using a five-character long string of As and Bs. The
+letter A, for example, became "aaaaa." B became "aaaab," C "aaaba," and so on
+to Z, rendered as "babbb." Unlike other known cypher systems, Bacon's
+characters all took up exactly five spaces. "Neither is this a small matter,"
+Bacon wrote:
 
 > These Cypher-Characters have, and may performe: For by this *Art* a way is
 > opened, whereby a man may expresse and signifie the intentions of his minde,
@@ -367,21 +376,25 @@ small matter," Bacon wrote:
 > report of Muskets, an any instruments of like nature [@bacon_advancement_1987,
 > 266].
 
-Writing more than two centuries before the telegraph's invention, Bacon
-eloquently described its essence, which lay in expressing and signifying the
-human mind at a distance.
+Writing more than two centuries before electric telegraphy, Bacon eloquently
+described its essence, which lay in expressing and signifying the human mind
+at a distance.
 
 The fixed-length property of Bacon's cipher, later implemented in the 5-bit
 Baudot code, signaled the beginning of the modern era of serial communications
 [@jennings_annotated_2004]. The Baudot and Murray alphabets were designed with
 automation in mind.[^ln1-murray] Both did away with the "end of character"
-that separated letters in Morse. Signals were be divided into letters by
-count, with every five codes representing a single character. Additionally,
-the Murray code was more compact than Morse and especially more economical
-than Hughes, which used up to 54 measures of silence to send a signal
-representing double quotes.[^ln1-zero] The signal for "zero" in Morse code
-occupied 22 measures.  By contrast, all Baudot and Murray characters were a
-mere five units in length, with the maximum of ten used to switch the
+signal that separated letters in Morse. Signal units were to be divided into
+letters by count, with every five codes representing a single character.
+Temporal synchronization was therefore unnecessary given the receiver's
+ability to read the message from the beginning. A character was simply a unit
+of space, divisible by five.
+
+Additionally, the Murray code was more compact than Morse and especially more
+economical than Hughes, which used up to 54 measures of silence to send a
+signal representing double quotes.[^ln1-zero] The signal for "zero" in Morse
+code occupied 22 measures. By contrast, all Baudot and Murray characters were
+a mere five units in length, with the maximum of ten used to switch the
 receiving device into "figure" or "capital letter" states (for the total of
 ten units) [@murray_setting_1905; @beauchamp_history_2001 380-397].
 
@@ -390,39 +403,58 @@ ten units) [@murray_setting_1905; @beauchamp_history_2001 380-397].
 
 ![Table of Alphabets, 1901 [@vansize_new_1901, 23].](images/alphabets-vansize.png)
 
-Fixed-length signal alphabets further separated human and machine
-communication. Significantly, the automated printing telegraph decoupled
-encoding from transmission. Fixed-length encoding could not be done in
-advance, with more facility and in volume. The prepared message could then be
-fed into a machine without human assistance. In 1905, Donald Murray wrote that
-"the object of machine telegraphy [is] not only to increase the saving of
-telegraph wire [...] but also to reduce the labor cost of translation and
-writing by the use of suitable machines" [@murray_setting_1905, 557]. Baudot's
-and Murray's codes were not only shorter, they were simpler and less
-error-prone, and thus resulted in less complicated and more durable devices.
+Fixed-length signal alphabets drove the wedge further between human and
+machine communication. Significantly, the automated printing telegraph
+decoupled information encoding from its transmission. Fixed-length encoding of
+messages could be done in advance, with more facility and in volume. The
+prepared message could then be fed into a machine without human assistance. In
+1905, Donald Murray wrote that the "object of machine telegraphy [is] not only
+to increase the saving of telegraph wire [...] but also to reduce the labor
+cost of translation and writing by the use of suitable machines"
+[@murray_setting_1905, 557]. Baudot's and Murray's codes were not only
+shorter, they were simpler and less error-prone, and thus resulted in less
+complicated and more durable devices.
 
-With the introduction of mechanised reading and writing techniques, the
-telegraph diverged from the telephone to become a device of asynchronous
-communication, displacing the act of communication in time as it did in space.
-The essence of algorithms lies in their ability to displace execution: a
-cooking recipe, for example, allows novice cooks to follow instructions
-without the presence of a master chef. Similarly, displaced communication
-happened in absentia, according to predetermined rules and instructions.
+With the introduction of mechanised reading and writing techniques, telegraphy
+diverged from telephony to become a means for truly asynchronous
+communication. It displaced signal transmission in time as it did in space.
+The essence of algorithms lies in their ability to delay execution: a cooking
+recipe, for example, allows novice cooks to follow instructions without the
+presence of a master chef. Similarly, delayed communication could happen in
+absentia, according to predetermined rules and instructions. A message could
+activate a machine that prints a log and another that trades stocks and
+another that replies with a confirmation.
 
-<!--- work on this paragraph, the point here is programming -->
+The new generation of printing telegraphs was "programmed" in this way using
+removable storage media, similar to the way player pianos were programmed to
+play music by means of music rolls. Just like perforated music rolls decoupled
+music-making from its live performance, programmable media decoupled
+inscription from transmission. In both cases, one could stroke keys now, only
+to feel the effects later. Programmable media contained the instructions for
+desired effects for later execution. Ticker tape and punch cards thus enabled
+the advanced preparation of messages, which could then be "fed" into the
+mechanism for transmission at rates far exceeding the possibilities of
+hand-operated Morse telegraphy. Besides encoding language, the Baudot schema
+left space for several special "control" characters. The "character space"
+could thus further be expanded by switching the receiving mechanism into a
+special "control mode" in which every combination of five bits represented an
+individual control character (instead of a letter). Content and control became
+intertwined and began to occupy the same spectrum of communication.
 
-The new generation of printing telegraphs was "programmed" using removable
-storage media, like a player piano was "programmed" to play a piece by means
-of a music roll. They decoupled inscription from transmission, just like the
-perforated music roll decoupled music-making from performance. By means of
-external storage media, like ticker tape and punch cards, a message could be
-prepared in advance and "fed" into the mechanism for transmission at rates
-that far exceeded the possibilities of hand-operated Morse telegraphy. After
-encoding common Latin characters, the Baudot schema left space for several
-special "control" characters. The "character space" could thus further be
-expanded by switching the receiving mechanism into a special "control mode" in
-which every combination of five bits represented an individual control
-character (instead of a letter).
+By the 1930s, devices variously known as "printer telegraphs,"
+"teletypewriters," and "teletypes" displaced Morse code telegraphy as the
+dominant mode of commercial communication. A 1932 U.S. Bureau of Labor
+Statistics' report estimated more than a 50 percent drop in Morse code
+operators between 1915 and 1931. Morse operators referred to the tele-typists
+on the sending side as "punchers" and on the receiving side as "printer
+men."[^ln2-printermen] The printer men responsible for assembling pages from
+ticker tape were called "pasters" and sometimes, derisively, as "paperhangers"
+[@brackbill_telegraphers_1929]. Teletype automated this entire process,
+rendering punchers, pasters, and paperhangers obsolete. Operators could now
+enter printed characters directly into the machine, using a keyboard similar
+to the typewriter, which, by that time, was widely available for business use.
+The teletype would then automatically transcode the input into transmitted
+signal and then back from the signal onto paper on the receiving end.
 
 As Bacon's early writings on the language arts suggest, the roots of
 telegraphy lie in cypher-making and cryptography. It is no surprise, then,
@@ -430,7 +462,8 @@ that the encoding of human languages for machine use was intimately connected
 to war-time, diplomatic, and otherwise clandestine communications. The
 seemingly innocuous problem of machine translation was therefore inextricable
 from questions of access and legibility: who gets to understand the encoded
-message and when?
+message and when? To understand the effects a message would have in
+transmission, one had to understand its encoding.
 
 For example, the Final Protocol to the Telegraph Regulations, ratified in
 Madrid in 1932 by the governments of more than seventy countries, included a
@@ -441,56 +474,49 @@ intelligible meaning in one or more of the languages authorized for
 international telegraph correspondence, each word and each expression having
 the meaning normally assigned to it in the language to which it belongs"
 [@itu_telegraph_1932, 12]. By contrast, "code language" was defined as
-"composed either of artificial words, or of real words not used in the meaning
+"composed either of artificial words, or real words not used in the meaning
 normally assigned to them in the language to which they belong and
 consequently not forming intelligible phrases" [@itu_telegraph_1932, 12].
-Codes were not permitted to contain more than five characters and were charged
-at 6/10th of the agreed tariff rate. Upon request, the sender of the telegram
-in code language was required to "produce the code from which the text or part
-of the text of the telegram has been compiled" [@itu_telegraph_1932, 13].
-Otherwise, the language was considered to be a secret "cypher," defined as
-"groups or series of Arabic figures with a secret meaning." The terms of the
-convention were binding. Participants agreed to accept and pass telegrams in
-plain language through their jurisdictions. They also agreed to let secret
-communications pass, although they were not obligated to accept or help
-deliver such messages [@itu_telegraph_1932, 13].
 
-<!-- transition missing -->
+The terms of the convention were binding. Codes were not permitted to contain
+more than five characters and were charged, by contrast with plain text, at
+6/10th of the agreed tariff rate. Upon request, senders were required to
+"produce the code from which the text or part of the text of the telegram has
+been compiled" [@itu_telegraph_1932, 13]. Otherwise, the language was
+considered a secret "cypher," defined as "groups or series of Arabic figures
+with a secret meaning." Participants agreed to accept and pass telegrams in
+plain language through their jurisdictions. They were not, however, obliged to
+accept or help deliver secret messages [@itu_telegraph_1932, 13].
 
-By the late 1920s the "Morse men" were being replaced with more efficient
-automated substitutes. By the 1930s, devices variously known as "printer
-telegraphs," "teletypewriters," and "teletypes" displaced Morse code
-telegraphy as the dominant mode of commercial communication. A 1932 U.S.
-Bureau of Labor Statistics' report estimated more than a 50 percent drop in
-Morse code operators between 1915 and 1931. Morse operators referred to the
-tele-typists on the sending side as "punchers" and on the receiving side as
-"printer men."[^ln2-printermen] The printer men responsible for assembling
-pages from ticker tape were called "pasters" and sometimes, derisively, as
-"paperhangers" [@brackbill_telegraphers_1929]. Teletype automated this entire
-process, rendering punchers, pasters, and paperhangers obsolete. Operators
-could now enter printed characters directly into the machine, using a keyboard
-similar to the typewriter, which, by that time, was widely available for
-business use. The teletype would then automatically transcode the input into
-transmitted signal and then back from the signal onto paper on the receiving
-end. Operators did not need to concern themselves with machine code. Machine
-control receded out of sight.
+Machine code thus occupied a gray area between plain text and cypher.
+Theoretically, it was considered intelligible only when its compilation
+sources were available to the transmitter. Without its sources, it became
+equivalent to secret communication. In practice, the proliferation of
+encodings and machine instructions had the effect of selective illiteracy.
+Telegraph operators carried with them multiple cheat-sheets: small cards that
+reminded them of each system's particularities. Telegraphy re-introduced the
+problem of legibility into human letters. To speak in telegraph was to learn
+arcane encodings, which required specialized training. A number of failed
+communication schemas attempted to heal the rift between human and machine
+alphabets.
 
 ![Goldberg's Control Cards [@goldberg_controller_1915].](images/control-2.png)
 
-Hymen Goldberg's 1911 Controller addressed the telegraph's legibility problem.
-"You must acknowledge that this is readable without special training,"
-Goldberg wrote, "my invention relates to all controllers." His controller was
-made "to provide a mechanism operable by a control sheet which is legible to
-every person having sufficient education to enable him to read." In an
-illustration attached to his patent, Goldberg showed "a control sheet in which
-the control characters are in the form of the letters of the ordinary English
-alphabet" [@goldberg_controller_1915]. Rather than using ticker tape, he
-proposed the use of perforations that where capable of actuating machine
-levers and also formed letters. To counteract illegibility, Goldberg imagined
-using cards, perforated in the shape of English letters. His cards thus did
-the "double duty" of carrying human-readable content and mechanically
-manipulating machine "blocks," "handles," "terminal blades," and "plungers"
-[@goldberg_controller_1915].
+"You must acknowledge that this is readable without special training," Hymen
+Goldberg wrote in the patent application for his 1911 Controller. The device
+was made "to provide a mechanism operable by a control sheet which is legible
+to every person having sufficient education to enable him to read." In an
+illustration attached to his patent, Goldberg pictured a "legible control
+sheet [...] in which the control characters are in the form of the letters of
+the ordinary English alphabet" [@goldberg_controller_1915]. Unlike ticker tape
+that required translation (transcoding, in other words), Goldberg's
+perforations did the "double duty" of carrying human-readable content and
+mechanically manipulating machine "blocks," "handles," "terminal blades," and
+"plungers" [@goldberg_controller_1915]. Unlike other schemas, messages in
+Goldberg's code could be "read without special information," effectively
+solving the problem of illegibility.
+
+<!-- take a look at this -->
 
 Human and machine language coincided on the same plane, if only for a time.
 The inscription remained visible at the surface of Goldberg's control sheet,
