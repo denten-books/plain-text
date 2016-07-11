@@ -9,19 +9,20 @@ persistent.[^ln2-gate] This is not to suggest that digital text transcends its
 material contexts. Only to observe that it drifts from surface to surface,
 beyond the field of vision, in ways that erode trust its general permanence.
 If we are to dwell on surfaces, I do not know where to look: the screen or the
-floating gate. I do not trust the text appearing before my eyes.
+floating gate.
 
-Where does text reside? We know the answer for print: it is there, on the
+Where does text reside? We know the answer for print: it is there, stuck to a
 page. Computational media complicate our ability to situate inscription. We
 point at screens, but without certainty; their surfaces remain in flux. They
-are sites of fleeting projection, which emanates from hidden storage media and
-passes through multiple filters and transformations on the way to the surface.
-Though we observe the inscription on screen only, it embodies a complicated
-figure, stretched across at least two sites. The sign strains and splits:
-between the configuration of magnetic pulse and circuit state at one end, and
-in the phases of liquid crystal on the screen at the other. Both locations
-afford distinct constraints to interpretation. Familiar actions like "reading"
-and "writing" imply distinctly differing operations depending on the surface.
+are sites of fleeting projection, which emanates from hidden storage media.
+Digital text passes through multiple filters and transformations on the way to
+the surface. Though we observe the inscription on screen only, it embodies a
+complicated figure, stretched across at least two sites. The sign strains and
+splits: between the configuration of magnetic pulse and circuit state at one
+end, and in the phases of liquid crystal on screen at the other. Both
+locations afford distinct constraints to interpretation. Familiar actions like
+"reading" and "writing" imply distinctly differing operations depending on the
+surface.
 
 Thus when Michael Heim refers to the "ephemeral quality" of the electronic
 text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
@@ -32,54 +33,53 @@ from erasing God's name, deemed that words on a screen do not constitute
 writing, and therefore sanctioned their erasure [@mccorduck_universal_1985,
 51; also quoted @heim_electric_1987, 192].
 
-Conversely, when scholars like Johanna Drucker, Katherine Hayles, and Matthew
+Conversely, when scholars like Johanna Drucker, Katherine Hayles, or Matthew
 Kirschenbaum respond to Heim and company with hardened materialism, they are
-also rightly locating properties of digital inscription, but this time at the
-site of its archival immanence. The two schools of thought disagree because
-they speak neither of the same phenomenon nor at the same site. The former
-group highlights ephemeral, transcendent qualities of the projected word. The
-latter foregrounds the "uniquely indelible nature of magnetic storage"
-[@kirschenbaum_mechanisms:_2008], the "drives, tapes, and disks," the
-"fundamental physical support," and the "material substrates of computing"
+also rightly locating properties of digital inscription, at the site of its
+archival immanence. The two schools of thought disagree because they speak
+neither of the same phenomenon nor at the same site. The former group
+highlights ephemeral, transcendent qualities of the projected word. The latter
+foregrounds the "uniquely indelible nature of magnetic storage"
+[@kirschenbaum_mechanisms:_2008], "drives, tapes, and disks," "fundamental
+physical support," and "material substrates of computing"
 [@drucker_performative_2013]. Screen and hard drive partition the sign between
 surface and depth, projection and archive. At the site of projection one
 speaks of texts that are---I have kept a list of adjectives when reviewing the
 literature---*ephemeral*, *shimmering*, *electric*, *flimsy*, *contingent*,
 *malleable*, *impermanent*, *flowing*, *transcendent*, *ghostly*, and
-*radiant*. At the archival site language changes to inscription that is
-*enduring*, *solid*, *persistent*, *permanent*, *indelible*, *hard*,
-*immanent*, *lasting*, *palpable*, and *concrete*.
+*radiant*. At the archival site, scholars describe inscription as *enduring*,
+*solid*, *persistent*, *permanent*, *indelible*, *hard*, *immanent*,
+*lasting*, *palpable*, and *concrete*.
 
 The seeming immateriality of digital media has real-world effects: the costs
 of replication plummet, for example. Computational text can be copied
-effortlessly, with minimal cost, and near-perfect fidelity.
+effortlessly, with minimal cost and near-perfect fidelity.
 Hyper-reproducibility of the sort was unthinkable for most of the twentieth
 century. Lowered costs of copying further reduce barriers to access and
 conveyance. Symbols that adhere lightly to their medium are easy to store and
 transport. Public knowledge works like search engines and massive open online
-encyclopedias claim to organize "all of the world's knowledge." Such projects
-unfold by the logics of immateriality, total archives, and universal
-accessibility.[^ln1-google] When representation appears to weigh nothing, one
-imagines a weightless totality of all representation, available immediately
-and everywhere. The perceived weightlessness of text has other side-effects as
-well. A text that adheres lightly to its medium is difficult to contain. It
-becomes onerous to govern digital representation, to enforce censorship or
-intellectual-property rights.
+encyclopedias subsequently claim to organize "all of the world's knowledge."
+Such projects unfold by the logics of immateriality: total archives, big data,
+and universal accessibility.[^ln1-google] When the sign appears to weigh
+nothing, one imagines its weightless aggregate, available immediately and
+everywhere. The perceived weightlessness of text has other side-effects as
+well. A text that adheres lightly to its medium is difficult to contain.
+Bureaucracies struggle to restrict it: in speech, sharing, or dissemination.
 
 Despite appearances, text cannot be unmoored from its material foundations.
 Rather, it splits in two: with one half arising visibly, a weightless and
 apparent screen simulation, and the other half, opaque, etched into hefty and
 hidden material contingencies. The material substrates of computational text
-likewise carry real-world affordances and consequences. First and foremost
-they are hidden from view. Drives and tapes reside inside of boxes encased in
-plastic and aluminum. If only because they carry electrical current and are
-thus flammable, they are regulated. They contain heavy and rare metals, often
-hazardous to touch or ingestion. Flash memory cards, USB sticks, solid state
-storage devices, and magnetic disk drives contain circuitry to prevent
-unauthorized access and resist tempering. Within them, text intertwines with
-machine internals, sealed hermetically and hermeneutically, in a way that
-resists human interpretation. It is inscription not compatible with humans; a
-literature for machines.
+likewise carry real-world consequences. First and foremost they are hidden
+from view. Drives and tapes reside inside of boxes encased in plastic and
+aluminum. If only because they carry electrical current and are thus
+flammable, they are regulated. They contain heavy and rare metals, often
+hazardous to touch or ingestion. They become toxic when discarded. Flash
+memory cards, USB sticks, solid state storage devices, and magnetic disk
+drives contain circuitry to prevent unauthorized access and resist tempering.
+Within them, text intertwines with machine internals, sealed hermetically and
+hermeneutically, in a way that resists human interpretation. It is inscription
+not compatible with humans, machine literature, a hazard.
 
 Form and content lie flat in print. Print interfaces are paper thin. Ink
 adheres to paper in a way that pixels do not to screens. Textual fissure
@@ -87,11 +87,11 @@ complicates the traditional structuralist distinctions between form and
 content. The computed inscription occupies at least two distinct sites, each
 entailing drastically differing affordances for interpretation. Were we to
 untangle the tightly wound coil of the circuit, we would find ample distance
-between the hard drive and the screen. Some readers measure that distance in
+between the hard drive and screen. Some readers measure that distance in
 inches, as when reading documents locally for example, stored on their own
 computer; and in miles when reading documents remotely, stored on far away
-"cloud" servers. Where print is flat, multiply planes of inscription stratify
-computed text.[^ln2-hayles]
+"cloud" servers. Where print is flat, digital inscription is stratified across
+multiple incongruent planes.[^ln2-hayles]
 
 How did this multiplicity come to be? And what effect does it have on the life
 of the mind? In this chapter I will make visible the gap between projected
@@ -103,42 +103,45 @@ First, with the advance of telecommunications, at the turn of the twentieth
 century, we observe an emerging divide between human-readable text and
 machine-readable code. Removable storage media like ticker tape and punch
 cards constituted a machine instruction set, meant to actuate mechanisms which
-in turn produced human-legible inscriptions. Unintelligible control codes
-"driving" the machine were thereby mixed with plain text, the content of
-communication. Inscription split between storage, which contained an expanded
-character set, and projection, which contained only human alphabets.
+in turn produced human-legible inscriptions. Unintelligible (to humans without
+special training) control codes "driving" the machine were thereby mixed with
+plain text, the content of communication. Inscription split between sites of
+storage, which archives an expanded machine instruction set, and projection,
+which displays human alphabets.
 
-Second, where ticker tape and punch cards were legible without specialized
-reader devices, magnetic tape storage made for an inscrutable medium. In the
-1950s and 1960s, machine operators worked "blindly," using complicated
-workarounds to verify equivalence between input, storage, and output. Writing
-began to involve multiple "typings," "printings," and specialized magnetic
-reading devices to establish the correspondence between input, storage
-content, and output of entered text.
+Second, where ticker tape and punch cards were legible to the naked eye,
+magnetic tape storage made for an inscrutable medium, inaccessible without
+instrumentation. In the 1950s and 1960s, machine operators worked "blindly,"
+using complicated workarounds to verify equivalence between input, storage,
+and output. Writing began to involve multiple "typings," "printings," and
+specialized magnetic reading devices to establish the correspondence between
+input, storage content, and output of entered text. The physical properties of
+electromagnetic inscription situate it, in practice, beyond human sense.
 
 Finally, the appearance of Cathode Ray Tube (CRT) displays in the late 1960s
-restored a measure of legibility lost to magnetic storage media. The familiar
-sign reemerged on the screen. Crucially, it now constituted a simulation of
-the archived inscription. Typing a word on keyboard produced one sort of a
-structure on tape or disk and another on the screen. The two relate
-contingently, without necessary equivalence. The lay reader has no means to
-ensure the correspondence between visible trace and stored mark. An opaque
-"black box" of computation began to intercede between reading and writing.
+restored a measure of legibility lost to magnetic storage media. The sign
+reemerged on the screen. Crucially, it now constituted a simulacrum of
+archived inscription. Typing a word on keyboard produced one sort of a
+structure on tape or disk and another on screen. The two relate contingently,
+without necessary equivalence. The lay reader has no means to ensure the
+correspondence between visible trace and stored mark. An opaque "black box" of
+automated word "processing"---rules for transmediation---intercede between
+reading and writing.
 
 A number of textual machines will illustrate the above history. Three
-mechanisms will serve as milestones along our journey: the Controller patented
-by Hyman Goldberg in 1911; the Magnetic Reader introduced by Robert Youngquist
-and Robert Hanes in 1958; and, for a lack of a better name, the Time Fob,
-introduced by Douglas Engelbart in 1968. Goldberg attempted to heal the rift
-between human and machine alphabets by inventing a mechanical punch card that
-could move minds and levers alike. His device untraced an alphabet understood
-by humans and machines both. Youngquist and Hanes gave human operators a
-glimpse into the hidden world of magnetic polarities and electric charges.
-Engelbart's Time Fob belongs to what Peter Denning, a prominent computer
-scientist has called the "third generation" of computer systems. It is an
-assemblage of storage, input, and output technologies that continue to shape
-our contemporary encounter with text today.[^ln2-denning] Together, these
-devices tell a story of a fracture.
+mechanisms mark the journey: the Controller patented by Hyman Goldberg in
+1911; Magnetic Reader introduced by Robert Youngquist and Robert Hanes in
+1958; and, for a lack of a better name, Time Fob, introduced by Douglas
+Engelbart in 1968. Goldberg attempted to heal the rift between human and
+machine alphabets by inventing a mechanical punch card that could move minds
+and levers alike. His device traced an alphabet understood by humans and
+machines both. Youngquist and Hanes gave human operators a glimpse into the
+hidden world of magnetic polarities and electric charges. Engelbart's Time Fob
+belongs to what Peter Denning, a prominent computer scientist, has called the
+"third generation" of computer systems. It is an assemblage of storage, input,
+and output technologies that continue to shape our contemporary encounter with
+text today.[^ln2-denning] Together, these devices tell a story of a fissure at
+the heart of our contemporary textual predicament.
 
 ## A. Perforation
 
