@@ -508,21 +508,16 @@ was made "to provide a mechanism operable by a control sheet which is legible
 to every person having sufficient education to enable him to read." In an
 illustration attached to his patent, Goldberg pictured a "legible control
 sheet [...] in which the control characters are in the form of the letters of
-the ordinary English alphabet" [@goldberg_controller_1915]. Unlike ticker tape
-that required translation (transcoding, in other words), Goldberg's
+the ordinary English alphabet" [@goldberg_controller_1915]. Goldberg's
 perforations did the "double duty" of carrying human-readable content and
 mechanically manipulating machine "blocks," "handles," "terminal blades," and
 "plungers" [@goldberg_controller_1915]. Unlike other schemas, messages in
-Goldberg's code could be "read without special information," effectively
-solving the problem of illegibility.
-
-<!-- take a look at this -->
-
-Human and machine language coincided on the same plane, if only for a time.
-The inscription remained visible at the surface of Goldberg's control sheet,
-as a perforated figure, punched through the medium. Magnetic tape, mute and
-inscrutable, soon replaced punch card and ticker tape as the preferred medium
-for data storage.
+Goldberg's alphabet could be "read without special information," effectively
+addressing the problem of code's apparent illegibility. The inscription
+remained visible at the surface of Goldberg's control sheet, as a perforated
+figure, punched through the conduit. Whatever challenges punch cards and
+ticker tape presented for readers, these were were soon complected by the
+advent of another medium, even more mute and inscrutable, the magnetic tape.
 
 ## B. Magnetic Reading
 
