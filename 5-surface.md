@@ -513,7 +513,7 @@ perforations did the "double duty" of carrying human-readable content and
 mechanically manipulating machine "blocks," "handles," "terminal blades," and
 "plungers" [@goldberg_controller_1915]. Unlike other schemas, messages in
 Goldberg's alphabet could be "read without special information," effectively
-addressing the problem of code's apparent illegibility. The inscription
+addressing the problem of code's apparent unintelligibility. The inscription
 remained visible at the surface of Goldberg's control sheet, as a perforated
 figure, punched through the conduit. Whatever challenges punch cards and
 ticker tape presented for readers, these were were soon complected by the
@@ -524,40 +524,37 @@ advent of another medium, even more mute and inscrutable, the magnetic tape.
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
 influential monograph that continues to shape the field of software studies.
-She quotes several prominent computer scientists and media historians to the
-same effect. But what makes software ephemeral?
 
-Embossed onto ticker tape or punched into the card, early software protruded
-through the medium. In the age of the telegraph, the biggest barrier to the
-comprehension of software was encoding. Morse code and similar alphabet
-conventions left a visible mark on the paper. Once the machine encoding was
-identified---as Morse, Baudot, or Murray---it could be translated back into
-natural language using a simple lookup table. The ticker tape was the medium
-on which human language transformed into electric signal. Mechanized, a signal
-could also control machines remotely. Yet, one could hardly call early
-programmable media ephemeral. Anecdotes circulate about Father Roberto Busa,
-an early pioneer of computational philology, who, in the 1960s, carted his
-punch cards around Italy in his truck.[^ln2-busa] Codified inscription, before
-its electromagnetic period, was fragile and unwieldy. Just like writing with
-pen and paper, making an error on ticker tape entry required cumbersome
-corrections and sometimes wholesale re-entry of lines or pages. On the surface
-of ticker tape, the inscription still made a strong commitment to the medium.
-Once committed to paper it was near-immutable.
+One could hardly call early programmable media ephemeral. Anecdotes circulate
+about Father Roberto Busa, an early pioneer of computational philology, who,
+in the 1960s, carted his punch cards around Italy in his truck.[^ln2-busa]
+Codified inscription, before its electromagnetic period, was fragile and
+unwieldy. Just like writing with pen and paper, making an error on ticker tape
+entry required cumbersome corrections and sometimes wholesale re-entry of
+lines or pages. On the surface of ticker tape, the inscription still made a
+strong commitment to the medium.  Once committed to paper it was
+near-immutable. Embossed onto ticker tape or punched into the card, early
+software protruded through the medium.
+
+In the age of telegraphy, encoding stood in the way of code comprehension.
+Morse code and similar alphabet conventions at least left a visible mark on
+the paper. They were legible if not always intelligible. Once the machine
+encoding was identified---as Morse, Baudot, or Murray---it could be translated
+back into natural language using a simple lookup table.
 
 Magnetic tape changed the commitment between inscription and medium. It
 provided a temporary home, where the word could be altered before being
-committed to paper. Using the new generation of magnetically enabled devices a
-typist could could manipulate words in device "memory," on a medium that was
-easily erased or rewritten.
-
-The magnetic charge adhered lightly to tape surface. This "light touch" gave
-the word its ephemeral quality. But it was so light as to be nearly
-imperceptible. In applications like law and banking, where the fidelity
-between input, storage, and output were crucial, the illegible property of
-magnetic storage posed a considerable engineering challenge. After the advent
-of teletype, but before the screen, machine-makers employed a variety of
-mechanisms to restore a measure of congruence between invisible magnetic
-inscription and visible paper representation.
+committed to paper. A new breed of magnetic storage devices allowed for the
+manipulation of words in "memory," on a medium that was easily erased and
+rewritten. The magnetic charge adhered lightly to tape surface. This "light
+touch" gave the word its new-found ephemeral quality. But it also made
+inscription illegible. In applications like law and banking, where the
+fidelity between input, storage, and output were crucial, the immediate
+illegibility of magnetic storage posed a considerable engineering challenge.
+After the advent of teletype, but before the screen, machine-makers employed a
+variety of techniques to restore a measure of congruence between invisible
+magnetic inscription and its paper representation. What was entered had to be
+verified against what was stored.
 
 The principles of magnetic recording were developed by Oberlin Smith (among
 others), an American engineer who also filed several inventions related to
@@ -571,17 +568,17 @@ Denmark, who patented several influential designs for a magnetic wire recorder
 
 Magnetic recording on wire or plastic tape offered several advantages over
 mechanical perforation. Tape was more durable than paper; it could fit more
-information per square inch; and, most importantly, it was reusable. "One of
-the important advantages of magnetic recording," Marvin Camras, a physicist
-with the Armour Research Foundation, wrote in 1948, "is that the record may be
-erased if desired, and a new record made in its place.[@camras_magnetic_1948,
-505]" Most early developments in magnetic storage were aimed at sound
-recording. The use of magnetic medium for data storage only took off in
-earnest around the 1950s [@dee_magnetic_2008, 1775]. That said, some early
-developers of electro-magnetic storage and recording technology imagined their
-work having an impact on knowledge production, and, in particular, the history
-of the book. Addressing the Franklin Institute on December 16th of 1908
-Charles Fankhauser, the inventor of the electromagnetic "telegraphone," said:
+information per square inch; and it was reusable. "One of the important
+advantages of magnetic recording," Marvin Camras, a physicist with the Armour
+Research Foundation, wrote in 1948, "is that the record may be erased if
+desired, and a new record made in its place.[@camras_magnetic_1948, 505]" Most
+early developments in magnetic storage were aimed at sound recording. The use
+of magnetic medium for data storage took off in earnest around the 1950s
+[@dee_magnetic_2008, 1775]. That said, some early developers of
+electro-magnetic storage and recording technology already imagined their work
+in dialog with the long history of letters. Addressing the Franklin Institute
+on December 16th of 1908 Charles Fankhauser, the inventor of the
+electromagnetic "telegraphone," said:
 
 > To transport human speech over a distance of one thousand miles is a
 > wonderful achievement. How much more wonderful, then, is the achievement
@@ -612,43 +609,46 @@ being used by "the sick, the infirm, and the aged:"
 > employed to read into the wires entire libraries
 > [@fankhauser_telegraphone_1909, 44].
 
-Anticipating the popularity of twenty-first century audio media formats like
+Anticipating the popularity of twenty-first century audio formats like
 podcasts and audio books, Fankhauser spoke of "tired and jaded" workers who
 would "sooth themselves into a state of restfulness" by listening to their
 favorite authors. Poulsen's "electric writing" would finally emerge "as clear
 and as distinct as the writing by hand," he concluded, "an absolutely legal
-and conclusive record."[@fankhauser_telegraphone_1909, 41]
+and conclusive record."[@fankhauser_telegraphone_1909, 41] Where written
+language was lossy and reductive, electromagnetic signals, he hoped, would
+hold high fidelity to the original.
 
-Fankhauser thought of magnetic storage as an audio format, combining the best
-of telegraphy and telephony in one device. Magnetic data storage technology
-did not mature until the 1950s, when advances in composite plastics made it
-possible to manufacture tape cheaper and more durable than its paper
-alternatives. The state of the art relay calculator commissioned by the Bureau
-of Ordinance of the Navy Department in 1944, and built by the Harvard
-Computation laboratory in 1947 ,still made use of standard issue telegraph
-"tape readers and punchers," adapted for computation with the aid of engineers
-from Western Union Telegraph Company [@staff_description_1949,
-1-40].[^ln2-punch] It was equipped with a number of Teletype Model 12A tape
-readers and Model 10B perforators, using 11/16-inch wide paper tape,
-partitioned into "five intelligence holes," where each quantity entered for
-computation took up thirteen lines of code [@staff_description_1949, 30].
-Readers and punchers were capable of running at 600 operations per minute.
-Four Model 15 Page-Printers were used compare printed characters with the
-digits stored in the ticker tape print register. In this setup, the numerical
-inscription was therefore already split between input and output channels:
-with input stored on ticker tape and output on printed page.
+In 1909, Fankhauser thought of magnetic storage as primarily an *audio*
+format, which combined the best of telegraphy and telephony. Magnetic *data*
+storage technology did not mature until the 1950s, when advances in composite
+plastics made it possible to manufacture tape cheaper and more durable than
+its paper or cloth alternatives. The state of the art relay calculator
+commissioned by the Bureau of Ordinance of the Navy Department in 1944, and
+built by the Harvard Computation laboratory in 1947, still made use of
+standard issue telegraph "tape readers and punchers," adapted for computation
+with the aid of engineers from Western Union Telegraph Company.[^ln2-punch] It
+was equipped with a number of Teletype Model 12A tape readers and Model 10B
+perforators, using 11/16-inch wide paper tape, partitioned into "five
+intelligence holes," where each quantity entered for computation took up
+thirteen lines of code [@staff_description_1949, 30]. Readers and punchers
+were capable of running at 600 operations per minute. Four Model 15
+Page-Printers were needed to compare printed characters with the digits stored
+on the ticker tape print register. The numerical inscription in this setup was
+therefore already split between input and output channels: with input stored
+on ticker tape and output on printed page.
 
 The Mark III Calculator which followed the Harvard Computation Laboratory's
 earlier efforts was also commissioned by the Navy's Bureau of Ordinance. It
-was completed in 1950. The "organization" (we would say "architecture" today)
-of Mark III replaced tape with multiple magnetic drums and a system of
-reel-to-reel tape recorders. The drums, limited in their storage capacity,
-revolved at much faster speeds than tape. They were used for fast, temporary,
-internal storage. The surface of the magnetic drums was coated with a "thin
-film composed of finely divided magnetic oxides of iron suspended in a plastic
-lacquer, and applied to the drums with an artist's air brush"
-[@staff_description_1952, 1]. Mark III employed twenty-five such drums,
-rotating at 6900 rpm and each capable of storing 240 binary digits.
+was completed in 1950. Its "organization" ("architecture," one would say
+today) did away with punch cards and ticker tape, favoring instead an array of
+large electromagnetic drums along with reel-to-reel tape recorders. The drums,
+limited in their storage capacity, revolved at much faster speeds than tape
+reels. They were used for fast, temporary, internal storage.  The drums'
+surface was coated with a "thin film composed of finely divided magnetic
+oxides of iron suspended in a plastic lacquer, and applied to the drums with
+an artist's air brush" [@staff_description_1952, 1]. Mark III employed
+twenty-five such drums, rotating at 6900 rpm and each capable of storing 240
+binary digits.
 
 [^ln3-multi]: Technical literature makes a distinction between space- and
 frequency- division multiplexing. On some level, space-division multiplexing
@@ -663,26 +663,28 @@ practice, the tape was not infinite, but merely long enough to answer the
 needs of military computation. Unlike stationary drums, tape was portable.
 Operators could prepare tape in advance, in a different room, at the allotted
 Instructional Tape Preparation Table. The information on tape would then be
-transferred to a slow moving magnetic drum, and, when the two drums matched in
-speed, transferred again to the fast-moving internal drum for data
-calculation, machine sequencing, and control. Mark III was further equipped
-with five printers "for presenting computed results in a form suitable for
-publication." The printers were capable of determining the "number of digits
-to be printed, the intercolumnar and interlinear spacing, and other items
-related to the typography of the printed page" [@staff_description_1952,
-1-40].
+synced with and transferred to a slow drum. In the next stage, the slow drum
+accelerated to match the higher rotating speeds of more rapid internal
+storage, and transferred again there for computation. Mark III was further
+equipped with five printers "for presenting computed results in a form
+suitable for publication." The printers were capable of determining the
+"number of digits to be printed, the intercolumnar and interlinear spacing,
+and other items related to the typography of the printed page"
+[@staff_description_1952, 1-40]. One can imagine the pathway of a single
+letter or digit travelling across surfaces, through doorways and interfaces,
+gaining new shapes and temporalities with each transition.
 
-Data was recorded on tape using binary numerical notation. To enter a number
-onto tape, the operator sat at the "numerical tape preparation table," a
-separate piece of furniture. Data was stored on tape along two channels that
-ran its entire length. Operators entered each number twice, first into Channel
-A and then into Channel B. This was done to prevent errors, since they worked
-blindly, unable to see whether the intended mark registered properly upon
-first entry. An error bell would sound when the first quantity did not match
-the second, in which case they would have to reenter the mismatched digits
-[@staff_description_1952, 143-88]. To further "ensure completely reliable
-results" they could use one of the five attached Underwood Electric teletypes
-to print all of the tape's columns and confirm visually.
+At the time, data was already transferred to tape using binary numerical
+notation. To ta number onto tape, the operator sat at the "numerical tape
+preparation table," a separate piece of furniture. Data was stored on tape
+along two channels that ran its entire length. Operators entered each number
+twice, first into Channel A and then into Channel B. This was done to prevent
+errors, since they worked blindly, unable to see whether the intended mark
+registered properly upon first entry. An error bell would sound when the first
+quantity did not match the second, in which case they would have to reenter
+the mismatched digits [@staff_description_1952, 143-88]. To further "ensure
+completely reliable results" they could use one of the five attached Underwood
+Electric teletypes to print all of the tape's columns and confirm visually.
 
 I draw on a thick technical description here and throughout to provide a
 literal rather than a metaphorical understanding of terms like "textual
@@ -1324,14 +1326,15 @@ aid of the party;' also the opening sentence of the Declaration of
 Independence [...] were repeated many times in order to test the speed of the
 machine."
 
-[^ln2-punch]: "Two means are available for preparing the functional tapes
-required for the operation of the interpolators. First, when the tabular
-values of *f(x)* have been previously published, they may be copied on the
-keys of the functional tape preparation unit [...] and the tape produced by
-the punches associated with this unit, under manual control. Second, as
-suitable control tape may be coded directing the calculator to compute the
-values of *f(x)* and record them by means of one of the four output punches,
-mounted on the right wing of the machine" [@staff_description_1949, 34].
+[^ln2-punch]: See @staff_description_1949, 1-40. "Two means are available for
+preparing the functional tapes required for the operation of the
+interpolators. First, when the tabular values of *f(x)* have been previously
+published, they may be copied on the keys of the functional tape preparation
+unit [...] and the tape produced by the punches associated with this unit,
+under manual control. Second, as suitable control tape may be coded directing
+the calculator to compute the values of *f(x)* and record them by means of one
+of the four output punches, mounted on the right wing of the machine"
+[@staff_description_1949, 34].
 
 [^ln2-hayles]: See also @hayles_print_2004.
 
