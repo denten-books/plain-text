@@ -513,11 +513,13 @@ perforations did the "double duty" of carrying human-readable content and
 mechanically manipulating machine "blocks," "handles," "terminal blades," and
 "plungers" [@goldberg_controller_1915]. Unlike other schemas, messages in
 Goldberg's alphabet could be "read without special information," effectively
-addressing the problem of code's apparent unintelligibility. The inscription
-remained visible at the surface of Goldberg's control sheet, as a perforated
-figure, punched through the conduit. Whatever challenges punch cards and
-ticker tape presented for readers, these were were soon complected by the
-advent of another medium, even more mute and inscrutable, the magnetic tape.
+addressing the problem of code's apparent unintelligibility.
+
+The inscription remained visible at the surface of Goldberg's control sheet,
+as a perforated figure, punched through the conduit. Whatever challenges punch
+cards and ticker tape presented for readers, these were were soon complected
+by the advent of another medium, even more mute and inscrutable, the magnetic
+tape.
 
 ## B. Magnetic Laminates
 
@@ -532,7 +534,7 @@ Codified inscription, before its electromagnetic period, was fragile and
 unwieldy. Just like writing with pen and paper, making an error on ticker tape
 entry required cumbersome corrections and sometimes wholesale re-entry of
 lines or pages. On the surface of ticker tape, the inscription still made a
-strong commitment to the medium.  Once committed to paper it was
+strong commitment to the medium. Once committed to paper it was
 near-immutable. Embossed onto ticker tape or punched into the card, early
 software protruded through the medium.
 
@@ -544,17 +546,21 @@ back into natural language using a simple lookup table.
 
 Magnetic tape changed the commitment between inscription and medium. It
 provided a temporary home, where the word could be altered before being
-committed to paper. A new breed of magnetic storage devices allowed for the
-manipulation of words in "memory," on a medium that was easily erased and
-rewritten. The magnetic charge adhered lightly to tape surface. This "light
-touch" gave the word its new-found ephemeral quality. But it also made
-inscription illegible. In applications like law and banking, where the
-fidelity between input, storage, and output were crucial, the immediate
-illegibility of magnetic storage posed a considerable engineering challenge.
-After the advent of teletype, but before the screen, machine-makers employed a
-variety of techniques to restore a measure of congruence between invisible
-magnetic inscription and its paper representation. What was entered had to be
-verified against what was stored.
+committed to paper. At the 1967 symposium on electronic composition in
+printing, Jon Haley, staff director of the Congressional Joint Committee on
+printing, spoke of "compromises with legibility [which] had been made for the
+sake of pure speed in composition and dissemination of the end
+product."[@technology_electronic_1967, 48] A new breed of magnetic storage
+devices allowed for the manipulation of words in "memory," on a medium that
+was easily erased and rewritten. The magnetic charge adhered lightly to tape
+surface. This "light touch" gave the word its new-found ephemeral quality. But
+it also made inscription illegible. In applications like law and banking,
+where the fidelity between input, storage, and output were crucial, the
+immediate illegibility of magnetic storage posed a considerable engineering
+challenge. After the advent of teletype, but before the screen, machine-makers
+employed a variety of techniques to restore a measure of congruence between
+invisible magnetic inscription and its paper representation. What was entered
+had to be verified against what was stored.
 
 The principles of magnetic recording were developed by Oberlin Smith (among
 others), an American engineer who also filed several inventions related to
@@ -686,20 +692,6 @@ mismatched digits. To "ensure completely reliable results," one of the five
 attached Underwood Electric teletypes could further be used to print all
 channels and confirm input visually [@staff_description_1952, 143-88].
 
-Mark III's schematics embody textual fissure in practice. By tracing the
-signal through the machine we are able to reconstruct a multiplicity of
-inscription sites. These are not metaphoric but literal localities, which
-fracture the sign across multiple surfaces. Where pens, typewriters, and hole
-punches transferred inscriptions to paper directly, early electromagnetic
-devices compounded them obliquely, into a laminated aggregate. The propagation
-of electrical signal across space required manifold "phase transitions"
-between media: from one channel of tape to another, from tape to drum, from a
-slow drum to a fast one, and from drum and tape to paper. Where on paper the
-inscription remained visible in circulation, it now disappeared from view soon
-after key press. Submerged beneath a magnetic facade, inscriptions multiplied
-and diffused. The electromagnetic inscription stretched across multiple
-surfaces simultaneously. Its shape was neither flat nor apparent.
-
 The potential for incongruence between recondite data formats and their
 apparent representation posed a problem in the decades preceding screen
 simulation. In a 1954 patent, filed on behalf of Burroughs Corporation, Herman
@@ -723,41 +715,39 @@ Epstein and Innes
 [@epstein_electrographic_1961]](images/magnetic-alphabet-epstein.png)
 
 Advances in magnetic storage found their way into businesses and home offices
-a decade later. In 1964, IBM combined magnetic tape storage with its Selectric
-line of electric typewriters, some of the first machines to transform a
-keyboard's mechanical action into binary electric signal. For this reason,
-they served as an input device for a variety of early computing platforms
-[@eisenberg_word_1992]. By coupling magnetic tape storage with a keyboard
-input, the Selectric typewriter became one of the first true word processors.
-Ephemeral magnetic media enabled the separation of input and output,
-effectively splintering the sign between sites of storage and projection.
+a decade later. In 1964, IBM combined magnetic tape (MT) storage with its
+Selectric line of electric typewriters (ST), some of the first machines to
+reliably transform a keyboard's mechanical action into binary electric signal.
+Selectrics were used for input in a variety of early computing platforms
+because of their relative ubiquity [@eisenberg_word_1992]. In coupling
+electromagnetic tape storage with keyboard input, the MT/ST became one of the
+first personal word processors. Built on a simpler architecture than its
+supercomputer cousins, the machine used a single tape read and write
+mechanism. An advertisement in the American Bar Association Journal, circa
+1968, called it the $10,000 typewriter, "worth every penny." Where typists
+previously had to stop and erase every mistake, the IBM MT/ST allowed them to
+"backspace, retype, and keep going." The mistake was altered on magnetic tape,
+"where all typing is recorded and played back correctly at incredible speed"
+[@association_aba_1966, 998].
 
-Built on a simpler architecture than its supercomputer cousins, the MT/ST used
-a single tape read and write mechanism. An advertisement in the American Bar
-Association Journal, circa 1968, called it the $10,000 typewriter that is
-"worth every penny." Where typists previously had to stop and erase every
-mistake, the IBM MT/ST allowed them to "backspace, retype, and keep going."
-The mistake was altered on magnetic tape, "where all typing is recorded and
-played back correctly at incredible speed" [@association_aba_1966, 998]. But
-just as it was with the Mark III, information stored on magnetic tape was
-invisible to the typist. The only way to verify magnetic inscription was to
-print it out.
+MT/ST architecture inherited the problem of legibility from its supercomputer
+predecessors: information entered into tape was similarly invisible to the
+typist. In addition to being encoded, electric alphabets were written in
+"magnetic domains" and "polarities," which lay beyond human
+sense.[^ln2-magnet] One therefore had to verify input against stored
+quantities to ensure correspondence. But the stored quantity could only be
+checked by transforming it into yet another inscription. Verification itself
+could be prone to error, because storage could not be accessed directly
+without specialized instruments.[^ln5-witt]
 
-Text's freedom from immutable media, like ink and paper, came at the cost of
-legibility. Though IBM MT/ST encoding retained the underlying structure of a
-fixed Baconian cypher, the inscription itself was now invisible. In addition
-to being encoded, electric alphabets were written in "magnetic domains" and
-"polarities," which lay beyond human sense.[^ln2-magnet] The developers of
-early electronic typewriters recognized the difficulty of matching visible and
-invisible signs. Machine operators had to ensure that input corresponded with
-stored quantities. But the stored quantity could only be checked by
-transforming it into yet another inscription. Storage could not be directly
-accessed without specialized instrumentation.
+[^ln5-witt]: Recall Wittgenstein's broken reading machines, which exhibited a
+similarly recursive problem of verification. To check whether someone
+understood a message one has to resort to another message, and so on.
 
 Mark III engineers attempted to solve this problem by asking operators to
-input quantities twice. Another class of solutions involved making the
-magnetic mark more apparent. For example, Youngquist and Hanes's 1962
-"magnetic reader" was presented as a "device for visual observation of
+input quantities several times over. Another class of solutions involved
+making the magnetic mark more apparent. For example, Youngquist and Hanes
+described their 1962 "magnetic reader" as a "device for visual observation of
 magnetic symbols recorded on a magnetic recording medium in tape or sheet
 form." Magnetic recording tape, they wrote,
 
@@ -774,30 +764,32 @@ form." Magnetic recording tape, they wrote,
 > e.g., ease in correction, economy in reuse, simplicity of equipment,
 > compactness of recorded data, etc." [@youngquist_magnetic_1961, 1].
 
-The magnetic reader was a flat book-like box. Youngquist and Hanes proposed to
-fill its cover plate with a transparent liquid that would host "visible,
-weakly ferromagnetic crystals." When sandwiched between the two plates, a
-piece of magnetic tape would activate the crystals to align with the embedded
-inscription. The top plate would then reveal the underlying magnetic symbol's
-"visible outlines" [@youngquist_magnetic_1961, 1].
+The magnetic reader consisted of two hinged plates. Youngquist and Hanes
+proposed to fill its covers with a transparent liquid that would host
+"visible, weakly ferromagnetic crystals." When sandwiched between the plates,
+a piece of magnetic tape would activate crystals, which would in turn align
+with the embedded inscription. The top plate would finally reveal the signal's
+"visible outlines."[@youngquist_magnetic_1961, 1]
 
 !["The positioning of a magnetic recording card for visual observation of
 symbols recorded thereon," from [@youngquist_magnetic_1961,
 1]](images/youngquist.png)
 
-Yet a problem remained. Data, arranged along the length of a narrow magnetic
-tape, had to be transcribed into a different shape on a broad sheet. The next
-generation of IBM Magnetic Selectric typewriters added a "composer" control
-unit that bridged the structural differences. The IBM Composer restored some
-of the formatting lost in transition between paper and magnet. For example, it
-added capabilities for margin control and text justification. The original IBM
-Composer unit justified margins (its chief innovation over the typewriter) by
-asking the operator to type each line twice: "one rough typing to determine
-what a line would contain, and a second justified typing" [@morgan_ibm_1968,
-69]. After the "first typing," an indicator mechanism calculated the variable
-spacing needed to achieve paragraph justification. The formatting and content
-of each line thus required separate input passes to achieve the desired
-result.
+From the lack of acknowledgement in the literature, we can surmise that
+magnetic readers did not find widespread use. The problem remained: tape and
+paper were physically incompatible. Data plowed into a broad sheet's expanse
+had to be transformed along the length of a narrow groove. The next generation
+of IBM Magnetic Selectric typewriters added a "composer" control unit that
+attempted to bridge the structural differences between media. The IBM Composer
+restored some of the formatting lost in transition between paper and plastic.
+For example, it added capabilities for margin control and text justification.
+The original IBM Composer unit justified margins (its chief innovation over
+the typewriter) by asking the operator to type each line twice: "one rough
+typing to determine what a line would contain, and a second justified typing"
+[@morgan_ibm_1968, 69]. After the "first typing," an indicator mechanism
+calculated the variable spacing needed to achieve paragraph justification. The
+formatting and content of each line thus required separate input passes to
+achieve the desired result in print.
 
 +-------------------+---------------+-------------------------------+
 |  Model            | Year          | Technologies                  |
@@ -830,33 +822,32 @@ system printed the entered text twice: once on the "input station printout"
 which showed both the content and control codes in red ink, and the second
 time as the final "Composer output" printout, which presented the final
 typeset copy. Output operators still manually intervened to load paper, change
-font, and include hyphens. The monolithic page unit was thereby systematically
-deconstructed into distinct layers of content and formatting.
-
+font, and include hyphens. The monolithic page unit was thereby further
+systematically deconstructed into distinct layers of content and formatting.
 Like other devices of this generation, the IBM MT/SC suffered from the problem
-of invisible storage. Error checking on paper via multiple printouts was aided
-by a control panel consisting of "11 display lights." The configuration of
-lights could be used to "peek" at the underlying data structure. In an attempt
-to achieve greater congruence between visible data and data archived on the
-magnetic medium, IBM briefly explored the idea of using magnetic cards instead
-of tape. On tape, information had to be stored serially, as one long column of
-codes. On a magnetic card, however, the spatial relations between elements was
-be preserved.
+of illegible storage. Error checking on paper via multiple printouts was aided
+by a control panel consisting of 11 display lights. The configuration of
+lights could be used to "peek" at the underlying data structure
+[@bishop_development_1968].
 
-The 1968 patent for "Data Reading, Recording, and Positioning System"
-describes a method for arranging information on such a card "recording and
-playback system which accurately positions each character recorded relative to
-each previous character recorded" [@clancy_data_1970, 1]. In 1969 IBM
-introduced magnetic card storage units into its Selectric Composer line of
-word processors.  Fredrick May, whose name often appears on word processing
-related patents form this period, would later reflect that a "major reason for
-the choice of a magnetic card for the recording of medium was the simple
-relationship that could be maintained between a typed page and a recorded
-card" [@may_ibm_1981, 743]. The card could be thought of as a miniature page,
-making the magnetic card a "unit of record of storage of a typed page"
-[@may_ibm_1981, 743]. The Mag Card never caught on because of its limited
-storage capacity and capricious feeding mechanism. Though it offered a measure
-of topographic similarity between page and stored signal, it remained
+In an attempt to achieve greater congruence between visible data and data
+archived on the magnetic medium, IBM briefly explored the idea of using
+magnetic cards instead of tape. On tape, information had to be stored
+serially, as one long column of codes. Relative arrangement of elements could
+be preserved, it was thought, on a magnetic card, which dimensionally
+resembled paper. The 1968 patent for "Data Reading, Recording, and Positioning
+System" describes a method for arranging information on a storage medium
+"which accurately positions each character recorded relative to each previous
+character recorded" [@clancy_data_1970, 1]. In 1969, IBM released a magnetic
+card-based version of its MT/ST line, dubbed the MC/ST. Fredrick May, whose
+name often appears on word processing related patents form this period, would
+later reflect that a "major reason for the choice of a magnetic card for the
+recording of medium was the simple relationship that could be maintained
+between a typed page and a recorded card." The card resembled a miniature
+page, making it a "unit of record of storage of a typed page."[@may_ibm_1981,
+743] The Mag Card was short-lived as well because of its limited storage
+capacity and capricious feeding mechanism [@may_ibm_1981]. Though it offered a
+measure of topographic analogy between tape and paper, it remained
 inscrutable, like all magnetic media.
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
@@ -864,39 +855,23 @@ Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
 a typed page and a recorded card" [@may_ibm_1981, 744]. Image by Pointillist
 under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
 
-Speaking at the 1967 symposium on electronic composition in printing, Jon
-Haley, staff director of the Congressional Joint Committee on printing, put it
-this way: "compromises with legibility [...] had been made for the sake of
-pure speed in composition and dissemination of the end product
-[@technology_electronic_1967, 48]. Type automation made the word faster.
-Magnetic storage made it lighter and more compact. It allowed for abstract
-processing before physical commitment. But, these gains were made at the cost
-of legibility. The move to magnetic and later solid state storage media would
-have tremendous social and political consequences for the republic of letters.
-Magnetic storage reduced the costs of copying, in a sense freeing the word
-from its more permanent material confines, creating the illusion of
-ephemerality. Yet, the material properties of magnetic tape itself continued
-to prevent direct access. Magnetic storage created a new illiteracy,
-separating those who could read and write at the site of storage from those
-who could only observe passively, at the shimmering surface of archival
-projection.
-
 The structure of textual artifacts---from a simple leaflet to a novel in
 multiple volumes---has remained remarkably stable since the invention of
 movable type. One rarely finds a sentence that spans several paragraphs, for
-example, Joyce's *Ulysses* notwithstanding. Nor would a contemporary reader
-expect to find pages of different sizes in the same tome. Long-standing
-historical conventions guide the production of printed text. Likewise,
-semantic and decorative units on a page exist within a strict hierarchy. No
-book of serious non-fiction, for example, would be typeset in cursive font.
-Unless something out of the ordinary attracts their attention, readers tend to
-gloss the "inconsequential" details of formatting in favor of content. During
-reading, the material contexts of a well designed book fade from view. For a
-few decades after the advent of magnetic storage media, but before the arrival
-of screen technology, the sign's outward shape disappeared altogether. It is
-difficult to fathom now, but at that time---after the introduction of magnetic
-tape in the 1960s but before the wide-spread advent of cathode ray tube
-displays in the 1980s---typewriter operators and computer programmers
+example. Nor would a contemporary reader expect to find pages of different
+sizes in the same tome. Long-standing historical conventions guide the
+production of printed text. Likewise, semantic and decorative units on a page
+exist within a strict hierarchy. No book of serious non-fiction, for example,
+would be typeset in cursive font. Unless something out of the ordinary
+attracts their attention, readers tend to gloss the "inconsequential" details
+of formatting in favor of content. The material contexts of a well designed
+book fade from view during reading.
+
+For a few decades after the advent of magnetic storage media, but before the
+arrival of screen technology, the sign's outward shape disappeared altogether.
+It is difficult to fathom now, but at that time---after the introduction of
+magnetic tape in the 1960s but before the wide-spread advent of cathode ray
+tube displays in the 1980s---typewriter operators and computer programmers
 manipulated text blindly. Attributes like indent size and justification were
 decided before ink was committed to paper.
 
@@ -923,30 +898,49 @@ outputs. Final printing was then accomplished by:
 
 The tape and control units thus intervened between keyboard and printed page.
 The "final printing" combined "prepared copy," "control and reference codes,"
-and "printer output" [@bishop_development_1968; @may_ibm_1981]. The historical
-materials often mention three distinct human operators for each stage of
+and "printer output" [@bishop_development_1968; @may_ibm_1981]. Historical
+documents often mention three distinct human operators for each stage of
 production: one entering copy, one specifying control code, and one handling
 paper output. These three could hypothetically work in isolation from one
 another. The typist would see copy; typesetter, formatting and control codes;
 printer, interpolated results.
 
-<!--
-!["Block diagram of MT/SC system" @bishop_development_1968, 381.](images/mt-sc.png)
--->
-
 Researchers working on these early IBMs considered the separation of print
 into distinct strata a major contribution to the long history of writing. An
-IBM consultant went as far as to place its MT/SC at the culmination of a grand
+IBM consultant went as far as to place the MT/SC at the culmination of a grand
 "evolution of composition," which began with handwriting and continued to wood
 engraving, movable type, and letterpress. "The IBM Selectric Composer provides
 a new approach to the printing process in this evolution," he wrote. He
 concluded by heralding the IBM Composer era, in which people once again write
 books "without the assistance of specialists" [@frutiger_ibm_1968, 10].
-Marketing language notwithstanding, this separation of the sign from its
+Marketing language notwithstanding, the separation of the sign from its
 immediate material contexts constituted a major milestone in the history of
 writing and textuality.
 
-<!-- needs a better conclusion -->
+The move to magnetic and later solid state storage media would have tremendous
+social and political consequences for the republic of letters. Magnetic
+storage reduced the costs of copying, in a sense freeing the word from its
+more permanent material confines, creating the illusion of ephemerality. Yet,
+the material properties of magnetic tape itself continued to prevent direct
+access. Magnetic storage created a new illiteracy, separating those who could
+read and write at the site of storage from those who could only observe
+passively, at the shimmering surface of archival projection.
+
+The above schematics embody textual fissure in practice. By tracing signals
+through their machines we are able to reconstruct a multiplicity of
+inscription sites. These are not metaphoric but literal localities, which
+stretch the sign across manifold surfaces. Where pens, typewriters, and hole
+punches transferred inscriptions to paper directly, early electromagnetic
+devices compounded them obliquely, into a laminated aggregate. The propagation
+of electrical signal across space required numerous phase transitions between
+media: from one channel of tape to another, from tape to drum, from a slow
+drum to a fast one, and from drum and tape to paper. Where on paper the
+inscription remained visible in circulation, it now disappeared from view soon
+after key press. Submerged beneath a facade of opaque oxide, inscriptions
+thickened and stratified. Electromagnetic storage heralded the era of laminate
+textuality. Where in the first stage of our history machine and human
+languages intertwined in perforation, in the second stage the mixture
+fractured and passed out of sight.
 
 ## C. Restored Sight
 
