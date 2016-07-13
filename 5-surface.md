@@ -937,10 +937,9 @@ media: from one channel of tape to another, from tape to drum, from a slow
 drum to a fast one, and from drum and tape to paper. Where on paper the
 inscription remained visible in circulation, it now disappeared from view soon
 after key press. Submerged beneath a facade of opaque oxide, inscriptions
-thickened and stratified. Electromagnetic storage heralded the era of laminate
-textuality. Where in the first stage of our history machine and human
-languages intertwined in perforation, in the second stage the mixture
-fractured and passed out of sight.
+thickened and stratified. Where in the first stage of our history machine and
+human languages intertwined, the mixture fractured and passed out of sight in
+the second, heralding the era of *laminate textuality*.
 
 ## C. Restored Sight
 
