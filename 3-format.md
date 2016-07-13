@@ -146,11 +146,11 @@ Formats mediate between data structures, transforming one into the other
 according to predefined rules. Mental image, information stored in the head,
 becomes inscription, information stored in the machine, which turns into a
 projection, content arranged on the screen. The complexities of the
-transformation stem from the fundamental incompatibility between what the
-media scholar Alexander Galloway calls "incommensurate physicalities
-[@galloway_interface_2012, viii]" between human and machine. Format
-specifications govern the transference of data structures from one medium into
-the other, at the point of contact between human, symbol, and machine.
+transformation stem from a fundamental incompatibility between what the media
+scholar Alexander Galloway calls "incommensurate physicalities" between human
+and machine [@galloway_interface_2012, viii]. Format specifications govern the
+transference of data structures from one medium into the other, at the point
+of contact between human, symbol, and machine.
 
 [^ln3-symbolisms]: See @wittgenstein_philosophical_1974, 45.
 
@@ -581,7 +581,7 @@ privileged and unnecessarily meddling position between reader and text. "If
 excessive stress on content provokes the arrogance of interpretation, more
 extended and more thorough descriptions of form would silence," she wrote,
 "the best criticism, and it is uncommon, is of this sort that dissolves
-considerations of content into those of form" [@sontag_against_1966, 8-9].
+considerations of content into those of form."[@sontag_against_1966, 8-9]
 
 Marcus and Best remind us that Sontag's manifesto was also an "affective and
 ethical stance" [@best_surface_2009, 10]. Strategies of "deep" interpretation
@@ -642,9 +642,9 @@ deemed the "sensory experience" or the "erotics" of art. In "Against
 Interpretation" Sontag mentions the ideal of transparency as the "highest,
 most liberating value in art and in criticism today [...] transparency means
 experiencing the luminousness of the thing in itself, of things being what
-they are. [@sontag_against_1966, 9]" Rather than show what a work of art
-*means*, Sontag urged critics to show "how it is" and "that it is"
-[@sontag_against_1966, 10]. Form, as she saw it, mirrors McKeown's "shape" and
+they are."[@sontag_against_1966, 9] Rather than show what a work of art
+*means*, Sontag urged critics to show "how it is" and "that it is."
+[@sontag_against_1966, 10] Form, as she saw it, mirrors McKeown's "shape" and
 the "text's physical characteristics" of Hayles.
 
 ## Tactics of Reading
@@ -667,8 +667,8 @@ though we know them to be integral to the text. Were all other editions of
 Blake's poetry lost, textual critics would reconstruct the texts' genealogy
 from extant remnants. They could, for example, infer the missing illustrations
 based on reception history. "The textual critic," Phelps wrote "is concerned
-mainly with the fact of the [textual] change itself. [@phelps_edition_1994,
-65-6]" Reading for format thus involves a series of value judgements about
+mainly with the fact of the [textual] change itself."[@phelps_edition_1994,
+65-6] Reading for format thus involves a series of value judgements about
 what the text should be and what it is.
 
 [^ln3-printers]: See for example the discussion on the limits of the inductive
@@ -936,16 +936,16 @@ the formatter added instructions for typesetting: size, position, stroke
 width, transparency. The authors of IBM's FORMAT program, written in FORTRAN
 IV for OS/360 devices in 1968, explained that "all input to FORMAT is
 free-form," in that it contained "no positional
-constraints.[@berns_format_1968, 85; @berns_description_1969, 141]." The
-FORMAT system enabled further instructions for "layout control," which
-included `P` for "begin new paragraph," `T` for "tab," and `U` for
-"underline." It also contained more complex "command operands" like
-"CAPITALIZE AUTOMATICALLY," "JUSTIFY THE TEXT," and "REPEAT THE TITLE ON EVERY
-PAGE. [@berns_description_1969, 141-2]" Finally, FORMAT had the capability of
+constraints."[@berns_format_1968, 85; @berns_description_1969, 141] The FORMAT
+system enabled further instructions for "layout control," which included `P`
+for "begin new paragraph," `T` for "tab," and `U` for "underline." It also
+contained more complex "command operands" like "CAPITALIZE AUTOMATICALLY,"
+"JUSTIFY THE TEXT," and "REPEAT THE TITLE ON EVERY
+PAGE."[@berns_description_1969, 141-2] Finally, FORMAT had the capability of
 building an index, in effect listing all the unique words in any given
 document, along with a rudimentary facility for search, "locating text words,
-phrases, and strings in the input stream" [@berns_format_1968, 91;
-@berns_description_1969, 145].
+phrases, and strings in the input stream."[@berns_format_1968, 91;
+@berns_description_1969, 145]
 
 !["Portion of listing of input stream." The layout of paper citations in
 FORMAT [@berns_format_1968, 87].](images/format.png)
@@ -1227,14 +1227,14 @@ reduce the carries to the copying and the dissemination of media.
 The response from the film, game, music, and publishing industries has been to
 shift the mechanisms of copyright enforcement from legal structures into the
 medium itself. "The answer to the machine," wrote Charles Clark, a prominent
-British copyright attorney, "is in the machine. [@clark_copyright_1996,
-81-82]" He went on to argue for the efficacy of copyright enforcement at the
-device level and to propose that the International Standards Organization
-(ISO), the same legislative body responsible for maintaining the DOM and the
-OSI, create standards for digital rights management [@clark_copyright_1996,
-84]. As an example of how hard-coded copyright enforcement could work in the
-real world, Clark relied on the Copyright in Transmitted Electronic Data
-Report (CITED), which suggests building:
+British copyright attorney, "is in the machine."[@clark_copyright_1996, 81-82]
+He went on to argue for the efficacy of copyright enforcement at the device
+level and to propose that the International Standards Organization (ISO), the
+same legislative body responsible for maintaining the DOM and the OSI, create
+standards for digital rights management [@clark_copyright_1996, 84]. As an
+example of how hard-coded copyright enforcement could work in the real world,
+Clark relied on the Copyright in Transmitted Electronic Data Report (CITED),
+which suggests building:
 
 > a tamper proof software module which acts rather like indestructible
 > tachometers installed on long-distance coaches and lorries, recording
@@ -1321,7 +1321,7 @@ The short history of DMCA "anti-circumvention" provisions is already littered
 with ambiguous case law, which the Electronic Frontiers Foundation believes to
 have the effect of "stifling a wide range of legitimate activities," "chilling
 free expression and academic research," "jeopardizing fair use," and "impeding
-innovation. [@von_lohmann_unintended_2010]" Several incidents relate to the
+innovation."[@von_lohmann_unintended_2010] Several incidents relate to the
 practice of interpretation directly. In one case, a security researcher
 exploring the activity of censorship filters on public library computers was
 forced to seek DMCA exemption from the Librarian of Congress
@@ -1346,7 +1346,7 @@ The lack of access to deep structure exposes a glaring problem at the heart of
 smart contracts. The spirit of contractual obligation demands explicit
 consent. In the language of English common law, contracts involve promises
 that "manifest intention" and adopt an "external or objective standard for
-interpreting conduct [@american_law_institute_restatement_1973, §1-2.]" The
+interpreting conduct."[@american_law_institute_restatement_1973, §1-2] The
 contract between authors, publishers, and readers by extension must exist in
 an objectively verifiable manner, accessible for analysis to both parties.
 
@@ -1373,7 +1373,7 @@ or otherwise purposefully illegible code.
 The impact of DMCA and smart contracts on the practices of reading, writing,
 and literary analysis is potentially immense. In the language of the DMCA, the
 electronic book is not a book at all, but a "data object," in which the modest
-copyright symbol gives way to "control layers. [@fischer_digital_2003]" An
+copyright symbol gives way to "control layers."[@fischer_digital_2003] An
 essay in the *Yale Journal of Law & Technology* explains that "while e-books
 and their print counterparts embody essentially identical content," they
 differ considerably from a transactional standpoint:

@@ -235,7 +235,7 @@ writing of literature could be distilled into reproducible rules---technique
 over art---to be learned and shared widely.
 
 [^ln2-fact]: See for example Osip Brik's "Against Creative Individualism" and
-Shklovksy's "On Authorship and Production" in @chuzhak__2000.
+Shklovksy's "On Authorship and Production" in @chuzhak_literatura_2000.
 
 The mechanization of language is also significant in an instrumental context.
 The rise of formalist and consequently structuralist thought---along with
@@ -456,7 +456,7 @@ subside" [@lubbock_craft_1921, 4]. To read in this mode is to deny the book
 its materiality. When reading for pleasure, lay readers lose themselves in the
 elements of narrative immediately available for observation.  To read the
 novel for pleasure for Lubbock is to "forget, if we can, that the book is an
-object of art. [@lubbock_craft_1921, 6]" By object of art he means the
+object of art."[@lubbock_craft_1921, 6] By object of art he means the
 transcendent idea of the novel as opposed to the immanent work itself. To
 "objectify the elements" of the novel that "strike us more keenly," as Lubbock
 phrases it, therefore means for him quite the opposite of what is usually
@@ -678,9 +678,10 @@ of view. When the hand writes, it is the brain that thinks. But when the hand
 thinks, it is the brain that writes. Meaning thus lies in the transition from
 hand to head and from mind to paper. We might say that thinking takes place
 "on paper, in our head, in the mind," Wittgenstein writes, but crucially,
-"none of these statements of locality gives *the* locality of thinking"
-[@wittgenstein_blue_1965, 16]. Thought is rather distributed throughout the
-body and among its extensions. We think by the sign, head, hand, and pen.
+"none of these statements of locality gives *the* locality of
+thinking."[@wittgenstein_blue_1965, 16] Thought is rather distributed
+throughout the body and among its extensions. We think by the sign, head,
+hand, and pen.
 
 "Can a machine think?" Wittgenstein asks later on in the first notebook
 [@wittgenstein_blue_1965, 16]. The challenge, as he explains it, is not one of
@@ -746,12 +747,13 @@ other end" of the communication act [@wittgenstein_blue_1965, 185].
 Communication, we would say today, is always mediated. In the conclusion of
 his notebooks, Wittgenstein imagines the possibility of "direct" modes
 communication, capable of transmitting feelings immediately from one person to
-another, in a way that "obviate[s] the external medium of communication
-[@wittgenstein_blue_1965, 185]" Barring that possibility, we are ultimately
-limited by our private sensations of knowledge. "Something which we can never
-know happens at the end end," Wittgenstein writes [@wittgenstein_blue_1965,
-185]. Any sense of affirmation, the phatic utterance---Can you hear me
-now?---comes through further expression, entailing further uncertainty.
+another, in a way that "obviate[s] the external medium of
+communication."[@wittgenstein_blue_1965, 185] Barring that possibility, we are
+ultimately limited by our private sensations of knowledge. "Something which we
+can never know happens at the end end," Wittgenstein writes
+[@wittgenstein_blue_1965, 185]. Any sense of affirmation, the phatic
+utterance---Can you hear me now?---comes through further expression, entailing
+further uncertainty.
 
 Thought experiments in *The Blue and Brown Notebooks* do not amount to a
 cohesive model of language, communication, or the mind. They do however
@@ -776,15 +778,15 @@ into a picture in another medium and let one picture throw light on the other"
 [@wittgenstein_philosophical_1974, 5 & 41]. And elsewhere: "How curious: we
 should like to explain the understanding of a gesture as a *translation* into
 words, and the understanding of words as a translation into gestures [emphasis
-mine]" [@wittgenstein_philosophical_1974, 42]. In conclusion, he again
+mine]."[@wittgenstein_philosophical_1974, 42] In conclusion, he again
 describes what we mean by "understanding" as a "process of translation from
 one symbolism into another; tracing a picture, copying something, or
-translating into another mode of representation.
-[@wittgenstein_philosophical_1974, 45]" To understand something said is thus
-akin to modeling it in clay or drawing it. Similarly, we imagine explaining
-the rules of basketball to someone who only knows how to play hockey by
-analogy: the puck bares a grammatical resemblance to the ball, the goal net to
-the basketball hoop.
+translating into another mode of
+representation."[@wittgenstein_philosophical_1974, 45] To understand something
+said is thus akin to modeling it in clay or drawing it. Similarly, we imagine
+explaining the rules of basketball to someone who only knows how to play
+hockey by analogy: the puck bares a grammatical resemblance to the ball, the
+goal net to the basketball hoop.
 
 It is insufficient however to merely paraphrase: to show understanding one
 must "draw a picture" or "model" in a way that reveals the correspondence of
@@ -818,9 +820,9 @@ This sort of a rigid correspondence seems to bring us closer to solving the
 challenge of "proper" interpretation. But, like the other, less exacting,
 mechanisms of comprehension, the pianola can break too. Wittgenstein explains
 in the early passages of *Philosophical Grammar*: "Aren't our sentences parts
-of a mechanism? As in a pianola? But suppose it is in bad condition?
-[@wittgenstein_philosophical_1974, 10]"  "The sentences that we utter have a
-particular purpose," Wittgenstein elaborates:
+of a mechanism? As in a pianola? But suppose it is in bad
+condition?"[@wittgenstein_philosophical_1974, 10] "The sentences that we utter
+have a particular purpose," Wittgenstein elaborates:
 
 > They are to produce certain effects. They are parts of a mechanism, perhaps
 > a psychological mechanism, and the words of the sentences are also parts of
@@ -905,9 +907,9 @@ the mechanism behind the [watch] dial, you will be able to predict the
 movement of the hour hand for any given movement of the minute hand,"
 Wittgenstein writes. But once again, how do we know if a mechanism is
 functioning properly? I may drop the clock, for example, he explains, "so that
-the machinery is broken, or a lighting may strike it.
-[@wittgenstein_wittgensteins_1976, 195]" To check the mechanism for damage we
-need "a picture," a diagram, or schematics that describe what the properly
+the machinery is broken, or a lighting may strike
+it."[@wittgenstein_wittgensteins_1976, 195] To check the mechanism for damage
+we need "a picture," a diagram, or schematics that describe what the properly
 functional mechanism looks like. In the form of a schema, the mechanism is
 itself a type of a symbol for the perfected behavior of the sort that we
 expect. We can, for example, compare the broken clock with a clock that works.
@@ -1178,7 +1180,7 @@ between text and telegraph. The perforated tape decoupled the human from the
 machine. In US patent #1187035 (1916) on "Telegraphy", brothers Albert and
 Ralph Bumstead explain: "the object of our invention is to provide a system of
 telegraphy which does not require skilled operators for the transmission and
-reception of messages" [@bumstead_telegraphy_1916]. Instead, the message was
+reception of messages."[@bumstead_telegraphy_1916] Instead, the message was
 transcribed into perforation via mechanical means and then fed into the
 mechanism. The tape mechanics of the typewriter could then be coupled with the
 electrics of the telegraph, where perforated tape mediated between the two
@@ -1214,10 +1216,10 @@ brothers describe a telegraph system capable of transmitting impulses at
 varying time intervals. In the language of the patent, the length of a time
 interval "represents significance," involving an automated receiver
 responsible for "distributing, interpreting, and recording." The printing
-mechanism is further "arranged to print the interpretation of the signals.
-[@bumstead_telegraphy_1916, 6]" The interpreting relays thus transform time
-intervals into typography, representing letters, figures, and other
-characters, in "accordance with code" [@bumstead_telegraphy_1916, 13].
+mechanism is further "arranged to print the interpretation of the
+signals."[@bumstead_telegraphy_1916, 6] The interpreting relays thus transform
+time intervals into typography, representing letters, figures, and other
+characters, in "accordance with code."[@bumstead_telegraphy_1916, 13]
 Initially, the telegraph "interprets" with the aim of "transmitting
 intelligence."
 

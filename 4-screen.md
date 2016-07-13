@@ -370,7 +370,7 @@ operation of the cinematograph, which divides continuous motion into distinct
 frames. By running the frames through the projecting apparatus, the telegraph
 reconstituted "the individuality of each particular movement." "Such is the
 contrivance of the cinematograph," Bergson wrote, "and such is also that of
-our knowledge. [@bergson_creative_1944, 332]" In this way, the intellect
+our knowledge."[@bergson_creative_1944, 332] In this way, the intellect
 continually separated the undifferentiated reality into discrete states of
 time and space [@bergson_creative_1944, 167-182; @russell_philosophy_1914, 4].
 But these states were virtually, not actually, discrete. The evolution of life
@@ -817,18 +817,18 @@ The difference between discrete and continuous quantities defines the
 conversation about digital media.[^ln3-maley] For example, in a popular book
 about what a "well-informed person should know about computers," Brian
 Kernighan describes "analog" as conveying "the idea of values that change
-smoothly as something else changes" [@kernighan_d_2011, 526]. Much of the
-world is analog, Kernighan explains. A water tap, a pen, or a car steering
-wheel are all examples of analog interfaces. For example, when riding a
-bicycle, turning the handlebars one way results in a corresponding motion of
-the machine. This motion is smooth. Compare that with the action of a light
-switch. A properly functioning light switch takes on two discrete states only:
-on or off. A range of pressure applied to the switch does not correspond to
-any mechanical action of the lever. But once a certain threshold is reached,
-the switch "flips" to change states. "Digital systems," as Kernighan writes,
-"deal with discrete values. [@kernighan_d_2011, 22]" The switch contains a
-limited number of state possibilities, where the bicycle handlebars could be
-rotated in an infinite number of minutely differing gradations.
+smoothly as something else changes."[@kernighan_d_2011, 526] Much of the world
+is analog, Kernighan explains. A water tap, a pen, or a car steering wheel are
+all examples of analog interfaces. For example, when riding a bicycle, turning
+the handlebars one way results in a corresponding motion of the machine. This
+motion is smooth. Compare that with the action of a light switch. A properly
+functioning light switch takes on two discrete states only: on or off. A range
+of pressure applied to the switch does not correspond to any mechanical action
+of the lever. But once a certain threshold is reached, the switch "flips" to
+change states. "Digital systems," as Kernighan writes, "deal with discrete
+values."[@kernighan_d_2011, 22] The switch contains a limited number of state
+possibilities, where the bicycle handlebars could be rotated in an infinite
+number of minutely differing gradations.
 
 Nelson Goodman was one of the first philosophers to examine digital
 representation in the context of aesthetic theory. In the late 1960s, drawing

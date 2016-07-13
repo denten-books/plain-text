@@ -9,8 +9,8 @@ sleep activity monitors. "At the limit of an always increasing elimination of
 references and finalities," Baudrillard wrote, "we find 'the programmatic
 sign', whose 'value' is purely tactical." Like good theater, we experience the
 machine in immersion, suspending disbelief. This leads to what Baudrillard has
-called the "ever-increasing loss of resemblances and designations.
-[@baudrillard_symbolic_1988, 139-140]" The programmatic sign circumvents
+called the "ever-increasing loss of resemblances and designations."
+[@baudrillard_symbolic_1988, 139-140] The programmatic sign circumvents
 critical reflection in favor of affect. Its value is tactical in the sense
 that it appeals to instrumental terms like efficiency, performance,
 disruption, and innovation.
@@ -131,7 +131,7 @@ not think like computers," a group of engineers from Interval Research Group
 write in a patent application describing "methods and systems for providing
 human/computer interfaces." Metaphors, according to their description, "permit
 more efficient and medium independent communications between people and
-computers. [@boyden_methods_1999, 1]" Metaphor mediates in the symbolic
+computers."[@boyden_methods_1999, 1] Metaphor mediates in the symbolic
 transference between human and machine, at the liminal space where two
 disparate systems of representation meet to exchange information. "Certain
 encoded information is translated into certain decoded information," the
@@ -146,8 +146,8 @@ in employ by the Xerox Corporation. "An icon may be a representation of a
 virtual object, such as a virtual floppy disk," they continue. Crucially, the
 virtual object may be accessible either in what the authors referred to as the
 "host system world" or in the "emulating processor world," even when the
-"virtual floppy disk may have a filing system alien to the host system world.
-[@beard_data_1990, 1]" In other words, the arrangement of information on the
+"virtual floppy disk may have a filing system alien to the host system world."
+[@beard_data_1990, 1] In other words, the arrangement of information on the
 screen---the poetics of emulated space---may be incompatible with the
 arrangement of electromagnetic charges on the floppy disk itself---the poetics
 of inscription.
@@ -794,7 +794,7 @@ the computer. JOSS and the user would "take turns controlling the typewriter"
 in the words of the documentation. The interpreter understood simple commands
 like `do`, `go`, and `type`, which it would then translate into machine
 instructions. When encountering an unspecified command, the interpreter
-mimicked human confusion, responding simply: "Eh?  [@shaw_joss:_1964]"
+mimicked human confusion, responding simply: "Eh?"[@shaw_joss:_1964]
 
 This mode of conversational interaction was captured also in one of the
 earliest text adventure games, the *Colossal Cave Adventure*, designed by Will

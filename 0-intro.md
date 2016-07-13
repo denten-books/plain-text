@@ -704,16 +704,16 @@ out of the conundrum. Bad faith identifies a misalignment between thought and
 action.[^ln-sartre] The solution to connect "meaning" with "operational
 meaning" belongs to a species of pragmatism. William James articulated the
 approach concisely when he wrote that "reality is seen to be grounded in a
-perfect jungle of concrete expediencies" [@james_pragmatisms_1907 233]. For
+perfect jungle of concrete expediencies."[@james_pragmatisms_1907 233] For
 James and other pragmatists, truth could not exist in the abstract alone. It
 also entailed causes and effects that operate in the world.[^ln-pragma-truth]
 In his essay "Pragmatism's Conception of Truth," James asked: "How will the
 truth be realized? [...] [W]hat concrete difference will its being true make
 in anyone's actual life? [...] What experiences will be different from those
-which would obtain if the belief were false? [@james_pragmatisms_1907 200]"
+which would obtain if the belief were false?"[@james_pragmatisms_1907 200]
 Frank Ramsey, the young British philosopher close to Ludwig Wittgenstein,
 would later write in a similar vein about meaning "defined by reference to the
-actions. [@ramsey_foundations_2013, 155]"
+actions."[@ramsey_foundations_2013, 155]
 
 For a pragmatist, truth-carrying propositions of the shape "X is Y" (as in,
 "the author is dead" or "art is transcendent") beg the questions of "Where?,"

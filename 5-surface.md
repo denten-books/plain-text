@@ -398,8 +398,8 @@ a mere five units in length, with the maximum of ten used to switch the
 receiving device into "figure" or "capital letter" states (for the total of
 ten units) [@murray_setting_1905; @beauchamp_history_2001 380-397].
 
-![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys
-[@murray_setting_1905].](images/murray-keyboard.png)
+<!-- ![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys
+[@murray_setting_1905].](images/murray-keyboard.png) -->
 
 ![Table of Alphabets, 1901 [@vansize_new_1901, 23].](images/alphabets-vansize.png)
 
@@ -519,7 +519,7 @@ figure, punched through the conduit. Whatever challenges punch cards and
 ticker tape presented for readers, these were were soon complected by the
 advent of another medium, even more mute and inscrutable, the magnetic tape.
 
-## B. Magnetic Reading
+## B. Magnetic Laminates
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
@@ -571,7 +571,7 @@ mechanical perforation. Tape was more durable than paper; it could fit more
 information per square inch; and it was reusable. "One of the important
 advantages of magnetic recording," Marvin Camras, a physicist with the Armour
 Research Foundation, wrote in 1948, "is that the record may be erased if
-desired, and a new record made in its place.[@camras_magnetic_1948, 505]" Most
+desired, and a new record made in its place."[@camras_magnetic_1948, 505] Most
 early developments in magnetic storage were aimed at sound recording. The use
 of magnetic medium for data storage took off in earnest around the 1950s
 [@dee_magnetic_2008, 1775]. That said, some early developers of
@@ -671,75 +671,66 @@ suitable for publication." The printers were capable of determining the
 "number of digits to be printed, the intercolumnar and interlinear spacing,
 and other items related to the typography of the printed page"
 [@staff_description_1952, 1-40]. One can imagine the pathway of a single
-letter or digit travelling across surfaces, through doorways and interfaces,
+letter or digit as it crosses surfaces, through doorways and interfaces,
 gaining new shapes and temporalities with each transition.
 
-At the time, data was already transferred to tape using binary numerical
-notation. To ta number onto tape, the operator sat at the "numerical tape
-preparation table," a separate piece of furniture. Data was stored on tape
-along two channels that ran its entire length. Operators entered each number
-twice, first into Channel A and then into Channel B. This was done to prevent
-errors, since they worked blindly, unable to see whether the intended mark
-registered properly upon first entry. An error bell would sound when the first
-quantity did not match the second, in which case they would have to reenter
-the mismatched digits [@staff_description_1952, 143-88]. To further "ensure
-completely reliable results" they could use one of the five attached Underwood
-Electric teletypes to print all of the tape's columns and confirm visually.
+Electromagnetic signals were transcoded into binary numerical notation. To
+transfer characters onto tape, operators sat at the "numerical tape
+preparation table," a separate piece of furniture. Data were stored along two
+channels, running along tape's length. Operators entered each number twice,
+first into Channel A and then into B. This was done to prevent errors, since
+they worked blindly, unable to see whether the intended mark registered
+properly upon first entry. An error bell would sound when the first quantity
+did not match the second, in which case an operator would reenter the
+mismatched digits. To "ensure completely reliable results," one of the five
+attached Underwood Electric teletypes could further be used to print all
+channels and confirm input visually [@staff_description_1952, 143-88].
 
-I draw on a thick technical description here and throughout to provide a
-literal rather than a metaphorical understanding of terms like "textual
-fissure" and "multiple locations of the inscription." Where the typewriter or
-hole punch transferred inscriptions from keyboard to paper directly, at the
-stroke of hammer and key, early electromagnetic devices compounded them across
-multiple surfaces. The movement of the computed sign necessitated manifold
-"phase transitions" between media: from one channel of tape to another, from
-tape to drum, from a slow drum to a fast one, and from drum and tape to paper.
-Where before, on ticker tape, the inscription remained visible, at least
-before it entered the wires, it now disappeared from view soon after key
-press. Submerged beneath the magnetic surface, inscriptions multiplied,
-diffused, and resisted direct observation.
+Mark III's schematics embody textual fissure in practice. By tracing the
+signal through the machine we are able to reconstruct a multiplicity of
+inscription sites. These are not metaphoric but literal localities, which
+fracture the sign across multiple surfaces. Where pens, typewriters, and hole
+punches transferred inscriptions to paper directly, early electromagnetic
+devices compounded them obliquely, into a laminated aggregate. The propagation
+of electrical signal across space required manifold "phase transitions"
+between media: from one channel of tape to another, from tape to drum, from a
+slow drum to a fast one, and from drum and tape to paper. Where on paper the
+inscription remained visible in circulation, it now disappeared from view soon
+after key press. Submerged beneath a magnetic facade, inscriptions multiplied
+and diffused. The electromagnetic inscription stretched across multiple
+surfaces simultaneously. Its shape was neither flat nor apparent.
 
-The computed sign underwent a number of changes in the process of displacement
-in time and space. When using the Mark III or similar tape-driven devices,
-operators could prepare reels of tape today, process them tomorrow, derive the
-necessary calculations, and transmit them the day after. The inscription's
-continual fissure across surfaces---from one format into another---in effect
-constituted the "processing" part of "word processing." Telegraphy entwined
-symbol and machine control, making machine alphabets incomprehensible to a lay
-reader. Magnetic storage further stretched the inscription across multiple
-recording surfaces, concealing it in the process.
-
-The potential incongruence between covert data storage and its apparent
-representation posed a problem in the decades preceding screen simulation. In
-a 1954 patent, filed on behalf of Borroughs Corporation, Herman Epstein and
-Frank Innes described an "electrographic printer," involving an "electrical
-method and apparatus for making electrostatic images on a dielectric surface
-by electrical means which may be rendered permanently visible"
-[@epstein_electrographic_1961, 1]. The electrographic printer anticipated the
-modern photocopier. Rather than storing data in code, it formed letter shapes
-directly on the surface of magnetic tape, in a kind of a magnetic tracing. A
-small printing head would convert binary input into a five-by-seven grid of
-electromagnetic charges, that were capable of rendering English alphabets.
-Magnetic forms could then be combined with recording mediums that had "correct
-physical properties to adhere to the electrostatic latent images"
-[@epstein_electrographic_1961, 2]. A light dusting of powder ink would finally
-reveal the hidden magnetic inscription. Magnetic and ink shapes could thus be
-stored in analogous configurations.
+The potential for incongruence between recondite data formats and their
+apparent representation posed a problem in the decades preceding screen
+simulation. In a 1954 patent, filed on behalf of Burroughs Corporation, Herman
+Epstein and Frank Innes described an "electrographic printer," involving an
+"electrical method and apparatus for making electrostatic images on a
+dielectric surface by electrical means which may be rendered permanently
+visible" [@epstein_electrographic_1961, 1]. The electrographic printer
+anticipated the modern photocopier in that it proposed to use dusting inks to
+reveal the static charge. Rather than encoding its data into another
+representation like the Baudot code, it traced human-legible letter shapes
+directly onto tape. A small printing head would convert binary input into a
+five-by-seven grid of electromagnetic charges to render the English alphabet.
+Such magnetic shapes could then be be made apparent by combining them with a
+"recording medium" having the "correct physical properties to adhere to the
+electrostatic latent images" [@epstein_electrographic_1961, 2]. A light
+dusting of powder ink would reveal the latent magnetic inscription. Tape and
+paper configurations would thus achieve a measure of literal analogy.
 
 !["Images formed by a negative voltage," from Electrographic Printer by
 Epstein and Innes
 [@epstein_electrographic_1961]](images/magnetic-alphabet-epstein.png)
 
-Such advances in magnetic storage found their way into businesses and home
-offices a decade later. In 1964, IBM combined magnetic tape storage with its
-Selectric line of electric typewriters, some of the first machines to
-transform a keyboard's mechanical action into binary electric signal. For this
-reason, they served as an input device for a variety of early computing
-platforms [@eisenberg_word_1992]. By coupling magnetic tape storage with a
-keyboard input, the Selectric typewriter became one of the first true word
-processors. Ephemeral magnetic media enabled the separation of input and
-output, effectively splintering the sign between sites of storage and
-projection.
+Advances in magnetic storage found their way into businesses and home offices
+a decade later. In 1964, IBM combined magnetic tape storage with its Selectric
+line of electric typewriters, some of the first machines to transform a
+keyboard's mechanical action into binary electric signal. For this reason,
+they served as an input device for a variety of early computing platforms
+[@eisenberg_word_1992]. By coupling magnetic tape storage with a keyboard
+input, the Selectric typewriter became one of the first true word processors.
+Ephemeral magnetic media enabled the separation of input and output,
+effectively splintering the sign between sites of storage and projection.
 
 Built on a simpler architecture than its supercomputer cousins, the MT/ST used
 a single tape read and write mechanism. An advertisement in the American Bar
