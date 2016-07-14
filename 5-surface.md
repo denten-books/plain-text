@@ -941,7 +941,7 @@ and stratify. Where in the first stage of our history we saw machine and human
 languages intertwine, we saw the mixture fracture and pass out of sight in the
 second. Electromagnetic inscription heralds the era of *laminate textuality*.
 
-## C. Restored Sight
+## C. Legibility
 
 The contemporary textual condition took its present form in the late 1960s.
 Computers subsequently changed in terms of size, speed, and ubiquity. They
@@ -1013,7 +1013,7 @@ interaction, Engelbart wrote:
 
 The first subjects to read and write on screen reported feeling freedom and
 liberation from paper. An anonymous account included in Engelbart's report
-offered the following phenomenological self-assessment:[^ln2-follow]
+offered the following self-assessment:[^ln2-follow]
 
 ```
     1B2B1 "To accommodate and preserve a thought or
@@ -1055,8 +1055,8 @@ of a complex sentence.]
 
 A decomposition follows indeed. The author deviates dramatically from
 technical writing conventions. Numbered passages along with unexpected
-enjambment heighten the staccato quality of the often lyrical
-prose:[@engelbart_human_1969, 50-1]
+enjambment heighten the staccato quality of prose that reaches towards the
+lyric:[@engelbart_human_1969, 50-1]
 
 ```
     1B4A "I find that I write faster and more freely,
@@ -1085,7 +1085,7 @@ prose:[@engelbart_human_1969, 50-1]
         leaving them all the while the rest of the
         statement takes shape. Then I select from among
         them, or replace them all, or else merely change the
-        list a it and wait for a later movement of the
+        list a bit and wait for a later movement of the
         spirit.
 ```
 
@@ -1094,24 +1094,24 @@ costly. Once inscribed, the sign gains permanence; it is difficult to emend.
 An eraser can help remove a layer of physical material. Alternatively, writers
 use white ink to restore the writing surface. Engelbart's anonymous subject
 reports the feeling of freedom from such physical commitment. She can simply
-"backspace" and start over. Words come easy because there is no penalty for
-being wrong. Virtual space seems limitless and endlessly pliable.
+"backspace" and start over. Words come easily because there are no penalties
+for being wrong. Virtual space seems limitless and endlessly pliable.
 
 The feeling of material transcendence---the ephemeral quality of digital
-text---is tied directly to the underlying physical properties of screen and
-electromagnetic storage. The screen exposes the pliability of the medium,
-where erasure is clean and effortless. Content can be addressed in memory and
-copied at a stroke of a key. The numbered paragraphs suggest a system for
+text---is tied directly to the underlying physical properties of screens and
+electromagnetic storage. Screens expose the pliability of the medium, where
+erasure is clean and effortless. Content can be addressed in memory and copied
+at a stroke of a key. The numbered paragraphs suggest a novel system for
 recollection. Data storage units become, in a sense, mental units. I am struck
-again by the distinctly phenomenological quality of technical description: the
-editor does not merely resemble a page, it is also a type of a mental
-activity. It changes not only the writer's relation to text, but to her own
-thoughts. The highly hierarchical and blocky paragraph structure, along with
-its repetitive refrain, "finding" and "I find that," gives the prose a
-hypnotic drive forward. The cadence matches the reported experience of
-liberation.
+by the distinctly phenomenological quality of technical description: the
+editor does not merely resemble a page, it is, for the writer, a newly
+discovered way of thought, which changes not only the writer's relation to
+text, but to her own thoughts. The highly hierarchical and blocky paragraph
+structure, along with its repetitive refrain, "finding" and "I find that,"
+gives the prose a hypnotic drive forward. The cadence matches the reported
+experience of discovery.
 
-Anonymous continues:[@engelbart_human_1969, 51]
+The writer continues:[@engelbart_human_1969, 51]
 
 ```
     1B4B "I find that,
@@ -1148,20 +1148,21 @@ Anonymous continues:[@engelbart_human_1969, 51]
             peek at what is to come soon.
 ```
 
-The passages appear too contrived to be spontaneous. Despite their
-experimental structure, the narrative advances key elements of Engelbart's
-research program, which aimed to develop new data structures in combination
-with new ways of displaying them. Yet I cannot help but be moved by the
-fluency of the prose and by the sheer audacity of the project.
+The passages appear too contrived to be spontaneous. Despite its experimental
+structure, the narrative advances key elements of Engelbart's research
+program, which aimed to develop new data structures in combination with new
+ways of displaying them. Yet I cannot help but be moved by the fluency of the
+prose and by the sheer audacity of the project.
 
 Engelbart's research into intellect augmentation created tools that augment
 research. In an image that evokes Baron Münchhausen pulling himself out of a
-swamp by his own bootstraps, Engelbart described his lab's methodology as
+swamp by his own bootstraps, Engelbart called his lab's methodology
 "bootstrapping," which involved the recursive strategy of "developing tools
 and techniques" to develop better tools and techniques. The "tangible product"
 of such an activity was a "constantly improving augmentation system for use in
-developing and studying augmentation systems."[@engelbart_human_1969, 67] It
-is an appealing vision, but only as long as it remained recursive. The lab
+developing and studying augmentation systems."[@engelbart_human_1969, 67]
+
+It is an appealing vision, but only as long as it remained recursive. The lab
 benefited from creating its own tools and methods. Engelbart also hoped that
 his system could be "transferred---as a whole or by pieces of concept,
 principle and technique---to help others develop augmentation systems for many
@@ -1170,79 +1171,77 @@ Engelbart's ideas about intellect augmentation have had a broad impact on
 knowledge work across disciplines. His vision loses the property of self
 determination, however, when transferred outside the narrow confines of a lab
 actively engaged in the transformation of material contexts of their own
-knowledge production. At large, word processing rarely involved a community
+knowledge production. Word processing today rarely involves a community
 pulling itself by the bootstraps. It is augmentation enforced from without,
 adhering to values and principles no longer comprehensible to the entity being
 augmented.
 
-To bring his system into being, Engelbart convened a bootstrap community which
-through recursive self-improvement could lift itself up towards a smarter,
-more efficient, more human way of doing research. The group crafted novel
+To bring his system into being, Engelbart convened a community which through
+recursive self-improvement could lift itself up towards a smarter, more
+efficient, more human way of doing research. The group crafted novel
 instruments for reading and writing. They engineered new programming
 languages, compilers to interpret them, and debuggers to troubleshoot. The
 system shows care and love for the craft of writing. But there is also
-complexity. The feeling of transcendence the anonymous author describes in
-using the system engages a sophisticated mechanism. The mechanism is not,
-however, what lifts the community. It is the process of building it that does
-it.
+complexity. "This complexity has grown more than expected," Engelbart wrote in
+conclusion [@engelbart_human_1969, 67]. The feeling of transcendence the
+anonymous author describes in using the system engages a sophisticated
+mechanism. The mechanism was not, however, what lifted the community. It was
+the process of building it that does it. "The development of the Bootstrap
+Community," Engelbart wrote, "must be coordinated with the capacity of our
+consoles, computer service, and file storage to support Community needs, and
+with our ability to integrate and coordinate people and
+activities."[@engelbart_human_1969, 67] The development of the community must,
+in other words, form a feedback loop with software development. It involves
+training, critical self-reflection, and deliberation.
 
-Contemporary word processors enable us to drag and drop passages with
-unprecedented facility. Readers and writers hardly comprise a self-determined
-"bootstrapping community" imagined by Engelbart. The contemporary writer is
-bootstrapped passively to whatever prevailing vision of intellect
-augmentation.
-
-Engaged in a methodical discipline of self-reflection the architects of
-intellect augmentation followed traditional Delphic ideals of self actuation.
-The very metaphor of bootstrapping suggests the impossibility of using one's
-bootstraps to pull others out of the Platonic cave. Engelbart's liberatory
-research program therefore left another less lofty imprint on the everyday
-practice of modern intellectual life. Text, which before the advent of the
-cathode ray was readily apparent on the page in all of its fullness, finally
-entered a complex system of executable code and inscrutable control
-instruction. The material lightness of textual being came at the price of
-legibility.
+Modern word processors enable us to drag and drop passages with unprecedented
+facility. We live in Engelbart's world, to an extent that we use his lab's
+complex systems daily and in a smiler configuration: screens, keyboards,
+storage. Today's computer users rarely comprise a self-determined
+"bootstrapping community" however. The contemporary writer is bootstrapped
+passively to whatever prevailing vision of intellect augmentation. The very
+metaphor of bootstrapping suggests the impossibility of using one's bootstraps
+to pull others out of the Platonic cave. Engelbart's liberatory research
+program therefore left another less lofty imprint on the everyday practice of
+modern intellectual life. Text, which before the advent of the cathode ray was
+readily apparent on the page in all of its fullness, finally entered a complex
+system of executable code and inscrutable control instruction. The material
+lightness of textual being came at the price of legibility.
 
 Short-lived screenless word processors of the early 1960s (like the MT/ST)
 were difficult to operate, because typists had no means to visualize complex
 data structures on tape. Screens helped by representing document topography
-visually, restoring a sense of apparent space to otherwise inscrutable media.
-The contemporary "digital" document may resemble a page on the screen, but
-beneath it, it is a jumble of bits, split into the various regions of internal
-memory. Tough screens seem to restore document unity by presenting wholistic
-images of paragraphs, pages, and books, these structures are mere simulations.
-The simulation seems to follow the physics of paper and ink---one can turn
-pages, write in margins, make bookmarks---where it is really governed by
-electromagnetics. The simulated text does not transcend matter, it merely
-dissembles. It conceals its true material properties while recreating others
-artificially.  The act of continual dissemblage---one medium imitating the
-other---creates the ephemeral illusion, by which pages fade in and out of
-sight, paper folds in improbable ways, and words glide effortlessly between
-registers of copy and paste.
+visually, restoring a sense of apparent space to otherwise opaque media. The
+contemporary "digital" document may resemble a page on the screen, but beneath
+it, it is a jumble of bits, split into the various regions of internal memory.
+Screens simulate document unity by presenting holistic images of paragraphs,
+pages, and books. The simulation seems to follow the physics of paper and ink:
+one can turn pages, write in margins, and make bookmarks. But the underlying
+inscription remains in fracture. Simulated text cannot transcend matter.
+Screens merely conceal its material properties while recreating others. The
+act of continual dissemblage---one medium imitating the other---manufactures
+an ephemeral illusion, by which pages fade in and out of sight, paper folds in
+improbable ways, words glide effortlessly between registers of copy and paste.
 
-Screens purport to restore a sense of lost immediacy: of the kind felt upon
-contact between pen nib and paper, as the capillary action of cellulose
-conveys ink into its shallow conduit. They are meant to open a window onto the
-remote physicalities of electromagnetic inscription. Screens obviate the need
-for multiple typings. Projected image should, in theory, correspond to its
-originating keystroke. The gap separating input and output seems to close.
+In decoupling inputs from outputs, programmable media injects arbitrary
+intervals of time and space into document architecture. Forces of capital and
+control occupy the void as the sign acquires new dimensions and capabilities
+for automation. Code and codex subsequently sink beneath the matte surface of
+a laminate storage medium. Screens purport to restore a sense of lost
+immediacy: of the kind felt upon contact between pen nib and paper, as the
+capillary action of cellulose conveys ink into its shallow conduit. Screens
+are meant to open a window onto the unfamiliar physicalities of
+electromagnetic inscription. They obviated, for example, the need for multiple
+typings or print outs. Projected image should, in theory, correspond to its
+originating keystroke. The gap separating input and output appears to close.
 Crucially, the accord between archived inscription and its image cannot be
-guaranteed. The interval persists in practice. Laminate text appears
-weightless and ephemeral at some layers of the composite, which allow for
-rapid remediation. At other layers, its affordances are determined by its
-physics; at others they are carefully constructed. The screen flattens an
-otherwise stratified structure. We gain in facility what we lose in critical
-acumen.
-
-In decoupling inputs from outputs, programmable media injected arbitrary
-intervals of time and space into document structure. The sign acquired new
-dimensions and new capabilities for automation. Content and instruction codes
-subsequently sunk beneath the matte surface of a laminate storage medium. Its
-inscrutability continues to impede our capacity to understand new forms of
-control--- embedded, remote, and inconspicuous. We are yet to come to terms
-with living on recondite surfaces. They structure our mental life, social, and
-political. They are, I suspect, the root cause of our estrangement from
-information technology.
+guaranteed. The interval persists in practice and is actively contested. Deep
+and shallow inscriptions entwine. Laminate text seems weightless and ephemeral
+at some layers of the composite, which allow for rapid remediation. At other
+layers, its affordances are determined by its physics; at others, they are
+carefully constructed to resist movement or interpretation. Alienated from
+base particulates of the word, we lose some of our basic capacities to
+interrogate embedded power structures.
 
 [^ln2-gate]: Solid state memory technology, flash memory for example, store
 information in capacitor "circuit states." This by contrast with
