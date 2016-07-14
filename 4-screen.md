@@ -269,7 +269,7 @@ Likewise, the illusion of continuity disappears when a projection flickers
 much slower than 60 frames per second. We are left then somewhere between
 social constructivism and technological determinism. A historical account of
 digital media must therefore acknowledge both the contingent and the essential
-characteristics of perception.
+characteristics of perception.[^ln3-cont]
 
 In what follows I offer two case studies that challenge commonly expressed
 intuitions about digital media. They reveal that ostensible "properties" of
@@ -1208,16 +1208,15 @@ dashes in a manner similar to the ones and zeroes of digital logic;"
 sending a continuous signal that is an exact analog of the input, the telegraph
 clicks to send the individual characters."
 
-[^ln3-cont]: Gregory Hickok, a prominent cognitive scientists working out of
-University of California, Irvine writes: "The brain samples the world in
-rhythmic pulses, perhaps even discrete time chunks, much like the individual
-frames of a movie. From the brain's perspective, experience is not continuous
-but quantized [...] This is not to say that the brain dances to its own beat,
-dragging perception along for the ride. In fact, it seems to work the other way
-around: Rhythms in the environment, such as those in music or speech, can draw
-neural oscillations into their tempo, effectively synchronizing the brain's
-rhythms with those of the world around us" [@hickok_its_2015]. His study on the
-topic is forthcoming in *Psychological Science* in 2015.
+[^ln3-cont]: Gregory Hickok, a prominent UC Irvine cognitive scientist wrote:
+"The brain samples the world in rhythmic pulses, perhaps even discrete time
+chunks, much like the individual frames of a movie. From the brain's
+perspective, experience is not continuous but quantized [...] This is not to
+say that the brain dances to its own beat, dragging perception along for the
+ride. In fact, it seems to work the other way around: Rhythms in the
+environment, such as those in music or speech, can draw neural oscillations
+into their tempo, effectively synchronizing the brain's rhythms with those of
+the world around us" [@hickok_its_2015].
 
 [^ln3-brain]: At the physical level, the process of textual remediation begins
 at the brain, as when thoughts are initially transcribed onto paper.
