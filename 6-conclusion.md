@@ -14,7 +14,7 @@ how they work."[@mcgowan_i_2016; @sellars_petition_2014]
 
 Legal scholars from Harvard's Berkman Center presented the coalition's
 concerns before the United States Copyright Office, Library of Congress. "The
-purpose of a medical device company’s source code is to enable the function of
+purpose of a medical device company's source code is to enable the function of
 a medical device," they argued:
 
 > researchers like the members of this Coalition use the code in order to
@@ -30,10 +30,12 @@ like SMARTTRACKER, SMARTCHART, and Cloud Travel Analytic select people for
 target strikes by unmanned areal vehicles [@mcneal_targeted_2014;
 @weber_keep_2016]. Our ability to interpret codes that kill on our behalf also
 stems from our capacity to access them, read, understand, modify, and publish
-criticism. Readers everywhere are engaged in a *political* struggle to control
-and deploy codified resources. The heart and the sky are sites on which the
-tactics of inscription are increasingly contested. They require a capacity to
-"meet the machine" and a poetics capable of new emendations.
+criticism.
+
+Readers everywhere are engaged in a *political* struggle to control and deploy
+codified resources. The heart and the sky are sites on which the tactics of
+inscription are increasingly contested. They require a capacity to "meet the
+machine" and a poetics capable of new emendations.
 
 A media archaeology of digital inscription recovers the stratified depths
 extant in all meaning-bearing literary devices. Files deep within an implant
@@ -43,8 +45,8 @@ complexity, can fracture at the point of origin. Most contemporary texts still
 voyage from keyboard to screen and electromagnetic storage, where they
 diffuse, multiply, and resist comprehension. The screen subsequently simulates
 extinct interpretive affordances. The reader turns a non-page, for there are
-no pages in the world of liquid crystal, floating gate, quantum tunneling, and
-avalanche injection.
+no pages on the planes of liquid crystal, floating gate, quantum tunneling,
+and avalanche injection.
 
 In its advanced form, the simulation usurps the simulated. The avatar
 continues to mimic its object even as the object passes from use. "Scrolling
@@ -54,28 +56,27 @@ viral image of a child trying to "swipe" a magazine cover---will cease to
 identify it with a material unit of information. But like the scrolling of
 scrolls, word processors and e-books will likely continue to simulate paper.
 No longer connected to any recognized physics, reading will pass into the
-realm of the dead metaphor. Consider the possibility of interpretation as we
-know it being a historical anomaly, connected to the contingencies of print.
+realm of dead metaphor. Consider the possibility of interpretation as we know
+it being a historical anomaly, connected to the contingencies of print.
 
 The gap between input and output is what makes digital texts appear ephemeral.
 Temporary storage media, located between keyboard and screen, allow for rapid
 remediation. They keep ink in motion, across surfaces, unattached to "sticky"
 media like paper. Such spatial elongation comes at a cost: the inscription
 passes from view. The sign reappears again on screen, already "processed,"
-that is, altered by the intervention of the "control unit." Reading can no
-longer identify solitary, self-directed activity. Machine operators far
-removed from the site of interpretation intervene between readers, writers,
-and texts.
+that is, altered by the intervention of "control units." Reading no longer
+identifies solitary, self-directed activity. Machine operators far removed
+from the site of interpretation intervene between readers, writers, and texts.
 
 The consequences of such persistent intervention are immense. Supplemental
-"control characters," originally used for formatting, have fused with
-programming languages capable of generalized "Turing complete" control and
-computation. Technological and legal fictions rise to restore a measure of
-"stickiness" to ephemeral text. Digital rights management circuits, for
-example, are embedded into video streaming devices to artificially limit the
-duplication of broadcast material. Similarly, e-book sellers often prevent
-their readers from copying and pasting content. Such measures mimic the
-constraints associated with static, paper-and-ink-bound media regimes.
+"control characters," originally used for formatting, fuse with programming
+languages capable of generalized "Turing complete" control and computation.
+Technological and legal fictions rise to restore a measure of "stickiness" to
+ephemeral text. Digital rights management circuits, for example, are routinely
+embedded into video streaming devices to artificially limit the duplication of
+broadcast material. Similarly, e-book sellers often prevent their readers from
+copying and pasting content. Such measures mimic the constraints associated
+with static, paper-and-ink-bound media regimes.
 
 I began this book by noticing the duplicity of digital text, which splits its
 energies between sites of storage and projection. The revealed complexity of
@@ -85,9 +86,9 @@ today is privy only to surface phenomena. To meet the machine we must base our
 strategies of interpretation on newly emergent computational realities.
 Technologies that govern literacy cannot be allowed to develop apart from the
 humanities. Such detachment threatens the legacy of interpretive practice,
-from the analysis of verse to the ability to alter pacemaker software.
-Whatever their politics, humanists must negotiate the tactics of reading
-alongside law makers and software engineers.
+enacted on page or pacemaker. Whatever their politics, literary scholars,
+philosophers, historians, must negotiate the tactics of reading alongside law
+makers and software engineers.
 
 ***
 
@@ -96,14 +97,14 @@ something akin to "systems phenomenology"---a glimpse into the assemblage of
 people, texts, and technologies. In such cases, astute readers often reach for
 Jakob von Uexküll's *A Foray into the Worlds of Animals and Humans* to draw on
 his notion of perceptual worlds [*umwelten*].[^ln3-umwelten] In his forays,
-Uexküll saw our world from many alien perspectives: that of a sea urchin, pea
-weevil, and ichneumon wasp. The biologist's task, Uexküll believed, is to
-imagine alien life forms. The tick should not considered yet another
-rule-based machine, Uexküll wrote, but a concious "operator"
-[@uexkull_foray_2010, 44-53]. Consequently, he insisted on the ultimate
-subjectivity of perceptual experience. The tick carries with it its own sense
-of time and space, which the biologist recovers in thick description of its
-perceptual apparatus.
+Uexküll saw our world from the perspectives of sea urchins, pea weevils, and
+ichneumon wasps. The biologist's task, Uexküll believed, is to imagine such
+alien life forms. The tick should not considered yet another rule-based
+machine, Uexküll wrote, but a concious "operator" [@uexkull_foray_2010,
+44-53]. Consequently, he insisted on the ultimate subjectivity of perceptual
+experience. A tick projects its own sense of time and space onto the world,
+which the biologist recovers in thick description of the animal's perceptual
+apparatus.
 
 Uexküll was also a pioneer of systems theory, advancing an organism-based
 model of meaning making. An oak tree's canopy, he wrote, acts in unison with
@@ -125,15 +126,15 @@ perspectives is the apparent contradiction at the very core of what Dorion
 Sagan has called the "Gaia sciences."[@uexkull_foray_2010, 12] An idea
 ascendant in diverse fields from literary studies to information theory and
 free-market economics shifts the capacity for meaning-making from subject to
-assemblage, and from individual to complex system. Meaning in that model is
+assemblage and from individual to complex system. Meaning in that model is
 always an aggregate: oak plus rain, bee plus flower. Consequently, it is never
 available to the subject alone: oak, bee, or biologist. The quest for alien
 semiotics leads to, in Uexküll's own words, "mute interaction" meaningful only
 from some vantage point outside of the system [@uexkull_foray_2010, 148]. The
 forest always "understands" more than the tree, the planet more than the
 forest, and so on, in a regression that can only conclude with the one,
-whole-universe monism. The quest to diminish human import leads to the most
-grandiose point of view possible.
+whole-universe monism. The quest to diminish human import paradoxically leads
+to the most grandiose point of view possible.
 
 In his essay on the subjective experience of bats, the philosopher Thomas
 Nagel argued against such presumption. There must be something, he wrote,
@@ -158,13 +159,15 @@ common reality of the external world [@nagel_what_1974, 445-6].
 A media history derived from Nagel's insight does not proceed in isolation
 from the human condition: through pure technical description, for example. We
 know technology only through based habitation, tied to our culture and
-physiology. I therefore advance a descriptive history from the only available
-perspective. As the humanities struggle to theorize digital modes of being, I
-find a need to reexamine the category of the human. No other points of view
-can sustain analysis or critique. One can purport to speak for neither things
-nor assemblages. In refracting the technological other's gaze we see only
-ourselves. "Falsehood and deception," Bakhtin wrote in a fragmentary
-contemplation of otherness,
+physiology. I therefore advance a descriptive history from the only
+perspective available to me. As humanists struggle to theorize digital modes
+of being, I find a need to reexamine the category of the human. No other point
+of view can sustain analysis or critique. Post-human humanities are an
+apparent contradiction. One can purport to speak neither for things nor
+assemblages.
+
+In refracting the technological other's gaze we see only ourselves. "Falsehood
+and deception," Bakhtin wrote in a fragmentary contemplation of otherness,
 
 > unavoidably peering out of their own correlation. The external image of
 > thought, feeling, the external image of the soul. It is not I who looks out
@@ -196,7 +199,7 @@ and its environment [@uexkull_foray_2010, 52]. Digital environments constitute
 the grounds for all higher-level interpretive activity---from reading poetry
 to debugging code or diagnosing a patient. From these grounds it becomes
 possible to advance a computational poetics, the study of temporal
-arrangement: prosody, meter, harmony, cadence, and syncopation.
+arrangement: prosody, harmony, meter, cadence, and syncopation.
 
 [^ln3-umwelten]: See for example @agamben_open:_2003, 39-49; @hayles_print_2004,
 16-17.
