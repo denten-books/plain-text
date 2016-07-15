@@ -41,13 +41,14 @@ Both require firmware updates and both are governed by codes, political and
 computational. The smoke alarm and the mobile phone connect to the internet.
 They communicate with remote data centers and with each other. And yet, I
 continue to read electronic books as if they were familiar, immutable, and
-passive objects: just books. I think of them as intimate artifacts---friends
-even---wholly known to me, comforting, and warm. The electronic book is none
-of those things. Besides prose, it keeps my memories, pictures, words, sounds,
-and thoughts. It records my reading, sleeping, and consumption habits. It
-tries to sell me things, showing me advertisements for cars, jewelry, and
-pills. It comes with a manual and terms of service. It is my confidant, my
-dealer, my spy.
+passive objects: just books. I think of them<!--does "them" refer to physical
+books or electronic books? Or your phone/smoke alarm? PRP--> as intimate
+artifacts---friends even---wholly known to me, comforting, and warm. The
+electronic book is none of those things. Besides prose, it keeps my memories,
+pictures, words, sounds, and thoughts. It records my reading, sleeping, and
+consumption habits. It tries to sell me things, showing me advertisements for
+cars, jewelry, and pills. It comes with a manual and terms of service. It is my
+confidant, my dealer, my spy.
 
 *Plain Text* concerns the nature of digital inscription---the material trace
 that gives rise to textual phenomena, and, more broadly, to all cultural
@@ -171,13 +172,13 @@ strategy of interpretation capable of reaching past surface content to reveal
 platforms and infrastructures that stage the construction of meaning. A
 computational poetics differentiates within the apparent unity of digital
 text. In the chapters that follow, I will trace a figure and describe its
-anatomy. If the physics of the word have changed---qualitatively,
-materially---I would like to ask: How? and How do these changes affect the
-diversity of interpretive practices? I draw on the annals of literary theory
-and software engineering to buttress the historical bases for a possible
-answer. In the process, I argue that even our most basic practices of
-intellectual production are profoundly alienated from their physical contexts.
-The object of study is the nature of that alienation.
+anatomy. If the physics of word have changed---qualitatively, materially---I
+would like to ask: How? and How do these changes affect the diversity of
+interpretive practices? I draw on the annals of literary theory and software
+engineering to buttress the historical bases for a possible answer. In the
+process, I argue that even our most basic practices of intellectual production
+are profoundly alienated from their physical contexts. The object of study is
+the nature of that alienation.
 
 I appeal to the idea of "plain text" in the title of this book to signal an
 affinity with a particular mode of computational meaning-making. Plain text
@@ -280,7 +281,7 @@ to make use of them blindly." When we sit at our desks, for example, we fail
 to see the "papers and the books that are lying all about." We are used to
 them being there [@flusser_freedom_2003, 13; @finger_vilem_2011, 132].
 Consequently, we do not parse them as information. Like water that surrounds
-fish, the habituated thing passes into the background of experience.  Mediums
+fish, the habituated thing passes into the background of experience. Mediums
 become media. They disappear into the background, cease producing meaning,
 become a stage for meaning-making, and like the stage disappear from view.
 
@@ -952,7 +953,7 @@ English.
 
 [^ln-capital]: Scholars like Alexander Galloway, David Golumbia, Bernard
 Harcourt have advanced critique along similar lines. See
-@galloway_protocol_2006, @golumbia_cultural_2009, and @harcourt_exposed:_2015.
+@galloway_protocol:_2006, @golumbia_cultural_2009, and @harcourt_exposed:_2015.
 
 [^ln-cog]: See for example @gibbs_categorization_1992; @blasko_effects_1993;
 @gibbs_poetics_1994; @neal_role_1997, 441-463; @gentner_alignment_1997.

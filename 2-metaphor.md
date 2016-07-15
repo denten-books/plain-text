@@ -1218,6 +1218,11 @@ versions of the game at http://rickadams.org/adventure/e_downloads.html.  I
 used PDP-10 Fortran version and ran `tr`, `uniq`, and the `wc` Unix utilities
 to isolate and count the unique words from the data file.
 
+[^ln1-database]: In describing his Relational Calculus Expression for Metaphor
+Generation Lawrence F. Young writes that the "key to this model is the
+observation that any entity can be metaphorically associated with another
+entity" [@young_metaphor_1987, 312].
+
 [^ln1-dead]: For a book length summary on this topic see
 @muller_metaphors_2008.
 

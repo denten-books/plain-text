@@ -1,9 +1,9 @@
 # Chapter 1: Laying Bare the Device
 
-"The weakest point in our present day universe is the incapacity of man to
-meet the machine, the culture conserve, or the robot, other than through
-submission, actual destruction, and social revolution" [@moreno_who_1953,
-233]. So wrote the Austrian-American psychiatrist, Jacob L. Moreno in his
+"The weakest point in our present day universe is the incapacity of man to meet
+the machine, the cultural conserve, or the robot, other than through
+submission, actual destruction, and social revolution" [@moreno_who_1953, 595].
+So wrote the Austrian-American psychiatrist, Jacob L. Moreno in his
 idiosyncratic, sprawling, and now seldom read volume, *Who Shall
 Survive?*[^ln2-moreno]
 
@@ -13,26 +13,27 @@ conserve" and the "zootechnical animal." When Moreno referred to robots, he
 meant all devices, social structures, and products of the mind which compete
 for attention. Conserves diminish the human capacity for cultural production.
 Robots create the illusion of the "finished, perfected product," which
-substitutes for creativity. In this way, the musical record obviates the
-musician, just like the book does the author.
+substitutes for creativity [@moreno_who_1953, 595]. In this way, the musical
+record obviates the musician, just like the book does the author.
 
-The "avalanche of ghosts" from the past enters into an evolutionary contest
-for survival. Unlike speech, which is extinguished as soon as a conversation
-ends, written words from the past persist and proliferate. They survive and
-continue to shape the social and the mental worlds to come. "The author is
-immaterial," Moreno wrote:
+The "avalanche of ghosts" from the past enters into an evolutionary contest for
+survival [@moreno_who_1953, 596]. Unlike speech, which is extinguished as soon
+as a conversation ends, written words from the past persist and proliferate.
+They survive and continue to shape the social and the mental worlds to come.
+"[T]he author is immaterial," Moreno wrote:
 
 > the book goes to all places and to all people, it does not care where it is
 > read and by whom. Many robots have further in common the attribute of
 > comparative immortality.  A book, a film, an atomic bomb, they do not perish
 > in the human sense, the same capacity is always there, they can be
 > reproduced *ad infinitum* [...] Our human world is increasingly filled with
-> robots and there seems to be no end to new forms and new developments.
+> robots and there seems to be no end to new forms and new developments. 
+> [@moreno_who_1953, 600-1]
 
 The musician and the author struggle to survive in competition with historical
-records. The conserve reduces humans to "machine-addicts" who reside in a
+records. The conserve reduces humans to "machine-addict[s]" who reside in a
 "jungle of robots" that would suffocate all their spontaneous activity
-[@moreno_who_1953, 233-7].
+[@moreno_who_1953, 597, 601].
 
 Similar to king Thamus from Plato's *Phaedrus*, Moreno distrusted rote
 mechanization of thought. In the name of comfort, safety, and prolonged life,
@@ -45,10 +46,10 @@ dreamer and the technological dreamer have this one idea in common:
 > process is encapsulated in a book it is *given*; it can be recapitulated
 > eternally by everybody without the effort of creating anew. Once a machine
 > for a certain pattern of performance is invented a certain produce can be
-> turned out in infinite numbers practically without effort [...] Once that
-> miraculous eugenic formula will be found a human society will be given
-> prefect and smooth at birth, like a book off a press [@moreno_who_1953,
-> 236].
+> turned out in infinite numbers practically without the effort of man. [...]
+> Once that miraculous eugenic formula will be found a human society will be
+> given prefect and smooth at birth, like a book off a press [@moreno_who_1953,
+> 598].
 
 Knowledge, in Plato's terms, is thereby replaced with the simulation or
 imitation [*homoiōmata*] of knowledge [@plato_phaedrus_1999, 482(250a)]. It is
@@ -58,19 +59,19 @@ their production is elided.
 
 Instrumental and institutional mechanisms alike fell under Moreno's suspicion:
 the plow, pen, book, gun; central planning, corporate governance, and legal
-codex [@moreno_who_1953, 237-44]. All robots in that sense constitute a
-species of autonomous agency, a problem long in the background of Western
-liberal thought.[^ln1-consensus] For Moreno, books and bombs resembled one
-another because they both embodied volition detached from its human sources.
-Once in motion, both books and bombs seem to act in the world autonomously.
-The projectile acts at a distance; once launched, it completes its grim
-mandate even if the command to act is withdrawn. Technology of the word
-similarly decouples readers from writers. The book persists to mean in the
-absence of its author. Once decoupled, seemingly autonomous paper
+codex [@moreno_who_1953]. All robots in that
+sense constitute a species of autonomous agency, a problem long in the
+background of Western liberal thought.[^ln1-consensus] For Moreno, books and
+bombs resembled one another because they both embodied volition detached from
+its human sources. Once in motion, both books and bombs seem to act in the
+world autonomously. The projectile acts at a distance; once launched, it
+completes its grim mandate even if the command to act is withdrawn. Technology
+of the word similarly decouples readers from writers. The book persists to mean
+in the absence of its author. Once decoupled, seemingly autonomous paper
 agents---books, folders, documents---clutter the social sphere, continuing to
 structure human experience in the absence of the originating accord. Agency so
 detached operates without consensus or comprehension. The book is "a robot par
-excellence," Moreno wrote [@moreno_who_1953, 238-9]. It is a way of affecting
+excellence," Moreno wrote [@moreno_who_1953, 600]. It is a way of effecting
 change across time and space, but also of breaking the causal chain of agency.
 One cannot assign blame to a bullet or a book as these are not truly social
 actors that can participate in our sense of justice or responsibility.
@@ -102,7 +103,7 @@ Electronic books read on mobile phones, tablets, and personal computers
 comprise a part of the same digital framework that powers drones and aircraft
 carriers. Computers in the service of the world's largest purveyors of
 literature are also used by air traffic control and covert intelligence
-agencies [@soyata_combat:_2012; @logicworks_government_2015]. A cellular
+agencies [See @soyata_combat:_2012; @logicworks_government_2015]. A cellular
 phone, once a device for voice telecommunication, is now used both to read
 books and to detonate explosives at a distance.
 
@@ -132,9 +133,9 @@ device is in part an artifact of an unfortunate translation from the Russian
 *priem*. The word would be better translated as "technique," in the sense of
 "method," "approach," or "procedure." Device contains these meanings as well,
 but in modern usage, it often carries a more concrete connotation, as an
-"object, machine, or piece of equipment that has been made for a special
+"object, machine, or piece of equipment that has been made for some special
 purpose" [@_device_2016]. "Laying bare the device," for Viktor Shklovsky, who
-coined the phrase, meant making explicit the implied mechanisms of literary
+coined the phrase, meant making explicit the implied mechanisms of a literary
 trope, particularly in cases where such tropes turn "stale," "automatic," and
 "naturalized," that is, bereft of their evocative power.[^ln2-shklov]
 
@@ -153,10 +154,10 @@ boys would run on them, up and down, and crawl on all fours through those
 round tunnels, but a week later nobody was playing anymore and thick snow was
 falling instead; and now when, cautiously probing the treacherous glaze of the
 sidewalk with my thick rubber-heeled stick, I go out in the flat gray light of
-the morning, an even stripe of fresh snow stretches along the upper side of
+early morning, an even stripe of fresh snow stretches along the upper side of
 each black pipe [...] Today someone wrote "Otto" with his finger on the strip
 of virgin snow, and I thought how beautifully that name, with its two soft o's
-flanking the pair of gentle consonants suited the silent layer of snow upon
+flanking the pair of gentle consonants, suited the silent layer of snow upon
 that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27;
 @johnson_guide_1979, 354].
 
@@ -208,8 +209,8 @@ ou l'enjeu du siècle* (1954), Lynn White's *Medieval Technology and Social
 Change* (1966), and Viktor Fekiss's *The Technological Man* (1969). Calling
 for the institution of a new field in 1959, the editors of the inaugural issue
 of the journal *Technology and Culture* would write about the "neglect of
-study of technology" amidst a body of extant work that has "scarcely
-constituted" a systematic scholarly discipline [@kranzberg_at_1959].
+the study of technology" amidst a body of extant work that has "scarcely
+constituted" a systematic scholarly discipline [@kranzberg_at_1959, 5-6].
 "*Technology* is a word whose time has come," Langdon Winner would still write
 in 1978 in his influential *Autonomous Technology* [@winner_autonomous_1978,
 4].
@@ -257,7 +258,7 @@ the idea of literary production from its irreproducible contexts. The emphasis
 on craft over art implies primarily a change in the artist's relationship to
 labor. Walter Benjamin had this view in mind when he wrote decades later about
 the work of art that can no longer be thought of as a "rigid, isolated
-object." Rather, "it must be inserted into the context of living social
+object." Rather, it "must be inserted into the context of living social
 relations," and therefore, into the context determined by its relation to
 literary production [@benjamin_author_1983, 87]. Technique, for Benjamin, made
 literary works "accessible" to materialist analysis [@benjamin_author_1983,
@@ -283,16 +284,13 @@ through handicraft. In his "Art as Device," Shklovsky wrote:
 Influenced by the work of Herbert Spencer, the formalists imagined language to
 comprise a kind of a natural physics-based system, which tended towards the
 conservation of energy [@shklovksy_poetika_1919, 105]. In his influential 1852
-essay on the *The Philosophy of Style*, Spencer wrote about ordinary ways of
-speaking where "words are not pronounced fully," and where "the mind barely
-perceives the initial sounds of each word" [@spencer_philosophy_1892]. The
-ideal writer according to Spencer also strove to minimize the reader's mental
-exertion, following the law of what he called the "economy of composition:" to
-say as much as possible in the most concise and direct way. Poetry for Spencer
-was exemplary in that it habituated those "symbols of thought" and "methods of
-using them" that have proven themselves to be most effective through
-continuous use [@spencer_philosophy_1892]. Spencer's ideal of literature was
-therefore of the most thrifty, economical kind.
+essay on the *The Philosophy of Style*, Spencer wrote about the limited reserves of the "recepient's mental energy."[@spencer_philosophy_1892, 7] "A reader or listener," he wrote, "has at each moment but limited amount of mental power available [...] Hence, the more time and attention it takes to receive and understand each sentence, the less time and attention can be given to the contained idea."[@spencer_philosophy_1892, 3] The ideal writer thus strove to minimize the
+reader's mental exertion, following the law of what Spencer called the "economy of
+composition:" to say as much as possible in the most concise and direct way.
+Poetry for Spencer was exemplary in that it habituated those "symbols of
+thought" and "methods of using them" that have proven themselves to be most
+effective through continuous use [@spencer_philosophy_1892, 32]. Spencer's
+ideal of literature was therefore of the most thrifty, economical kind.
 
 Shklovsky agreed with Spencer about the dynamics of everyday language, but not
 poetry. Poetry does not facilitate communication, he argued, it disrupts it.
@@ -312,13 +310,13 @@ Any innovation in the literary sphere was, in the formalist view, bound to
 follow a cycle of habituation and renewal. With time, images once able to
 capture the imagination lose their vitality. Consequently, the evolution of
 aesthetic periods follows a course of arbitrary differentiation, in what Jean
-Moréas (a symbolist poet and art critic important for the history of
-formalism) called a "cyclical evolution" [*évolution cyclique*], by which the
-dominant device in one period becomes a cliché in the next. Art depletes
-itself, "from copy to copy, from imitation to imitation." What seems fresh
-today "dries up and shrivels" tomorrow [@moreas_symbolisme_1886]. Technique in
-that sense was seen by the formalists as a kind of information processing at
-the meta-linguistic, social level. The mechanics of "arrangement and the
+Moréas (a symbolist poet and art critic important for the history of formalism)
+called a "cyclical evolution" [*évolution cyclique*], by which the dominant
+device in one period becomes a cliché in the next. Art depletes itself, "from
+copy to copy, from imitation to imitation." What seems fresh today "dries up
+and shrivels" tomorrow [@moreas_symbolisme_1886, 150]. Technique in that sense
+was seen by the formalists as a kind of information processing at the
+meta-linguistic, social level. The mechanics of "arrangement and the
 rearrangement of figure" produce new meaning within habituated contexts,
 motivating the engine of literary development.
 
@@ -391,7 +389,7 @@ dissolution of the diegetic boundaries in a glimpse of the material reality
 > posters; an arid gloom fleeted; and amidst the dust, and the falling things,
 > and the flapping scenery, Cincinnatus made his way in that direction where,
 > to judge by the voices, stood beings akin to him [@nabokov_invitation_1959,
-176].
+> 223].
 
 Nabokov's devices gesture towards the real, arresting the illusion of mimesis
 and exposing the incapacity of the literary world to assume physical form.
@@ -406,10 +404,10 @@ known to the writer only. They are hidden from view in reception. Echoing his
 Soviet colleagues in his influential *The Craft of Fiction*, the English
 critic Percy Lubbock, himself a formalist of sorts, would write:
 
-> To grasp the shadowy and fantasmal form of the book, to hold it fast, to
-> turn it over and to survey it at leisure---that is the effort of a critic of
-> books, and it is perpetually defeated [...] Nothing, no power, will keep the
-> book steady and motionless before us so that we may have time to examine its
+> To grasp the shadowy and fantasmal form of a book, to hold it fast, to
+> turn it over and survey it at leisure---that is the effort of a critic of
+> books, and it is perpetually defeated [...] Nothing, no power, will keep a
+> book steady and motionless before us, so that we may have time to examine its
 > shape and design [@lubbock_craft_1921, 1].
 
 Note the use of the object-oriented vocabulary in the above passage in a way
@@ -421,7 +419,7 @@ continually escapes the reader's mental, not physical, grasp. Nor do his
 books, forms, shapes, and designs refer to the outward, material aspects of
 the literary artifact. These are again mental constructions, not material.
 
-Our unfamiliarity with what Lubbock calls the novel's "technical aspects"
+Our unfamiliarity with what Lubbock calls the novel's "technical aspect"
 thereby hampers our ability to understand how it comes to present itself to
 the mind in its entirety [@lubbock_craft_1921, 272]. The viewer grasps other
 more plastic art forms like sculpture or painting whole and at
@@ -435,20 +433,20 @@ Critical reading in Lubbock's sense entailed an account of the transformation
 from things to ideas: from words and sentences to stories, novels, and verse.
 Echoing Boris Eichenbaum in "How *The Overcoat* is Made," Lubbock was
 interested in mechanics of literary craft---in how the thing is made. He
-promised to view a "handful of familiar novels [...] with some particularity,"
-but without judgement or critique. "How they are made is the only question I
-ask," he wrote [@shklovksy_poetika_1919; @lubbock_craft_1921, 12 & 28;
+promised to view "a few familiar novels [...] with some particularity," but
+without judgement or critique. "How they are made is the only question I shall
+ask," he wrote [@shklovksy_poetika_1919; @lubbock_craft_1921, 12, 28;
 @eichenbaum_how_1995]. Since the author of the book was a "craftsman" it is
 therefore the critic's role to "overtake him at his work and see how the book
 was made," Lubbock wrote elsewhere [@lubbock_craft_1921, 274]. His usage of
-object-oriented vocabulary---his "parts," "forms," "shapes," "proportions,"
-and "designs"---nevertheless referred to constructs mental and ideational,
-just as it was for Shklovsky or Eichenbaum. "The book vanishes as we lay our
-hands on it," Lubbock wrote [@lubbock_craft_1921, 273]. Critics must chose to
-see either the trees or the forest. As the totality of the work comes into
-view, the technical details of craft---and therefore the book
-itself---disappear. Conversely, when viewed up close, the technical
-particulates obscure sight of the work as a whole.
+object-oriented vocabulary---his "parts," "forms," "shapes," "proportions," and
+"designs"---nevertheless referred to constructs mental and ideational, just as
+it was for Shklovsky or Eichenbaum. "The book vanishes as we lay hands on it,"
+Lubbock wrote [@lubbock_craft_1921, 273]. Critics must choose to see either the
+trees or the forest. As the totality of the work comes into view, the technical
+details of craft---and therefore the book itself---disappear. Conversely, when
+viewed up close, the technical particulates obscure sight of the work as
+a whole.
 
 Lubbock writes that the "real heart and substance of the book [...] stands out
 more clearly for the obscurity into which the less essential parts of it
@@ -458,11 +456,11 @@ elements of narrative immediately available for observation.  To read the
 novel for pleasure for Lubbock is to "forget, if we can, that the book is an
 object of art."[@lubbock_craft_1921, 6] By object of art he means the
 transcendent idea of the novel as opposed to the immanent work itself. To
-"objectify the elements" of the novel that "strike us more keenly," as Lubbock
+"objectify" elements of the novel that "strike us more keenly," as Lubbock
 phrases it, therefore means for him quite the opposite of what is usually
 meant by objectification. The complete mental idea of the novel congeals only
 at the conclusion of reading, that is at the limits of the book as a thing.
-Lubbock writes: "Far from losing ourselves in the world of the novel, we must
+Lubbock writes: "[F]ar from losing ourselves in the world of the novel, we must
 hold it away from us, see it all in detachment, and use the whole of it to
 make the image we seek, the book itself" [@lubbock_craft_1921, 6]. But to hold
 the book away means actually to internalize it completely. And by "book" he
@@ -475,10 +473,10 @@ continually conflates mental and physical constructs.
 sculpture. See for example @herder_sculpture_2002.
 
 *The Craft of Fiction* ends on an ambivalent note. Lubbock sensed the
-inadequacy of his materialism: "if only there was one single tangible and
-measurable fact about the book," he wrote. If only it could be "weighed like a
-statue" or "measured like a picture, it would be a support in the world of
-shadows [@lubbock_craft_1921, 273-4].
+inadequacy of his materialism: "if only there were one single tangible and
+measurable fact about a book," he wrote. If only it could be "weighed like a
+statue" or "measured like a picture---it would be a support in a world of
+shadows" [@lubbock_craft_1921, 273-4].
 
 I want to end the section here, with the momentary failure of materialist
 poetics, to pick up another concomitant thread, one that will take us through
@@ -541,18 +539,19 @@ represents an advancement in the development of a long-standing thought
 experiment concerning the nature of human understanding and the beginning of a
 new, machine-assisted philological practice.
 
-The question of an "automated" hermeneutics echoes through the canon of
-Western philosophic tradition. What does it mean to read and to understand
-something? Is it enough to repeat the words of another, as Phaedrus does in
-response to Socrates? Could students be said to possess reason if they were
-merely parroting thoughts and not really thinking on their own? Would we say
-the same thing of animals or a machines? The question was posed already by
-Descartes who wrote that it would not be sufficient for the "reasoned soul" to
-be "lodged in the human body like a pilot of a ship, except perhaps to move
-its members," but that intelligence must be "more closely joined and united
-with the body to produce true feelings and appetites." Magpies and parrots can
-appear to speak, Descartes wrote, but can they show us that they understand
-[@descartes_discourse_1996]? And what would that "showing" entail?
+The question of an "automated" hermeneutics echoes through the canon of Western
+philosophic tradition. What does it mean to read and to understand something?
+Is it enough to repeat the words of another, as Phaedrus does in response to
+Socrates? Could students be said to possess reason if they were merely
+parroting thoughts and not really thinking on their own? Would we say the same
+thing of animals or machines? The question was posed already by Descartes who
+wrote that it would not be sufficient for the "rational soul" to be "lodged in
+the human body like a pilot in his ship, except perhaps for the moving of its
+members," but that intelligence must be "joined and united more closely with
+the body in order to have sensations and appetites similar to our own." Magpies
+and parrots can appear to speak, Descartes wrote, but can they show us that
+they understand [@descartes_discourse_1996, 36]? And what would that "showing"
+entail?
 
 Recall also the experiments with combinatorial poetics of the 17th century
 German Jesuit scholar Athanasius Kircher, the inventor of *Arca Musurgicae*, a
@@ -569,7 +568,7 @@ And answered:
 > potest respondere, & in cista nihil praeter verba intelligit; tot profert,
 > quot audit, sine intellectu...*
 
-> But [the poetry box] is just an ingenious game, ingenious Kircher, not a
+> But [the poetry box] is just an ingenious game, *Ingenious Kircher*, not a
 > method, promising something on the surface, but solving nothing deep down.
 > For without the box the boy can answer nothing, and with the box he
 > understands nothing but words. He produces whatever he hears, without
@@ -610,30 +609,29 @@ Recall the famous *pharmakon* passage from Plato's *Phaedrus*, which explores
 the relationship between writing and its impression on the mind. At the
 conclusion of the dialog, King Thamus objects to the technology [*ta tekhnēs*]
 of the written word, as he believes it will foster forgetfulness in the people
-who use it. Plato writes: "Their faith in extrinsic writing [*graphō
-exōthen*], by means of foreign impressions [*allotrion tupōn*] will diminish
-their intrinsic [*endothen autous*] capacity to remember"
-[@plato_euthyphro._1999].[^ln1-platotr] Plato thus contrasts the exterior
-figure of the inscription with memory, an intrinsic cognitive ability. The
-Greek *tupōn*, related to the English "type," literally means an impression.
-In this case it is also "foreign" or "othered" [*allotrion*]. It comes from
-without. Like Moreno after him, Thamus finds thought externalized through
-typography problematic. True memory and thought for them both must come from
-within.
+who use it. Plato writes: "Their faith in extrinsic writing [*graphō exōthen*],
+by means of foreign impressions [*allotrion tupōn*] will diminish their
+intrinsic [*endothen autous*] capacity to remember".[^ln1-platotr] Plato thus contrasts the
+exterior figure of the inscription with memory, an intrinsic cognitive ability.
+The Greek *tupōn*, related to the English "type," literally means an
+impression. In this case it is also "foreign" or "othered" [*allotrion*]. It
+comes from without. Like Moreno after him, Thamus finds thought externalized
+through typography problematic. True memory and thought for them both must come
+from within.
 
 For this reason, Socrates asks the young man to stop reciting the speech by
 heart in the beginning of the dialog. He wants Phaedrus to think for himself
 and not to merely regurgitate the thought of another---to stop performing, in
 other words, as a mere parrot would or an automaton. To truly understand
 something and to make a show of their comprehension, readers must do more than
-read: they must internalize, Plato suggests through Socrates. Much can go
-wrong in that process, but we expect for reading to ultimately leave an
-appropriate impression [*tupōn*] on the reader's mind. For understanding to
-take place, writing must produce "true," in the words of Descartes, feelings
-and appetites. But what is true, appropriate, or proper? What does type
-[*tupōn*] impress onto the soul? How does one ingest an inscription in way
-that leaves an appropriate trace?---these are the profound mysteries always
-present even in the most mundane acts of reading and writing.
+read: they must internalize, Plato suggests through Socrates. Much can go wrong
+in that process, but we expect for reading to ultimately leave an appropriate
+impression [*tupōn*] on the reader's mind. For understanding to take place,
+writing must produce "true," in the words of Descartes, feelings and appetites.
+But what is true, appropriate, or proper? What does type [*tupōn*] impress onto
+the soul? How does one ingest an inscription in a way that leaves an
+appropriate trace?---these are the profound mysteries always present even in
+the most mundane acts of reading and writing.
 
 ## Thought Experiment II
 
@@ -649,16 +647,16 @@ Wittgenstein broached the problem of reading machines and comprehension in his
 mathematics from the late 1930s, and finally in *Philosophical
 Investigations*, written between 1945 and 1949. The earliest of these
 documents, *The Blue Book*, opens with the question of interpretation. "What
-is a meaning of a word?" Wittgenstein asks and cautions his students against
+is the meaning of a word?" Wittgenstein asks and cautions his students against
 choosing the easy answer, which holds that meaning resides in the head. "It is
 misleading then to talk of thinking as of a 'mental activity'", he writes:
 
 > We may say that thinking is essentially the activity of operating with
 > signs. This activity is performed by the hand, when we think by writing; by
-> the mouth and larynx, when we think by speaking; and if we think by imaging
+> the mouth and larynx, when we think by speaking; and if we think by imagining
 > signs or pictures, I can give you no agent that thinks. If then you say that
 > in such cases the mind thinks, I would only draw your attention to the fact
-> that you are using metaphor, that here the mind is the agent in a different
+> that you are using a metaphor, that here the mind is an agent in a different
 > sense from that in which the hand can be said to be the agent in writing
 > [@wittgenstein_blue_1965, 6-7].
 
@@ -678,12 +676,11 @@ of view. When the hand writes, it is the brain that thinks. But when the hand
 thinks, it is the brain that writes. Meaning thus lies in the transition from
 hand to head and from mind to paper. We might say that thinking takes place
 "on paper, in our head, in the mind," Wittgenstein writes, but crucially,
-"none of these statements of locality gives *the* locality of
-thinking."[@wittgenstein_blue_1965, 16] Thought is rather distributed
-throughout the body and among its extensions. We think by the sign, head,
-hand, and pen.
+"[n]one of these statements of locality gives *the* locality of thinking"
+[@wittgenstein_blue_1965, 16]. Thought is rather distributed throughout the
+body and among its extensions. We think by the sign, head, hand, and pen.
 
-"Can a machine think?" Wittgenstein asks later on in the first notebook
+"Could a machine think?" Wittgenstein asks later on in the first notebook
 [@wittgenstein_blue_1965, 16]. The challenge, as he explains it, is not one of
 finding a machine that can do the job---of manipulating signs, for example.
 It lies in the ability of the machine to enact both sides of the metaphoric
@@ -706,13 +703,14 @@ which involves "translating script into sounds," "writing according to
 dictation," or "copying in writing a page of print" [@wittgenstein_blue_1965,
 119]. What happens when a naive child reads a newspaper? Wittgenstein asks,
 echoing Kuhlman and Descartes. The child's eyes, he answers, "glide along the
-printed words, he pronounces them aloud or to himself, but other words he
+printed words, he pronounces them aloud or to himself," but "other words he
 pronounces after having seen their first few letters only, others again he
-reads out letter by letter." Children act as "reading machines" when they pay
-no attention to what they read. A child reads "faultlessly like a reliable
-machine," Wittgenstein repeats, emphasising the mechanical property of
-colloquially "mechanistic" reading. Another hypothetical child merely pretends
-to read. It guesses at the words and on occasion repeats things "by heart,"
+reads out letter by letter" [@wittgenstein_blue_1965, 119]. Children act as
+"reading machines" when they pay no attention to what they read. A child reads
+"faultlessly like a reliable machine," Wittgenstein repeats, emphasising the
+mechanical property of colloquially "mechanistic" reading
+[@wittgenstein_blue_1965, 119]. Another hypothetical child merely pretends to
+read. It guesses at the words and on occasion repeats things "by heart,"
 without actually seeing them on the page [@wittgenstein_blue_1965, 121-22].
 Would any of these hypothetical scenarios rise to our conventional
 understanding of reading?
@@ -741,19 +739,18 @@ that he actually understands the recited words, Phaedrus must use more words.
 But what if those are memorized as well? What can be done to convince others
 definitively of our having understood a text properly?
 
-Wittgenstein finally describes the mechanisms of reading as an "indirect way
-of transmitting a feeling." "Something that we can never know happens at the
-other end" of the communication act [@wittgenstein_blue_1965, 185].
-Communication, we would say today, is always mediated. In the conclusion of
-his notebooks, Wittgenstein imagines the possibility of "direct" modes
+Wittgenstein finally describes the mechanisms of reading as an "indirect way of
+transmitting [a] feeling."
+Communication, we would say today, is always mediated. In the conclusion of his
+notebooks, Wittgenstein imagines the possibility of "direct" modes
 communication, capable of transmitting feelings immediately from one person to
-another, in a way that "obviate[s] the external medium of
-communication."[@wittgenstein_blue_1965, 185] Barring that possibility, we are
-ultimately limited by our private sensations of knowledge. "Something which we
-can never know happens at the end end," Wittgenstein writes
-[@wittgenstein_blue_1965, 185]. Any sense of affirmation, the phatic
-utterance---Can you hear me now?---comes through further expression, entailing
-further uncertainty.
+another, in a way that "obviate[s] the external medium of communication"
+[@wittgenstein_blue_1965, 185]. Barring that possibility, we are ultimately
+limited by our private sensations of knowledge. "Something which we can never
+know happens at the end end," Wittgenstein writes [@wittgenstein_blue_1965,
+185]. Any sense of
+affirmation, the phatic utterance---Can you hear me now?---comes through
+further expression, entailing further uncertainty.
 
 Thought experiments in *The Blue and Brown Notebooks* do not amount to a
 cohesive model of language, communication, or the mind. They do however
@@ -767,15 +764,15 @@ comprehension.
 *Philosophical Grammar,* written around the same time as the *Blue and Brown
 Notebooks*, gives us another glimpse into the pre-history of the literary
 device. It begins again with a problem of "understanding" and "not
-understanding." "To understand language," Wittgenstein writes, means "to take
-in symbolism as a whole" [@wittgenstein_philosophical_1974, 5]. A word is
+understanding." "To understand a language," Wittgenstein writes, means "to take
+in a symbolism as a whole" [@wittgenstein_philosophical_1974, 5]. A word is
 always a part of a larger system. Similarly, a pass in football (soccer) also
 only makes sense as part of the game. It is meaningless in isolation. From the
 start of his argument, Wittgenstein envisions "understanding" as a type of
 trans-mediation. In comparing the understanding of language propositions to
-music, he writes: "for explanation I can only translate the musical picture
-into a picture in another medium and let one picture throw light on the other"
-[@wittgenstein_philosophical_1974, 5 & 41]. And elsewhere: "How curious: we
+music, he writes: "For explanation I can only translate the musical picture
+into a picture in another medium and let the one picture throw light on the
+other" [@wittgenstein_philosophical_1974, 41]. And elsewhere: "How curious: we
 should like to explain the understanding of a gesture as a *translation* into
 words, and the understanding of words as a translation into gestures [emphasis
 mine]."[@wittgenstein_philosophical_1974, 42] In conclusion, he again
@@ -813,20 +810,20 @@ mechanical means, as the actuating mechanisms of the player piano fit into the
 grooves of a music roll.
 
 ![Electrically operated musical instrument by Clyde Coleman of Chicago, Il.
-1914, US1107495A. Wittgenstein returns to the image of pianola throughout his
-writings.](images/pianola.png)
+1914, US1107495A [@coleman_electrically-operated_1914, 1]. Wittgenstein returns
+to the image of pianola throughout his writings.](images/pianola.png)
 
 This sort of a rigid correspondence seems to bring us closer to solving the
 challenge of "proper" interpretation. But, like the other, less exacting,
 mechanisms of comprehension, the pianola can break too. Wittgenstein explains
 in the early passages of *Philosophical Grammar*: "Aren't our sentences parts
-of a mechanism? As in a pianola? But suppose it is in bad
-condition?"[@wittgenstein_philosophical_1974, 10] "The sentences that we utter
-have a particular purpose," Wittgenstein elaborates:
+of a mechanism? As in a pianola? But suppose it is in bad condition?"
+[@wittgenstein_philosophical_1974, 10] "The sentences that we utter have a
+particular purpose," Wittgenstein elaborates:
 
-> They are to produce certain effects. They are parts of a mechanism, perhaps
+> they are to produce certain effects. They are parts of a mechanism, perhaps
 > a psychological mechanism, and the words of the sentences are also parts of
-> the mechanism (levers, cogwheels, and so on). The example that seems to
+> the mechanism (levers, cogwheels and so on). The example that seems to
 > illustrate what we're thinking of here is an automatic music player, a
 > pianola. It contains a roll, rollers, etc., on which the piece of music is
 > written in some kind of notation (the position of holes, pegs, and so on).
@@ -839,67 +836,69 @@ symbolic interpretation. In this view, words and music notation alike contain
 a "purpose" to elicit some "effects" in the interpretive mechanism.
 
 As before, we cannot always expect the mechanism of interpretation to function
-properly, nor do we have a reliable way to verify its correct operation.
-"Suppose the pianola is in bad condition," Wittgenstein repeats. The signs on
+properly, nor do we have a reliable way to verify its correct operation. "But
+suppose the pianola is in bad condition," Wittgenstein repeats. The signs on
 the roll could produce "hisses and bangs" instead of music, for example. One
 could object that notes are always "meant" to play on a mechanism in perfect
 working order. But to explain what is meant by a working order, we would need
 to draw yet another diagram or build another machine. Wittgenstein elaborates
-by another analogy: the "sense" of an "order"---the programming instructions
-of the piano roll---lies in its "effect on an obedient man"
-[@wittgenstein_philosophical_1974, 60-70]. The pianola thus exemplifies a
-class of perfect controlling mechanisms. In good working condition it is
-exactly obedient to the instructions printed on a piano roll.
+by another analogy: the "sense of an order"---the programming instructions of
+the piano roll---lies in its "effect on an obedient man"
+[@wittgenstein_philosophical_1974, 69-70]. The pianola thus exemplifies a class
+of perfect controlling mechanisms. In good working condition it is exactly
+obedient to the instructions printed on a piano roll.
 
 When drawing the analogy between mental and mechanical processes, Wittgenstein
-explicitly rejects the model of language as a "psychophysical" mechanism.
-Rather, as the title of the work suggests, Wittgenstein is in search for the
-"grammar" governing the engagement: between speakers and listeners, readers
-and writers, player pianos and musical scores. By the end of the work, grammar
-emerges as a batch of "conventions." Wittgenstein complicates the mechanism by
-inserting an extra layer of "rules" that mediate between symbol and machine or
-mental state. We can agree upon a convention formally, by transcribing into a
-protocol: a chart of appropriate correspondences that describes the exact
-rules of engagement. Wittgenstein writes that it would be then possible to
-imagine a "part of the mechanism which resembles the chart [...] inserted
-between the language-part of the mechanism and the rest of it"
-[@wittgenstein_philosophical_1974, 190]. Such instructions would enforce
-strict compliance between the musical score and the actuating parts of the
-piano mechanism, sounding a warning bell for example, if any part of the
-mechanism was out of compliance.
+explicitly rejects the model of language as a "psychophysical" mechanism
+[@wittgenstein_philosophical_1974, 70]. Rather, as the title of the work
+suggests, Wittgenstein is in search for the "grammar" governing the engagement:
+between speakers and listeners, readers and writers, player pianos and musical
+scores. By the end of the work, grammar emerges as a batch of "conventions."
+Wittgenstein complicates the mechanism by inserting an extra layer of "rules"
+that mediate between symbol and machine or mental state. We can agree upon
+a convention formally, by transcribing into a protocol: a chart of appropriate
+correspondences that describes the exact rules of engagement. Wittgenstein
+writes that it would be then possible to imagine a "part of the mechanism which
+resembles the chart [...] inserted between the language-like part of the mechanism
+and the rest of it" [@wittgenstein_philosophical_1974, 190]. Such instructions
+would enforce strict compliance between the musical score and the actuating
+parts of the piano mechanism, sounding a warning bell for example, if any part
+of the mechanism was out of compliance.
 
-"Can one say that grammar describes language?" Wittgenstein writes:
+"Can one say that grammar describes language?" Wittgenstein
+writes:
 
 > If we consider language as part of the psycho-physical mechanism which we
 use when we utter words---like pressing keys on a keyboard---to make a human
 machine work for us, then we can say that grammar describes that part of the
-machine.
+machine.[@wittgenstein_philosophical_1974, 187-8]
 
-The grammar sets up a "connection between word and a thing," in order for the
-mechanism to function in a certain way. "The definition," Wittgenstein writes,
-"can make it work properly, like the connection between the keys and the
-hammers in a piano." Crucially, it is that "connection not the effect that
-determines the meaning" [@wittgenstein_philosophical_1974, 190]. A programmer
-would say that Wittgenstein's "grammatical layer" resembles modern programming
-language interpreters and assemblers, exactly the parts of the machine that
-connect codified instructions to their execution [@mccarthy_lisp_1962;
-@bashkow_system_1967]. Similarly, Wittgenstein's grammar "means" in the sense
-of specifying the rules by which meaning succeeds or fails. In this way, we
-can move away from speaking of "intended effects" or "proper obedience," and
-rather concentrate on this interpretive and mediating layer, which describes
-the rules of engagement [@wittgenstein_philosophical_1974, 194-6]. To learn a
-language in that sense is not to learn individual words, but to understand the
-rules of engagement: the mechanical linkages of meaning-making.
+The grammar sets up a "connection between a word and 'a thing'," in order for
+the mechanism to function in a certain way. "[T]he definition," Wittgenstein
+writes, "can make it work properly, like the connection between the keys and
+the hammers in a piano." Crucially, it is that "connection and not the effect
+which determines the meaning" [@wittgenstein_philosophical_1974, 190].
+A programmer would say that Wittgenstein's "grammatical layer" resembles modern
+programming language interpreters and assemblers, exactly the parts of the
+machine that connect codified instructions to their execution
+[@mccarthy_lisp_1962; @bashkow_system_1967]. Similarly, Wittgenstein's grammar
+"means" in the sense of specifying the rules by which meaning succeeds or
+fails. In this way, we can move away from speaking of "intended effects" or
+"proper obedience," and rather concentrate on this interpretive and mediating
+layer, which describes the rules of engagement
+[@wittgenstein_philosophical_1974, 194-6]. To learn a language in that sense is
+not to learn individual words, but to understand the rules of engagement: the
+mechanical linkages of meaning-making.
 
-We say that the mechanism is rigid or the law is inexorable when the results
-of an action are fixed. Wittgenstein calls such a relationship
-"super-hardness." Where a judge can be lenient, he explains, the law is
-compulsory. What we would now call an "algorithm" compels predictable
-execution, not subject to the vagrancies of interpretation
+We say that the mechanism is rigid or the law is inexorable when the results of
+an action are fixed. Wittgenstein calls such a relationship "super-hardness."
+[@wittgenstein_wittgensteins_1976, 197] Where a judge can be lenient, he
+explains, the law is compulsory. What we would now call an "algorithm" compels
+predictable execution, not subject to the vagrancies of interpretation
 [@wittgenstein_wittgensteins_1976, 282]. The parts of the mechanism
 subsequently exist in a causal relationship to one another. Pushing this or
-that lever will always result in such and such movement, because of the way
-the mechanical parts are connected.
+that lever will always result in such and such movement, because of the way the
+mechanical parts are connected.
 
 We are tempted, as before, to privilege the inner workings of the symbolic
 mechanism, also at the core of meaning making in mathematics. "If I show you
@@ -943,10 +942,10 @@ College. From the notes on Wittgenstein's lectures complied and published by
 Cora Diamond, it is clear that Turing was a vociferous presence in the class.
 His name is mentioned eighty-six times in the text, more than any other
 student by a wide margin. At some point of the course Wittgenstein concludes
-his lecture in saying: "Unfortunately, Turing will be away from the next
+his lecture in saying: "Unfortunately Turing will be away from the next
 lecture, and therefore that lecture will have to be somewhat parenthetical.
-For it is not good my getting the rest to agree to something that Turing would
-not agree to" [@wittgenstein_wittgensteins_1976, 67-68].
+For it is no good my getting the rest to agree to something that Turing would
+not agree to" [@wittgenstein_wittgensteins_1976, 67-8].
 
 One expects Turing's seminal paper on computable numbers, where he first
 proposed his universal computing machine, to contain a strictly technical
@@ -969,14 +968,14 @@ it concerns the grammar of that transformation and, ultimately, the mechanisms
 of exacting obedience. They are fully deterministic systems that nevertheless
 exceed their formal limitation. "How can the rules of operation of the machine
 change?" Turing asks in "Computing Machinery and Intelligence"
-[@turing_computing_1950]. His answer, which begins as a blueprint for a
-narrowly computational machine in the 1930s, by the 1950s blossoms into a
-dramatized conversation between a poet and her critic; into the possibility of
-an evolving artificial intelligence; and into an imitation game, by which the
-computer misrepresents its assigned gender. The very formulation of the Turing
-machine poses a number of questions related to the problem of free will and
-determinism more broadly. How can a machine escape its programming? How can a
-poet transcend the rules of composition? How do humans become more than the
+[@turing_computing_1950, 458]. His answer, which begins as a blueprint for
+a narrowly computational machine in the 1930s, by the 1950s blossoms into
+a dramatized conversation between a poet and her critic; into the possibility
+of an evolving artificial intelligence; and into an imitation game, by which
+the computer misrepresents its assigned gender. The very formulation of the
+Turing machine poses a number of questions related to the problem of free will
+and determinism more broadly. How can a machine escape its programming? How can
+a poet transcend the rules of composition? How do humans become more than the
 sum of their nature and nurture?
 
 Turing's universal machine finally distills the diversity of Wittgenstein's
@@ -1013,8 +1012,8 @@ nature.
 
 Let us examine the mechanics of a Turing machine more closely. Turing begins
 his paper as we would expect from Wittgenstein's student, with a provocative
-analogy: "we may compare a man in the process of computing a real number to a
-machine that is only capable of a finite number of conditions"
+analogy: "We may compare a man in the process of computing a real number to a
+machine which is only capable of a finite number of conditions"
 [@turing_computable_1937, 231]. From the start, Turing treats computation,
 which we normally consider a complex cognitive process, as a simple mechanism.
 To these ends, he proposes a machine "supplied with a 'tape' (the analogue of
@@ -1043,9 +1042,9 @@ ingests reels of tape. Unlike telegraphs or film projectors, the ingested
 symbolic representation becomes, by definition, a part of the machine's
 internal state, in a way that telegraph tape or film reels do not when they
 pass through telegraphs and film projectors. The film reel and the ticker tape
-do not leave a trace, nor do they signify machine states. By contrast,
-Turing's tape alters the machine's internal configuration in a way that lasts
-beyond the its discharge from the mechanism.
+do not leave a trace, nor do they signify machine states. By contrast, Turing's
+tape alters the machine's internal configuration in a way that lasts beyond its
+discharge from the mechanism.
 
 In his earlier thought experiments, Wittgenstein also spoke of humans in the
 process of reading or doing mathematics as "ingesting" symbols; of the need to
@@ -1054,7 +1053,7 @@ states, on some real and empirically observable neurological level, which
 correlates to the symbol. Turing's machine is capable of such ingestion. It
 "thinks," "reads," and "remembers" to the extent of its capability to scan and
 internalize symbolic notation. In addition to reading, Turing's machine also
-writes. He explains that "in some configurations in which the scanned square
+writes. He explains that "[i]n some configurations in which the scanned square
 is blank (*i.e.* bears no symbol) the machine writes down a new symbol on the
 scanned square" [@turing_computable_1937, 231]. It should thus also be capable
 of erasing and moving symbols to adjacent squares, one square at a time. The
@@ -1104,41 +1103,41 @@ defines modern programming. Unlike other, definitive, single-purpose and
 limited-state mechanisms (a clock for example), a universal machine contains
 the ability to take on differing internal symbolic configurations. It can
 imitate a clock, an abacus, a scale, a book. In a later paper that links
-computing machinery to intelligence, Turing implied also that his machine
-could eventually simulate human thought, because he saw the mind as another
-mechanism for manipulating symbols [@turing_computing_1950].[^ln1-compete] Are
-minds just types of Turing machines or are Turing machines a kind of mind?
-Turing leaves the door open for either possibility. The universal Turing
-machine finally encapsulates a model of computation itself. It is capable of
-computing anything computable. In substituting the concept of computability
-with "effective computability" Turing's paper belongs to the annals of
-mathematical theory. It continues to elicit conflicting responses widely
-because much of it contains also the excess of symbolic thought, related to
-our more general sense of it it means to read, write, and think. Besides
-offering mathematical proofs, Turing's work embarks on an experimental, ludic
-even, enterprise in the spirit of Wittgenstein's playful experimentation,
-which often involved altered states of mind, drugs, delirium, madness, and
-outright deception.
+computing machinery to intelligence, Turing implied also that his machine could
+eventually simulate human thought, because he saw the mind as another mechanism
+for manipulating symbols [^ln1-compete]. Are minds just types of Turing
+machines or are Turing machines a kind of mind? Turing leaves the door open for
+either possibility. The universal Turing machine finally encapsulates a model
+of computation itself. It is capable of computing anything computable. In
+substituting the concept of computability with "effective computability"
+Turing's paper belongs to the annals of mathematical theory. It continues to
+elicit conflicting responses widely because much of it contains also the excess
+of symbolic thought, related to our more general sense of it it means to read,
+write, and think. Besides offering mathematical proofs, Turing's work embarks
+on an experimental, ludic even, enterprise in the spirit of Wittgenstein's
+playful experimentation, which often involved altered states of mind, drugs,
+delirium, madness, and outright deception.
 
 ## Device
 
-Literature in computer science tends to treat Turing machines as algorithms:
-as logical constructs, not necessarily physical ones. It is impossible however
-to dissociate the implementation from the idea. The historian Thomas Haigh
-wrote that the Turing machine "abstracts away from the complexity of real
-computer architectures." It appeals to the theorist because it is a
-theory.  Haigh notes also that "hardware and software" are interchangeable to
-the theorist, but not to the historian" [@haigh_actually_2014]. In his 1937
-review of Turing's "On Computable Numbers" paper, Alonzo Church, the American
-mathematician whose work anticipated Turing's (independently) in several
-important aspects, would similarly acknowledge the material foundations of
-Turing computing. "A human calculator, provided with pencil and paper and
-explicit instructions can be regarded as a kind of a Turing machine," he wrote
-[@church_computable_1937, 42-3; also cited in @petzold_annotated_2008, 63].
-Disregarding the broader, metaphysical implications of that statement, note
-for now the persistence of two implements required for the minimally viable
-operation of the Church-Turing human and machine calculators. Pen and paper
-assert themselves through the abstraction.[^ln1-abstraction]
+Literature in computer science tends to treat Turing machines as algorithms: as
+logical constructs, not necessarily physical ones. It is impossible however to
+dissociate the implementation from the idea. The historian Thomas Haigh wrote
+that the Turing machine "abstracts away from the complexity of real computer
+architectures" [@haigh_actually_2014, 241]. It appeals to the theorist because
+it is a theory. Haigh notes also that "hardware and software are
+interchangeable to the theorist, but not to the historian"
+[@haigh_actually_2014, 241]. In his 1937 review of Turing's "On Computable Numbers"
+paper, Alonzo Church, the American mathematician whose work anticipated
+Turing's (independently) in several important aspects, would similarly
+acknowledge the material foundations of Turing computing. A "human calculator,
+provided with pencil and paper and explicit instructions, can be regarded as
+a kind of Turing machine," he wrote [@church_computable_1937, 42-3; also
+cited in @petzold_annotated_2008, 63]. Disregarding the broader, metaphysical
+implications of that statement, note for now the persistence of two implements
+required for the minimally viable operation of the Church-Turing human and
+machine calculators. Pen and paper assert themselves through the
+abstraction.[^ln1-abstraction]
 
 To encounter the digital book and therefore the Turing machine as a device,
 the media and book historian will find that it borrows from a number of extant
@@ -1205,31 +1204,30 @@ transmission of intelligence:
 
 > [...] adapted to initiate a succession of electrical impulses all of which
 > have a character representing significance, a receiver adapted to detect
-> variations in time intervals elapsing between successive impulses, a
+> variations in the time intervals elapsing between successive impulses, a
 > plurality of interpreting relays selectively actuated by said receiver, and a
-> printed mechanism responsive for the combined action
-> [@bumstead_telegraphy_1916, 12-13].
+> printing mechanism responsive to the combined action
+> [@bumstead_telegraphy_1916, 13-4].
 
-What began as a description of a mechanism for information transmittal, ended
-with a claim about hermeneutics of control. Starting with clause 14, the
-brothers describe a telegraph system capable of transmitting impulses at
-varying time intervals. In the language of the patent, the length of a time
-interval "represents significance," involving an automated receiver
-responsible for "distributing, interpreting, and recording." The printing
-mechanism is further "arranged to print the interpretation of the
-signals."[@bumstead_telegraphy_1916, 6] The interpreting relays thus transform
-time intervals into typography, representing letters, figures, and other
-characters, in "accordance with code."[@bumstead_telegraphy_1916, 13]
-Initially, the telegraph "interprets" with the aim of "transmitting
-intelligence."
+What began as a description of a communication mechanism, concluded with a claim about hermeneutics of
+control. Starting with clause 14, the brothers describe a telegraph system
+capable of transmitting impulses at varying time intervals. In the language of
+the patent, the length of a time interval "represent[s] significance,"
+involving an automated receiver responsible for "distributing, interpreting,
+and recording."[@bumstead_telegraphy_1916, 14] The printing mechanism is
+further "arranged to print the interpretation of the signals."[@bumstead_telegraphy_1916, 6] Interpreting relays thus transform time
+intervals into typography, representing letters, figures, and other characters,
+in "accordance with a code." [@bumstead_telegraphy_1916, 13] Initially, the
+telegraph "interprets" with the aim of "transmitting intelligence."
+[@bumstead_telegraphy_1916, 12]
 
 Subsequently, the authors understood also that the length of the transmitted
 time interval could also signify information used to actuate a variety of
 devices. By the middle of the patent, the brothers begin to refer to their
 invention in broad terms as a "controlling medium," capable of regulating
 remotely everything from typesetting machines to generic sunflower switches.
-"Indeed the detector and the interpreting relay could be made to actuate a set
-of sunflower switches for an indicator without including a printer at all,"
+"Indeed, the detector and interpreting relays could be made to actuate a set
+of sunflower switches for an indicator [...] without including a printer at all,"
 they conclude [@bumstead_telegraphy_1916, 12]. What starts out as a
 communication device, by the end of the patent is generalized into a universal
 control mechanism.
@@ -1238,19 +1236,18 @@ Driven by ticker tape and connected to a printer the automated telegraph
 contained all the necessary features of a Turing machine: a discrete symbolic
 language, removable storage medium, and a machine capable of altering its
 physical states according to instruction. It read and wrote; it ingested tape
-and converted extrinsic symbols into intrinsic configurations of the
-mechanism. By 1905, Donald Murray, inventor of the popular Murray telegraph,
-could write that "if we disregard the small class of telegrams that merely
-express emotions, *the essence of telegraphy is control* [emphasis mine]." He
-stressed that telegraph systems "belong not to the class of producing or
-distributing, but to the class of controlling mechanisms"
-[@murray_setting_1905, 556]. For the automated telegraph, control code and
-message are one. The mechanism "interprets" some signals as data to be
-manipulated and others as control code, the rules for such data manipulation.
-The first type of code holds significance for humans, where the second for the
-mechanism itself. The mechanism "transmits intelligence" in the sense of
-rarefying machine states; it "interprets" in the sense of mechanical
-embodiment.
+and converted extrinsic symbols into intrinsic configurations of the mechanism.
+By 1905, Donald Murray, inventor of the popular Murray telegraph, could write
+that "[i]f we disregard the small class of telegrams that merely express
+emotions, *the essence of telegraphy is control* [emphasis mine]." He stressed
+that telegraph systems "belong, not to the class of producing or distributing,
+but to the class of controlling mechanisms." [@murray_setting_1905, 556] For
+the automated telegraph, control code and message are one. The mechanism
+"interprets" some signals as data to be manipulated and others as control code,
+the rules for such data manipulation. The first type of code holds significance
+for humans, where the second for the mechanism itself. The mechanism "transmits
+intelligence" in the sense of rarefying machine states; it "interprets" in the
+sense of mechanical embodiment. 
 
 Computing scales, dial recorders, electric tabulating machines, and computing
 typewriters were widely available on the market, made by companies like
@@ -1295,35 +1292,34 @@ capabilities of the bottom-most device limit the computational power of all
 *n+1* order Turing simulations. The bottom-most turtle may have its head in
 the clouds, but its feet rest firmly on the ground.
 
-The exact plane where the symbolic meets the material is difficult to
-identify. At some imperceptible point software disappears into hardware. Such
-ambiguity leads to controversy in the critical literature, as evidenced by Lev
-Manovich's playful response to Kittler's "there is no software" argument, in
-which the latter posits what he calls the "postmodern writing scene." "We do
-not write anymore," Kittler writes. "Human-made writing passes through
-microscopically written inscriptions which, in contrast to all historical
-writing tools, are able to read and write by themselves"
-[@kittler_there_1995].  Kittler sees the paper-bound blueprints for the first
-integrated microprocessor as the last "real" piece of writing. Everything
-written after that point is hardware, because all digital modes of
-representation, including text, ultimately rest on physical circuit
-architecture. The inability to understand hardware, in this view, precludes
-all higher modalities of reading, writing, and interpretation.
+The exact plane where the symbolic meets the material is difficult to identify.
+At some imperceptible point software disappears into hardware. Such ambiguity
+leads to controversy in the critical literature, as evidenced by Lev Manovich's
+playful response to Kittler's "there is no software" argument, in which the
+latter posits what he calls the "postmodern writing scene." "[W]e do not write
+anymore," Kittler writes. "[H]uman-made writing passes through microscopically
+written inscriptions which, in contrast to all historical writing tools, are
+able to read and write by themselves."[@kittler_there_1995] Kittler sees the
+paper-bound blueprints for the first integrated microprocessor as the last
+"real" piece of writing. Everything written after that point is hardware,
+because all digital modes of representation, including text, ultimately rest on
+physical circuit architecture. The inability to understand hardware, in this
+view, precludes all higher modalities of reading, writing, and interpretation.
 
 Manovich inverts Kittler's argument into "there is only software," by which he
 means that in a pragmatic sense, software determines the properties of any
 media object. The inversion participates in the perpetual dialectics between
 idealism and materialism: Hegel and Marx, Marx and Gramsci, Gramsci and
-Kittler, Kittler and Manovich. "What you can do with a particular digital
-media file can change dramatically," depending on the software, Manovich
-writes. When it comes to digital photographs, to use his example, one
-application may allow the photographer to crop the image while another may not
-[@manovich_there_2011, 151]. From this property-determining aspect of software
-(and in reference to the work of Alan Kay), Manovich derives the concept of
-*metamedia*, "a medium that can dynamically simulate the details of any other
-medium" [@manovich_there_2011, 105-6]. Software defines the properties of
-digital manipulation, determining the physics of all higher-order media it
-simulates [@manovich_there_2011, 150-1].
+Kittler, Kittler and Manovich. "[W]hat you can do with the same digital file
+can change dramatically," depending on the software, Manovich writes. When it
+comes to digital photographs, to use his example, one application may allow the
+photographer to crop the image while another may not [@manovich_there_2011,
+273]. From this property-determining aspect of software (and in reference to
+the work of Alan Kay), Manovich adopts the concept of the *metamedium*, "a
+medium that can dynamically simulate the details of any other medium"
+[@kay_computer_1984, 59, qtd. in @manovich_software_2013, 105-6]. Software defines the properties of digital
+manipulation, determining the physics of all higher-order media it simulates
+[@manovich_software_2013, 150-1].
 
 Kittler, would perhaps object that all such higher-order, simulated physics
 rest on the bedrock of silicon. In opening a series of nested software black
@@ -1460,7 +1456,7 @@ universities.
 
 [^ln1-davey]: Mike Davey built and displayed a similar instrument at Harvard
 University's Collection of Historical Scientific Instruments in 2012. He
-writes, "my goal in building this project was to create a machine that embodied
+writes: "My goal in building this project was to create a machine that embodied
 the classic look and feel of the machine presented in Turing’s paper.  I wanted
 to build a machine that would be immediately recognizable as a Turing machine
 to someone familiar with Turing's work" [@davey_turing_2012].
@@ -1522,9 +1518,9 @@ meant it to define sentience more generally [@turing_computing_1950].
 
 [^ln1-abstraction]: This is a topic of some contention in the literature. In
 his influential paper on the topic, James Moor includes the immateriality of
-software as one of the "three myths" of computer science. "As a practical
-matter, what we regard as computer instructions, and consequently what we
-regard as computer programs, is determined by computers available," he writes
+software as one of the "three myths" of computer science: "as a practical
+matter what we regard as computer instructions, and consequently what we
+regard as computer programs, is determined by the computers available," he writes
 [@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
 abstract artifact, akin to a musical work [@irmak_software_2012]. See also
 @turner_programming_2013; @colburn_software_1999.
@@ -1536,7 +1532,7 @@ beautiful diagrams, sprouting nodes and edges, with titles like "Structure of
 a Cottage Family," "A Handicraft Group," and "The Civilian Social Atom."
 Moreno was also a humanist and a philosopher of technology and culture. In
 opposition to eugenics, a popular philosophy at the time, his answer to "Who
-Shall Survive?" was "everyone" [@moreno_who_1953, 245].
+Shall Survive?" was "everyone." [@moreno_who_1953, 245]
 
 [^ln1-timeline]: To give you a sense of the timeline: Turing entered King's
 College in 1931 [@hodges_alan_1983, 78]. His paper on computable numbers
@@ -1546,8 +1542,8 @@ discussion," even in the presence of prominent philosophers like George Edward
 Moore [@duncan-jones_g._1958, 25]. Turing attended Wittgenstein's lectures on
 the foundations of mathematics in 1939.
 
-[^ln1-platotr]: I translate the passage into literal, if awkward, English to
-preserve some of the interesting characteristics of the original Greek. In
+[^ln1-platotr]: @plato_euthyphro._1999 I translate the passage into literal English to
+preserve characteristics notable in the original. In
 particular, note the parallelism between *exōthen* and *endothen*, the
 ambiguity of *allotrion*, as something that comes from another, and the subtle
 slide between *graphō* (letter, figure, writing) and *tupōn* (type,
