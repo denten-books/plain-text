@@ -430,9 +430,9 @@ reasonably transcribed to "form" in English. In an essay on Hegel's concept,
 John Crowe Ransom likens the concrete universal to a "formula of a chemical
 reaction," "the recipe for a dish," and "the blue-print of a machine."
 Crucially, the Hegelian universal becomes concrete when the machine "has been
-materialized," and is "working" properly [@ransom_concrete_1955, 387. Like Wittgenstein,
-Ransom imagines a perfected kind of a machine, which represents the ideal of an
-aesthetic object.
+materialized," and is "working" properly [@ransom_concrete_1955, 387]. Like
+Wittgenstein, Ransom imagines a perfected kind of a machine, which represents
+the ideal of an aesthetic object.
 
 ## Format Theory
 

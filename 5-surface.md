@@ -852,7 +852,7 @@ measure of topographic analogy between tape and paper, it remained
 inscrutable, like all magnetic media.
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
-Typewriter (MC/ST) in 1969. A "simple relationship [...] could be maintained between
+Typewriter (MC/ST) in 1969. A simple relationship could be "maintained between
 a typed page and a recorded card" [@may_ibm_1981, 743]. Image by Pointillist
 under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
 
