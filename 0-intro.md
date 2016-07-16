@@ -40,15 +40,14 @@ printed circuit boards, capacitors, and resistors. Both draw electric current.
 Both require firmware updates and both are governed by codes, political and
 computational. The smoke alarm and the mobile phone connect to the internet.
 They communicate with remote data centers and with each other. And yet, I
-continue to read electronic books as if they were familiar, immutable, and
-passive objects: just books. I think of them<!--does "them" refer to physical
-books or electronic books? Or your phone/smoke alarm? PRP--> as intimate
-artifacts---friends even---wholly known to me, comforting, and warm. The
-electronic book is none of those things. Besides prose, it keeps my memories,
-pictures, words, sounds, and thoughts. It records my reading, sleeping, and
-consumption habits. It tries to sell me things, showing me advertisements for
-cars, jewelry, and pills. It comes with a manual and terms of service. It is my
-confidant, my dealer, my spy.
+continue to read these devices as if they were familiar, immutable, and
+passive objects: just books. I think of them as intimate artifacts---friends
+even---wholly known to me, comforting, and warm. The electronic book is none
+of those things. Besides prose, it keeps my memories, pictures, words, sounds,
+and thoughts. It records my reading, sleeping, and consumption habits. It
+tries to sell me things, showing me advertisements for cars, jewelry, and
+pills. It comes with a manual and terms of service. It is my confidant, my
+dealer, my spy.
 
 *Plain Text* concerns the nature of digital inscription---the material trace
 that gives rise to textual phenomena, and, more broadly, to all cultural
@@ -294,9 +293,6 @@ meaningful information. In exile, "everything is unusual," Flusser wrote
 ex-perience [*er-fahrung*], or literally a driving out. Discovery, he
 concluded "begins as soon as the blanket is pulled away," where the familiar
 objects can pass into view again [@flusser_freedom_2003, 82-3].
-
-<!-- perhaps more or less on exile, this is why i am bringing it in and how i
-want you think about it -->
 
 One could write, to take a simple example, "a field of study," without much
 thought about figurative space. Shklovsky would have the reader pause to
@@ -691,8 +687,6 @@ labor between editors, book sellers, and offshore typesetting
 firms.[^ln-sweatshop] One group trades content in the economy of prestige,
 another formatting in the economy of survival, and yet another controls
 distribution in the market economy.
-
-<!-- insert materialist critique sentence elsewhere -->
 
 Distinctions of labor will remain in place as long as the conversation about
 ideas like "form" and "content" persists in the abstract, apart from their

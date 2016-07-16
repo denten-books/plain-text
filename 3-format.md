@@ -87,7 +87,7 @@ formats, by contrast, change rapidly and proliferate. They contain further, as
 yet unexplored structural possibilities: shapes like the paragraph on paper,
 but native to new media. What you saw is what you got on the page. On the
 screen, what you see is but a small part of what you could get.  We are
-presented with *thick content*, beyond the visible image, the composite of all
+presented with thick content, beyond the visible image, the composite of all
 that is contained within the three-dimensional page. In print, content can be
 gleaned from the surface; there is nothing but surface on a page. The screen
 is a laminate. Light and liquid crystal---the preferred media for contemporary
@@ -118,15 +118,19 @@ authors, readers, and devices. In our example, the PDF encodes among other
 things ideas about "reading," "authenticity," "fidelity," "preservation," and
 "authorship." Whatever literary-theoretical framework the reader brings to the
 process of interpretation must therefore meet the affordances encoded into the
-electronic text itself.<!--It might be cool to call back to Levine, here, like
-you do with Baudrillard above. PRP--> Such an encounter happens not on the
-level of representation or ideology, but on the level of the physical, the
-phatic, and the imperative, where formatting and control codes reside. Thick
-content accounts for the disparity between plain and fancy text.[^ln3-fancy]
-The explication of such thick content requires thick description that draws on
-material particulates. These further acquire tactical significance in practice:
-the text that edits itself or one that collects its own fees necessitates new
-formalisms and new strategies of interpretation.
+electronic text itself.
+
+Attending to the affordances of format, to paraphrase Caroline Levine, "opens
+a generalizable understanding of political power" [@levine_forms:_2015, 7.
+Italics in the original.]. Constraint, what Levine calls the "collision of
+forms," happens not on the level of representation or ideology, but on the
+level of the physical, the phatic, and the imperative, where formatting and
+control codes reside. Format and content compose what may be called *thick
+content,* which accounts for the disparity between plain and fancy
+text.[^ln3-fancy] Its explication requires thick description that draws on
+material particulates. These further acquire tactical significance in
+practice: the text that edits itself or one that collects its own fees
+necessitates new formalisms and strategies of interpretation.
 
 The familiar paper paragraph structure already presents several interesting
 problems for analysis. A paragraph, we intuitively believe, corresponds to a
@@ -148,11 +152,13 @@ Formats mediate between data structures, transforming one into the other
 according to predefined rules. Mental image, information stored in the head,
 becomes inscription, information stored in the machine, which turns into a
 projection, content arranged on the screen. The complexities of the
-transformation stem from the fundamental incompatibility between incommensurate languages and physicalities. Format
-specifications govern the transference of data structures from one medium into
-the other, at the point of contact between human, symbol, and machine.
+transformation stem from the fundamental incompatibility between
+incommensurate languages and physicalities. Format specifications govern the
+transference of data structures from one medium into the other, at the point
+of contact between human, symbol, and machine.
 
-[^ln3-symbolisms]: See @wittgenstein_philosophical_1974, 45. On "incommensurate languages" see also @davidson_essays_1980, 187-99.
+[^ln3-symbolisms]: See @wittgenstein_philosophical_1974, 45. On
+"incommensurate languages" see also @davidson_essays_1980, 187-99.
 
 In this chapter I would like to move us towards a systematic study of format.
 The history of formalism, as I will argue, contains within it at least these
@@ -283,13 +289,11 @@ instances" [@hoare_record_1965; @nygaard_history_1981]. The abstract class can
 further be modified or extended when called into action. In this way, the
 abstract category of "chairs" becomes a given chair, complete with individual
 flaws and imperfections. I could, for example, modify the chair by attaching a
-small desk. The modified chair remains a chair. As before, flaws and
-emendations are considered insignificant when compared to the perfected form
-of the ideal chair. In the idealist tradition, ideas provide us with lasting
-universal "templates" for instantiation within the contingent and always
-changing physical confines of the material world.[^ln3-descartes]<!--This seems
-like it should either be developed or dropped, imo---in a footnote, it just
-raises a lot of questions. PRP-->
+lamp. The modified chair remains a species of chairs. As before, flaws and
+emendations are considered insignificant when compared to the perfected class.
+In the idealist tradition, ideas similarly provide us with lasting universal
+"templates" for instantiation within the contingent and always changing
+physical confines of the material world.[^ln3-descartes]
 
 So far, I have been using the term "form" quite liberally, relying on the
 reader's familiarity with its contradictory everyday usage. A closer look at

@@ -362,32 +362,33 @@ continuity represented not mere physical attributes of encoding or electricity
 but higher-order cultural and even ethical categories. Beneath the technical
 conversations about the advantages of discrete or continuous electrical signal
 lay a philosophic concern with the fundamental makeup of the universe itself.
-For Henri Bergson, the "real whole of the universe" constituted an
-"indivisible continuity" [@bergson_creative_1944, 36]. Science, technology,
-and other "artificial systems" in his thought imposed discrete "partial views"
-on the whole.[^ln3-bergsonism] The partial views, for Bergson, resembled the
-operation of the cinematograph, which divides continuous motion into distinct
-frames. By running the frames through the projecting apparatus, the telegraph
-reconstituted "the individuality of each particular movement." "Such is the
-contrivance of the cinematograph," Bergson wrote, "[a]nd such is also that of
-our knowledge."[@bergson_creative_1944, 332] In this way, the intellect
-continually separated the undifferentiated reality into discrete states of
-time and space [@bergson_creative_1944, 167-182; @russell_philosophy_1914, 4].
-But these states were virtually, not actually, discrete. The evolution of life
-proceeded, according to Bergson, "rather like a shell" which "bursts into
-fragments," which are themselves again shells [@bergson_creative_1944, 109].
 
-<!-- consider expanding to draw attention to the fact that fragments are
-discrete and analytic. expand to simplify -->
+Henri Bergson, for example, wrote about the "real whole of the universe,"
+which constituted an "indivisible continuity" [@bergson_creative_1944, 36].
+Science, technology, and other "artificial systems" in his thought imposed
+discrete "partial views" on the whole.[^ln3-bergsonism] These partial views
+resembled the operation of the cinematograph, he wrote, which divides
+continuous motion into distinct frames. By running the frames through the
+projecting apparatus, the telegraph reconstituted "the individuality of each
+particular movement." "Such is the contrivance of the cinematograph," Bergson
+wrote, "[a]nd such is also that of our knowledge."[@bergson_creative_1944,
+332] In this way, the intellect continually separated the undifferentiated
+reality into discrete states of time and space [@bergson_creative_1944,
+167-182; @russell_philosophy_1914, 4]. But these states were virtually, not
+actually, discrete. The evolution of life proceeded, according to Bergson,
+"rather like a shell" which "bursts into fragments," which are themselves
+again shells [@bergson_creative_1944, 109]. The new differentiated unit, a
+part of the indivisible universe, contained the kernel of the whole. It did
+not split from but subsume the totality.
 
 In Bergson's view of the universe, the brain and the central nervous system
 act as a "central telephonic exchange," which communicates between the
-extrinsic continuous world and the intrinsic "memory-shot[s]" of our perception
-[@bergson_matter_1912, 19, 280]. The mind receives "images" of the world that it
-compares with existing "stored" images to produce a new composite image that
-is once again stored into memory. Bergson thus denied the "flashlight" model
-of perception. The mind, according to him, does not shine a light to bring
-attention to this or that hidden feature of the world:
+extrinsic continuous world and the intrinsic "memory-shot[s]" of our
+perception [@bergson_matter_1912, 19, 280]. The mind receives "images" of the
+world that it compares with existing "stored" images to produce a new
+composite image that is once again stored into memory. Bergson thus denied the
+"flashlight" model of perception. The mind, according to him, does not shine a
+light to bring attention to this or that hidden feature of the world:
 
 > Metaphor for metaphor, we would rather compare the elementary work of
 > attention to that of the telegraph clerk who, on receipt of an important
@@ -398,7 +399,7 @@ The object in the world is thus neither an independent thing nor purely a
 product of the mind. By this "telegraphic" model of perception, Bergson avoids
 both fully relativistic and fully essentialist accounts of knowledge making.
 
-To agree with Bergson is imagine the mind as a cinematographic "framing"
+To agree with Bergson is to imagine the mind as a cinematographic "framing"
 device and accept that the world is a priori continuous in nature. In a
 damning evaluation of Bergson's philosophy, Bertrand Russel noted that such
 assumptions were merely poetic images, not subject to verification
