@@ -87,10 +87,10 @@ complicates the traditional structuralist distinctions between form and
 content. The computed inscription occupies at least two distinct sites, each
 entailing drastically differing affordances for interpretation. Were we to
 untangle the tightly wound coil of the circuit, we would find ample distance
-between the hard drive and screen. Some readers measure that distance in
-inches, as when reading documents locally for example, stored on their own
-computer; and in miles when reading documents remotely, stored on far away
-"cloud" servers. Where print is flat, digital inscription is stratified across
+between hard drive and screen. Some readers measure that distance in inches,
+as when reading documents locally for example, stored on their own computer;
+and in miles when reading documents remotely, stored on far away "cloud"
+servers. Where print is flat, digital inscription is stratified across
 multiple incongruent planes.[^ln2-hayles]
 
 How did this multiplicity come to be? And what effect does it have on the life

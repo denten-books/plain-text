@@ -98,7 +98,7 @@ sticks, layers of copper and oxide.
 
 A byte, made up of eight binary bits, holds a letter. The string of letters
 spelling out "hello world," as I have mentioned previously, occupies eleven
-bytes on the hard drive: ten bytes for the letters and one byte for the space
+bytes on hard drive: ten bytes for the letters and one byte for the space
 character. A file in the Portable Document Format (PDF) containing the same
 "hello world" takes up 24,335 bytes on my system. What sort of information do
 these extra bytes contain? Historically, such data has included machine

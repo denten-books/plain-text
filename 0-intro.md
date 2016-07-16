@@ -484,18 +484,18 @@ operational intuitions governing textuality---ideas about form, content,
 style, letter, and word---change profoundly as text shifts its confines from
 paper to pixel. A substantial gap separates the visible text from the medium
 where it is stored. Pixels on a screen are literally removed from the
-electromagnetic trace on the hard drive. The two sites of textuality---the
-visible image and the archived inscription---do not come into direct contact.
-The space between gives ground to more text, of the kind that specifies rules
-for transformation: from one medium, solid state storage, to another, the
-liquid crystal display.  These rules contain the essence of control, before
-ideology, at the level of infrastructure. Censorship filters and surveilling
-apparatus are some of the starkest examples of governance that occupy the
-space between storage and presentation: what the text is and what it appears
-to be. I propose we begin with this obvious sense of difference between paper
-and digital text: where print is governed by law from without, think for
-example of the Obscene Publication Acts in Victorian England, digital text is
-governed by code, capable of executing its edicts from within
+electromagnetic trace on hard drive. The two sites of textuality---the visible
+image and the archived inscription---do not come into direct contact.  The
+space between gives ground to more text, of the kind that specifies rules for
+transformation: from one medium, solid state storage, to another, the liquid
+crystal display.  These rules contain the essence of control, before ideology,
+at the level of infrastructure. Censorship filters and surveilling apparatus
+are some of the starkest examples of governance that occupy the space between
+storage and presentation: what the text is and what it appears to be. I
+propose we begin with this obvious sense of difference between paper and
+digital text: where print is governed by law from without, think for example
+of the Obscene Publication Acts in Victorian England, digital text is governed
+by code, capable of executing its edicts from within
 [@mccalman_unrespectable_1984; @roberts_morals_1985]. In this way governance
 intertwines with text to become an organ in the same unified corpus.
 
