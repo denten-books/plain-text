@@ -119,7 +119,7 @@ electromagnetic inscription situate it, in practice, beyond human sense.
 
 Finally, the appearance of Cathode Ray Tube (CRT) displays in the late 1960s
 restored a measure of legibility lost to magnetic storage media. The sign
-reemerged on the screen. Crucially, it now framed a simulacrum of archived
+reemerged on screen. Crucially, it now framed a simulacrum of archived
 inscription. Typing a word on keyboard produced one sort of a structure on
 tape or disk and another on screen. The two relate contingently, without
 necessary equivalence. The lay reader has no means to ensure the
@@ -559,7 +559,7 @@ surface. This "light touch" gave the word its new-found ephemeral quality. But
 it also made inscription illegible. In applications like law and banking,
 where the fidelity between input, storage, and output were crucial, the
 immediate illegibility of magnetic storage posed a considerable engineering
-challenge. After the advent of teletype, but before the screen, machine-makers
+challenge. After the advent of teletype, but before screens, machine-makers
 employed a variety of techniques to restore a measure of congruence between
 invisible magnetic inscription and its paper representation. What was entered
 had to be verified against what was stored.
@@ -1223,8 +1223,8 @@ Short-lived screenless word processors of the early 1960s (like the MT/ST)
 were difficult to operate, because typists had no means to visualize complex
 data structures on tape. Screens helped by representing document topography
 visually, restoring a sense of apparent space to otherwise opaque media. The
-contemporary "digital" document may resemble a page on the screen, but beneath
-it, it is a jumble of bits, split into the various regions of internal memory.
+contemporary "digital" document may resemble a page on screen, but beneath it,
+it is a jumble of bits, split into the various regions of internal memory.
 Screens simulate document unity by presenting holistic images of paragraphs,
 pages, and books. The simulation seems to follow the physics of paper and ink:
 one can turn pages, write in margins, and make bookmarks. But the underlying

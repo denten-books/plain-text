@@ -301,7 +301,7 @@ exile allows the displaced to once again transform habituated media into
 meaningful information. In exile, "everything is unusual," Flusser wrote
 [@flusser_freedom_2003, 81]. The migrant experiences the world as an
 ex-perience [*er-fahrung*], or literally a driving out. Discovery, he
-concluded "begins as soon as the blanket is pulled away," where the familiar
+concluded "begins as soon as the blanket is pulled away," where familiar
 objects can pass into view again [@flusser_freedom_2003, 82-3].
 
 One could write, to take a simple example, "a field of study," without much
@@ -615,17 +615,17 @@ chain of machine-mediated transformations: from the mechanical action of the
 keyboard on which I am now typing, to the arrangement of electrons on magnetic
 storage media, to the modulation of fiber-optic signal, to the shimmer of the
 flowing liquid crystal display rendering the text. Computation occupies the
-space between the keyboard and the screen, which in turn gives rise to
-higher-order cultural institutions: from the architecture of social media
-platforms to the formation of massive shared archives. The "cultural
-techniques" that guide our use of such technologies are formative of the
-society as a whole [@leroi-gourhan_gesture_1993, 83-84;
-@siegert_cultural_2015]. Daily choices like choosing a text editor, a filing
-system, or a social networking platform cannot therefore be addressed in
-shallow instrumental, system-centric ideals. Complex computational systems
-cannot give rise to ideals any more than financial markets can. From the many
-available visions of human-computer interaction I argue for choosing one that
-confirms to a humanist ethos, whatever the reader's politics.
+space between keyboard and screen, which in turn gives rise to higher-order
+cultural institutions: from the architecture of social media platforms to the
+formation of massive shared archives. The "cultural techniques" that guide our
+use of such technologies are formative of the society as a whole
+[@leroi-gourhan_gesture_1993, 83-84; @siegert_cultural_2015]. Daily choices
+like choosing a text editor, a filing system, or a social networking platform
+cannot therefore be addressed in shallow instrumental, system-centric ideals.
+Complex computational systems cannot give rise to ideals any more than
+financial markets can. From the many available visions of human-computer
+interaction I argue for choosing one that confirms to a humanist ethos,
+whatever the reader's politics.
 
 Computational poetics encourages users to become active thinkers, tinkerers,
 and makers of technology. It understands binary and digital environments to be
@@ -633,8 +633,8 @@ also semiotic and symbolic systems in essence, amenable to the construction
 and the deconstruction of meaning. I further encourage those who may have
 considered themselves mere "users" of computation to apply the same critical
 acuity they employ in the close reading of prose and poetry to the
-understanding of code and machine. For text to render on the screen properly
-it must be encoded or translated from machine-transmittable code into
+understanding of code and machine. For text to render on screen properly it
+must be encoded or translated from machine-transmittable code into
 human-readable shape. Encoding constitutes a primitive field of textual
 activity, at the crossroads of computer science and the study of literature.
 Encoding matters because how texts are encoded, transmitted, and stored
@@ -792,18 +792,17 @@ thick description of its base particulates.
 Luckily for us, reading and writing are not esoteric activities. They are
 readily available to introspection. I will therefore occasionally encourage
 readers to encounter the immediate contexts of their reading anew: to put down
-the book or to lean away from the screen and to look at these textual
-artifacts with strange eyes. In this movement of the body, I want to disrupt
-the mind's habituated intuitions, pitting them against knowledge at hand and
-fingertip knowledge: as when ruffling through the pages or typing at a
-keyboard. How ephemeral is an electronic text, for example? The pragmatic
-answer lies not in reductive universal propositions---very, or not at
-all---but in contingent technological affordances attached to specific reading
-devices.  What can a reader do with this text, here and now? Where is it
-stored? Are readers given dispensation to copy and paste? Do they have legal
-permission to quote at length, to perform publicly, or to otherwise
-trans-mediate? Will the text disappear when the reader closes the book's
-cover?
+the book or to lean away from a screen and to look at these textual artifacts
+with strange eyes. In this movement of the body, I want to disrupt the mind's
+habituated intuitions, pitting them against knowledge at hand and fingertip
+knowledge: as when ruffling through the pages or typing at a keyboard. How
+ephemeral is an electronic text, for example? The pragmatic answer lies not in
+reductive universal propositions---very, or not at all---but in contingent
+technological affordances attached to specific reading devices.  What can a
+reader do with this text, here and now? Where is it stored? Are readers given
+dispensation to copy and paste? Do they have legal permission to quote at
+length, to perform publicly, or to otherwise trans-mediate? Will the text
+disappear when the reader closes the book's cover?
 
 ## Plan of the Present Work
 
@@ -864,57 +863,56 @@ formatting layer: from electronic books that modify themselves to suit the
 reader's geographic location to "smart contracts" that contain the rules of
 their own execution.
 
-The **fourth chapter** charts the emergence of screen reading. The screen
-appears to restore a measure of visibility lost in electromagnetic
-inscription, with one major side-effect. The screen cannot guarantee fidelity
-between the word visible and the word archived. The inscription shown can only
-attain a arbitrary correlation to the inscription archived. Screen reading
-further happens on screens that refresh themselves at a rate of around 60
-cycles per second (Hertz). The digital word is technically an animation; it
-moves even as it appears to stand still. This property of the medium attunes
-the reader to a particular mode of apprehension, affecting not just the
-physics but also the aesthetics of digital media. Works by the philosophers
-Henri Bergson, John Haugeland, and Nelson Goodman help construct a
-phenomenology of screen-based digital perception. The digital emerges
-ultimately not as an intrinsic property of the medium, but as structure
-imposed from without. In the extreme, that means that a censored *electronic*
-text can form a perfectly *analog* artifact, despite being digital in all
-other senses of the word. Conversely, texts in print are already "born
-digital," in the sense that literary works like Shakespeare's *Hamlet* are
-amenable to "reliable processes of copying and preservation"
-[@haugeland_analog_1981, 213-225]. Properties that make media "digital" or
-"analog" reveal themselves to be neither universal nor essential to the
-medium. The medium is not the message. "The reliability and preservation of
-textual copies" may mean one thing to a literary scholar, another to a
-software engineer or a legal professional, and something entirely different to
-a librarian, I argue in the conclusion of the chapter. It matters not what the
-medium is, but what we can do with the text.
+The **fourth chapter** charts the emergence of screen reading. Screens appear
+to restore a measure of visibility lost in electromagnetic inscription, with
+one major side-effect. They cannot guarantee fidelity between the word visible
+and the word archived. The inscription shown can only attain a arbitrary
+correlation to the inscription archived. Screen reading further happens on
+screens that refresh themselves at a rate of around 60 cycles per second
+(Hertz). The digital word is technically an animation; it moves even as it
+appears to stand still. This property of the medium attunes the reader to a
+particular mode of apprehension, affecting not just the physics but also the
+aesthetics of digital media. Works by the philosophers Henri Bergson, John
+Haugeland, and Nelson Goodman help construct a phenomenology of screen-based
+digital perception. The digital emerges ultimately not as an intrinsic
+property of the medium, but as structure imposed from without. In the extreme,
+that means that a censored *electronic* text can form a perfectly *analog*
+artifact, despite being digital in all other senses of the word. Conversely,
+texts in print are already "born digital," in the sense that literary works
+like Shakespeare's *Hamlet* are amenable to "reliable processes of copying and
+preservation" [@haugeland_analog_1981, 213-225]. Properties that make media
+"digital" or "analog" reveal themselves to be neither universal nor essential
+to the medium. The medium is not the message. "The reliability and
+preservation of textual copies" may mean one thing to a literary scholar,
+another to a software engineer or a legal professional, and something entirely
+different to a librarian, I argue in the conclusion of the chapter. It matters
+not what the medium is, but what we can do with the text.
 
-The **fifth and final chapter** begins with a discussion of an apparent paradox. A camp
-of media theorists and textual scholars in the 1990s conceived of electronic
-texts as an ephemeral, almost immaterial, phenomenon. Text shimmered and
-glared: it was spoken of in terms of *hypertext*, light writing, and
-electricity. A generation of theorists that came after insisted on the weighty
-materiality of electronic media. Reading began to engage the morphology of
-rare metals, media archeology, hard drive forensics. Both accounts, I argue,
-capture an aspect of the same underlying condition. The perceived image of an
-archived inscription splits from its source. The sign plausibly resides both
-on the screen and on the hard drive. It fractures, in some real sense,
-diverging at the site its projection from the site of the archive. Erasing an
-inscription on the screen, for example, may not elicit the corresponding
-action on the disk. Using archival materials from the history of telegraphy in
-the late nineteenth and early twentieth centuries, I chart the gradual
-fracture and the ultimate illegibility of the newly composite sign. Early
-computers stored human-readable text and machine instruction at the surface of
-the same storage media like punch cards and ticker tape. Although difficult to
-read, these forms of machine writing were readily visible and therefore
-amenable to analysis. The advent of magnetic storage forced the composite
-inscription into an opaque medium. Unable to perceive magnetic polarities
-without the aid of a machine, readers often manipulated text blindly. In this
-way a typist would type several sentences without seeing the printed output.
-The chapter identifies a milestone in the history of human textuality: the
-moment at which the inscription passed from view, giving rise to the sometimes
-conflicting but nevertheless consistent accounts of digital textuality.
+The **fifth and final chapter** begins with a discussion of an apparent
+paradox. A camp of media theorists and textual scholars in the 1990s conceived
+of electronic texts as an ephemeral, almost immaterial, phenomenon. Text
+shimmered and glared: it was spoken of in terms of *hypertext*, light writing,
+and electricity. A generation of theorists that came after insisted on the
+weighty materiality of electronic media. Reading began to engage the
+morphology of rare metals, media archeology, hard drive forensics. Both
+accounts, I argue, capture an aspect of the same underlying condition. The
+perceived image of an archived inscription splits from its source. The sign
+plausibly resides both on screen and on hard drive. It fractures, in some real
+sense, diverging at the site its projection from the site of the archive.
+Erasing a word on screen, for example, may not elicit the corresponding action
+on disk. Using archival materials from the history of telegraphy in the late
+nineteenth and early twentieth centuries, I chart the gradual fracture and the
+ultimate illegibility of the newly composite sign.  Early computers stored
+human-readable text and machine instruction at the surface of the same storage
+media like punch cards and ticker tape. Although difficult to read, these
+forms of machine writing were readily visible and therefore amenable to
+analysis. The advent of magnetic storage forced the composite inscription into
+an opaque medium. Unable to perceive magnetic polarities without the aid of a
+machine, readers often manipulated text blindly. In this way a typist would
+type several sentences without seeing the printed output.  The chapter
+identifies a milestone in the history of human textuality: the moment at which
+the inscription passed from view, giving rise to the sometimes conflicting but
+nevertheless consistent accounts of digital textuality.
 
 ***
 

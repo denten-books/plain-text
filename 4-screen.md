@@ -596,11 +596,11 @@ the smectic phase to the right. Image licensed under CC-BY-SA 3.0
 [@polimerek_smectic_2004].](images/liquid.jpg)
 
 In addition to filtering light, modern displays also flicker at a precisely
-calibrated rate. What we observe as a static image on the screen, is in
-reality a highly dynamic projection. Traditional film projectors advance
-through 24 frames every second. The film camera's shutter similarly moves up
-and down 24 times per second, capturing a static snapshot at each turn. The
-projector and the camera are thus in sync.
+calibrated rate. What we observe as a static image on screen, is in reality a
+highly dynamic projection. Traditional film projectors advance through 24
+frames every second. The film camera's shutter similarly moves up and down 24
+times per second, capturing a static snapshot at each turn. The projector and
+the camera are thus in sync.
 
 Furthermore, a projector's light flickers two to three times per frame, giving
 it a "refresh rate" of 48–72 cycles per second, or Hertz (Hz), which produces
@@ -627,15 +627,15 @@ periphery of vision, in a mechanism likely evolved to detect predatory attack
 [@burr_temporal_1981; @didyk_perceptually-motivated_2010]. As humans move
 closer to their screens---when sitting in front of a computer monitor, for
 example---more of the image enters their field of peripheral vision, making
-them more sensitive to screen flicker. When sitting close to the screen, the
-flicker can become more noticeable because more of the moving image enters the
+them more sensitive to screen flicker. When sitting close to a screen, flicker
+can become more noticeable because more of the moving image enters the
 sensitive area of peripheral vision adept at perceiving rapid movement.
 
-Furthermore, being closer to the screen increases the angular velocity of any
+Furthermore, being closer to a screen increases the angular velocity of any
 depicted moving object. When viewed from afar, the movement of several inches
-on the screen corresponds to a change in a sight angle, and likely a few
+on screen corresponds to a change in a sight angle, and likely a few
 millimeters of iris movement. When viewed up close, the same several inches on
-the screen correspond to a much larger angle, forcing the iris to move further
+screen correspond to a much larger angle, forcing the iris to move further
 laterally.
 
 The human visual system is particularly adapt at tracking smooth, horizontal
@@ -659,15 +659,15 @@ smooth movement. The brain assumes that moving objects move smoothly. But on
 screen, the object's anticipated location does not always correspond to its
 actual trajectory, since the motion of a represented object-image in the frame
 does not follow the anticipated physics of a similarly sized real-world
-object. Trajectories of moving objects on the screen are subject to the
-vagrancies of video editing and recording. Because of the flicker, the
-movement is actually jerky; it is missing frames. The moving object appears at
-discrete stationary locations punctuated by gaps in on-screen movement. This
-mismatch between what is expected and what is perceived appears to the eye as
-blur. Shapes become fuzzy in motion under certain unfavorable viewing
-conditions [@klompenhouwer_motion_2004; @har-noy_lcd_2008]. To complicate
-matters further, the on-off phase transitions of the liquid crystal medium are
-not instantaneous. The individual pixel "fades" instead of vanishing at once,
+object. Trajectories of moving objects on screen are subject to the vagrancies
+of video editing and recording. Because of the flicker, the movement is
+actually jerky; it is missing frames. The moving object appears at discrete
+stationary locations punctuated by gaps in on-screen movement. This mismatch
+between what is expected and what is perceived appears to the eye as blur.
+Shapes become fuzzy in motion under certain unfavorable viewing conditions
+[@klompenhouwer_motion_2004; @har-noy_lcd_2008]. To complicate matters
+further, the on-off phase transitions of the liquid crystal medium are not
+instantaneous. The individual pixel "fades" instead of vanishing at once,
 leaving a physical (and not merely a perceptual) trail of not-quite
 transitioned pixels in the wake of object movement [@kurita_moving_2001;
 @pan_lcd_2005]. Digital television runs into the analog limitations of the
@@ -734,8 +734,8 @@ despite being the more fragmentary medium. Under closer examination, however,
 it reveals itself to be more digital than digital video, particularly if we
 take "digital" to mean "discrete" and "differentiated." The incongruity
 between detailed material contexts of perception and theoretical speculation
-points to a confusion in the common terms. Since the screen plays a key part
-in the reception of all "digital" media, film and text, we must carefully peel
+points to a confusion in the common terms. Since screens play a key part in
+the reception of all "digital" media, film and text, we must carefully peel
 apart the layers of the visible image to reveal the mechanics of projection.
 
 Second, it seems that the material properties involved in our understanding of
@@ -786,10 +786,10 @@ arbitrary and contingent assumptions. If language and literature are already
 digital and discrete systems of representation, why should it bother us when
 it is otherwise digitized or transcoded into other controlled vocabularies?
 The Latin letter already comprises an atomic and indivisible unit. When it is
-further broken down into pixels, the smallest indivisible units on the screen,
-it undergoes little change in its ontological categories. Just as one learns
-to translate an alphabet's arbitrary shape into distinct sounds, one can learn
-to translate arbitrary digits into letters and back into sounds and thoughts.
+further broken down into pixels, the smallest indivisible units on screen, it
+undergoes little change in its ontological categories. Just as one learns to
+translate an alphabet's arbitrary shape into distinct sounds, one can learn to
+translate arbitrary digits into letters and back into sounds and thoughts.
 The language of machines, in this sense, is merely another language. Which is
 not to say that all aspects of the computed sign are completely independent of
 sensory constraint. Humans cannot perceive the ultraviolet spectrum, for

@@ -33,11 +33,11 @@ elements---fleurons, daggers, and pilcrows---the programmatic sign actively
 molds text into context. Words are arranged in space.
 
 At the maximally blunt limit of its capabilities, format governs access. For
-example, commands can render some words and sentences visible on the screen
-while suppressing others. The ability to hide text from view completely or to
-make it so small as to be illegible affects not just the style but the
-politics of text. Code determines its audience, privileging certain voices and
-modes of reading. In this sense, the programmatic sign acquires its
+example, commands can render some words and sentences visible on screen while
+suppressing others. The ability to hide text from view completely or to make
+it so small as to be illegible affects not just the style but the politics of
+text. Code determines its audience, privileging certain voices and modes of
+reading. In this sense, the programmatic sign acquires its
 non-representational, tactical character. Stripped of references,
 resemblances, and designations the programmatic sign commands and
 controls.[^ln3-bdrld]
@@ -56,8 +56,8 @@ codified power. Physical restraints like handcuffs *enact* the exercise of
 codified power. Like all violence they do not stand for anything. The
 handcuffs simply contort the body into the shape of submission. Absent a body,
 the restraints draw an empty shape. Code similarly shapes the written word.
-Located somewhere between the screen and the storage medium, formats relate
-matter to content. They are techniques by which immanent inscription, the
+Located somewhere between screen and storage medium, formats relate matter to
+content. They are techniques by which immanent inscription, the
 electromagnetic charge, is transformed into transcendent digital objects:
 novels, songs, films, or poems. Formatting imposes structure.
 
@@ -141,7 +141,7 @@ information in hexagons, along the entorhinal grid
 in the arrangement of bits along the surface of electromagnetic storage.
 Formats thus translate between disparate systems of ordering and
 signification.[^ln3-symbolisms] We are presented with metaphors of order on
-the screen: paragraphs, pages, files, and folders. These resemble their paper
+screen: paragraphs, pages, files, and folders. These resemble their paper
 counterparts, but they represent other, less familiar and nonequivalent
 ordering structures on disk.
 
@@ -151,7 +151,7 @@ Fuhrman.](images/forms.png)
 Formats mediate between data structures, transforming one into the other
 according to predefined rules. Mental image, information stored in the head,
 becomes inscription, information stored in the machine, which turns into a
-projection, content arranged on the screen. The complexities of the
+projection, content arranged on screen. The complexities of the
 transformation stem from the fundamental incompatibility between
 incommensurate languages and physicalities. Format specifications govern the
 transference of data structures from one medium into the other, at the point
@@ -865,8 +865,8 @@ its deep material affordances. The conflicted properties of electronic text
 entail the added burden of materialist poetics. Reading digitally, one cannot
 take the stability of print for granted. A number of agents intercede in the
 transformation between form and content, the inscription as information on a
-disk and its representation, as pixels on the screen. These intercessions may
-be benign, as when the electronic book adjusts the layout of a text to fit a
+disk and its representation, as pixels on screen. These intercessions may be
+benign, as when the electronic book adjusts the layout of a text to fit a
 smaller screen; or it may be totalizing as when a book platform is designed to
 censor or surveil its readers for commercial or political purposes. Reading
 for format reveals the structure of the transformation between media: the
@@ -927,9 +927,9 @@ selected line. "Control characters do not have any printed characters normally
 associated with them," the manual explained [@angluin_reference_1968, 1-2].
 Writers could also enter the "command mode," in which the machine interpreter
 recognized nothing but machine instructions. By these means, the text and
-layout instructions could occupy different "buffers" on the screen, which
-would then be combined together for printing operations
-[@angluin_reference_1968, 3-1].
+layout instructions could occupy different "buffers" on screen, which would
+then be combined together for printing operations [@angluin_reference_1968,
+3-1].
 
 Separate from the aims of text editors like EDIT and QED, a text formatter was
 meant to arrange text spatially. To the small number of editing instructions,
@@ -1148,7 +1148,7 @@ becoming a thing.
 The move from paper to such composite media carries with it a profound shift
 in the physical affordances of the everyday document. Not much space separates
 ink from paper. There, textuality lies flat, in two dimensions. What you see
-is truly what you get. Not so on the screen connected to other drives,
+is truly what you get. Not so on screens connected to other drives,
 keyboards, and screens. Composite media extends into the third dimension, away
 from the reader and deep into the bowels of the machine.
 

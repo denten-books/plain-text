@@ -30,19 +30,19 @@ simulation pleasurably or face the difficulty of microscopic reading, which
 requires special tools and training. Value is further derived from the
 resulting imbalance of critical acumen.
 
-The programmatic sign so conceived splits its energies between the screen and
-hard drive. On the screen, at the site of projection, the programmatic sign
-simulates familiar materialities: buttons, bins, files, folders, drawers,
-desktops, windows, tiles, wood grain, drop shadows, chrome.  At the site of
-storage, from which the sign emanates, the language changes to the vocabulary
-of control: central processing units, compilation, commitment, extraction,
+The programmatic sign so conceived splits its energies between screen and hard
+drive. On screen, at the site of projection, the programmatic sign simulates
+familiar materialities: buttons, bins, files, folders, drawers, desktops,
+windows, tiles, wood grain, drop shadows, chrome.  At the site of storage,
+from which the sign emanates, the language changes to the vocabulary of
+control: central processing units, compilation, commitment, extraction,
 command, condition, initiation, handling, function, persistence, and
 execution. In the rift between the sites of storage---what is---and
 projection---what appears to be---the programmatic sign undergoes a series of
 structural transformations. What originates from (a) the keyboard as the
 mechanical action of a switch becomes (b) an electric signal that (c) leaves a
 magnetic mark in computer memory, which (d) morphs into a phase of the liquid
-crystal on the screen, leaving behind (e) the letter that emanates outward as
+crystal on screen, leaving behind (e) the letter that emanates outward as
 light. Programming languages bridge the passage between bodies, archives, and
 screens, breaking thought up into differentiated units for transfer.
 Simulation emerges in the reassembly of such units back into a continuous
@@ -77,8 +77,8 @@ physical point of contact with paper. But when reading electronically, we are
 handling something other than print material. The semblance to paper guides
 our intuitions about the medium and its associated affordances: to scroll,
 bookmark, or turn pages. We have far fewer intuitions about the affordances of
-inscription at the micromolecular level. As we "turn the page" on the screen
-an electric charge embedded into a solid state medium crosses the impenetrable
+inscription at the micromolecular level. As we "turn" the simulated page an
+electric charge embedded into a solid state medium crosses the impenetrable
 oxide barrier, reaching its destination, the floating gate, through quantum
 tunnelling, which exploits the wave-particle duality of matter and its
 corollary the Heisenberg uncertainty principle [@pavan_flash_1997;
@@ -560,7 +560,7 @@ metaphor---as if to transpose properties of paper to glass.
 The more convincing its simulacrum, the more our grasp on the medium weakens.
 By definition, simulation "assumes a form resembling that of something else,"
 whereby one referent is exchanged for another [@_simulation_2015]. To drag and
-drop a document into a trashcan on the screen, for example, should in theory
+drop a document into a trashcan on screen, for example, should in theory
 correspond to an analogous set of data manipulations on the disk. Yet,
 "discarding a file" in this manner does not necessarily include deletion of
 data from the storage medium, as expected. The representation of the document
@@ -657,11 +657,11 @@ complexities of solid state storage architecture, the difference in the
 structure of information on pages and floating gates is apparent. The
 arrangement of one has only an arbitrary connection to the other. Consequently
 changes in the structure of the symbolic domain, which manifest in the erasure
-of words on the screen for example, do not necessitate corresponding changes
-in the physical domain, which in the same example manifest in the discharge of
+of words on screen for example, do not necessitate corresponding changes in
+the physical domain, which in the same example manifest in the discharge of
 the floating gate. The information endures despite the intended erasure.
 Dwellers of virtual realms believe in verisimilitude as a matter of faith. We
-hope for the analogy of turning pages or erasing words on the screen to entail
+hope for the analogy of turning pages or erasing words on screen to entail
 similar actions on the disk. But we waver when asked to authenticate the
 particulars of the simulation. At times, "erased" data is simply hidden from
 view. At other times, instead of disappearing it proliferates across deep
@@ -1018,7 +1018,7 @@ follows. A direct causal link exists between the steering wheel and the car's
 axle. Similarly, when operating a computer game like *Space Invaders* via a
 joystick, the player experiences the immediate correspondence between the
 movement of the controlling mechanism and the movement of the
-player-controlled space ship on the screen. The car is the "direct object of
+player-controlled space ship on screen. The car is the "direct object of
 interest" for a driver, just like the virtual space ship is for a gamer.
 Unlike video game players, authors attempting to delete sensitive
 information---to return to our simple and reoccurring example---are not
@@ -1181,7 +1181,7 @@ simulation in view, to connect viscerally to the material conditions of habit
 production? The question is of vital political importance, because whether we
 have answers or not, implements of symbolic manipulation---books and pens that
 once lay safely at an arm's length---move inevitably closer to the mind's eye.
-For now, the screen and the hard drive, mechanisms of memory storage and image
+For now, screens and hard drives, mechanisms of memory storage and image
 projection, remain extrinsic to the body. They are at this moment still
 amenable to circumspection. But the gap is closing fast. The political
 consequences of our technological choices become more difficult to reveal in

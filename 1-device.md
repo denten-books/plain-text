@@ -1347,15 +1347,15 @@ In asking "How is it made?" we arrest the advance of symbolism in an attempt
 to find the thing behind the process of signification, which always dissembles
 to conceal its material foundations. Signification ultimately terminates at
 the physical boundaries of its establishing medium. The base conditions differ
-on paper and on the screen. The paper page contains no internal states to
-speak of. The kind of symbolism it supports therefore proceeds from the
-surface inscription towards the reader.  Reading, as Moreno reminds us, is an
-invasive procedure.  Absent human contact, we take on the mental states of
-others through a vehicle that conveys a remote kind of agency, displaced in
-time and space. It should be held in view all the more because the electronic
-book, unlike paper, does contain internal states of its own which further
-interject in the process of signification. How is it made becomes a question
-not only for the poetics but also for the political tactics of reading.
+between paper and screen. The paper page contains no internal states to speak
+of. The kind of symbolism it supports therefore proceeds from the surface
+inscription towards the reader. Reading, as Moreno reminds us, is an invasive
+procedure. Absent human contact, we take on the mental states of others
+through a vehicle that conveys a remote kind of agency, displaced in time and
+space. It should be held in view all the more because the electronic book,
+unlike paper, does contain internal states of its own which further interject
+in the process of signification. How is it made becomes a question not only
+for the poetics but also for the political tactics of reading.
 
 The question of technique seeks to expose the rules of symbolic transference
 between at least three discrete systems: one inorganic, the book, one
