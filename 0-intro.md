@@ -21,27 +21,27 @@ another, larger camera. At the foot of the device a grid of small perforations
 indicates breathing room for a speaker and several microphones. To "open" a
 book I touch the glass. The machine recognizes my fingerprint almost
 instantly. I then tap and poke at the surface until I find a small image that
-represents both my library and a book store, where I can "buy books." Buying
+represents both my library and book store, where I can "buy books." Buying
 books does not, however, involve the actual ownership of physical objects.
 Rather, I agree to a licence that grants limited access to data, which the
-software then assembles into something resembling a book on the screen. I tap
+software then assembles into something resembling a book on screen. I tap
 again to begin reading. The screen dims to match room ambiance as it fills up
-with words. A passage on the first page appears underlined: a number of other
-readers in my social circle must have found it notable. My finger slides along
-the glass surface to turn a "page." The device emits a muffled rustle to
-reinforce the pretense of manipulating paper. The image curls ever so slightly
-as another "page" slides into view. My tiny library metaphor contains hundreds
-of such page metaphors.
+with words. A passage on the first page appears underlined: other readers in
+my social circle must have found it notable. I swipe across the glass surface
+to turn a "page." The device emits a muffled rustle to reinforce the pretense
+of manipulating paper. The image curls ever so slightly as another "page"
+slides into view. My tiny library metaphor contains hundreds of such page
+metaphors.
 
 Despite appearances, the electronic metaphor-making device on my desk has more
-in common with the smoke detector than it does with several paper volumes
-scattered across my desk. The electronic book and the smoke alarm contain
-printed circuit boards, capacitors, and resistors. Both draw electric current.
-Both require firmware updates and both are governed by codes, political and
-computational. The smoke alarm and the mobile phone connect to the internet.
-They communicate with remote data centers and with each other. And yet, I
-continue to read these devices as if they were familiar, immutable, and
-passive objects: just books. I think of them as intimate artifacts---friends
+in common with smoke detectors than it does with several paper volumes
+scattered on my desk. The electronic book and smoke alarm contain printed
+circuit boards, capacitors, and resistors. Both draw electric current. Both
+require firmware updates and both are governed by codes, political and
+computational. Smoke alarms and mobile phones connect to the internet. They
+communicate with remote data centers and with each other. And yet, I continue
+to "read" these devices as if they were familiar, immutable, and passive
+objects: just books. I think of them as intimate artifacts---friends
 even---wholly known to me, comforting, and warm. The electronic book is none
 of those things. Besides prose, it keeps my memories, pictures, words, sounds,
 and thoughts. It records my reading, sleeping, and consumption habits. It
@@ -51,30 +51,30 @@ dealer, my spy.
 
 *Plain Text* concerns the nature of digital inscription---the material trace
 that gives rise to textual phenomena, and, more broadly, to all cultural
-artifacts in which the computer mediates. We find ourselves today in an
+artifacts in which computers mediate. We find ourselves today in an
 unprecedented, since the Middle Ages, position of selective *asemiosis*: the
 loss of signification. Many contemporary texts---like poems inscribed into
 bacteria and encrypted software---exist simply beyond the reach of human
 senses.[^ln-dna] Other forms of writing are illegible in ways that prevent
 access or comprehension. Increasingly, we write not in the sense of making
-marks on paper but in simulation. The key press leaves a trace in computer
-memory, which then appears on the screen as its representation. There, the
-trace is visible but ephemeral. On disk, the mark endures in a form legible
-only to those who possess the specialized tools and the training necessary to
-decipher it. A vibrant discursive practice of textual exegesis---commentary,
-interpretation, dialog---is crucial to whatever political ideals that demand
-an engaged populace. Codes embody governance through explicit instruction. It
-stands to reason that to retain the civic potential for critique---to speak
-truth to power---one must be able to perceive its codification. Traditional
-literary theory must therefore connect to the material contexts of textual
-production which emanate from the fields of computer science and software
-engineering. Conversely, a tighter coupling with the critical tradition in the
-humanities can reveal the often occluded political implications of
-technological progress, which so often appears in the guise of the apolitical.
-To create a novel algorithm that predicts crime by analyzing one's reading
-habits, for example, is also to invite the dystopian possibility of thought
-policing, unless, that is, such algorithms remain legible, in public view, and
-under continual counter-scrutiny.
+marks on paper but in simulation. The key press leaves a lasting trace in
+computer memory, which then appears on screen redoubled and ephemeral. On
+disk, the mark endures in a form legible only to those who possess the
+specialized tools and training necessary to decipher it.
+
+Codes embody governance through explicit instruction. To retain a civic
+potential for critique, to speak truth to power, we must perceive the
+mechanisms of its codification. Critical theory cannot otherwise endure apart
+from material contexts of textual production, which today emanate from the
+fields of computer science and software engineering. Conversely, a tighter
+coupling with the critical tradition can reveal the often occluded political
+implications of technological progress. To create a novel algorithm that
+predicts crime by analyzing one's reading habits, for example, is also to
+invite the dystopian possibility of thought policing, unless, that is, such
+algorithms remain legible, in public view, and under continual
+counter-scrutiny. A vibrant discursive practice of textual exegesis is crucial
+for the preservation of whatever political ideals that demand a literate
+populace.
 
 [^ln-dna]: See @bok_xenotext_2011 and @bok_xenotext:_2015: "I have been
 striving to write a short verse about language and genetics, whereupon I use a
@@ -86,65 +86,97 @@ vacuum of outer space)."
 
 ## Thesis and Scope
 
-More narrowly, *Plain Text* tells a story of a major morphological shift
-affecting culture production in general and textuality in particular. If I
-were to interrupt someone in the process of writing something on a computer
-and ask---Where do these words reside?---I would likely receive several
-conflicting answers in response. In some sense, the words reside on the
-screen, where they appear to view. In another sense, they live somewhere
-within the machine, on remote and often hermeneutically sealed surfaces:
-silicone chips, hard drives, flash memory cards. In yet another sense, the
-visible sign is still further removed from the contexts of its production. The
+*Plain Text* is a response to a particular situation of a literary scholar
+encountering the field of software engineering. For a long stretch of my
+professional life, these two areas of activity remained separate. I worked at
+one and I studied the other. At the time, I simply did not think that code had
+much to do with poetry. Initially, my two selves---the scholar and the
+engineer---spoke different languages. Reconciling them was and continues to be
+a disconcerting process by which things dear and familiar to me, in both
+worlds, grew strange and unfamiliar, showing themselves to be sometimes less
+than, and sometimes more than I comfortably expected. Nothing could be assumed
+from the start. Field specific language, down to its foundations, had to be
+examined for hidden assumptions that prevented dialog. With time, I saw that
+code and poetry have much to do with one another. Writing this book has taught
+me to embrace the remaining incongruence.
+
+The idea for this book came in a moment of realization, after I was asked one
+of those seemingly naive but fundamental questions that can set research in
+motion down a long and winding path.
+
+A childhood friend who shares a love for reading asked why he could not lend
+me a copy of the novel that he recently purchased from a major online
+retailer.[^ln0-amazon] In my struggle to answer, I realized that some of my
+deepest intuitions about literature relied on assumptions firmly attached to
+print media. Despite my professional experience as a programmer and academic
+training in literary studies, I could not readily explain the mechanisms by
+which electromagnetic charges transformed into pixels and pixels into words.
+Where to begin? To recount the passage of digital text, one had to know
+something about chip architecture, operating systems, file permissions,
+networking, and encryption. I could describe parts of that ecosystem, but my
+knowledge was also riddled with unexamined gaps. It did not amount to a
+coherent story.
+
+Worse yet, it quickly became apparent that these technical details affect all
+higher-level interpretive activity. To read together---to form a shared
+understanding of the text---we had convene on the same page, which was
+difficult because of geographic restrictions. The text changed as it passed
+hands. I now had to draw on philology and sociology of literature to deal with
+textual variants, recensions, and authorship attribution. The digital text was
+more obviously entwined with its reception history: reader reviews and
+algorithmic recommendation engines. Despite the new copy it was marked and
+highlighted. It synchronized with other media like audio books and related
+television promotions. The work was pre-processed to privilege certain
+meanings and modes of comprehension.
+
+The task of "coming to terms" with these emergent contingencies entails an
+expansive research program, that could only be commenced here in part. The
+digital literary ecosystem is evolving rapidly. A historical approach to its
+development allows us to extrapolate its trajectory into the future.
+Crucially, the ecosystem is still in a nascent, formative state. Digital
+knowledge architectures have not yet congealed; they are still pliable. Their
+importance for our social institutions necessitate active commentary and
+experimentation, particularly by those readers most reliant on their eventual
+contours. Without it, we risk the dominion of what Langdon Winner has called
+"autonomous technology"---a condition by which adhoc complex systems begin to
+irrevocably determine our politics. "Modern people have filled the world with
+the most remarkable array of contrivances," Winner wrote. We are then
+surprised to find them resistant to change. "The human kind faces a woefully
+permanent bondage to the power of its own inventions," he concluded. And I
+hope, along with him, that it is still possible to "reconsider and
+reconstruct" those outcrops that in retrospect impoverish culture, to "learn
+and start again," and to retain the "prospect of liberation"
+[@winner_autonomous_1978, 335].
+
+[^ln0-amazon]: The retailer has since introduced a program that allows for
+limited sharing of materials, restricted by time and geography.
+
+To these ends, *Plain Text* tells a story of a major morphological shift
+affecting culture production in general and textuality in particular. Were I
+to interrupt a digital typist to ask---Where do these words reside?---I would
+likely receive several conflicting answers in response. In some sense, the
+words reside on screen, where they appear to view. In another sense, they live
+somewhere within the machine, on remote and hermeneutically sealed surfaces:
+silicone chips, hard drives, flash memory cards. Yet in another sense, visible
+signs are still further removed from the contexts of their production. The
 word is in the wires. It spreads across servers, routers, and data centers.
 One no longer reads or writes alone. What was once apparent now takes on a
-more complex shape, stretched between surfaces, across time and space. The
-book---this book, any book---gains a new structure. I do not mean the above
-figuratively. In the case of my writing words on a screen, using a keyboard,
-the text forms a kind of a live lattice---a multidimensional grid---which
-connects the tactile sense of the letter beneath my fingers to its optic and
-electromagnetic traces. All of these sensualities are present at once. They
-incorporate the totality of the synchronic text only in aggregate. I cannot
-consequently pass a note to the reader digitally in the same sense that one
-passes notes in class, on paper. It is impossible to give the entire structure
-over to another. My text is irrevocably intertwined with my material contexts;
-it literally gains another shape when recreated under system configurations
-not fully congruent with my own.
+more complex shape, stretched across planes and temporalities. The book---this
+book, any book---gains a new shape. Digital texts form a live lattice---a
+multidimensional grid---which connects the letter's tactile response, at one's
+fingertips, to its optic and electromagnetic traces. In aggregate, these
+laminates incorporate the scaffolding of synthetic inscription. I cannot
+consequently pass a digital note to another, in the same sense that one passes
+notes in class, on paper. It is impossible to give the entire structure over.
+Text is irrevocably intertwined with its stratified material contexts; it
+means---it *becomes*---something else when recreated under conditions not
+fully congruent to my own.
 
-Much of the contemporary anxiety about the intrusion of computational culture
-into the everyday points to this fundamental reshaping of the sign, without
-naming it. The physical fracture of the overall inscription leads to its
-multivalence. The lattice opens a depth between the words, where forces of
-capital and control intervene to monitor, monetize, censor, or
-correct.[^ln-capital]
-
-To come to terms with the novel conditions of text so fractured and refracted
-*Plain Text* enacts a displacement of vocabularies. It is a response to a
-particular situation of a literary scholar encountering the field of software
-engineering. For a long stretch of my professional life, these two areas of
-activity remained separate. I worked at one and I studied the other. At the
-time, I simply did not think that code had much to do with poetry. The idea
-for this book came to me in a moment of realization after I was asked one of
-those seemingly naive but fundamental questions that can set research in
-motion down a long and winding path. A childhood friend who loves books asked
-about the difference between text in print and text on the screen.  In my
-struggle to answer, I realized that some of my deepest assumptions about
-literature relied on the centuries-long stability of print media. Despite my
-professional experience as a programmer and academic training in literary
-studies, I could not readily explain the mechanisms by which keystrokes turned
-into pixels, and pixels into words. I could recount technical detail on some
-level, but my knowledge was riddled with unexamined gaps. It did not amount to
-a coherent story. I was, despite my best efforts, surrounded by magical
-lanterns that cast shadows of code and poetry.
-
-Initially, my two selves---the scholar and the engineer---spoke different
-languages. Reconciling them was and continues to be a disconcerting process by
-which things dear and familiar to me, in both worlds, grew strange and
-unfamiliar, showing themselves to be sometimes less than, and sometimes more
-than I comfortably expected. Nothing could be assumed from the start. Field
-specific language, down to its foundations, had to be examined for hidden
-assumptions that prevented dialog. With time, I saw that code and poetry have
-much to do with one another. Writing this book has taught me to embrace the
-incongruence.
+Much of contemporary anxiety about the intrusion of computational culture into
+the everyday can be traced to such fundamental reshaping of the sign. Its
+fracture leads to its multivalence. The lattice expands into the space between
+signs, where forces of capital and control intervene to monitor and
+monetize.[^ln-capital]
 
 Reflecting on the development of Morse Code in 1949 in the *Proceedings of the
 American Philosophical Society*, Frank Halstead mentioned the difficulty of
@@ -152,32 +184,20 @@ finding a home in either the arts or sciences for what he called "code
 development." "It is a matter somewhat related to the general art of
 cryptology," he wrote, "yet it is not wholly divorced from electrical
 engineering nor from general philology" [@halstead_genesis_1949, 456]. As
-Halstead anticipated, research in the field of computational culture has led
-me to a rich multidisciplinary archive of materials from the history of
-literary theory, semiotics, telegraphy, and electrical engineering from the
-middle of the nineteenth to the end of the twentieth century. That archive
-includes documents from the proceedings of the Association for Computing
-Machinery (ACM) and the US Patent and Trademark Office, from Bell Labs and
-early Soviet publishing houses that heralded the advance of formalism, from
-studies on animal communication behavior, to Unix manuals, to textbooks on
-semiotics, and to foundational texts in the philosophy of aesthetics and
-literary theory.
+Halstead anticipated, research into codification has led me to a rich
+multidisciplinary archive of materials from the history of literary theory,
+semiotics, telegraphy, and electrical engineering from the middle of the
+nineteenth to the end of the twentieth century. That archive includes patents
+and technical manuals, formalist manifestos, studies of animal communication,
+human-computer interaction textbooks, as well as foundational texts in
+aesthetics and literary theory.
 
 I deploy the archive to argue that extant theories of interpretation evolved
 under conditions tied to static print media. By contrast, digital text changes
 dynamically to suit its reader, political context, and geography.
-Consequently, I advocate for the development of computational poetics: a
+Consequently, I advocate for the development of *computational poetics*: a
 strategy of interpretation capable of reaching past surface content to reveal
-platforms and infrastructures that stage the construction of meaning. A
-computational poetics differentiates within the apparent unity of digital
-text. In the chapters that follow, I will trace a figure and describe its
-anatomy. If the physics of word have changed---qualitatively, materially---I
-would like to ask: How? and How do these changes affect the diversity of
-interpretive practices? I draw on the annals of literary theory and software
-engineering to buttress the historical bases for a possible answer. In the
-process, I argue that even our most basic practices of intellectual production
-are profoundly alienated from their physical contexts. The object of study is
-the nature of that alienation.
+platforms and infrastructures that stage the construction of meaning.
 
 I appeal to the idea of "plain text" in the title of this book to signal an
 affinity with a particular mode of computational meaning-making. Plain text
@@ -191,7 +211,7 @@ text transcription which is both "faithful to the text of its source" and is
 Combining these two traditions, I mean ultimately to build a case for a kind
 of a systematic minimalism when it comes to our use of computers---a
 minimalism that privileges access to source materials, ensuring legibility and
-comprehension.  I do so in contrast with other available modes of
+comprehension. I do so in contrast with other available modes of
 human-computer interaction, which instead privilege maximizing system-centric
 ideals like efficiency, speed, performance, or security.
 
@@ -201,55 +221,45 @@ all contemporary documents carry with them a layer of hidden information.
 Originally used for typesetting, that layer affects more than innocuous
 document attributes like "font size" or "line spacing." Increasingly, devices
 that mediate literary activity also embody governing structures. For example,
-the Digital Millennium Copyright act, passed in the United States in 1996, goes
-beyond written injunction to require in some cases the management of digital
-rights (DRM) at the level of hardware. An electronic book governed by DRM may
-subsequently prevent the reader from copying or sharing stored content, even
-for the purposes of academic study.[^ln-dmca] In some situations, it may report
-the reader's activity to the authorities. Attempts to silence print through
-book burning or censorship are viscerally apparent.  Unlike these, the dominion
-of computation proceeds by clandestine means.  Simulated text preserves the
-outward appearance of print, while concealing the material specifics of digital
-production and distribution. The challenge of *Plain Text* will be in the
-description of such emerging but often occluded technological possibilities.
+the Digital Millennium Copyright act, passed in the United States in 1996,
+goes beyond written injunction to require in some cases the management of
+digital rights (DRM) at the level of hardware. An electronic book governed by
+DRM may subsequently prevent the reader from copying or sharing stored
+content, even for the purposes of academic study.[^ln-dmca] In some
+situations, it may report the reader's activity to the authorities. Attempts
+to silence print through book burning or censorship are viscerally apparent.
+Unlike these, the dominion of computation proceeds by clandestine means.
+Textual composites preserve the outward appearance of print, while concealing
+the material specifics of their production and distribution. The challenge of
+*Plain Text* will be in the description of such emerging but often occluded
+technological possibilities.
 
 ## Theory
 ### Displacement
 
-*Plain Text* stems from a productive tension between estrangement and
-habituation. In the background of a historical and materialist critique of
-computational media there lies also an existential argument about inhabiting
-media. I mean inhabiting in the way one lives with and within one's own
-bookshelves, closets, hard drives, and archives. The dialectics of media
-displacement constitute a method of making sense out of the often
-contradictory logics of the virtual object. We are confronted by spaces that
-are not spaces, or rather ersatz expanses that dissimulate: glass that looks
-like paper, liquid crystal that flows to imitate ink. By such means, the
-electronic book delineates a qualitatively new grounds for textual
-inscription. Because *Plain Text* deals with the structure of intimate space,
-it is a project theoretically contiguous with the philosophical poetics of
-Gaston Bachelard and Henri Lefebvre, extended into the realm of everyday
-computation [@lefebvre_production_1991; @bachelard_poetics_1994].
+*Plain Text* stems from a productive tension between settlement and
+displacement.
 
-Writing surfaces multiply and establish themselves firmly among the
-furnishings of home, body, and mind. Think here of commercial products that
-occupy a central place in the living room: devices that listen, talk, and
-answer questions, smart personal assistants, pacemakers and brain implants,
-portable gadgets close to head and heart. One can call them computers, but
-what is a computer but a machine for the reading and writing---input and
-output---of information? The smart toaster and the electronic pacemaker alike
-are distinct from their dumb mechanical counterparts in that they give grounds
-to inscription. A contest for that space---the right to access and
-ownership---is therefore crucial to the future of a literate humanities. I do
-not mean to suggest that everyone needs to learn how to code, although that
-would not be a bad thing. I mean to view computational culture apart from its
-instrumental uses, in the context of literary and civic thought. I am
-concerned here with the preservation of the basic possibility to form
-discourse---to read and write---along surfaces that are not available for
-immediate scrutiny. Poetics---the affordance of literary space---physically
-limits the possibility of interpretation. A sign invisible or rendered white
-on a white background is ultimately illegible. It never makes it into the
-hermeneutic circuit.
+I mean settlement in the way one lives among and within one's own notebooks,
+bookshelves, and archives. Smart toasters and electronic heart valves are
+distinct from their dumb mechanical counterparts in that they similarly give
+grounds to inscription. Computers are ultimately machines that need to perform
+reading and writing operations at scale. To support that activity, they
+necessarily found vast, in terms of information capacity, expanses.
+Commercial, private, and public interests rush in to colonize newly opened
+territories. Boundaries are drawn. Areas of exclusion are created, even in our
+most intimate spaces: bedsides, living rooms, kitchens, the heart and the
+mind: a diabetic is not able to modify her insulin pump software; the smart
+television contains proprietary firmware, controlled remotely and without
+explicit consent. The struggle is not one for virtual, but actual space.
+
+These territories are however remote, in that they unfold at quantum scale.
+Individual not privy to the mechanics of micromolecular writing are in peril
+of unprecedented dispossession. I am concerned here with our basic ability to
+shape discourse---to read and write---along surfaces that are not available
+for immediate scrutiny. Poetics---the affordance of literary
+space---physically limits the possibility of interpretation. An illegible sign
+is one that never enters the hermeneutic circuit.
 
 In making the case for a computational poetics, I am helped by recent
 scholarship in the historically- and philosophically-inflected studies of
@@ -260,7 +270,7 @@ straight-ahead structuralisms of Roman Jakobson or Jonathan Culler. I am
 borrowing rather from a more peripheral tradition represented best by third
 culture thinkers like Viktor Shklovsky and Vilém Flusser, consummate
 immigrants both, who extracted a methodology out of the fabric of their
-migration.
+displacement.
 
 Flusser in particular considered the condition of unease that comes with
 migration, both physical and mental, to be a kind of information processing.
@@ -270,15 +280,15 @@ transplant into Silicon Valley from a strict literary education, and now a
 lapsed engineer among humanists. These vantage points offer a singular view
 onto the material conditions of contemporary intellectual life.
 
-Both Shklovsky and Flusser wrote lucidly about the dynamics of habituation.
+Both Shklovsky and Flusser wrote lucidly about the dynamics of settlement.
 Their work sheds light onto the irresistible compromise at the core of all
 technology---a compromise by which we trade critical understanding for
 comfort. Habit covers the various homes we make for ourselves in the world
 "like a fluffy blanket," Flusser wrote: "[i]t smoothes the sharp edges of all
 phenomena that it covers, so that I no longer bump against them, but I am able
 to make use of them blindly." When we sit at our desks, for example, we fail
-to see the "papers and the books that are lying all about." We are used to
-them being there [@flusser_freedom_2003, 13; @finger_vilem_2011, 132].
+to see "papers and books that are lying all about." We are used to them being
+there as they are [@flusser_freedom_2003, 13; @finger_vilem_2011, 132].
 Consequently, we do not parse them as information. Like water that surrounds
 fish, the habituated thing passes into the background of experience. Mediums
 become media. They disappear into the background, cease producing meaning,
@@ -390,8 +400,8 @@ displacement that follows natural disaster, war, poverty, or political
 instability. Yet, our systematic reluctance to take on even those small
 intellectual discomforts that could lead to acts of localized dissent and
 disobedience---to write using free software, to build open archives, to share
-memories in private---cannot be said to exist apart from the complex systems
-that perpetuate inequity and violence globally. The emotional affirmation that
+memories in private---cannot be said to exist outside the complex systems that
+perpetuate inequity and violence globally. The emotional affirmation that
 accompanies exuberant social networking brings with it governing structures
 evoked in the name of law enforcement and national security. Comfort and
 security constitute the same ill-conceived bargain that leads to critical
@@ -438,7 +448,7 @@ In *Plain Text*, I model the reciprocal movement to "making strange" on the
 diverse practices of reverse engineering. Similar in method to what Matthew
 Kirschenbaum calls "forensic argumentation," reverse engineering recalls the
 formalist strategy of experiencing the making of the thing through careful,
-case study-based reconstructions of textual mechanism.[^ln0-reverse] The
+case study-based reconstructions of textual artifact.[^ln0-reverse] The
 function of a case study in an engineer's education, as Henry Petroski
 explains in his *Invention by Design*, is to understand the ways by which one
 gets "from thought to thing" [@petroski_invention_1996, 3-7]. From thought to
@@ -550,13 +560,13 @@ kind that happens when the writer presses the delete key, does not necessarily
 entail the corresponding erasure of content on the disk. The erased word could
 persist and even multiply across other storage drives and devices.
 
-In this book, I will argue that some of the higher-level political afflictions
-of the contemporary public sphere---mass surveillance and online censorship,
-for example---relate to our failure as readers and writers to come to terms
-with the changing conditions of digital textuality. A society that cares about
-the long-term preservation of complex discursive formations like free speech,
-privacy, or online deliberation, would do well to take heed of the textual
-building blocks at their foundation. The structure of discursive
+In this book, I will argue that some of contemporary public sphere's
+ideological afflictions---the acquiescence to routine surveillance and
+censorship, for example---relate to our failure as readers and writers to come
+to terms with the changing material conditions of digital text. A society that
+cares about the long-term preservation of complex discursive formations like
+free speech, privacy, or online deliberation, would do well to take heed of
+the textual building blocks at their foundation. The structure of discursive
 formation---documents and narratives---has long been at the center of both
 computer science and literary theory. Using primary sources from both
 disciplines, *Plain Text* uncovers the shared history of literary machines,
@@ -567,10 +577,9 @@ to its computational realities.
 latent in the machinery of contemporary computing. Just as literary
 scholarship cannot survive without awareness of its computational present, the
 design of computational platforms cannot advance without greater awareness of
-its cultural contexts. Much is at stake in the material affordances of the
-literary artifact.[^ln0-levine] The political struggle for meaning-making, the
-very opportunity to engage in the act of interpretation, thus begins and ends
-with the material affordances of the epistemic artifact.
+its cultural contexts. The political struggle for meaning-making, the very
+opportunity to engage in the act of interpretation, thus begins and ends with
+the material affordances of the epistemic artifact.[^ln0-levine] 
 
 [^ln0-levine]: Affordances, as Caroline Levine explains, "describe the
 potential uses or actions latent in materials and designs." For example,
@@ -596,9 +605,8 @@ and barriers to its distribution disappear from view. For many readers,
 technologies that support reading, writing, and interpretation further pass
 from tools to fetish. No longer comprehensible by the way of pen or printing
 press we imbue them with magical powers. Thus we exist in the state of
-profound alienation from the material conditions closest to our mental
-activity. We read electronic books as they read us, without depth or
-comprehension.
+profound alienation from mechanisms closest to our mental activity. We read
+electronic books as they read us, without depth or comprehension.
 
 The future of reading and writing is inexorably intertwined with the
 development of computer science and software engineering. Even if you are not
@@ -689,22 +697,22 @@ another formatting in the economy of survival, and yet another controls
 distribution in the market economy.
 
 Distinctions of labor will remain in place as long as the conversation about
-ideas like "form" and "content" persists in the abstract, apart from their
-material contexts. Similarly, a materialist critique cannot achieve its stated
-aims without purchase on the material world. Contemporary knowledge workers
-stare into rectangular black boxes for a considerable part of their days,
-suspecting, in the absence of other feedback, that their gaze is met in bad
-faith. Connecting theories of meaning-making to their practice offers a way
-out of the conundrum. Bad faith identifies a misalignment between thought and
-action.[^ln-sartre] The solution to connect "meaning" with "operational
-meaning" belongs to a species of pragmatism. William James articulated the
-approach concisely when he wrote that "reality is seen to be grounded in a
-perfect jungle of concrete expediencies."[@james_pragmatisms_1907 233] For
-James and other pragmatists, truth could not exist in the abstract alone. It
-also entailed causes and effects that operate in the world.[^ln-pragma-truth]
-In his essay "Pragmatism's Conception of Truth," James asked: "How will the
-truth be realized? [...] [W]hat concrete difference will its being true make
-in anyone's actual life? [...] What experiences will be different from those
+ideas like "form" and "content" persists in the abstract. Similarly, a
+materialist critique cannot achieve its stated aims without purchase on the
+material world. Contemporary knowledge workers stare into rectangular black
+boxes for a considerable part of their days, suspecting, in the absence of
+other feedback, that their gaze is met in bad faith. Connecting theories of
+meaning-making to their practice offers a way out of the conundrum. Bad faith
+identifies a misalignment between thought and action.[^ln-sartre] The solution
+to connect "meaning" with "operational meaning" belongs to a species of
+pragmatism. William James articulated the approach concisely when he wrote
+that "reality is seen to be grounded in a perfect jungle of concrete
+expediencies."[@james_pragmatisms_1907 233] For James and other pragmatists,
+truth could not exist in the abstract alone. It also entailed causes and
+effects that operate in the world.[^ln-pragma-truth] In his essay
+"Pragmatism's Conception of Truth," James asked: "How will the truth be
+realized? [...] [W]hat concrete difference will its being true make in
+anyone's actual life? [...] What experiences will be different from those
 which would obtain if the belief were false?"[@james_pragmatisms_1907 200]
 Frank Ramsey, the young British philosopher close to Ludwig Wittgenstein,
 would later write in a similar vein about meaning "defined by reference to the
@@ -719,8 +727,8 @@ possibly be reduced to a number of essential, structural features. Rather, to
 borrow from Wittgenstein's *Philosophic Investigations*, categories denote a
 set of related practices that may or may not share in any given familial
 characteristic.[^ln-witt] In our case, imagine a tree diagram where the
-tangled branches of computation and textuality intersect and diverge in
-beautiful yet arbitrary ways.
+branches of computation and textuality intersect and diverge in tangled and
+convoluted ways.
 
 In an approach to *doing* theory, *Plain Text* joins the experimental turn
 steering the academy toward critical practice, especially in fields
@@ -860,7 +868,7 @@ The **fourth chapter** charts the emergence of screen reading. The screen
 appears to restore a measure of visibility lost in electromagnetic
 inscription, with one major side-effect. The screen cannot guarantee fidelity
 between the word visible and the word archived. The inscription shown can only
-attain a contingent correlation to the inscription archived. Screen reading
+attain a arbitrary correlation to the inscription archived. Screen reading
 further happens on screens that refresh themselves at a rate of around 60
 cycles per second (Hertz). The digital word is technically an animation; it
 moves even as it appears to stand still. This property of the medium attunes

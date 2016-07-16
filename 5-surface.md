@@ -523,7 +523,7 @@ cards and ticker tape presented for readers, these were were soon complected
 by the advent of another medium, even more mute and inscrutable, the magnetic
 tape.
 
-## B. Magnetic Laminates
+## B. Laminates
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
@@ -1238,7 +1238,7 @@ In decoupling inputs from outputs, programmable media injects arbitrary
 intervals of time and space into document architecture. Forces of capital and
 control occupy the void as the sign acquires new dimensions and capabilities
 for automation. Code and codex subsequently sink beneath the matte surface of
-a laminate storage medium. Screens purport to restore a sense of lost
+a synthetic storage medium. Screens purport to restore a sense of lost
 immediacy: of the kind felt upon contact between pen nib and paper, as the
 capillary action of cellulose conveys ink into its shallow conduit. Screens
 are meant to open a window onto the unfamiliar physicalities of
