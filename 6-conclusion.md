@@ -1,5 +1,7 @@
 # Conclusion: Human Grounds for Computation
 
+## Space
+
 The politics of inscription are not simply a matter for academic discussion.
 In the time that it took me to finish this book, a coalition of US "data
 dissidents" won a temporary exemption from the Digital Millennium Copyright
@@ -90,7 +92,7 @@ enacted on page or pacemaker. Whatever their politics, literary scholars,
 philosophers, historians, must negotiate the tactics of reading alongside law
 makers and software engineers.
 
-***
+## Time
 
 I am tempted to believe, like others before me, that I have enacted here
 something akin to "systems phenomenology"---a glimpse into the assemblage of
@@ -109,15 +111,15 @@ apparatus.
 Uexküll was also a pioneer of systems theory, advancing an organism-based
 model of meaning making. An oak tree's canopy, he wrote, acts in unison with
 rain to capture and distribute liquid down its roots. Capturing and
-distributing liquid to the roots constituted, according his model, the
+distributing liquid to the roots established, according his model, the
 "meaning" of the oak--rain circuit. Meaning in that sense is a property of the
 system, not the subject. It emerges from environmental interaction. A "circuit
 of meaning" is thereby created between the organism and its surroundings.
 Neither make sense in isolation. The subject and object are brought into
 harmony:
 
-> If the flower were not bee-like
-> If the bee were not flower-like
+> If the flower were not bee-like  
+> If the bee were not flower-like  
 > The harmony would never succeed [@uexkull_foray_2010, 198].
 
 Post-humanism privileges moments of such alien subjectivity because they
@@ -139,7 +141,7 @@ to the most grandiose point of view possible.
 In his essay on the subjective experience of bats, the philosopher Thomas
 Nagel argued against such presumption. There must be something, he wrote,
 about the experience of being a bat *for* a bat that remains inaccessible to
-human description [nagel_what_1974, 439]. To accept the complex systems
+human description [@nagel_what_1974, 439]. To accept the complex systems
 worldview is therefore to acknowledge the limits to human imagination. An
 organ cannot speak for the organism. To encounter bats---dogs, trees, and
 machines---for what they are, from the human perspective is, in that light, to
@@ -184,22 +186,24 @@ other. To encounter one's own "pre-ocular" image is to inquire into the nature
 of mediation.
 
 I return, then, to the subject of time, continually in the background of this
-book. Popular reception of digital technology belies a deep sense of anxiety
-about the pace it sets for our existence. Throughout, one observes the
-delicate negotiation of synchronicity between human and machine. A complex
-chain of transfiguration---encoding and decoding---connects incongruent
-media---wetware and hardware. Homeostasis is found at some arbitrary point,
-incidentally attached to human biology in a state of technical augmentation.
-The question of "what constitutes a moment," when watching television or
-reading a book for example, can better be rephrased into what it *should*
-constitute. The tick lies in wait for its next warm meal for decades (Uexküll
+book. The tick lies in wait for its next warm meal for decades (Uexküll
 reports up to 18 years). Species time advances only by such remarkable events.
 Where it seemed objective and universal, we now see it relative to the subject
-and its environment [@uexkull_foray_2010, 52]. Digital environments constitute
-the grounds for all higher-level interpretive activity---from reading poetry
-to debugging code or diagnosing a patient. From these grounds it becomes
-possible to advance a computational poetics, the study of temporal
-arrangement: prosody, harmony, meter, cadence, and syncopation.
+and its environment [@uexkull_foray_2010, 52]. Popular reception of digital
+technology belies a deep sense of anxiety about the pace it sets for our
+existence. Throughout, one observes the delicate negotiation of synchronicity
+between human and machine. A complex chain of transfiguration---encoding and
+decoding---connects incongruent media---wetware and hardware. Homeostasis is
+found at some arbitrary point, incidentally attached to human biology in a
+state of technical augmentation. The resulting cyborg can either acquiesce to
+contingent timelines or project its own. The question of "what constitutes a
+moment," when watching television or reading a book, can finally be better
+rephrased into what it *should* constitute.
+
+Integrated crystal oscillators pace all forms of digital life: poetry, drone,
+and heart implant. Against this rhythm, we advance a computational poetics,
+the study of temporal arrangements: prosody, meter, enjambment, dissonance, and
+syncopation.
 
 [^ln3-umwelten]: See for example @agamben_open:_2003, 39-49; @hayles_print_2004,
 16-17.

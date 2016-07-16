@@ -196,9 +196,11 @@ of metaphors like "profits are going up" and "moving on up," for example
 cognitive metaphor theory all figurative tropes of comparison---hyperbole,
 metonymy, synecdoche, or simile---fall under the category of metaphor.
 
-!["An exemplary interface for viewing a three dimensional book [@card_methods_2006, 3]."](images/book-metaphor.png)
+!["An exemplary interface for viewing a three dimensional book."
+[@card_methods_2006, 3]](images/book-metaphor.png)
 
-!["Alternate display techniques for information about a big book [@card_methods_2006,4]."](images/book-3d.png)
+!["Alternate display techniques for information about a big book."
+[@card_methods_2006,4]](images/book-3d.png)
 
 In the cognitive view, the metaphor performs a number of "conventional
 mappings from one domain to another" [@lakoff_contemporary_1998, 239]. Lakoff
@@ -247,7 +249,7 @@ the design of computing systems as follows:
 > Professional programmers might learn a new system X by metaphorizing at least
 initially from what they already know about system Y. More casual or naive
 end-users might rely on metaphors drawn from more distant knowledge domains,
-e.g. on what they have already learned about electric typewriters. [...] The
+e.g. on what they have already learned about electric typewriters [...] The
 implications of this proposal are simple and direct. If people employ metaphors
 in learning about computing systems, the designers of those systems should
 anticipate and support likely metaphorical constructions to increase the ease

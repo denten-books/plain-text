@@ -561,7 +561,7 @@ phenomenon---in our case, communication).
 
 [^ln5-underwater]: See @starosielski_undersea_2015.
 
-## The Soap Opera Effect
+## Soap Opera Effect
 
 Consider another case study. Modern televisions began shipping with a feature
 called "Motion-Compensated Frame Interpolation" (MCFI) in 2010. It caused some
@@ -1177,7 +1177,7 @@ ornamental stability of document format. This does not mean that we should not
 use Adobe Acrobat files, only that we must, in all cases, be intellectually
 invested in the compromises involved.
 
-Technology does not determine the literary space: it has only the potential to
+Technology does not determine literature: it has only the potential to
 hide implicit mechanisms of machine control, or, to offer possibilities for
 transformation into other forms of textuality. Loosely coupled to its material
 contexts, text can continue its relentless drive from matter to idea and into

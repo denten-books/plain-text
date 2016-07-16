@@ -216,8 +216,8 @@ in 1978 in his influential *Autonomous Technology* [@winner_autonomous_1978,
 4].
 
 !["Technology" and "technique," the relative frequency of occurrence in the
-Google Books ngram corpus
-[@michel_quantitative_2011].](images/technology_chart.png)
+Google Books n-gram corpus [@michel_quantitative_2011]. Illustration adapted by Emily
+Fuhrman.](images/technology_chart.png)
 
 Seen in this light, the pre-WWII concern with literary technique anticipates
 the post-war turn towards technology as a field of cultural analysis. Before
@@ -278,7 +278,7 @@ through handicraft. In his "Art as Device," Shklovsky wrote:
 > The work of poetic schools amounts to the aggregation and the discovery of
 > new devices/techniques [*priem*] for the arrangement and the processing of
 > linguistic material, and, in particular, more so with the rearrangement of
-> figure [*obraz*] rather than with its creation" [@shklovksy_poetika_1919,
+> figure [*obraz*] rather than with its creation [@shklovksy_poetika_1919,
 > 102].
 
 Influenced by the work of Herbert Spencer, the formalists imagined language to
@@ -700,15 +700,14 @@ the structural accord between something internal and external.
 Wittgenstein takes up the question of interpretation again in his *Brown
 Notebook.* He defines reading mechanically, as an activity devoid of meaning
 which involves "translating script into sounds," "writing according to
-dictation," or "copying in writing a page of print" [@wittgenstein_blue_1965,
-119]. What happens when a naive child reads a newspaper? Wittgenstein asks,
-echoing Kuhlman and Descartes. The child's eyes, he answers, "glide along the
-printed words, he pronounces them aloud or to himself," but "other words he
-pronounces after having seen their first few letters only, others again he
-reads out letter by letter" [@wittgenstein_blue_1965, 119]. Children act as
-"reading machines" when they pay no attention to what they read. A child reads
-"faultlessly like a reliable machine," Wittgenstein repeats, emphasising the
-mechanical property of colloquially "mechanistic" reading
+dictation," or "copying in writing a page of print." What happens when a naive
+child reads a newspaper? Wittgenstein asks, echoing Kuhlman and Descartes. The
+child's eyes, he answers, "glide along the printed words, he pronounces them
+aloud or to himself," but "other words he pronounces after having seen their
+first few letters only, others again he reads out letter by letter." Children
+act as "reading machines" when they pay no attention to what they read. A
+child reads "faultlessly like a reliable machine," Wittgenstein repeats,
+emphasising the mechanical property of colloquially "mechanistic" reading
 [@wittgenstein_blue_1965, 119]. Another hypothetical child merely pretends to
 read. It guesses at the words and on occasion repeats things "by heart,"
 without actually seeing them on the page [@wittgenstein_blue_1965, 121-22].

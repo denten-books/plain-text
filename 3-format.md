@@ -141,7 +141,8 @@ the screen: paragraphs, pages, files, and folders. These resemble their paper
 counterparts, but they represent other, less familiar and nonequivalent
 ordering structures on disk.
 
-![Data structures in the brain, on a page, on disk.](images/forms.png)
+![Data structures in the brain, on a page, on disk. Image adapted by Emily
+Fuhrman.](images/forms.png)
 
 Formats mediate between data structures, transforming one into the other
 according to predefined rules. Mental image, information stored in the head,
@@ -1160,7 +1161,7 @@ reading a newspaper online.[^ln3-osi] It includes, among others:
 
 - the Application Layer, concerned with the semantics of "all services
   directly comprehensible to the user,"
-- the Presentation Layer, which defines the syntax for the "representation and 
+- the Presentation Layer, which defines the syntax for the "representation and
   manipulation" of data to be transferred, and
 - the Physical Layer, which provides "mechanical, electrical, functional, and
   procedural" characteristics of communication.[^ln3-layers]

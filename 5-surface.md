@@ -39,16 +39,17 @@ also rightly locating properties of digital inscription, at the site of its
 archival immanence. The two schools of thought disagree because they speak
 neither of the same phenomenon nor at the same site. The former group
 highlights ephemeral, transcendent qualities of the projected word. The latter
-foregrounds the "uniquely indelible nature of magnetic storage," "drives, tracks, and disks," "fundamental
-physical support," and "material substrates of computing"
-[[@kirschenbaum_mechanisms:_2008, 51; @drucker_performative_2013, para. 2]. Screen and hard drive partition the sign between
-surface and depth, projection and archive. At the site of projection one
-speaks of texts that are---I have kept a list of adjectives when reviewing the
-literature---*ephemeral*, *shimmering*, *electric*, *flimsy*, *contingent*,
-*malleable*, *impermanent*, *flowing*, *transcendent*, *ghostly*, and
-*radiant*. At the archival site, scholars describe inscription as *enduring*,
-*solid*, *persistent*, *permanent*, *indelible*, *hard*, *immanent*,
-*lasting*, *palpable*, and *concrete*.
+foregrounds the "uniquely indelible nature of magnetic storage," "drives,
+tracks, and disks," "fundamental physical support," and "material substrates
+of computing" [@kirschenbaum_mechanisms:_2008, 51;
+@drucker_performative_2013, para. 2]. Screen and hard drive partition the sign
+between surface and depth, projection and archive. At the site of projection
+one speaks of texts that are---I have kept a list of adjectives when reviewing
+the literature---*ephemeral*, *shimmering*, *electric*, *flimsy*,
+*contingent*, *malleable*, *impermanent*, *flowing*, *transcendent*,
+*ghostly*, and *radiant*. At the archival site, scholars describe inscription
+as *enduring*, *solid*, *persistent*, *permanent*, *indelible*, *hard*,
+*immanent*, *lasting*, *palpable*, and *concrete*.
 
 The seeming immateriality of digital media has real-world effects: the costs
 of replication plummet, for example. Computational text can be copied
@@ -100,8 +101,8 @@ stages, which I summarize here and expand upon later.
 
 First, with the advance of telecommunications, we observe an emerging divide
 between human-readable text and machine-readable code. Removable storage media
-like ticker tape and punch cards constituted a machine instruction set, meant
-to actuate mechanisms which in turn produced human-legible inscriptions.
+like ticker tape and punch cards embodied a machine instruction set, meant to
+actuate mechanisms which in turn produced human-legible inscriptions.
 Unintelligible (to humans without special training) control codes "driving"
 the machine were thereby mixed with plain text, the content of communication.
 Inscription split between sites of storage, which archives an expanded machine
@@ -118,10 +119,10 @@ electromagnetic inscription situate it, in practice, beyond human sense.
 
 Finally, the appearance of Cathode Ray Tube (CRT) displays in the late 1960s
 restored a measure of legibility lost to magnetic storage media. The sign
-reemerged on the screen. Crucially, it now constituted a simulacrum of
-archived inscription. Typing a word on keyboard produced one sort of a
-structure on tape or disk and another on screen. The two relate contingently,
-without necessary equivalence. The lay reader has no means to ensure the
+reemerged on the screen. Crucially, it now framed a simulacrum of archived
+inscription. Typing a word on keyboard produced one sort of a structure on
+tape or disk and another on screen. The two relate contingently, without
+necessary equivalence. The lay reader has no means to ensure the
 correspondence between visible trace and stored mark. An opaque "black box" of
 automated word "processing"---rules for transmediation---intercede between
 reading and writing.
@@ -601,8 +602,8 @@ Fankhauser added that:
 > will be to the electrically transmitted word. [...] As printing spread
 > learning and civilization among the peoples of the earth and influenced
 > knowledge and intercourse among men, so I believe the telegraphone will
-> influence and spread electrical communication among men"
-> [@fankhauser_telegraphone_1909, 40].
+> influence and spread electrical communication among men."
+> [@fankhauser_telegraphone_1909, 40]
 
 In that speech, Fankhauser also lamented the "evanescen[ce]" of telegraph and
 telephone communications. The telephone, he rued, fails to preserve "an
@@ -915,8 +916,8 @@ a new approach to the printing process in this evolution," he wrote. He
 concluded by heralding the IBM Composer era, in which people once again write
 books "without the assistance of specialists" [@frutiger_ibm_1968, 10].
 Marketing language notwithstanding, the separation of the sign from its
-immediate material contexts constituted a major milestone in the history of
-writing and textuality.
+immediate material contexts is a major milestone in the history of writing and
+textuality.
 
 The move to magnetic and later solid state storage media would have tremendous
 social and political consequences for the republic of letters. Magnetic
