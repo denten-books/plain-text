@@ -39,7 +39,7 @@ scattered on my desk. The electronic book and smoke alarm contain printed
 circuit boards, capacitors, and resistors. Both draw electric current. Both
 require firmware updates and both are governed by codes, political and
 computational. Smoke alarms and mobile phones connect to the internet. They
-communicate with remote data centers and with each other. And yet, I continue
+communicate with distant data centers and with each other. And yet, I continue
 to "read" these devices as if they were familiar, immutable, and passive
 objects: just books. I think of them as intimate artifacts---friends
 even---wholly known to me, comforting, and warm. The electronic book is none
@@ -120,13 +120,13 @@ coherent story.
 Worse yet, it quickly became apparent that these technical details affect all
 higher-level interpretive activity. To read together---to form a shared
 understanding of the text---we had convene on the same page, which was
-difficult because of geographic restrictions. The text changed as it passed
-hands. I now had to draw on philology and sociology of literature to deal with
-textual variants, recensions, and authorship attribution. The digital text was
-more obviously entwined with its reception history: reader reviews and
-algorithmic recommendation engines. Despite the new copy it was marked and
-highlighted. It synchronized with other media like audio books and related
-television promotions. The work was pre-processed to privilege certain
+difficult because of imposed geographic restrictions. The text changed as it
+passed hands. I now had to draw on philology and sociology of literature to
+deal with textual variants, recensions, and authorship attribution. The
+digital text was more obviously entwined with its reception history: reader
+reviews and algorithmic recommendation engines. Despite the new copy it was
+marked and highlighted. It synchronized with other media like audio books and
+related television promotions. The work was pre-processed to privilege certain
 meanings and modes of comprehension.
 
 The task of "coming to terms" with these emergent contingencies entails an
@@ -197,7 +197,10 @@ under conditions tied to static print media. By contrast, digital text changes
 dynamically to suit its reader, political context, and geography.
 Consequently, I advocate for the development of *computational poetics*: a
 strategy of interpretation capable of reaching past surface content to reveal
-platforms and infrastructures that stage the construction of meaning.
+platforms and infrastructures that stage the construction of meaning. Where
+"distant reading" and cultural analytics perceive patterns across large-scale
+corpora, computational poetics breaks textuality down into its minute,
+microscopic even, constituent components.
 
 I appeal to the idea of "plain text" in the title of this book to signal an
 affinity with a particular mode of computational meaning-making. Plain text
@@ -230,14 +233,49 @@ situations, it may report the reader's activity to the authorities. Attempts
 to silence print through book burning or censorship are viscerally apparent.
 Unlike these, the dominion of computation proceeds by clandestine means.
 Textual composites preserve the outward appearance of print, while concealing
-the material specifics of their production and distribution. The challenge of
-*Plain Text* will be in the description of such emerging but often occluded
-technological possibilities.
+the material specifics of their production and distribution.
+
+I am hence particularly aware that the history of digital text reflects the
+legacy of European and later North American colonialism. The treaties that
+negotiated early character encodings initially did so in the dominant
+diplomatic languages, French and English
+[@international_telegraph_union_documents_1865]. More modern character
+encodings like the UTF-8, have since attempted to rectify historical
+inequities. The challenge and consequence of the book will be in exposing such
+naturalized ideological contingencies. That is not to say that epistemic
+things, our phones and computers, can ever become wholly known or fully
+transparent. But neither should they remain out of reach. We must insist on
+dragging them into a dialectic, by which ideals reify and align with specific
+technological commitments.
+
+It is easy to forget the blunt effectiveness of physical control in the global
+North-west. Books that are burned or redacted cannot be read at all.
+Elsewhere, inequities of access to knowledge compel readers to print their own
+books and build their own libraries. Witness the so-called "shadow libraries"
+of Eastern Europe and Central Asia, the street book vendors of India and
+Pakistan, and the gray market presses of Nigeria arising from the country's
+"book famine"[@mahmood_copyright_2005; @okiy_photocopying_2005;
+@liang_piracy_2009; @bodo_short_2014; @nkiko_book_2014; @_elsevier_2015]. More
+than mere piracy, such *samizdat*-like practices preserve the literary sphere
+[@tenen_book_2014]. Informal book exchange networks create reading publics
+that own the means of textual production and dissemination. Under duress,
+readers build homemade knowledge infrastructures: they duplicate, distribute,
+catalog, and archive.
+
+By contrast, in wealthier economies, such infrastructures are commodified.
+Readers consequently receive the material contexts of their meaning-making
+passively. The costs of knowledge production and barriers to its distribution
+disappear from view. For many readers, technologies that support reading,
+writing, and interpretation further pass from tools to fetish. No longer
+comprehensible by the way of pen or printing press we imbue them with magical
+powers. Thus we exist in the state of profound alienation from mechanisms
+closest to our mental activity. We read electronic books as they read us,
+without depth or understanding.
 
 ## Theory
 ### Displacement
 
-*Plain Text* stems from a productive tension between settlement and
+The book stems from a productive tension between media settlement and
 displacement.
 
 I mean settlement in the way one lives among and within one's own notebooks,
@@ -250,7 +288,7 @@ Commercial, private, and public interests rush in to colonize newly opened
 territories. Boundaries are drawn. Areas of exclusion are created, even in our
 most intimate spaces: bedsides, living rooms, kitchens, the heart and the
 mind: a diabetic is not able to modify her insulin pump software; the smart
-television contains proprietary firmware, controlled remotely and without
+television contains proprietary firmware, controlled at a distance and without
 explicit consent. The struggle is not one for virtual, but actual space.
 
 These territories are however remote, in that they unfold at quantum scale.
@@ -288,7 +326,7 @@ Flusser wrote: "[i]t smoothes the sharp edges of all phenomena that it covers,
 so that I no longer bump against them, but I am able to make use of them
 blindly." When we sit at our desks, for example, we fail to see "papers and
 books that are lying all about." We are used to them being there as they are
-[@flusser_freedom_2003, 13; @finger_vilem_2011, 132]. Consequently, we do not
+[@flusser_freedom_2003, 13; @finger_vilem_2011, 132]. We do not thereafter
 parse them as information. Like water that surrounds fish, habituated things
 pass into the background of experience. Mediums become media. They cease
 producing meaning, become stages for meaning-making, and like a stage
@@ -306,13 +344,13 @@ where familiar objects can pass into view again [@flusser_freedom_2003, 82-3].
 One could write, to take a simple example, "a field of study," without much
 thought about figurative space. Shklovsky would have readers pause to consider
 the implications [@shklovksy_sborniki_1917]. In what sense do ideas resemble
-(or not) a field? The poet could take things further. One could write, for
-example: "to scythe a verdant field of literary study." The verb (to scythe)
-and the adjective (verdant) create an unexpected transference of new qualities
-not present in the original image (intellectual field). These qualities
-"overdetermine" or "saturate" the metaphor, exposing its conceit. One can do
-to fields of grass what one cannot to ideas. Subsequently, we realize that the
-two domains---intellectual and horticultural---do not map onto each other
+(or not) a field? The poet could take things further and elaborate: "to scythe
+a verdant field of literary study." The verb (to scythe) and the adjective
+(verdant) create an unexpected transference of new qualities not present in
+the original image (intellectual field). These qualities "overdetermine" or
+"saturate" the metaphor, exposing its conceit. One can do to fields of grass
+what one cannot to ideas. Subsequently, we realize that the two
+domains---intellectual and horticultural---do not map onto each other
 perfectly, leaving a semantic remainder: the chaff. Readers discover
 intellectual "fields" for what they are: habituated metaphors, neither natural
 nor self-apparent. Metaphor are made strange again through purposeful
@@ -412,7 +450,7 @@ leads to critical disempowerment. But where it is difficult to imagine or to
 enact strategies of digital disobedience on a universal scale, we can begin to
 address them through numerous minute transactions that in aggregate brace
 everyday literary exchange. This we can do now. Computational poetics begins
-with the machines in our immediate proximity, closest to thought and touch.
+with machines in our immediate proximity, closest to thought and touch.
 
 To pick up an electronic book and to take it apart may be against the law in
 some jurisdictions [@fry_circumventing_2009]. Given the extent to which
@@ -460,21 +498,6 @@ chapters contain at least one literary thought-thing. Each chapter enacts a
 deconstruction---a literal taking apart---of that device. The epistemic object
 is present to challenge my and the reader's theoretical intuitions.
 
-Computational poetics, a mode of materialist critique, is concerned with the
-transition of theory into practice. Where "distant reading" and cultural
-analytics perceive patterns across large-scale corpora, computational poetics
-breaks textuality down into its minute constituent components. It is at this
-scale that I find readers and writers becoming fundamentally alienated from
-their immediate material contexts of knowledge production. Mine is not however
-a post-human materialism of the kind that privileges an object's point of
-view. On the contrary, the book aims to remove the aura of fetishism that
-attaches itself to literary--computational artifacts and to complex systems
-that mediate in the textual encounter. That is not to say that epistemic
-things can ever become wholly known or fully transparent. But neither should
-they remain forever out of reach. We must insist on dragging them into a
-dialectic, by which ideals reify and align with specific technological
-commitments.
-
 The reverse engineering of literary devices reveals that not all texts are
 created equal. In print, traditional distinctions between form and content lie
 flat. The printing press firmly embeds ink into paper, leaving no space
@@ -515,54 +538,49 @@ Autopoiesis---literature writing or discourse speaking itself---did not
 displace authorship as a social institution.[^ln-varela] Code merely makes the
 flows of poiesis less apparent. It is difficult, but not impossible, to find
 the programmer responsible for sending spam or to credit writers based on
-Wikipedia contribution history. Spammers go to jail just as notable Wikipedia
-contributors receive barn stars in recognition of their efforts.
+Wikipedia contribution history. Spammers are sentenced just as notable
+Wikipedia contributors receive barn stars in recognition of their efforts.
 
-Computational poetics reconstructs a sequence of willful delegation. A
-discipline of close attention to the minute particulars of encoding,
+Poetics reconstructs a sequence of willful delegation: from thought to thing.
+A discipline of close attention to the minute particulars of encoding,
 transmission, storage, and the decoding of texts ultimately reclaims a measure
-of intent and therefore authorial responsibility. In many cases, we may not
-care to speak of it. One would hardly find Tolstoy "at fault" for his *War and
+of intent and thereby authorial responsibility. In many cases, we may not care
+to speak of it. One would hardly find Tolstoy "at fault" for his *War and
 Peace*. In other contexts, as when unsolicited advertisement clutters the
 bandwidth to the exclusion of other forms of speech, we must. That may seem
 strange at first: to recover the subject in the physical minutiae of the
 encounter between text and machine. The point of contact between human, text,
 and device is significant because it is here, in the liminal zone of semiotic
-exchange, where the subject disappears into the machine and where the machine
-steps forth, an animated and seemingly intelligent actor. Our ability to
-apprehend the incursion of smart objects into the social sphere relates
-directly to the poetics of inscription.
+exchange, where subjects disappear into machines and where machines step forth
+as animated and seemingly intelligent actors. Our ability to apprehend the
+politics of smart objects therefore depends on the formulation of their
+poetics: how they were made.
 
 Extant models of literary transmission assume movement through passive and
 immutable media. Paper constitutes the document of record, which, once
 archived, does not change its contents. Philological techniques like genetic
 criticism and forensic reading make it possible to reconstruct if not
-"authorial intent," then at least a trace of the author's hand. In some
-contexts---think manuscripts and folios---we may even ascribe properties like
+"authorial intent," then at least a trace of an author's hand. In some
+cases---think manuscripts and folios---we may even ascribe properties like
 "fidelity" to "original" works of art. When media are immutable, one imagines
 a causal chain of custody between works and their creators, who at some point
-must have occupied the same contiguous time and space. The printing press
-introduces a range of structures that mediate between readers and authors.
-These subsequently weaken notions of authorial fidelity. In the least, we
-understand that such intermediaries as copy machines and printing presses
-inject an element of noise into the channel of communication.
+must have occupied the same contiguous time and space: the closer a parchment
+to Shakespeare, the higher its evidentiary (and market) value.
 
-The transition between the Gutenberg press and Project Gutenberg, an online
-library containing thousands of texts, further lengthens linkages. Unlike pen
-and paper which come in direct contact with each other during writing, the
-contact between keyboard and screen passes through multiple mediating filters.
+The transition between Gutenberg press and Project Gutenberg, an online
+library containing thousands of texts, complicates the linkage. Unlike pen and
+paper, which come in direct contact with each other during writing, the bridge
+between keyboard and screen passes through multiple mediating filters.
 Writing in that sense in itself becomes a programmed experience. We do not
-write in the conventional sense of inscribing marks into a static host.
-Rather, we are shown images of inscription superimposed onto a simulation of
-the medium. Neither the digital word nor digital page exist in the way they
-appear in the word processor or on the pages of an electronic book. At best,
-such composite tropes attain a measure of similarity to the physical realities
-of typing, editing, and archiving paper. Simulated erasure for example, of the
-kind that happens when the writer presses the delete key, does not necessarily
-entail the corresponding erasure of content on the disk. The erased word could
-persist and even multiply across other storage drives and devices.
+write in the conventional sense of etching marks into a static host. The act
+is a simulation. We neither touch nor see the textual conduit. The visible
+does not correspond to the actual. Simulated erasure for example, of the kind
+that happens when a writer presses the backspace key, does not necessarily
+entail the corresponding erasure of content on disk. The "erased" word could
+persist and even multiply across other storage drives and devices. The sign's
+fracture entails such palpable consequences.
 
-In this book, I will argue that some of contemporary public sphere's
+In *Plain Text*, I will argue that some of contemporary public sphere's
 ideological afflictions---the acquiescence to routine surveillance and
 censorship, for example---relate to our failure as readers and writers to come
 to terms with the changing material conditions of digital text. A society that
@@ -581,34 +599,12 @@ scholarship cannot survive without awareness of its computational present, the
 design of computational platforms cannot advance without greater awareness of
 its cultural contexts. The political struggle for meaning-making, the very
 opportunity to engage in the act of interpretation, thus begins and ends with
-the material affordances of the epistemic artifact.[^ln0-levine] 
+the material affordances of the epistemic artifact.[^ln0-levine]
 
 [^ln0-levine]: Affordances, as Caroline Levine explains, "describe the
 potential uses or actions latent in materials and designs." For example,
 "[g]lass affords transparency" where "[s]teel affords strength"
 [@levine_forms:_2015, 6].  See also @hutchby_technologies_2001, 447.
-
-It is easy to forget the blunt effectiveness of physical control in the global
-North-west. Books that are burned or redacted cannot be read at all.
-Elsewhere, inequities of access to knowledge compel readers to print their own
-books and build their own libraries. Witness the so-called "shadow libraries"
-of Eastern Europe and Central Asia, the street book vendors of India and
-Pakistan, and the gray market presses of Nigeria arising from the country's
-"book famine"[@mahmood_copyright_2005; @okiy_photocopying_2005;
-@liang_piracy_2009; @bodo_short_2014; @nkiko_book_2014; @_elsevier_2015]. More
-than mere piracy, such *samizdat*-like practices preserve the literary sphere
-[@tenen_book_2014]. Informal book exchange networks create reading publics
-that own the means of textual production and dissemination. Under duress,
-readers build homemade knowledge infrastructures: they duplicate, distribute,
-catalog, and archive. By contrast, in wealthier economies, such
-infrastructures are commodified. Consequently, readers receive the material
-contexts of their meaning-making passively. The costs of knowledge production
-and barriers to its distribution disappear from view. For many readers,
-technologies that support reading, writing, and interpretation further pass
-from tools to fetish. No longer comprehensible by the way of pen or printing
-press we imbue them with magical powers. Thus we exist in the state of
-profound alienation from mechanisms closest to our mental activity. We read
-electronic books as they read us, without depth or comprehension.
 
 The future of reading and writing is inexorably intertwined with the
 development of computer science and software engineering. Even if you are not
@@ -667,36 +663,36 @@ and new media studies take root.
 > 3,15].
 
 My approach to writing *Plain Text* stems from the desire to enact theory
-capable of addressing the grim picture Friedrich Kittler paints at the end of
+capable of addressing the grim picture Friedrich Kittler painted at the end of
 his influential monograph.[^ln-kittler2] By all accounts, Kittler was neither
-a technological romantic nor Luddite. I therefore understand his *Gramophone,
-Film, Typewriter* as a call to action. When Kittler writes that "media
-determine our situation," he challenges his reader to choose between
-complicity and defiance [@kittler_gramophone_1999, xxxix]. It is not a
+a technological romantic nor Luddite. I hence understand his *Gramophone,
+Film, Typewriter* as a call to action. When Kittler wrote that "media
+determine our situation," he challenged his reader to choose between
+complicity and defiance [@kittler_gramophone_1999, xxxix]. It was not a
 statement of fact but the articulation of a question: What can one do to
 counteract technological determinism? In what follows, I outline several
 intellectual lineages, materialist and experimental, which frame my answer.
 
 Critical theory at its best aims to see "the human bottom of nonhuman things"
-[@horkheimer_critical_1982, 143]. As such, it is one of our most powerful tools
-for analysis and resistance against technological determinism. As Max
-Horkheimer wrote, the issue "is not simply the theory of emancipation; it is
-the practice of it as well" [@horkheimer_critical_1982, 233]. Recently,
+[@horkheimer_critical_1982, 143]. As such, it is one of our most powerful
+tools for analysis and resistance against technological determinism. Max
+Horkheimer wrote that the issue "is not simply the theory of emancipation; it
+is the practice of it as well" [@horkheimer_critical_1982, 233]. Recently,
 scholars like Kathleen Fitzpatrick, Tiziana Terranova, and Trebor Scholz have
-began to turn the tools of critical theory towards the instrumental contexts of
-knowledge production [@scholz_digital_2013; @fitzpatrick_planned_2011;
-@terranova_network_2004]. I join them to argue that in treating the instruments
-of intellectual production and consumption uncritically, all of us---readers
-and writers---accumulate an ethical debt. It is one thing to theorize about the
-free movement of literary tropes across cultures and continents, and quite
-another to have that theory appear in print behind paywalls inaccessible to
-most global reading publics.[^ln-sarab] Similarly, a theoretical distinction
-between form and content, when instantiated in specific file formats like
-Microsoft Word (`.docx`) or Adobe Reader (`.pdf`), establishes divisions of
-labor between editors, book sellers, and offshore typesetting
-firms.[^ln-sweatshop] One group trades content in the economy of prestige,
-another formatting in the economy of survival, and yet another controls
-distribution in the market economy.
+began to turn the tools of critical theory towards the instrumental contexts
+of knowledge production [@scholz_digital_2013; @fitzpatrick_planned_2011;
+@terranova_network_2004]. I join them to argue that in treating the
+instruments of intellectual production and consumption uncritically, all of
+us---readers and writers---accumulate an ethical debt. It is one thing to
+theorize about the free movement of literary tropes across cultures and
+continents, and quite another to have that theory appear in print behind
+paywalls inaccessible to most global reading publics.[^ln-sarab] Similarly, a
+theoretical distinction between form and content, when instantiated in
+specific file formats like Microsoft Word (`.docx`) or Adobe Reader (`.pdf`),
+establishes divisions of labor between editors, book sellers, and offshore
+typesetting firms.[^ln-sweatshop] One group trades content in the economy of
+prestige, another formatting in the economy of survival, yet another controls
+distribution in economy of the market.
 
 Distinctions of labor will remain in place as long as the conversation about
 ideas like "form" and "content" persists in the abstract. Similarly, a
@@ -746,7 +742,7 @@ same trend. In naming the locations of their practice "laboratories,"
 "studios," and "workshops," humanists reach for new metaphors of labor. These
 metaphors aim to reorganize the relationship between body, space, artifact,
 knowledge, and inscription. In my lab and elsewhere, researchers have taken to
-calling this approach the "experimental humanities."
+calling this approach "experimental humanities."
 
 As an example of what I have been calling here the "experimental turn" in the
 field of early modern history consider the preface to a recent volume on *Ways
@@ -779,7 +775,7 @@ literary encounter to these ends according to the reader's economic status,
 gender, race, age, location, or physical ability.
 
 To what extent does the book in front of you permit or enable access?
-Whatever the answer, a function of understanding the text must include the
+Whatever the answer, a function of understanding the text includes the
 explication of its physical affordances. An experimental approach to reading
 enables the critic to "lay bare" the device. A literary scholar's version of
 baking bread and smelting iron is to make literal the archaeology of media at
@@ -800,7 +796,7 @@ habituated intuitions, pitting them against knowledge at hand and fingertip
 knowledge: as when ruffling through the pages or typing at a keyboard. How
 ephemeral is an electronic text, for example? The pragmatic answer lies not in
 reductive universal propositions---very, or not at all---but in contingent
-technological affordances attached to specific reading devices.  What can a
+technological affordances attached to specific reading devices. What can a
 reader do with this text, here and now? Where is it stored? Are readers given
 dispensation to copy and paste? Do they have legal permission to quote at
 length, to perform publicly, or to otherwise trans-mediate? Will the text
@@ -810,15 +806,15 @@ disappear when the reader closes the book's cover?
 
 The tangled pathways of inscription winding their way through the device exist
 in relation to distinct communities of computational practice. A researcher
-cannot therefore expect to discover a single theoretical framework that
-captures the complexity of simulated text in motion. An engineer's use of the
+cannot for this reason expect to discover a single theoretical framework that
+captures the complexity of digital text in motion. An engineer's use of the
 words "code" and "poetry" differs from that of a poet's. The changing contexts
-evoke the corresponding shift in operational definitions. Consequently, this
-book is neither a total history of modern computing nor a survey of literary
-theory. Rather, the argument therein progresses from the action of the
-alphanumerical keyboard switch, through copper and silicon, to liquid crystal
-and the floating gate, and on towards the reader and the community. It is but
-one of many possible passes through a cavernous black box.
+evoke a corresponding shift in operational definitions. This book is thus
+neither a total history of modern computing nor a survey of literary theory.
+Rather, the argument therein progresses from the action of the alphanumerical
+keyboard switch, through copper and silicon, to liquid crystal and the
+floating gate, and on towards the reader and the community. It is but one of
+many possible passes through a cavernous black box.
 
 At the core of the book's **first chapter** lies the notion of a modernist
 literary device, understood both as literary technique and a thought
@@ -896,39 +892,28 @@ of electronic texts as an ephemeral, almost immaterial, phenomenon. Text
 shimmered and glared: it was spoken of in terms of *hypertext*, light writing,
 and electricity. A generation of theorists that came after insisted on the
 weighty materiality of electronic media. Reading began to engage the
-morphology of rare metals, media archeology, hard drive forensics. Both
+morphology of rare metals, media archaeology, hard drive forensics. Both
 accounts, I argue, capture an aspect of the same underlying condition. The
 perceived image of an archived inscription splits from its source. The sign
 plausibly resides both on screen and on hard drive. It fractures, in some real
 sense, diverging at the site its projection from the site of the archive.
-Erasing a word on screen, for example, may not elicit the corresponding action
-on disk. Using archival materials from the history of telegraphy in the late
-nineteenth and early twentieth centuries, I chart the gradual fracture and the
-ultimate illegibility of the newly composite sign.  Early computers stored
+Using archival materials from the history of telegraphy in the late nineteenth
+and early twentieth centuries, I chart the gradual fracture and the ultimate
+illegibility of the newly composite sign. Early computers stored
 human-readable text and machine instruction at the surface of the same storage
 media like punch cards and ticker tape. Although difficult to read, these
 forms of machine writing were readily visible and therefore amenable to
 analysis. The advent of magnetic storage forced the composite inscription into
 an opaque medium. Unable to perceive magnetic polarities without the aid of a
 machine, readers often manipulated text blindly. In this way a typist would
-type several sentences without seeing the printed output.  The chapter
+type several sentences without seeing the printed output. The chapter
 identifies a milestone in the history of human textuality: the moment at which
 the inscription passed from view, giving rise to the sometimes conflicting but
 nevertheless consistent accounts of digital textuality.
 
-***
-
-Our challenge today lies in escaping the quietly smothering embrace of
-automation, a multitude of microscopic prosthetics that in aggregate exert an
-enormous pressure on the mind's centers of pleasure and satiation. A quietude
-descends on the dwellings of our intellectual life. The digitally displaced
-hold on to the discomfort of the encounter with the machine. Estrangement,
-always at the heart of immigrant or queer poetics, reconciles without seeking
-wholeness or integration. I dedicate this book then to queers and immigrants,
-literal and figurative---spatial, literary, technological---to those being
-displaced unwillingly, to those exiled within and without, to those who
-understand the need for self-displacement, to those who transgress
-purposefully, and to those who continue to trespass.
+A short *conclusion* gestures towards the contemporary political consequences
+of the material covered, discussing also the possibility of machine
+phenomenology in relationship to humanism.
 
 <!--- NOTES  --->
 <!--- NOTES  --->

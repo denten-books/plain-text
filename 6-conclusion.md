@@ -205,5 +205,19 @@ and heart implant. Against this rhythm, we advance a computational poetics,
 the study of temporal arrangements: prosody, meter, enjambment, dissonance, and
 syncopation.
 
+***
+
+How do we, as a society, I want to ask in parting, escape the quietly
+smothering embrace of technology? A multitude of microscopic prosthetics in
+aggregate exert an enormous pressure on the mind's centers of pleasure and
+satiation. A quietude descends on the dwellings of our intellectual life. The
+digitally displaced hold on to the discomfort of the encounter with the
+machine. Estrangement, always at the heart of immigrant or queer poetics,
+reconciles without seeking wholeness or integration. I dedicate this book then
+to queers and immigrants, literal and figurative---spatial, literary,
+technological---to those being displaced unwillingly, to those exiled within
+and without, to those who understand the need for self-displacement, to those
+who transgress purposefully, and to those who continue to trespass.
+
 [^ln3-umwelten]: See for example @agamben_open:_2003, 39-49; @hayles_print_2004,
 16-17.
