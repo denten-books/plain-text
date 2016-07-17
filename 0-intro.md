@@ -281,52 +281,50 @@ lapsed engineer among humanists. These vantage points offer a singular view
 onto the material conditions of contemporary intellectual life.
 
 Both Shklovsky and Flusser wrote lucidly about the dynamics of settlement.
-Their work sheds light onto the irresistible compromise at the core of all
-technology---a compromise by which we trade critical understanding for
-comfort. Habit covers the various homes we make for ourselves in the world
-"like a fluffy blanket," Flusser wrote: "[i]t smoothes the sharp edges of all
-phenomena that it covers, so that I no longer bump against them, but I am able
-to make use of them blindly." When we sit at our desks, for example, we fail
-to see "papers and books that are lying all about." We are used to them being
-there as they are [@flusser_freedom_2003, 13; @finger_vilem_2011, 132].
-Consequently, we do not parse them as information. Like water that surrounds
-fish, the habituated thing passes into the background of experience. Mediums
-become media. They disappear into the background, cease producing meaning,
-become a stage for meaning-making, and like the stage disappear from view.
+Their work sheds light onto an irresistible compromise, at the core of all
+technology, by which we trade critical understanding for comfort. Habit covers
+the various homes we make for ourselves in the world "like a fluffy blanket,"
+Flusser wrote: "[i]t smoothes the sharp edges of all phenomena that it covers,
+so that I no longer bump against them, but I am able to make use of them
+blindly." When we sit at our desks, for example, we fail to see "papers and
+books that are lying all about." We are used to them being there as they are
+[@flusser_freedom_2003, 13; @finger_vilem_2011, 132]. Consequently, we do not
+parse them as information. Like water that surrounds fish, habituated things
+pass into the background of experience. Mediums become media. They cease
+producing meaning, become stages for meaning-making, and like a stage
+disappear from view.
 
 Losing sight of the material contexts of knowledge production is politically
 perilous, because those who own the contexts set the terms of engagement.
-Estrangement arrests the process of material concealment. The condition of
-exile allows the displaced to once again transform habituated media into
-meaningful information. In exile, "everything is unusual," Flusser wrote
-[@flusser_freedom_2003, 81]. The migrant experiences the world as an
-ex-perience [*er-fahrung*], or literally a driving out. Discovery, he
-concluded "begins as soon as the blanket is pulled away," where familiar
-objects can pass into view again [@flusser_freedom_2003, 82-3].
+Estrangement arrests material concealment. Exile allows the displaced to once
+again transform habituated media into meaningful information. In exile,
+"everything is unusual," Flusser wrote [@flusser_freedom_2003, 81]. Migrants
+experience the world as ex-perience [*er-fahrung*], or literally a driving
+out. Discovery, he concluded "begins as soon as the blanket is pulled away,"
+where familiar objects can pass into view again [@flusser_freedom_2003, 82-3].
 
 One could write, to take a simple example, "a field of study," without much
-thought about figurative space. Shklovsky would have the reader pause to
-consider the implications [@shklovksy_sborniki_1917]. In what sense do ideas
-resemble (or not) a field? The poet could further make this metaphor strange.
-One could write, for example: "to scythe a verdant field of literary study."
-The verb (to scythe) and the adjective (verdant) create an unexpected
-transference of new qualities not present in the original image (intellectual
-field). These qualities "overdetermine" or "saturate" the metaphor, exposing
-its conceit. One can do to fields of grass what one cannot to ideas.
-Subsequently, we realize that the two domains---intellectual and
-horticultural---do not map onto each other perfectly, leaving a semantic
-remainder: the stuff that does not fit. The reader discovers intellectual
-"fields" for what they are: habituated metaphors, neither natural nor
-self-apparent. The metaphor is made strange again through purposeful
+thought about figurative space. Shklovsky would have readers pause to consider
+the implications [@shklovksy_sborniki_1917]. In what sense do ideas resemble
+(or not) a field? The poet could take things further. One could write, for
+example: "to scythe a verdant field of literary study." The verb (to scythe)
+and the adjective (verdant) create an unexpected transference of new qualities
+not present in the original image (intellectual field). These qualities
+"overdetermine" or "saturate" the metaphor, exposing its conceit. One can do
+to fields of grass what one cannot to ideas. Subsequently, we realize that the
+two domains---intellectual and horticultural---do not map onto each other
+perfectly, leaving a semantic remainder: the chaff. Readers discover
+intellectual "fields" for what they are: habituated metaphors, neither natural
+nor self-apparent. Metaphor are made strange again through purposeful
 defamiliarization. To take the technique to its logical conclusion, a writer
 could depict several fictional characters in the act of scything a field of
 grass while discussing the relative merits of structuralism: a discussion
 about the field on a field. Such literary artifice would make actual the
-implied connections between fields of grass and fields of ideas. The writer
-now shows what was merely told before. The technique of defamiliarization
-finally renews the figure: discarding hardened clichés while suggesting novel
-linkages between constituent concepts: intellectual chaff, leaves of mental
-grass, the combines of thought.
+implied connections between fields of grass and ideas. The writer now shows
+what was merely told before. The technique of defamiliarization finally renews
+the figure: discarding hardened clichés while suggesting novel linkages
+between constituent concepts: ideational chaff, leaves of mental grass,
+combines of thought.
 
 The formalists understood habituated metaphors to diminish the vitality of
 experience. Shklovsky quotes from the diaries of Lev Tolstoy, who, while
@@ -339,35 +337,39 @@ Tolstoy wrote:
 > passes without conscious reflection, it passes as if one has not lived at
 > all.
 
-Shklovsky goes on to add that life so habituated disappears into nothingness,
-when the automatization of experience "consumes things, clothing, furniture,
-your spouse, and the fear of war."[^ln-brik] The formalists rarely quoted Marx
-directly. Yet the echoes of Marx resonate throughout. The dead metaphor marks
-alienation from humanity.[^ln0-marx] The point at which material artifact
-disappears from individual conciousness is also the point where it appears
-within the social sphere as fetish. Shklovksy however inverts the Marxist idea
-of alienation [*Entfremdung*], which for Marx always denies life, into a
-technique of estrangement---literally othering [*ostranenie*]---of the kind
-that affirms it. The difference is between one's own alienation---the forced
-perception of self as fixed other---and the ability to externalize the other,
-lodged deeply within and calcified. Formalist defamiliarization arrests the
-momentum of tacitly received habit. Once extracted, it can be revitalized.
+Shklovsky adds that life so habituated disappears into nothingness, when the
+automatization of experience "consumes things, clothing, furniture, your
+spouse, and the fear of war."[^ln-brik]
 
-Our challenge today is to uproot ourselves from the comfort that rapidly
-descends on the dwellings of our intellectual life. Dulling the senses,
+The formalists rarely quoted Marx directly. Yet Marx resonates throughout.
+For Marx, dead metaphors mark the alienation from humanity.[^ln0-marx] The
+point at which material artifacts disappear from conciousness is also the
+point where they appear within the social sphere as fetishes.
+
+Shklovksy changes Marx's German alienation [*Entfremdung*], which for Marx
+always denies life, into the Russian estrangement [*ostranenie*], literally an
+"othering," of the kind that affirms it. The difference is one of agency. In
+the first case, subjects are treated like objects by others. In the second,
+they recognize and reject the objectified within. Formalist
+estrangement---same as defamiliarization---arrests the momentum of tacitly
+received habit. Once othered, the human experience can be revitalized.
+
+Our challenge today is to uproot ourselves from the comforts that rapidly
+descend on the dwellings of our intellectual life. Dulling the senses,
 seemingly inconspicuous conduits of agency---electronic books and smart
 desks---acquire a sense of intelligence of their own. Devices that "watch,"
 "hear," "see," and "think" give rise to object-oriented ontology and the
 internet of things. A new generation of objects clamours for participatory
 intelligence. They claim space in the home, near bed and hearth. Smart phones,
-smart light bulbs, smart thermostats, smart homes, and smart watches, enter the
-networked public sphere in the role of independent agents.[^ln-winner] A
-conversation begins about their personhood: their levels of trust, friendships,
-rights, and accountability [@bohn_living_2004; @jianhua_ma_towards_2005;
-@calverley_android_2006; @hildebrandt_ambient_2007; @atzori_smart_2014]. Marx's
-table that "evolves out of its wooden brain grotesque ideas" now becomes
-Surface and PixelSense, product names of actual smart tables made by Microsoft
-[@marx_capital:_1906, 82; @wigdor_designing_2009].
+smart light bulbs, smart thermostats, smart homes, and smart watches, enter
+the networked public sphere in the role of independent agents.[^ln-winner] A
+conversation begins about their personhood: their levels of trust,
+friendships, rights, and accountability [@bohn_living_2004;
+@jianhua_ma_towards_2005; @calverley_android_2006; @hildebrandt_ambient_2007;
+@atzori_smart_2014]. Marx's table that "evolves out of its wooden brain
+grotesque ideas" now becomes Surface and PixelSense---product names of actual
+smart tables, available for purchase [@marx_capital:_1906, 82;
+@wigdor_designing_2009].
 
 If we hope to understand digital culture and especially literature, as
 Friedrich Kittler would write, "under conditions of high technology," we can
@@ -381,67 +383,67 @@ determine literary silence. Rather, as the material grounds for all reflective
 textual activity recede from view, readers face the prospect of selective
 illiteracy. The command of technologies like networking and encryption
 separates those able to read and write under conditions of high technology
-from those who no longer are: a true suppression of voice.
+from those who no longer are: another dispossession.
 
 When we mistake things for animate actors, we ourselves become enmeshed in a
 system of digital production that commodifies human experience. Objects that
 surround us collect our reading habits, social interactions, and intimate
-conversations. The actual living agents that benefit from trade in personal
-data are neither cyborgs nor post-human assemblages. The bargain that trades
-critical understanding for comfort benefits specific interests, like
-multinational corporations and government intelligence agencies. To address
-objects as if they could respond in kind shifts our attention from the seats
-of power to things powerless, inarticulate, and indifferent to our
-protestations.
+conversations. Agents that benefit from trade in personal data are neither
+cyborgs nor post-human assemblages. The bargain that trades critical
+understanding for comfort benefits specific, individual interests. To address
+objects as if they could respond in kind shifts our attention from seats of
+power to things powerless, inarticulate, and indifferent to our protestations.
+One can no more extract justice from a smart desk than hold a bureaucracy
+accountable. Notions of justice and accountability presuppose a robust model
+of agency, absent in the assemblage.
 
 The internal exile that we must undergo for smart books and smart desks to
 come into view cannot compare in difficulty to the experience of physical
 displacement that follows natural disaster, war, poverty, or political
 instability. Yet, our systematic reluctance to take on even those small
 intellectual discomforts that could lead to acts of localized dissent and
-disobedience---to write using free software, to build open archives, to share
-memories in private---cannot be said to exist outside the complex systems that
-perpetuate inequity and violence globally. The emotional affirmation that
-accompanies exuberant social networking brings with it governing structures
-evoked in the name of law enforcement and national security. Comfort and
-security constitute the same ill-conceived bargain that leads to critical
-disempowerment. But where it is difficult to imagine or to enact strategies of
-digital disobedience on a universal scale, we can begin to address them
-through numerous minute transactions that in aggregate brace everyday literary
-exchange. This we can do now. Computational poetics begins with the machines
-in the immediate proximity, closest to thought and touch.
+disobedience---to write using free software, to build open archives, or to
+share memories in private---cannot be said to exist outside the complex
+systems that perpetuate inequity and violence globally. The emotional
+affirmation that accompanies exuberant social networking brings with it
+governing structures evoked in the name of law enforcement and national
+security. Comfort and security constitute the same ill-conceived bargain that
+leads to critical disempowerment. But where it is difficult to imagine or to
+enact strategies of digital disobedience on a universal scale, we can begin to
+address them through numerous minute transactions that in aggregate brace
+everyday literary exchange. This we can do now. Computational poetics begins
+with the machines in our immediate proximity, closest to thought and touch.
 
 To pick up an electronic book and to take it apart may be against the law in
 some jurisdictions [@fry_circumventing_2009]. Given the extent to which
-emergent thought-things---epistemic artifacts---like electronic books and
-smart phones participate actively in the production of meaning, we can no
-longer employ strategies of interpretation at the level of ideology or
-representation alone.[^ln-rhein] The praxis of close reading must reach down
-to the silicon bedrock: material entities and physical structures that bear
-the weight of interpretation. Literary theory, a discipline fundamentally
-engaged in the exegesis of figurative trope, is therefore crucial to the
-understanding of new computational environments, which have enveloped
-intellectual life through metaphoric substitution. To read the machine is to
-learn how it is made, but also to unpack the rich metaphors that guide our
-tactical engagement with the word: the boot in rebooting, the wares in
-software, the bug and the joystick, the interpreter and the shell.
+emergent thought-things---epistemic artifacts like electronic books and smart
+phones---participate actively in the production of meaning, we can no longer
+employ strategies of interpretation at the level of ideology or representation
+alone.[^ln-rhein] The praxis of close reading must reach down to the silicon
+bedrock: material entities and physical structures that bear the weight of
+interpretation. Literary theory, a discipline fundamentally engaged in the
+exegesis of figurative trope, is therefore crucial to the understanding of new
+computational environments, which have enveloped intellectual life through
+metaphoric substitution. To read the machine is to learn how it is made, but
+also to unpack the rich metaphors that guide our tactical engagement with the
+word: the boot in rebooting, the wares in software, the bug and the joystick,
+the interpreter and the shell.
 
 ### Settlement
 
-Estrangement cannot be practiced effectively in the mode of a monologue. To
-produce meaning, Flusser reminds us, it needs to become a dialogical practice.
-Perpetual exile is otherwise uninhabitable [@flusser_freedom_2003, 81].
-Estrangement thrusts the displaced into the chaos of unsettled existence. With
-time, the displaced make a new home, from which they can once again "receive
-noise as information" and produce meaning. "I am embedded in the familiar,"
-Flusser wrote, "so that I can reach out toward the unfamiliar and create
-things yet unknown" [@flusser_freedom_2003, 12]. The displaced and the settled
-need each other. The dialectics of exile lead to "informed renewal" of shared
-space through what Flusser called a "creative dialogue" between the settled
-and the displaced [@flusser_freedom_2003, 84]. Without the protection of one's
-home, everything turns to noise. Information cannot exist without a dwelling,
-Flusser wrote, "and without information, in a chaotic world, one can neither
-feel nor think nor act" [@flusser_freedom_2003, 12]. By this dynamic,
+Estrangement cannot be practiced effectively in monologue. To produce meaning,
+Flusser reminds us, it needs to become a dialogical practice.  Perpetual exile
+is otherwise uninhabitable [@flusser_freedom_2003, 81]. Estrangement thrusts
+the displaced into the chaos of unsettled existence. With time, they make a
+new home, from which they can once again "receive noise as information" and
+produce meaning. "I am embedded in the familiar," Flusser wrote, "so that I
+can reach out toward the unfamiliar and create things yet unknown"
+[@flusser_freedom_2003, 12]. A dialectics of exile leads to "informed renewal"
+of shared space, through what Flusser called a "creative dialogue" between the
+settled and the displaced [@flusser_freedom_2003, 84]. Without the shelter of
+one's home, everything turns to noise. Information cannot exist without
+dwelling, Flusser wrote, "and without information, in a chaotic world, one can
+neither feel nor think nor act" [@flusser_freedom_2003, 12]. By this dynamic,
 displacement and settlement enter into a continuing dialectic.
 
 In *Plain Text*, I model the reciprocal movement to "making strange" on the
@@ -449,28 +451,29 @@ diverse practices of reverse engineering. Similar in method to what Matthew
 Kirschenbaum calls "forensic argumentation," reverse engineering recalls the
 formalist strategy of experiencing the making of the thing through careful,
 case study-based reconstructions of textual artifact.[^ln0-reverse] The
-function of a case study in an engineer's education, as Henry Petroski
+function of case studies in an engineer's education, as Henry Petroski
 explains in his *Invention by Design*, is to understand the ways by which one
 gets "from thought to thing" [@petroski_invention_1996, 3-7]. From thought to
 thing would be another apt definition of poetics and an alternative subtitle
-to this book. Along with an literary and historical exposition, each of my
-chapters contains at least one literary thought-thing. Each chapter enacts a
+to this book. Along with literary and historical exposition, each of my
+chapters contain at least one literary thought-thing. Each chapter enacts a
 deconstruction---a literal taking apart---of that device. The epistemic object
-is present to challenge the reader's and the author's theoretical intuitions.
+is present to challenge my and the reader's theoretical intuitions.
 
 Computational poetics, a mode of materialist critique, is concerned with the
 transition of theory into practice. Where "distant reading" and cultural
 analytics perceive patterns across large-scale corpora, computational poetics
 breaks textuality down into its minute constituent components. It is at this
 scale that I find readers and writers becoming fundamentally alienated from
-the immediate material contexts of knowledge production. Mine is not however a
-post-human materialism of the kind that privileges an object's point of view.
-On the contrary, the book aims to remove the aura of fetishism that attaches
-itself to literary--computational artifacts and to complex systems that
-mediate in the textual encounter. That is not to say that epistemic things can
-ever become wholly known or fully transparent. But neither should they remain
-forever out of reach. We must insist on entering them into a dialectic, by
-which ideals reify and align with specific technological commitments.
+their immediate material contexts of knowledge production. Mine is not however
+a post-human materialism of the kind that privileges an object's point of
+view. On the contrary, the book aims to remove the aura of fetishism that
+attaches itself to literary--computational artifacts and to complex systems
+that mediate in the textual encounter. That is not to say that epistemic
+things can ever become wholly known or fully transparent. But neither should
+they remain forever out of reach. We must insist on dragging them into a
+dialectic, by which ideals reify and align with specific technological
+commitments.
 
 The reverse engineering of literary devices reveals that not all texts are
 created equal. In print, traditional distinctions between form and content lie
@@ -479,57 +482,56 @@ between type and page. Materially-minded critics like Johanna Drucker,
 Katherine Hayles, and Jerome McGann have urged literary scholars to
 re-evaluate textuality in its media-specific contexts [@drucker_digital_2001;
 @mcgann_radiant_2001; @hayles_print_2004]. Their work reminds us that the
-flatness of digital text endures only in the guise of an illusion. Low-level
-operational intuitions governing textuality---ideas about form, content,
-style, letter, and word---change profoundly as text shifts its confines from
-paper to pixel. A substantial gap separates the visible text from the medium
-where it is stored. Pixels on a screen are literally removed from the
-electromagnetic trace on hard drive. The two sites of textuality---the visible
-image and the archived inscription---do not come into direct contact.  The
-space between gives ground to more text, of the kind that specifies rules for
-transformation: from one medium, solid state storage, to another, the liquid
-crystal display.  These rules contain the essence of control, before ideology,
-at the level of infrastructure. Censorship filters and surveilling apparatus
-are some of the starkest examples of governance that occupy the space between
-storage and presentation: what the text is and what it appears to be. I
-propose we begin with this obvious sense of difference between paper and
-digital text: where print is governed by law from without, think for example
-of the Obscene Publication Acts in Victorian England, digital text is governed
-by code, capable of executing its edicts from within
-[@mccalman_unrespectable_1984; @roberts_morals_1985]. In this way governance
-intertwines with text to become an organ in the same unified corpus.
+flatness of digital text is an illusion. Low-level operational intuitions
+governing textuality---ideas about form, content, style, letter, and
+word---change profoundly as text shifts its confines from paper to pixel. A
+substantial gap separates visible text from its storage medium. The two sites
+of inscription---screen and electromagnetic storage---are physically
+incongruent. One must be translated into the other. Control codes govern the
+process, which brings with it physical control at the level of infrastructure.
+This is where, for example, we can find spyware and censorship filters.
+
+I propose we begin with this obvious sense of difference between paper and
+pixel: where print is governed by law from without, think for example of
+England's Obscene Publication Acts, digital text is governed by code, from
+within [On Obscene Publication Acts see @mccalman_unrespectable_1984;
+@roberts_morals_1985]. I will go further than others to maintain that digital
+text *is* code, in the sense that it is always parsed and potentially
+executable [See discussion in @manovich_language_2002, 48;
+@chun_software_2004, 27-8; @galloway_anti-language_2010]. Control thus binds
+to content inextricably, to become an organ in the same unified corpus.
 
 Changing material conditions of textual transmission push against familiar
 ideas of literary criticism. For example, the easy reproduction of digital
 text weakens the material basis for authorship attribution. Text that is easy
 to copy is easy to cite and plagiarize. The weakening of the authorship
 function makes certain ways of talking about ideas like "authorial intent" and
-"fidelity to the original" difficult to sustain. The emergence of community
-based writing initiatives like Wikipedia and narrative generating machines
-that write spam and summarize news automatically further erode notions of
-authorship based on individual genius. The author is not dead; authors
-continue to live and to collect royalties.[^ln-dead] Autopoiesis---a
-theoretical model of literature writing itself or discourse speaking
-itself---does not displace the social institution of authorship.[^ln-varela]
-It merely makes the flows of poiesis less apparent. A discipline of close
-attention to the minute particulars of encoding, transmission, storage, and
-the decoding of text ultimately reclaims a measure of intent and therefore
-responsibility for creation. The algorithmically derived advertisement (spam)
-nevertheless stems from specific economic interests, to take a pedestrian
-example. Another goal of computational poetics is to trace the flows of agency
-through the long sequence of authorial delegation. The author's responsibility
-passes from the issuing agency to its instrument. The spammer writes code to
-spam on his behalf, yet he is still at fault. Under many circumstances I may
-not care to speak in this way: it seems ridiculous, for example, to find
-Tolstoy "at fault" for his *War and Peace*. At the same time, the work *is
-his*. Under differing circumstances we must hold the author accountable, as
-when unsolicited advertisement clutters the airways at the expense of other
-forms of speech. This may seem strange at first: to recover the subject in the
-physical minutiae of the encounter between text and machine. The point of
-contact between human, text, and device is significant because it is
-here, in the liminal zone of semiotic exchange, where the subject disappears
-into the machine and where the machine steps forth, an animated and seemingly
-intelligent actor.
+"fidelity to the original" difficult to sustain. The emergence of massive,
+community-based writing initiatives like Wikipedia along with algorithms that
+write spam or summarize news automatically, further erode notions of
+authorship based on individual genius. The author did not die, however.
+Authors continue to live and collect royalties.[^ln-dead]
+Autopoiesis---literature writing or discourse speaking itself---did not
+displace authorship as a social institution.[^ln-varela] Code merely makes the
+flows of poiesis less apparent. It is difficult, but not impossible, to find
+the programmer responsible for sending spam or to credit writers based on
+Wikipedia contribution history. Spammers go to jail just as notable Wikipedia
+contributors receive barn stars in recognition of their efforts.
+
+Computational poetics reconstructs a sequence of willful delegation. A
+discipline of close attention to the minute particulars of encoding,
+transmission, storage, and the decoding of texts ultimately reclaims a measure
+of intent and therefore authorial responsibility. In many cases, we may not
+care to speak of it. One would hardly find Tolstoy "at fault" for his *War and
+Peace*. In other contexts, as when unsolicited advertisement clutters the
+bandwidth to the exclusion of other forms of speech, we must. That may seem
+strange at first: to recover the subject in the physical minutiae of the
+encounter between text and machine. The point of contact between human, text,
+and device is significant because it is here, in the liminal zone of semiotic
+exchange, where the subject disappears into the machine and where the machine
+steps forth, an animated and seemingly intelligent actor. Our ability to
+apprehend the incursion of smart objects into the social sphere relates
+directly to the poetics of inscription.
 
 Extant models of literary transmission assume movement through passive and
 immutable media. Paper constitutes the document of record, which, once
@@ -1052,9 +1054,9 @@ dimension extending in time, similar to Jerome McGann's idea of the "editorial
 horizon." See @mcgann_textual_1991.
 
 [^ln-winner]: See for example: "[w]riters concerned with with problems of
-technology-out-of-control have frequently echoed Hobbes in suggesting that such
-an artifact---the Leviathan of interconnected technical systems---has a soul of
-its own [...] A ghost appears in the network.  Unanticipated aspects of
+technology-out-of-control have frequently echoed Hobbes in suggesting that
+such an artifact---the Leviathan of interconnected technical systems---has a
+soul of its own [...] A ghost appears in the network. Unanticipated aspects of
 technological structure endow the creation with an unanticipated *telos*"
 [@winner_autonomous_1978, 280].
 
