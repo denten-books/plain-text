@@ -62,146 +62,6 @@ computer memory, which then appears on screen redoubled and ephemeral. On
 disk, the mark endures in a form legible only to those who possess the
 specialized tools and training necessary to decipher it.
 
-Codes embody governance through explicit instruction. To retain a civic
-potential for critique, to speak truth to power, we must perceive the
-mechanisms of its codification. Critical theory cannot otherwise endure apart
-from material contexts of textual production, which today emanate from the
-fields of computer science and software engineering. Conversely, a tighter
-coupling with the critical tradition can reveal the often occluded political
-implications of technological progress. To create a novel algorithm that
-predicts crime by analyzing one's reading habits, for example, is also to
-invite the dystopian possibility of thought policing, unless, that is, such
-algorithms remain legible, in public view, and under continual
-counter-scrutiny. A vibrant discursive practice of textual exegesis is crucial
-for the preservation of whatever political ideals that demand a literate
-populace.
-
-[^ln-dna]: See @bok_xenotext_2011 and @bok_xenotext:_2015: "I have been
-striving to write a short verse about language and genetics, whereupon I use a
-'chemical alphabet' to translate this poem into a sequence of DNA for
-subsequent implantation into the genome of a bacterium (in this case, a
-microbe called *Deinococcus radiodurans*---an extremophile, capable of
-surviving, without mutation, in even the most hostile milieus, including the
-vacuum of outer space)."
-
-## Thesis and Scope
-
-*Plain Text* is a response to a particular situation of a literary scholar
-encountering the field of software engineering. For a long stretch of my
-professional life, these two areas of activity remained separate. I worked at
-one and I studied the other. At the time, I simply did not think that code had
-much to do with poetry. Initially, my two selves---the scholar and the
-engineer---spoke different languages. Reconciling them was and continues to be
-a disconcerting process by which things dear and familiar to me, in both
-worlds, grew strange and unfamiliar, showing themselves to be sometimes less
-than, and sometimes more than I comfortably expected. Nothing could be assumed
-from the start. Field specific language, down to its foundations, had to be
-examined for hidden assumptions that prevented dialog. With time, I saw that
-code and poetry have much to do with one another. Writing this book has taught
-me to embrace the remaining incongruence.
-
-The idea for this book came in a moment of realization, after I was asked one
-of those seemingly naive but fundamental questions that can set research in
-motion down a long and winding path.
-
-A childhood friend who shares a love for reading asked why he could not lend
-me a copy of the novel that he recently purchased from a major online
-retailer.[^ln0-amazon] In my struggle to answer, I realized that some of my
-deepest intuitions about literature relied on assumptions firmly attached to
-print media. Despite my professional experience as a programmer and academic
-training in literary studies, I could not readily explain the mechanisms by
-which electromagnetic charges transformed into pixels and pixels into words.
-Where to begin? To recount the passage of digital text, one had to know
-something about chip architecture, operating systems, file permissions,
-networking, and encryption. I could describe parts of that ecosystem, but my
-knowledge was also riddled with unexamined gaps. It did not amount to a
-coherent story.
-
-Worse yet, it quickly became apparent that these technical details affect all
-higher-level interpretive activity. To read together---to form a shared
-understanding of the text---we had convene on the same page, which was
-difficult because of imposed geographic restrictions. The text changed as it
-passed hands. I now had to draw on philology and sociology of literature to
-deal with textual variants, recensions, and authorship attribution. The
-digital text was more obviously entwined with its reception history: reader
-reviews and algorithmic recommendation engines. Despite the new copy it was
-marked and highlighted. It synchronized with other media like audio books and
-related television promotions. The work was pre-processed to privilege certain
-meanings and modes of comprehension.
-
-The task of "coming to terms" with these emergent contingencies entails an
-expansive research program, that could only be commenced here in part. The
-digital literary ecosystem is evolving rapidly. A historical approach to its
-development allows us to extrapolate its trajectory into the future.
-Crucially, the ecosystem is still in a nascent, formative state. Digital
-knowledge architectures have not yet congealed; they are still pliable. Their
-importance for our social institutions necessitate active commentary and
-experimentation, particularly by those readers most reliant on their eventual
-contours. Without it, we risk the dominion of what Langdon Winner has called
-"autonomous technology"---a condition by which adhoc complex systems begin to
-irrevocably determine our politics. "Modern people have filled the world with
-the most remarkable array of contrivances," Winner wrote. We are then
-surprised to find them resistant to change. "The human kind faces a woefully
-permanent bondage to the power of its own inventions," he concluded. And I
-hope, along with him, that it is still possible to "reconsider and
-reconstruct" those outcrops that in retrospect impoverish culture, to "learn
-and start again," and to retain the "prospect of liberation"
-[@winner_autonomous_1978, 335].
-
-[^ln0-amazon]: The retailer has since introduced a program that allows for
-limited sharing of materials, restricted by time and geography.
-
-To these ends, *Plain Text* tells a story of a major morphological shift
-affecting culture production in general and textuality in particular. Were I
-to interrupt a digital typist to ask---Where do these words reside?---I would
-likely receive several conflicting answers in response. In some sense, the
-words reside on screen, where they appear to view. In another sense, they live
-somewhere within the machine, on remote and hermeneutically sealed surfaces:
-silicone chips, hard drives, flash memory cards. Yet in another sense, visible
-signs are still further removed from the contexts of their production. The
-word is in the wires. It spreads across servers, routers, and data centers.
-One no longer reads or writes alone. What was once apparent now takes on a
-more complex shape, stretched across planes and temporalities. The book---this
-book, any book---gains a new shape. Digital texts form a live lattice---a
-multidimensional grid---which connects the letter's tactile response, at one's
-fingertips, to its optic and electromagnetic traces. In aggregate, these
-laminates incorporate the scaffolding of synthetic inscription. I cannot
-consequently pass a digital note to another, in the same sense that one passes
-notes in class, on paper. It is impossible to give the entire structure over.
-Text is irrevocably intertwined with its stratified material contexts; it
-means---it *becomes*---something else when recreated under conditions not
-fully congruent to my own.
-
-Much of contemporary anxiety about the intrusion of computational culture into
-the everyday can be traced to such fundamental reshaping of the sign. Its
-fracture leads to its multivalence. The lattice expands into the space between
-signs, where forces of capital and control intervene to monitor and
-monetize.[^ln-capital]
-
-Reflecting on the development of Morse Code in 1949 in the *Proceedings of the
-American Philosophical Society*, Frank Halstead mentioned the difficulty of
-finding a home in either the arts or sciences for what he called "code
-development." "It is a matter somewhat related to the general art of
-cryptology," he wrote, "yet it is not wholly divorced from electrical
-engineering nor from general philology" [@halstead_genesis_1949, 456]. As
-Halstead anticipated, research into codification has led me to a rich
-multidisciplinary archive of materials from the history of literary theory,
-semiotics, telegraphy, and electrical engineering from the middle of the
-nineteenth to the end of the twentieth century. That archive includes patents
-and technical manuals, formalist manifestos, studies of animal communication,
-human-computer interaction textbooks, as well as foundational texts in
-aesthetics and literary theory.
-
-I deploy the archive to argue that extant theories of interpretation evolved
-under conditions tied to static print media. By contrast, digital text changes
-dynamically to suit its reader, political context, and geography.
-Consequently, I advocate for the development of *computational poetics*: a
-strategy of interpretation capable of reaching past surface content to reveal
-platforms and infrastructures that stage the construction of meaning. Where
-"distant reading" and cultural analytics perceive patterns across large-scale
-corpora, computational poetics breaks textuality down into its minute,
-microscopic even, constituent components.
-
 I appeal to the idea of "plain text" in the title of this book to signal an
 affinity with a particular mode of computational meaning-making. Plain text
 identifies a file format and a frame of mind. As a file format, it contains
@@ -231,52 +91,160 @@ DRM may subsequently prevent the reader from copying or sharing stored
 content, even for the purposes of academic study.[^ln-dmca] In some
 situations, it may report the reader's activity to the authorities. Attempts
 to silence print through book burning or censorship are viscerally apparent.
-Unlike these, the dominion of computation proceeds by clandestine means.
-Textual composites preserve the outward appearance of print, while concealing
-the material specifics of their production and distribution.
+Textual laminates extend the reach of governance covertly. Their composition
+thus requires concerted explication.
 
-I am hence particularly aware that the history of digital text reflects the
-legacy of European and later North American colonialism. The treaties that
-negotiated early character encodings initially did so in the dominant
-diplomatic languages, French and English
-[@international_telegraph_union_documents_1865]. More modern character
-encodings like the UTF-8, have since attempted to rectify historical
-inequities. The challenge and consequence of the book will be in exposing such
-naturalized ideological contingencies. That is not to say that epistemic
-things, our phones and computers, can ever become wholly known or fully
-transparent. But neither should they remain out of reach. We must insist on
-dragging them into a dialectic, by which ideals reify and align with specific
-technological commitments.
+Machine instruction embodies governance. To speak truth to power---to retain a
+civic potential for critique---we must therefore perceive the mechanisms of
+its codification. Critical theory cannot otherwise endure apart from material
+contexts of textual production, which today emanate from the fields of
+computer science and software engineering. Conversely, a tighter coupling with
+the critical tradition can reveal technology's often occluded political
+implications. To create a novel algorithm that predicts crime by analyzing
+one's reading habits, for example, is also to invite the dystopian possibility
+of thought policing, unless, that is, such algorithms remain legible, in
+public view, and under continual counter-scrutiny. A vibrant discursive
+practice of textual exegesis is crucial for the preservation of whatever
+ideals that demand a literate populace.
 
-It is easy to forget the blunt effectiveness of physical control in the global
-North-west. Books that are burned or redacted cannot be read at all.
-Elsewhere, inequities of access to knowledge compel readers to print their own
-books and build their own libraries. Witness the so-called "shadow libraries"
-of Eastern Europe and Central Asia, the street book vendors of India and
-Pakistan, and the gray market presses of Nigeria arising from the country's
-"book famine"[@mahmood_copyright_2005; @okiy_photocopying_2005;
-@liang_piracy_2009; @bodo_short_2014; @nkiko_book_2014; @_elsevier_2015]. More
-than mere piracy, such *samizdat*-like practices preserve the literary sphere
-[@tenen_book_2014]. Informal book exchange networks create reading publics
-that own the means of textual production and dissemination. Under duress,
-readers build homemade knowledge infrastructures: they duplicate, distribute,
-catalog, and archive.
+[^ln-dna]: See @bok_xenotext_2011 and @bok_xenotext:_2015: "I have been
+striving to write a short verse about language and genetics, whereupon I use a
+'chemical alphabet' to translate this poem into a sequence of DNA for
+subsequent implantation into the genome of a bacterium (in this case, a
+microbe called *Deinococcus radiodurans*---an extremophile, capable of
+surviving, without mutation, in even the most hostile milieus, including the
+vacuum of outer space)."
 
-By contrast, in wealthier economies, such infrastructures are commodified.
-Readers consequently receive the material contexts of their meaning-making
-passively. The costs of knowledge production and barriers to its distribution
-disappear from view. For many readers, technologies that support reading,
-writing, and interpretation further pass from tools to fetish. No longer
-comprehensible by the way of pen or printing press we imbue them with magical
-powers. Thus we exist in the state of profound alienation from mechanisms
-closest to our mental activity. We read electronic books as they read us,
-without depth or understanding.
+## Thesis and Scope
+
+*Plain Text* is a response to a particular situation of a literary scholar
+encountering the field of software engineering. For a long stretch of my
+professional life, these two areas of activity remained separate. I worked at
+one and I studied the other. At the time, I simply did not think that code had
+much to do with poetry. Initially, my two selves---the scholar and the
+engineer---spoke different languages. Reconciling them was and continues to be
+a disconcerting process by which things dear and familiar to me, in both
+worlds, grew strange and unfamiliar, showing themselves to be sometimes less
+than, and sometimes more than I comfortably expected. Nothing could be assumed
+from the start. Field specific language, down to its foundations, had to be
+examined for hidden assumptions that prevented dialog. With time, I saw that
+code and poetry have much to do with one another. Writing this book has taught
+me to embrace the remaining incongruence.
+
+The idea for *Plain Text* came in a moment of realization, after I was asked
+one of those seemingly naive but fundamental questions that can set research
+in motion down a long and winding path.
+
+A childhood friend who shares a love for reading asked why he could not lend
+me a copy of the novel that he recently purchased from a major online
+retailer.[^ln0-amazon] In my struggle to answer, I realized that some of my
+deepest intuitions about literature relied on assumptions firmly attached to
+print media. Despite my professional experience as a programmer and academic
+training in literary studies, I could not readily explain the mechanisms by
+which electromagnetic charges transformed into pixels and pixels into words.
+Where to begin? To recount the passage of digital text, one has to know
+something about chip architecture, operating systems, file permissions,
+networking, and encryption. I could describe parts of that ecosystem, but my
+knowledge was also riddled with unexamined gaps. It did not amount to a
+coherent story.
+
+Worse yet, it quickly became apparent that these technical details affect all
+higher-level interpretive activity. To read together---to form a shared
+understanding of a text---we had convene on the same page, which was made
+difficult in our case by imposed geographic restrictions. The text changed as
+it passed hands. I now had to draw on philology and sociology of literature to
+reflect on textual variants, recensions, and authorship attribution. Digital
+text was more obviously entwined with its reception history: reader reviews
+and algorithmic recommendation engines. Despite the new copy, it was marked
+and highlighted. It synchronized with other media like audio books and related
+television promotions. The work was pre-processed, in both technical and
+social senses of the word, to privilege certain meanings and modes of
+comprehension.
+
+The task of "coming to terms" with these emergent contingencies entails an
+expansive research program, that could only be commenced here in part. The
+digital literary ecosystem is evolving rapidly. A historical approach to its
+development allows us to extrapolate its trajectory into the future.
+Crucially, digital knowledge architectures have not yet congealed. They are
+still pliable, still in their formative state. Their importance for our social
+institutions necessitate active commentary and experimentation. Without it, we
+risk the dominion of what Langdon Winner has called "autonomous
+technology"---a condition by which complex systems begin to irrevocably
+determine our politics. "Modern people have filled the world with the most
+remarkable array of contrivances," Winner wrote. We are then surprised to find
+them resistant to change. "The human kind faces a woefully permanent bondage
+to the power of its own inventions," he concluded. And I hope, along with him,
+that it is still possible to "reconsider and reconstruct" those outcrops that
+in retrospect impoverish culture, to "learn and start again," and to retain
+the "prospect of liberation" [@winner_autonomous_1978, 335].
+
+[^ln0-amazon]: The retailer has since introduced a program that allows for
+limited sharing of materials, restricted by time and geography.
+
+To these ends, *Plain Text* tells a story of a major morphological shift
+affecting cultural production, particularly as it relates to the mechanics of
+writing. Were I to interrupt a digital typist to ask---Where do these words
+reside?---I would likely receive several conflicting answers in response. In
+some sense, the words are on screen, where they appear to view. In another
+sense, they are somewhere within the machine, on remote and hermeneutically
+sealed surfaces: silicone chips, hard drives, flash memory cards. Yet in
+another sense, visible signs are still further removed from the contexts of
+their production. The word is in the wires. It spreads across servers,
+routers, and data centers. One no longer reads or writes alone. What was once
+apparent now takes on a more complex shape, stretched across planes and
+temporalities. The book---this book, any book---gains a new shape. Digital
+texts form a live lattice---a multidimensional grid---which connects the
+letter's tactile response, at one's fingertips, to its optic and
+electromagnetic traces. In aggregate, these laminates incorporate the
+scaffolding of synthetic inscription. I cannot consequently pass a digital
+note to another, in the same sense that one passes notes in class, on paper.
+It is impossible to give the entire structure over. Text is irrevocably
+intertwined with its stratified material contexts. It means---it
+*becomes*---something else when recreated under conditions not fully congruent
+to my own.
+
+Much contemporary anxiety about the intrusion of computational culture into
+the everyday can be traced to such fundamental reshaping of the sign. Its
+fracture leads to its multivalence. The lattice expands into spaces between
+signs, where forces of capital and control intervene to monitor and
+monetize.[^ln-capital]
+
+Reflecting on the development of Morse Code in 1949 in the *Proceedings of the
+American Philosophical Society*, Frank Halstead mentioned the difficulty of
+finding a home in either the arts or sciences for what he called "code
+development." "It is a matter somewhat related to the general art of
+cryptology," he wrote, "yet it is not wholly divorced from electrical
+engineering nor from general philology" [@halstead_genesis_1949, 456]. As
+Halstead anticipated, research into codification has led me to a rich
+multidisciplinary archive of materials from the history of literary theory,
+semiotics, telegraphy, and electrical engineering from the middle of the
+nineteenth to the end of the twentieth century. That archive includes patents
+and technical manuals, formalist manifestos, studies of animal communication,
+human-computer interaction textbooks, as well as foundational texts in
+aesthetics and literary theory.
+
+I deploy the archive to argue that extant theories of interpretation evolved
+under conditions tied to static print media. By contrast, digital text changes
+dynamically to suit its reader, political context, and geography.
+Consequently, I advocate for the development of *computational poetics*: a
+strategy of interpretation capable of reaching past surface content to reveal
+platforms and infrastructures that stage the construction of meaning. Where
+"distant reading" and cultural analytics perceive patterns across large-scale
+corpora, computational poetics breaks textuality down into its minute
+constituent components. It is a strategy of micro- rather than
+macro-analysis.[^ln-iarkho]
 
 ## Theory
 ### Displacement
 
-The book stems from a productive tension between media settlement and
-displacement.
+*Plain Text* is ultimately an exploration of remote yet intimate
+space.[^ln-space] It is thus inherently concerned with the dynamics of
+settlement and displacement, which frame the book's historical argument and
+form its theoretical underpinnings.
+
+[^ln-space]: I am influenced in this regard by the philosophical poetics of
+Gaston Bachelard and Henri Lefebvre, extended into the realm of everyday
+computation. See @lefebvre_production_1991; @bachelard_poetics_1994.
 
 I mean settlement in the way one lives among and within one's own notebooks,
 bookshelves, and archives. Smart toasters and electronic heart valves are
@@ -834,7 +802,7 @@ intelligence and its imitation.
 The passage from keystroke to pixel gives this book its shape. In the chapters
 to follow, our mobile phones and laptops will come fully into view as metaphor
 machines engendering ubiquitous simulation. The **second chapter** begins with
-an explication. What does it mean to turn a page, I ask, when neither the page
+an question. What does it mean to turn a page, I ask, when neither the page
 nor the action of turning it correspond to their implied analogies? The
 analysis of the metaphor helps trace the intellectual history of
 human-computer interaction, a field which progressed from "conversational
@@ -915,6 +883,48 @@ A short *conclusion* gestures towards the contemporary political consequences
 of the material covered, discussing also the possibility of machine
 phenomenology in relationship to humanism.
 
+## Perspective
+
+The history of digital text reflects the legacy of European and later North
+American colonialism. Treaties that negotiated early character encodings
+initially did so in the dominant diplomatic languages, French and English
+[@international_telegraph_union_documents_1865]. Even though modern character
+encodings like the UTF-8 render many more international scripts, the overall
+camber of digital literacy still skews towards English. Most programming
+languages, for example, are its derivatives. Speaking it is a requirement for
+professional practice. The challenge and consequence of the book will be in
+exposing such technological bias.
+
+It is easy to forget the blunt effectiveness of physical restraints to speech
+in the global North-west. Books that are burned or redacted cannot be read at
+all. Elsewhere, inequities of access to knowledge compel readers to print
+their own books and build their own libraries. Witness the so-called "shadow
+libraries" of Eastern Europe and Central Asia, the street book vendors of
+India and Pakistan, and the gray market presses of Nigeria arising from the
+country's "book famine"[@mahmood_copyright_2005; @okiy_photocopying_2005;
+@liang_piracy_2009; @bodo_short_2014; @nkiko_book_2014; @_elsevier_2015]. More
+than mere piracy, such *samizdat*-like practices preserve the literary sphere
+[@tenen_book_2014]. Informal book exchange networks create reading publics
+that own the means of textual production and dissemination. Under duress,
+readers build homemade knowledge infrastructures: they duplicate, distribute,
+catalog, and archive.
+
+By contrast, in wealthier economies, such infrastructures are commodified.
+Readers consequently receive the material contexts of their meaning-making
+passively. The costs of knowledge production and barriers to its distribution
+disappear from view. For many readers, technologies that support reading,
+writing, and interpretation further pass from tools to fetishes. They are
+swaddled in protective vestments and given a prominent place in the home. They
+are imbued with animate spirits. We form emotional rather than intellectual
+bonds with them, on aesthetic rather than ethical grounds. Thus we exist in a
+state of profound alienation from mechanisms closest to our mental activity.
+
+I look East and South, then, to see that whatever the technology, the choice
+to wield an epistemic thing---word processor or character set---is never
+neutral. Technology embodies power in non-obvious ways. One must thus insist
+on dragging it into a dialectic, by which ideals are shown to reify into
+specific technological commitments.
+
 <!--- NOTES  --->
 <!--- NOTES  --->
 <!--- NOTES  --->
@@ -965,19 +975,17 @@ strong proponent of such an approach. See @turner_death_1987 or
 [^ln-iarkho]: I borrow the term "microanalysis" from the largely forgotten in
 the West Russian literary scholar and member of the Moscow Linguistic Circle,
 Boris Iarkho. In his *Methodologies of Exact Literary Study* (circa 1935-6) he
-writes: "I understand 'atomism' as a sort of an ideal aspiration, as an
+wrote: "I understand 'atomism' as a sort of an ideal aspiration, as an
 orientation toward the liminally small. But under no circumstances do I
 advocate working with hypothetical quantities, like molecules, atoms,
 positrons, and so on, which are located beyond the limits of perception. That
 this applied mythology gave us such splendid results in chemistry, should not
-conceal its true nature. Tomorrow, all such explanations of visible through the
-invisible could give way to other hypotheses, as was the case with their no
-less fertile predecessors (elemental spirits, phlogiston, and light ether).
-But the cell, the nucleus, and the chromosome endure as lasting accomplishments
-of microanalysis. I suggest to move as far as a microscope can reach, and no
-further" [@iarkho_metodologia_2006, 363-364]. For Iarkho, the most
-quantitatively inclined of the Russian Formalists, microanalysis involved
-systematic application of statistical methods to the study of literature.
+conceal its true nature. Tomorrow, all such explanations of visible through
+the invisible could give way to other hypotheses, as was the case with their
+no less fertile predecessors (elemental spirits, phlogiston, and light ether).
+But the cell, the nucleus, and the chromosome endure as lasting
+accomplishments of microanalysis. I suggest to move as far as a microscope can
+reach, and no further" [@iarkho_metodologia_2006, 363-364].
 
 [^ln0-influences]: Works by Finn Brunton, Wendy Chun, Matthew Fuller, Alexander
 Galloway, Lisa Gitelman, Yuk Hui, Helen Nissenbaum, Lev Manovich, John Durham
