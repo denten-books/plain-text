@@ -8,8 +8,8 @@ Harvard's Comparative Literature department. Its publication was subsidized in
 part by Harvard Studies in Comparative Literature. Initial sketches of the
 book appeared in conversation with Aleksey Berg, Jacob Emory, Elena Fratto,
 Natalia and Ilya Kun, Anders Engberg-Pedersen, Guy Smoot, Simos Zeniou, and
-many others who made Dana-Palmer House their home away from home. The reader
-will recognize the influence of Svetlana Boym, Peter Gallison, Richard Moran,
+many others who made Dana-Palmer House their home away from home. Readers will
+recognize the influence of Svetlana Boym, Peter Gallison, Richard Moran,
 Elaine Scarry, William Todd, and Roberto Mangabeira Unger. Their thought was
 formative in the manuscript's early stages.
 
@@ -24,10 +24,10 @@ every chapter.
 
 The book came to fruition at Columbia University. Junior colleagues Ratik
 Asokan, Emily Fuhrman, Jessica Hallock, Tobias Pester, Phil Polefrone, and
-Zachary Roberts helped copyedit and gave insightful feedback. Senior
+Zachary Roberts helped gave line edits and insightful feedback. Senior
 colleagues Sarah Cole, Nick Dames, Michael Golston, Stathis Gourgouris,
 Marianne Hirsch, Jean Howard, Matt Jones, Sharon Marcus, Edward Mendelson,
-Frances Negrón-Muntaner Bruce Robbins, and Gayatri Spivak had a hand in
+Frances Negrón-Muntaner, Bruce Robbins, and Gayatri Spivak had a hand in
 individual chapters. The book became stronger with their guidance. Kaiama
 Glover, Marguerite Holloway, Bernard Harcourt, Matt Hart, Lydia Liu, Anupama
 Rao, Jesús R. Velasco, and Bill Worthen offered valuable advice. Columbia's
@@ -35,10 +35,10 @@ Comparative Media university seminar provided an important forum for several
 of the book's chapters, involving Stefan Andriopoulos, Noam Elcott, Brian
 Larkin, Reinhold Martin, Rosalind C. Morris, and Felicity Scott, among others.
 Columbia University Summer Grant Program in the Humanities and the Lenfest
-Junior Faculty Development Grant provided support in the concluding stages of
-manuscript preparation. Weekly meetings with members of the Experimental
-Methods Group---Alex Gil, Susanna Allés Torrent, Grant Wythoff, and
-others---grounded my thought in practice, among many inspiring projects.
+Junior Faculty Development Grant supported the concluding stages of manuscript
+preparation. Weekly meetings with members of the Experimental Methods
+Group---Alex Gil, Susanna Allés Torrent, Grant Wythoff, and others---grounded
+my thought in practice, among many inspiring projects.
 
 Manan Ahmed and Durba Mitra, both members of our co-presence writing group,
 deserve a special mention and my heartfelt gratitude. The last year-and-a-half
@@ -61,6 +61,5 @@ Matthew Fuller, Ray Siemens, and two other anonymous reviewers. I would like
 to thank Micah Siegel, COPYEDITOR NAME HERE, INDEXER NAME HERE, for their
 patience, hard work, and attention to detail.
 
-Finally, a book extracts its heaviest toll from those that are closest to the
-author. My family and my partner Yoora gave the time, space, and love
-required.
+Finally, a book extracts its heaviest toll from those closest to the author.
+My family and my partner Yoora gave it the needed time, space, and love.

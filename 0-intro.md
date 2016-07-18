@@ -606,9 +606,9 @@ activity, at the crossroads of computer science and the study of literature.
 Encoding matters because how texts are encoded, transmitted, and stored
 decides who gets to decode, receive, and access.
 
-The advent of simulated text necessitates a computational poetics, which
-enables unfettered access to text, code, platform, and infrastructure. For
-now, commands like *xxd*, *pcap*, *ssh*, and *traceroute* resemble arcane
+The advent of digital text necessitates a computational poetics, which enables
+unfettered access to text, code, platform, and infrastructure. For now,
+commands like *xxd*, *pcap*, *ssh*, and *traceroute* resemble arcane
 incantations that elicit hidden, symbolic action. Those who wield them gain
 the metaphorical power to "hop" across, to "sniff" packets, to "survey," to
 "traverse," and to "flood" network topographies. Computational poetics empower
