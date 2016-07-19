@@ -785,19 +785,18 @@ floating gate, and on towards the reader and the community. It is but one of
 many possible passes through a cavernous black box.
 
 At the core of the book's **first chapter** lies the notion of a modernist
-literary device, understood both as literary technique and a thought
-experiment about intelligent machines, directly connected to the birth of
-modern computing. A section on literary technique in the thought of Percy
-Lubbock, Walter Benjamin, and Mikhail Bakhtin opens the discussion.
-Materialist poetics rise concomitantly alongside a mechanistic, rule-based
-view of language. In this chapter I reconstruct a series of thought
-experiments first in the writing of Ludwig Wittgenstein, and then in Alan
-Turing's seminal paper on an imaginary computer capable of reading and
-writing. The verbs to read and to write imply a type of cognitive processing.
-What does it mean to read and to write for a machine? What about broken
-mechanisms of comprehension? At once a device and an algorithm, the Turing
-machine blurs the boundaries between software and hardware, code and content,
-intelligence and its imitation.
+literary device, understood both as literary technique and thought experiment
+about intelligent machines, directly connected to the birth of modern
+computing. A section on literary technique in the work of Percy Lubbock,
+Walter Benjamin, and Mikhail Bakhtin opens the discussion. Materialist poetics
+rise concomitantly alongside a mechanistic, rule-based view of language. In
+this chapter I reconstruct a series of thought experiments first in the
+writing of Ludwig Wittgenstein, and then in Alan Turing's seminal paper on an
+imaginary computer capable of reading and writing. The verbs to read and to
+write imply a type of cognitive processing.  What does it mean to read and to
+write for a machine? What about broken mechanisms of comprehension? At once a
+device and an algorithm, the Turing machine blurs the boundaries between
+software and hardware, code and content, intelligence and its imitation.
 
 The passage from keystroke to pixel gives this book its shape. In the chapters
 to follow, our mobile phones and laptops will come fully into view as metaphor

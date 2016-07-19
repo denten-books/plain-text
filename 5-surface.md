@@ -1,10 +1,10 @@
 # Chapter 5: Recondite Surfaces
 
 The scholar Wendy Hui Kyong Chun views magnetic storage as an "enduringly
-ephemeral" medium, which "creat[es] unforeseen degenerative links between humans
-and machines" [@chun_enduring_2008, 148]. If the floating gate transistor,
-where my text now lives, can be called enduring and ephemeral, I will call my
-liquid crystal display, where the text shows itself, fading and
+ephemeral" medium, which "creat[es] unforeseen degenerative links between
+humans and machines" [@chun_enduring_2008, 148]. If the floating gate
+transistor, where my text now lives, can be called enduring and ephemeral, I
+will call my liquid crystal display, where the text shows itself, fading and
 persistent.[^ln2-gate] This is not to suggest that digital text transcends its
 material contexts. Only to observe that it drifts from surface to surface,
 beyond the field of vision, in ways that erode trust its general permanence.
@@ -181,10 +181,10 @@ Advancing a self-professed "metaphysics of telegraph signalling alphabets," he
 described spatial writing symbols that "appeal to the eye," and temporal,
 "telephonic" signals that "appeal to the ear." Paradoxically, space signals
 (like words on a billboard) occupy little space, but persist in time. "For
-instance," Murray wrote, "a signboard may extend over 10 feet and 100 years" [@murray_setting_1905, 36].
-Time signals, by contrast, dilate in space where they contract in time. "A
-Morse signal in a wire may extend over half a second," Murray wrote, and 500
-miles [@murray_setting_1905, 86].
+instance," Murray wrote, "a signboard may extend over 10 feet and 100 years"
+[@murray_setting_1905, 36]. Time signals, by contrast, dilate in space where
+they contract in time. "A Morse signal in a wire may extend over half a
+second," Murray wrote, and 500 miles [@murray_setting_1905, 86].
 
 Physical structures like sentences and paragraphs that appear on a page take
 shape in the reader's mind. Unlike a painting, a paragraph cannot be perceived
@@ -226,10 +226,10 @@ human and machine languages.
 Writing in 1929 for the journal *American Speech*, Hervey Brackbill preserved
 some of the specialized language associated with Morse code culture. "Morse
 telegraphy is commonly referred to as a 'game,'" he wrote, "and the operator
-'works a wire.'" Operators tapping keys
-used "bugs," which where insect-like machines that had "long slender levers and
-springs." Bugs had trade names like "Lighting Bug," "Gold Bug," and "Cootie"
-(for a small model) [@brackbill_telegraphers_1929, 288].
+'works a wire.'" Operators tapping keys used "bugs," which where insect-like
+machines that had "long slender levers and springs." Bugs had trade names like
+"Lighting Bug," "Gold Bug," and "Cootie" (for a small model)
+[@brackbill_telegraphers_1929, 288].
 
 Operators using "straight keys" achieved speeds upwards of 25--30 words per
 minute, limited by the shortest possible length of the smallest transmitted
@@ -257,13 +257,13 @@ message and its recipient, the human posed a limiting factor.
 Telegraph operators working a "hand sender" often developed partial paralysis
 in their wrists or arms. The condition was commonly known as "glass arm"
 [@brackbill_telegraphers_1929, 288;
-@u.s._bureau_of_labor_statistics_displacement_1932]. Senders were called "hams"
-or "bums" when they "fell down" or made frequent errors
+@u.s._bureau_of_labor_statistics_displacement_1932]. Senders were called
+"hams" or "bums" when they "fell down" or made frequent errors
 [@brackbill_telegraphers_1929, 288]. To "put someone under the table" in
-sender's lingo was to transmit faster than a receiver could transcribe. The "reader" was "burnt up" when he fell
-behind. He had to "break," or interrupt the sender to ask for repetition
-[@brackbill_telegraphers_1929, 289]. To "paste" someone was to deliberately
-burn him up.[^ln4-men]
+sender's lingo was to transmit faster than a receiver could transcribe. The
+"reader" was "burnt up" when he fell behind. He had to "break," or interrupt
+the sender to ask for repetition [@brackbill_telegraphers_1929, 289]. To
+"paste" someone was to deliberately burn him up.[^ln4-men]
 
 [^ln4-men]: See @brackbill_telegraphers_1929, 288-9. Operators at the time
 were all almost exclusively male.
@@ -468,9 +468,9 @@ message and when? To understand the effects a message would have in
 transmission, one had to understand its encoding.
 
 For example, the Final Protocol to the Telegraph Regulations, ratified in
-Madrid in 1932 by the governments of more than seventy countries, included
-a special provision delineating the difference between transmitting "plain"
-and "secret" language. The protocols grouped "secret languages" into "code" and
+Madrid in 1932 by the governments of more than seventy countries, included a
+special provision delineating the difference between transmitting "plain" and
+"secret" language. The protocols grouped "secret languages" into "code" and
 "cypher" categories. "Plain language" was defined as words which present "an
 intelligible meaning in one or more of the languages authorised for
 international telegraph correspondence, each word and each expression having
@@ -505,17 +505,18 @@ alphabets.
 ![Goldberg's Control Cards [@goldberg_controller_1915].](images/control-2.png)
 
 "You must acknowledge that this is readable without special training," Hymen
-Goldberg wrote in the patent application for his 1911 Controller [@goldberg_controller_1915, sheet 3]. The device
-was made "to provide [a] mechanism operable by a control sheet which is legible
-to every person having sufficient education to enable him to read." In an
-illustration attached to his patent, Goldberg pictured a "legible control
-sheet [...] in which the control characters are in the form of the letters of
-the ordinary English alphabet" [@goldberg_controller_1915, 1]. Goldberg's
-perforations did the "double duty" of carrying human-readable content and
-mechanically manipulating machine "blocks," "handles," "terminal blades," and
-"plungers" [@goldberg_controller_1915, 1-4]. Unlike other schemas, messages in
-Goldberg's alphabet could be "read without special information," effectively
-addressing the problem of code's apparent unintelligibility.
+Goldberg wrote in the patent application for his 1911 Controller
+[@goldberg_controller_1915, sheet 3]. The device was made "to provide [a]
+mechanism operable by a control sheet which is legible to every person having
+sufficient education to enable him to read." In an illustration attached to
+his patent, Goldberg pictured a "legible control sheet [...] in which the
+control characters are in the form of the letters of the ordinary English
+alphabet" [@goldberg_controller_1915, 1]. Goldberg's perforations did the
+"double duty" of carrying human-readable content and mechanically manipulating
+machine "blocks," "handles," "terminal blades," and "plungers"
+[@goldberg_controller_1915, 1-4]. Unlike other schemas, messages in Goldberg's
+alphabet could be "read without special information," effectively addressing
+the problem of code's apparent unintelligibility.
 
 The inscription remained visible at the surface of Goldberg's control sheet,
 as a perforated figure, punched through the conduit. Whatever challenges punch
@@ -523,11 +524,12 @@ cards and ticker tape presented for readers, these were were soon complected
 by the advent of another medium, even more mute and inscrutable, the magnetic
 tape.
 
-## B. Laminates
+## B. Textual Laminates
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
-influential monograph that continues to shape the field of software studies [@chun_programmed_2011, 3]
+influential monograph that continues to shape the field of software studies
+[@chun_programmed_2011, 3]
 
 One could hardly call early programmable media ephemeral. Anecdotes circulate
 about Father Roberto Busa, an early pioneer of computational philology, who,
@@ -620,11 +622,11 @@ being used by "the sick, the infirm, [and] the aged":
 Anticipating the popularity of twenty-first century audio formats like
 podcasts and audio books, Fankhauser spoke of "tired and jaded" workers who
 would "sooth [themselves] into a state of restfulness" by listening to their
-favorite authors [@fankhauser_telegraphone_1909, 45]. Poulsen saw his "electric writing" emerge as "clear" and
-"distinct" as "writing by hand," "an absolutely legal and conclusive
-record."[@fankhauser_telegraphone_1909, 41] Where written language was lossy
-and reductive, electromagnetic signals, he hoped, would hold high fidelity to
-the original.
+favorite authors [@fankhauser_telegraphone_1909, 45]. Poulsen saw his
+"electric writing" emerge as "clear" and "distinct" as "writing by hand," "an
+absolutely legal and conclusive record."[@fankhauser_telegraphone_1909, 41]
+Where written language was lossy and reductive, electromagnetic signals, he
+hoped, would hold high fidelity to the original.
 
 In 1909, Fankhauser thought of magnetic storage as primarily an *audio*
 format, which combined the best of telegraphy and telephony. Magnetic *data*
@@ -651,7 +653,7 @@ was completed in 1950. Its "organization" ("architecture," one would say
 today) did away with punch cards and ticker tape, favoring instead an array of
 large electromagnetic drums along with reel-to-reel tape recorders. The drums,
 limited in their storage capacity, revolved at much faster speeds than tape
-reels. They were used for fast, temporary, internal storage.  The drums'
+reels. They were used for fast, temporary, internal storage. The drums'
 surface was coated with a "thin film composed of finely divided magnetic
 oxides of iron suspended in a plastic lacquer, and applied to the drums with
 an artist's air brush" [@staff_description_1952, 1]. Mark III employed

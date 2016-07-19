@@ -156,8 +156,8 @@ To reflect on the function of metaphor in everyday computation, consider the
 following passage from a patent filed by Xerox in 1991. It describes an
 "electronic library metaphor," which includes:
 
-> a shared books with data base metaphor, a reference books metaphor, and
-> a card catalog metaphor in one system that allows large object oriented data
+> a shared books with data base metaphor, a reference books metaphor, and a
+> card catalog metaphor in one system that allows large object oriented data
 > bases to be organized and accessed in an exclusive environment and in
 > addition allows access to screen icons, creates a visual hierarchy of
 > related and shared objects, and allows mutually exclusive access to the
@@ -290,15 +290,16 @@ vehicle.
 
 A number of patents from IBM, Xerox, and Microsoft similarly evoke the logics
 of structural metaphor and domain blending. Consider US Patent #5,907,854 by
-Paula J. Cox et.al. of International Business Machines. The invention describes
-"a library metaphor that allows a user to organize the online books in a manner
-that has meaning and utility." The authors continue to explain that while "the
-actual books may be stored in many separate and distinct locations [...] the
-bookcase provides a familiar classification system." Further, they write that
-the creation of bookcase metaphors must involve "the creation of appropriate
-links to the actual online book/bookshelf/bookcase." The "book metaphor"
-ultimately "provides an easy to understand and intuitive model for a user who
-might not be familiar with on-line viewing tools" [@cox_method_1999].
+Paula J. Cox et.al. of International Business Machines. The invention
+describes "a library metaphor that allows a user to organize the online books
+in a manner that has meaning and utility." The authors continue to explain
+that while "the actual books may be stored in many separate and distinct
+locations [...] the bookcase provides a familiar classification system."
+Further, they write that the creation of bookcase metaphors must involve "the
+creation of appropriate links to the actual online book/bookshelf/bookcase."
+The "book metaphor" ultimately "provides an easy to understand and intuitive
+model for a user who might not be familiar with on-line viewing tools"
+[@cox_method_1999].
 
 Another metaphor machine can be found in the collaboration between the
 influential product design firm IDEO and Xerox in the 1990s. The two worked on
@@ -646,7 +647,8 @@ portion of a charge translating device illustrating a preferred electrical
 contact arrangement. A quantum of charge carriers, representing an information
 bit [...] can be translated along the semiconductor [...] sweeping the
 minority carriers with it. The quantum can be detected by a simple capacitive
-couple, e.g., a floating gate FET" [@boyle_information_1974].](images/floating-gate.png)
+couple, e.g., a floating gate FET"
+[@boyle_information_1974].](images/floating-gate.png)
 
 Dissimulation is perhaps necessary, because the reading and writing of digital
 data can involve processes far outside of everyday experience. For example, in
@@ -682,19 +684,20 @@ domains, making the full extent of the dissimulating figure available for
 interpretation.
 
 What happens in the metaphorical transformation between a book---or any
-inscription---as cognitive artifact and the apparatus simulating that artifact?
-Estrangement, the exegesis of the metaphor, can help reveal the mechanisms of
-governance in the structural transference from one medium to another.
-Materialist poetics can subsequently allow one to consent, or, conversely,
-resist elements of imposed structure. That is not to say that meaning-making
-structures can ever become fully transparent or produce plain, unambiguous
-meaning. Unlike a cypher, the plain text is one that does not preclude the
-possibility of interpretation or misinterpretation. In the continuum between
-total legibility and illegibility, the digital texts that we read today occupy
-a space somewhere right of center. They are illegible in part. The simulation
-of print, the digital metaphor, decays rapidly with time. Archivists know this
-problem well: digital texts from the recent past can quickly become
-inaccessible as the software used to decode them itself passes into oblivion.
+inscription---as cognitive artifact and the apparatus simulating that
+artifact?  Estrangement, the exegesis of the metaphor, can help reveal the
+mechanisms of governance in the structural transference from one medium to
+another.  Materialist poetics can subsequently allow one to consent, or,
+conversely, resist elements of imposed structure. That is not to say that
+meaning-making structures can ever become fully transparent or produce plain,
+unambiguous meaning. Unlike a cypher, the plain text is one that does not
+preclude the possibility of interpretation or misinterpretation. In the
+continuum between total legibility and illegibility, the digital texts that we
+read today occupy a space somewhere right of center. They are illegible in
+part. The simulation of print, the digital metaphor, decays rapidly with time.
+Archivists know this problem well: digital texts from the recent past can
+quickly become inaccessible as the software used to decode them itself passes
+into oblivion.
 
 ## Mimesis
 

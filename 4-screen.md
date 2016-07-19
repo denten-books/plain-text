@@ -130,23 +130,23 @@ that is meant to take on the digital as a property: the digital wake.
 
 When we constrict the image-search to the twenty-first century, we see these
 cool-blue images give way to a more varied palette: bright prime greens,
-yellows, and reds in retro-geometric pixelated shapes. Pixels take the place of
-numbers here---not the small, invisible pixels of contemporary computer
-screens, but the large and boxy pixels that by their pronounced boxiness flaunt
-their digital being. These images allude to a time when pixels really did stand
-out as individual units, when technology was not refined enough to produce the
-illusion of visual continuity. This faux lo-fi aesthetic likely appeals to the
-romantic nostalgia many feel for the early days of computing, and yet it also
-asserts its independence from that history. No longer shall the digital serve
-to emulate reality, nor be judged merely by its degree of lifelike
-verisimilitude. The blocky world of Markus Persson's *Minecraft* (2011) stands
-in antithesis to the magical realism of Cyan's *Myst* (1993), the best-selling
-graphic-adventure PC game of the twentieth century. Where the critics lauded the latter for its moody and
-atmospheric photo-realistic environments, the former embraces the playful,
-8-bit, low-fidelity aesthetic of gaming consoles from the 1980s. The
-pseudo-pixelated world of Minecraft encourages its inhabitants to experiment
-with deconstruction, producing cuboid landscapes that foreground discontinuity
-of form and surface.
+yellows, and reds in retro-geometric pixelated shapes. Pixels take the place
+of numbers here---not the small, invisible pixels of contemporary computer
+screens, but the large and boxy pixels that by their pronounced boxiness
+flaunt their digital being. These images allude to a time when pixels really
+did stand out as individual units, when technology was not refined enough to
+produce the illusion of visual continuity. This faux lo-fi aesthetic likely
+appeals to the romantic nostalgia many feel for the early days of computing,
+and yet it also asserts its independence from that history. No longer shall
+the digital serve to emulate reality, nor be judged merely by its degree of
+lifelike verisimilitude. The blocky world of Markus Persson's *Minecraft*
+(2011) stands in antithesis to the magical realism of Cyan's *Myst* (1993),
+the best-selling graphic-adventure PC game of the twentieth century. Where the
+critics lauded the latter for its moody and atmospheric photo-realistic
+environments, the former embraces the playful, 8-bit, low-fidelity aesthetic
+of gaming consoles from the 1980s. The pseudo-pixelated world of Minecraft
+encourages its inhabitants to experiment with deconstruction, producing cuboid
+landscapes that foreground discontinuity of form and surface.
 
 Digital iconography works in another direction too, by approaching and
 challenging the perceived continuity of the analog world. Liquid-metal
@@ -295,15 +295,15 @@ based systems. A few technical details are necessary to understand how an
 argument about engineering designs gained a metaphysical significance.
 
 Telegraph systems based on direct current design converted electrical current
-flow into dashes, and the absence of current into dots.[^ln3-ndc] Systems based
-on alternating current designs converted Morse code (and other encoding
+flow into dashes, and the absence of current into dots.[^ln3-ndc] Systems
+based on alternating current designs converted Morse code (and other encoding
 systems) into pulses of alternating positive and negative current, where
 positive current could stand for "dashes" and negative for "dots." Direct
 current designs preferred the use of the "saw tooth" or "square" periodic
 waveforms to represent binary states. The signal was either "on" or "off" with
 nothing in between. By contrast, literature on alternating current designs
-often argued for the use of the more round, sinusoidal signal, which covered
-a more "organic" range of amplitudes. The sinusoidal wave could be modulated
+often argued for the use of the more round, sinusoidal signal, which covered a
+more "organic" range of amplitudes. The sinusoidal wave could be modulated
 into a multitude of states [@crehore_practical_1900; @hausmann_telegraph_1915,
 374]. Instead of being just "on" or "off" it offered measurable points of
 current intensity along the curve of the sine wave. Consequently, alternating
@@ -320,14 +320,15 @@ means of alternating current of two different polarities and two different
 strengths, for a total of four types of signals.[^ln3-siegert] Other than the
 irregular signal shape and the use of alternating current, the Pollak-Virag
 encoding differed little from single-Morse systems. By 1901, however, the
-authors were issued an American patent for the "Writing Telegraph," which built
-on their previous design in an interesting way.  Rather than using a wave in
-four steps, the authors proposed an "automatic transmitter [...] capable of
-sending current impulses over the line which correspond to the direction and
-the size of a single letter element" [@pollak_writing-telegraph_1901, 3]. In
-other words, they wanted to bend the sinusoidal wave to correspond roughly to
-the shape of the letter. In this way, the letter "s," to pick an easy example,
-could be transmitted by the means of an s-shaped wave.
+authors were issued an American patent for the "Writing Telegraph," which
+built on their previous design in an interesting way.  Rather than using a
+wave in four steps, the authors proposed an "automatic transmitter [...]
+capable of sending current impulses over the line which correspond to the
+direction and the size of a single letter element"
+[@pollak_writing-telegraph_1901, 3]. In other words, they wanted to bend the
+sinusoidal wave to correspond roughly to the shape of the letter. In this way,
+the letter "s," to pick an easy example, could be transmitted by the means of
+an s-shaped wave.
 
 ![Record obtained at the receiving station, illustration from "Means for
 Rapidly Transmitting Telegrams," 1900
@@ -344,17 +345,18 @@ Pollak-Virag encoding thus represented a continuous quality---cursive
 script---through discrete atomic elements, as punches that moved the writing
 stylus in cardinal directions---up, down, left, or right. It was not a purely
 analog device. The analogy was rather achieved through a process of discrete
-analytic atomization of script on ticker tape and its subsequent reconstitution
-into a continuous shape. The cardinal directions comprise an intermediate,
-discrete description of smooth handwriting curves. Pollak and Virag believed
-that their sine wave telegraph had the distinct advantage of transmitting
-messages "recorded in ordinary written or script characters." In the language
-of the patent, other forms of "facsimile" telegraph transmitted merely the
-"conventional form" of the letter, and not the letter itself, whereas the
-Pollak-Virag system was "non-autographic" [@pollak_writing-telegraph_1901, 1].
-The autographic telegraph preserved the particularity of the human hand. It
-purported to transmit the peculiarity of an individual's signature. It was the
-"humane" telegraph in the sense that it preserved a human trace.
+analytic atomization of script on ticker tape and its subsequent
+reconstitution into a continuous shape. The cardinal directions comprise an
+intermediate, discrete description of smooth handwriting curves. Pollak and
+Virag believed that their sine wave telegraph had the distinct advantage of
+transmitting messages "recorded in ordinary written or script characters." In
+the language of the patent, other forms of "facsimile" telegraph transmitted
+merely the "conventional form" of the letter, and not the letter itself,
+whereas the Pollak-Virag system was "non-autographic"
+[@pollak_writing-telegraph_1901, 1].  The autographic telegraph preserved the
+particularity of the human hand. It purported to transmit the peculiarity of
+an individual's signature. It was the "humane" telegraph in the sense that it
+preserved a human trace.
 
 The metaphysics accompanying telegraph communication at the time were in fact
 often concerned with human erasure. Notions of material discreteness and
@@ -463,15 +465,15 @@ essence. To claim otherwise would be to propagate the Gnostic heresy
 
 Where Bergson believed the telegraph to translate continuous "analog"
 experience into discrete "digital" snapshots, the Swedenborgian mystic saw it
-as a model of communication that maintained fidelity to the hidden order of
-a well-differentiated and discrete universe. Their intuitions were completely
+as a model of communication that maintained fidelity to the hidden order of a
+well-differentiated and discrete universe. Their intuitions were completely
 opposed. When arguing against sine-wave telegraphy in 1905, Donald Murray,
-whose alphabet would become the basis for modern character encodings like ASCII
-and UTF-8, displayed a similar bias against analog quantities, which, for him,
-could encode complex human activity like writing or dance. "About ten years ago
-there was a brisk discussion in some of the electrical journals in regard to
-the advantages of the simple harmonic curve or sine wave for the transmission
-of power by by the alternating current," he wrote.
+whose alphabet would become the basis for modern character encodings like
+ASCII and UTF-8, displayed a similar bias against analog quantities, which,
+for him, could encode complex human activity like writing or dance. "About ten
+years ago there was a brisk discussion in some of the electrical journals in
+regard to the advantages of the simple harmonic curve or sine wave for the
+transmission of power by by the alternating current," he wrote.
 
 > [I]f Smith wants to make Jones spin round like a dancing dervish, the best way
 > might be for Smith to transmit sine waves [...] but in practice, Smith always
@@ -845,9 +847,9 @@ logic one can reasonably maintain that the art of painting, unlike music or
 language, cannot be reduced to the production of discrete semantic units, and
 would be more of an analog system under the proposed definitions.
 
-In this light, the language of pointillist painting, which breaks shapes down into
-their modular atomic components, transforms an analog art form into into a
-digital one. Similarly, in the cuboid world of *Minecraft* the player
+In this light, the language of pointillist painting, which breaks shapes down
+into their modular atomic components, transforms an analog art form into into
+a digital one. Similarly, in the cuboid world of *Minecraft* the player
 interacts with blocks: the smallest differentiated units that constitute all
 other more complex things in the game. The world of *Minecraft* is sparse and
 therefore digital. By contrast, the world of the hyper-realistic *Myst*
@@ -1192,7 +1194,8 @@ it is also in our broadly human, civic interest to keep such mechanisms of
 constraint visible to view, under continual scrutiny of critical, close, and
 closest possible reading.
 
-[^ln3-ndc]: Also known as the "single current" or "single Morse" system. @welk_neutral_2000
+[^ln3-ndc]: Also known as the "single current" or "single Morse" system
+@welk_neutral_2000.
 
 [^ln3-current]: ITA-2 could also be adopted to work with "double current"
 devices, in which case 0 would represent "negative current" and 1 "positive
