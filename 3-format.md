@@ -146,7 +146,7 @@ counterparts, but they represent other, less familiar and nonequivalent
 ordering structures on disk.
 
 ![Data structures in the brain, on a page, on disk. Image adapted by Emily
-Fuhrman.](images/forms.png)
+Fuhrman.](images/figure-3-1.png)
 
 Formats mediate between data structures, transforming one into the other
 according to predefined rules. Mental image, information stored in the head,
@@ -918,7 +918,7 @@ distinguish between semantic and spatial units: words and their coordinates.
 These two separate streams of data are then stored in two discrete locations,
 in effect embodying the dichotomy between form and content.
 
-![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
+![EDIT Document Model, 1968 [@kaiman_computer-aided_1968,66].](images/figure-3-2.png)
 
 The creators of QED, another influential early text editor (made for the
 SDS-930 time-sharing system at Berkeley) similarly encouraged writers to
@@ -955,7 +955,7 @@ phrases, and strings in the input stream" [@berns_format_1968, 91;
 @berns_description_1969, 145].
 
 !["Portion of listing of input stream." The layout of paper citations in
-FORMAT [@berns_format_1968, 87].](images/format.png)
+FORMAT [@berns_format_1968, 87].](images/figure-3-3.png)
 
 In another formative paper from the history of contemporary textuality, Brian
 Kernighan and Joseph Ossanna described TROFF, a text processor written around
@@ -1092,7 +1092,7 @@ available document object taxonomy.[^ln3-river]
 meaningful, as in concrete poetry, for example.
 
 ![Method for extracting document structure based on "nearest-neighbor clustering
-of page components" [@ogorman_document_1993, 1164].](images/docstrum.png)
+of page components" [@ogorman_document_1993, 1164].](images/figure-3-4.png)
 
 Finally, we may describe *viewing* or *printing* a document as a chain of
 formatting operations that transform one type of concrete object, bits
@@ -1161,7 +1161,7 @@ reader and deep into the bowels of the machine.
 ![A zoomed out view of the connected OSI model. Single node structure on the
 left. Connected devices on the right. The user has access through the top-most
 (application) level, outermost to the network [@piatkowski_iso-ansi_1980,
-114-15].](images/osi.png)
+114-15].](images/figure-3-5.png)
 
 The Open Systems Interconnection (OSI) reference model of communication, for
 example, implemented in every computer including electronic book readers,
@@ -1279,10 +1279,10 @@ engagement without revealing them to the reader. The codified contract is in
 fact "tamper proof," itself resistant to access and therefore interpretation.
 
 !["Concatenated control data and AVI file in memory"
-[@benson_method_1998].](images/avi-control.png)
+[@benson_method_1998].](images/figure-3-6.png)
 
 !["Concatenated and encrypted control data and AVI file in memory"
-[@benson_method_1998].](images/avi-control2.png)
+[@benson_method_1998].](images/figure-3-7.png)
 
 The "managed" data object thus "concatenates" content and control code.
 Initially, the string of numbers "123456789..." is mixed with instructions for

@@ -217,7 +217,7 @@ in 1978 in his influential *Autonomous Technology* [@winner_autonomous_1978,
 
 !["Technology" and "technique," the relative frequency of occurrence in the
 Google Books n-gram corpus [@michel_quantitative_2011]. Illustration adapted by Emily
-Fuhrman.](images/technology_chart.png)
+Fuhrman.](images/figure-1-1.png)
 
 Seen in this light, the pre-WWII concern with literary technique anticipates
 the post-war turn towards technology as a field of cultural analysis. Before
@@ -815,7 +815,7 @@ grooves of a music roll.
 
 ![Electrically operated musical instrument by Clyde Coleman of Chicago, Il.
 1914, US1107495A [@coleman_electrically-operated_1914, 1]. Wittgenstein
-returns to the image of pianola throughout his writings.](images/pianola.png)
+returns to the image of pianola throughout his writings.](images/figure-1-2.png)
 
 This sort of a rigid correspondence seems to bring us closer to solving the
 challenge of "proper" interpretation. But, like the other, less exacting,

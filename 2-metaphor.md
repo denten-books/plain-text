@@ -197,10 +197,10 @@ cognitive metaphor theory all figurative tropes of comparison---hyperbole,
 metonymy, synecdoche, or simile---fall under the category of metaphor.
 
 !["An exemplary interface for viewing a three dimensional book."
-[@card_methods_2006, 3]](images/book-metaphor.png)
+[@card_methods_2006, 3]](images/figure-2-1.png)
 
 !["Alternate display techniques for information about a big book."
-[@card_methods_2006,4]](images/book-3d.png)
+[@card_methods_2006,4]](images/figure-2-2.png)
 
 In the cognitive view, the metaphor performs a number of "conventional
 mappings from one domain to another" [@lakoff_contemporary_1998, 239]. Lakoff
@@ -648,7 +648,7 @@ contact arrangement. A quantum of charge carriers, representing an information
 bit [...] can be translated along the semiconductor [...] sweeping the
 minority carriers with it. The quantum can be detected by a simple capacitive
 couple, e.g., a floating gate FET"
-[@boyle_information_1974].](images/floating-gate.png)
+[@boyle_information_1974].](images/figure-2-3.png)
 
 Dissimulation is perhaps necessary, because the reading and writing of digital
 data can involve processes far outside of everyday experience. For example, in
@@ -963,7 +963,7 @@ way that a user can assume that they, in some sense, *are* the things they
 refer to" [@hutchins_direct_1986, 110].
 
 !["ViewPoint screen image." On screen menus for the Xerox 6085 Daybreak
-workstation, 1985 [@johnson_xerox_1989, 13].](images/xerox_star.png)
+workstation, 1985 [@johnson_xerox_1989, 13].](images/figure-2-4.png)
 
 The principles of direct interaction that emerge in the 1980s stood against
 what Laurel called the "ill-formed" presence of the mediator, in the
