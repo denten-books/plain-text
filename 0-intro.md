@@ -877,47 +877,6 @@ A short *conclusion* gestures towards the contemporary political consequences
 of the material covered, discussing also the possibility of machine
 phenomenology in relationship to humanism.
 
-## Perspective
-
-The history of digital text reflects the legacy of European and later North
-American colonialism. Treaties that negotiated early character encodings
-initially did so in the dominant diplomatic languages, French and English
-[@international_telegraph_union_documents_1865]. Even though modern character
-encodings like the UTF-8 render many more international scripts, the overall
-camber of digital literacy still skews towards English. Most programming
-languages, for example, are its derivatives. Speaking it is a requirement for
-professional practice. The challenge and consequence of the book will be in
-exposing such technological bias.
-
-It is easy to forget the blunt effectiveness of physical restraints to speech
-in the global North-west. Books that are burned or redacted cannot be read at
-all. Elsewhere, inequities of access to knowledge compel readers to print
-their own books and build their own libraries. Witness the so-called "shadow
-libraries" of Eastern Europe and Central Asia, the street book vendors of
-India and Pakistan, and the gray market presses of Nigeria arising from the
-country's "book famine"[@mahmood_copyright_2005; @okiy_photocopying_2005;
-@liang_piracy_2009; @bodo_short_2014; @nkiko_book_2014; @_elsevier_2015]. More
-than mere piracy, such *samizdat*-like practices preserve the literary sphere
-[@tenen_book_2014]. Informal book exchange networks create reading publics
-that own the means of textual production and dissemination. Under duress,
-readers build homemade knowledge infrastructures: they duplicate, distribute,
-catalog, and archive.
-
-By contrast, in wealthier economies, such infrastructures are commodified.
-Readers consequently receive the material contexts of their meaning-making
-passively. The costs of knowledge production and barriers to its distribution
-disappear from view. For many readers, technologies that support reading,
-writing, and interpretation further pass from tools to fetishes. They are
-swaddled in protective vestments and given a prominent place in the home. They
-are imbued with animate spirits. We form emotional rather than intellectual
-bonds with them, on aesthetic rather than ethical grounds. Thus we exist in a
-state of profound alienation from mechanisms closest to our mental activity.
-
-I look East and South, then, to see that whatever the technology, the choice
-to wield an epistemic thing---word processor or character set---is never
-neutral. Technology embodies power in non-obvious ways. One must thus insist
-on dragging it into a dialectic, by which ideals are shown to reify into
-specific technological commitments.
 
 <!--- NOTES  --->
 <!--- NOTES  --->

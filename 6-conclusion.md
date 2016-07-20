@@ -207,7 +207,7 @@ and heart implant. Against this rhythm, we advance a computational poetics,
 the study of temporal arrangements: prosody, meter, enjambment, dissonance, and
 syncopation.
 
-## Parting Perspectives
+## Perspectives
 
 A history of digital text undoubtedly reflects the legacy of European and
 later North American colonialism. Treaties that negotiated early character
