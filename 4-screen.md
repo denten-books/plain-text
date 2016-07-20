@@ -590,7 +590,7 @@ screen.[^ln3-mishima]
 
 !["A method for controlling the passage of radiation through a material
 medium" [@land_light_1934. See also @reinitzer_beitrage_1888 and
-@lehmann_flussige_1906].](images/figure-4-3.png)
+@lehmann_flussige_1906].](images/figure-4-2.png)
 
 In addition to filtering light, modern displays also flicker at a precisely
 calibrated rate. What we observe as a static image on screen, is in reality a
