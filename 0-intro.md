@@ -791,7 +791,7 @@ computing. A section on literary technique in the work of Percy Lubbock,
 Walter Benjamin, and Mikhail Bakhtin opens the discussion. Materialist poetics
 rise concomitantly alongside a mechanistic, rule-based view of language. In
 this chapter I reconstruct a series of thought experiments first in the
-writing of Ludwig Wittgenstein, and then in Alan Turing's seminal paper on an
+writing of Ludwig Wittgenstein and then in Alan Turing's seminal paper on an
 imaginary computer capable of reading and writing. The verbs to read and to
 write imply a type of cognitive processing.  What does it mean to read and to
 write for a machine? What about broken mechanisms of comprehension? At once a
@@ -800,58 +800,53 @@ software and hardware, code and content, intelligence and its imitation.
 
 The passage from keystroke to pixel gives this book its shape. In the chapters
 to follow, our mobile phones and laptops will come fully into view as metaphor
-machines engendering ubiquitous simulation. The **second chapter** begins with
-an question. What does it mean to turn a page, I ask, when neither the page
-nor the action of turning it correspond to their implied analogies? The
-analysis of the metaphor helps trace the intellectual history of
-human-computer interaction, a field which progressed from "conversational
-programming" to the "direct manipulation" paradigm shaped by theories of
-cognitive metaphor and immersive theater. The logic of "directness" leads to
-the rapidly developing field of brain-computer interfaces. The chapter
-concludes with a moment of speculative formalism, in which I consider the
-possibility of affective literature, of the kind that eschews language and
-representation.
+machines engendering ubiquitous simulation. The *second chapter* begins with a
+question. What does it mean to turn a page, I ask, when neither pages nor the
+action of turning them correspond to the implied analogy? A close reading of
+the metaphor leads to an intellectual history of human-computer interaction.
+It progresses from "conversational programming" to "direct manipulation"
+schools, the latter shaped by theories from cognitive linguistics and
+immersive theater.  The logic of "directness" culminates in the rapidly
+developing field of brain--computer interfaces. The chapter concludes with a
+moment of speculative formalism, in which I consider the possibility of
+affective literature, of the kind that eschews language and representation.
 
-Two rich intellectual histories collide in the **third chapter**: one, the
-material history of format as a concept in computer science and the other, the
-intellectual history of form in literary theory. I show formatting as a
-process that mediates between the text's intrinsic rules for construction and
-its extrinsic shape, transforming one type of structure, a series of bits
-arranged into tracks and sectors, into another, letters arranged into
-sentences and paragraphs. I then draw a short history of text formats. It
-begins with several "control characters" limited in function to actions like
-"carriage return" or "stop transmission." With time, formats begin to
-encompass all manner of machine instruction, including legal instrument to
-enforce digital rights management and copy protection. A manufacturer's
-ability to censor or to surveil digital text is contained within the
-formatting layer: from electronic books that modify themselves to suit the
-reader's geographic location to "smart contracts" that contain the rules of
-their own execution.
+Two rich intellectual histories collide in the third chapter: form in literary
+theory and format in computer science. I show formatting as a process that
+mediates between a text's intrinsic rules for construction and its extrinsic
+shape, transforming one type of structure, a series of bits arranged into
+tracks and sectors, into another, letters arranged into sentences and
+paragraphs. I then draw a short history of text formats. It begins with
+several "control characters" limited in function to actions like "carriage
+return" or "stop transmission." With time, formats begin to encompass all
+manner of machine instruction, including legal instrument to enforce digital
+rights management and copy protection. A manufacturer's ability to censor or
+to surveil digital text is contained within the formatting layer: from
+electronic books that modify themselves to suit the reader's geographic
+location to "smart contracts" that contain the rules of their own execution.
 
-The **fourth chapter** charts the emergence of screen reading. Screens appear
-to restore a measure of visibility lost in electromagnetic inscription, with
-one major side-effect. They cannot guarantee fidelity between the word visible
-and the word archived. The inscription shown can only attain a arbitrary
-correlation to the inscription archived. Screen reading further happens on
-screens that refresh themselves at a rate of around 60 cycles per second
-(Hertz). The digital word is technically an animation; it moves even as it
-appears to stand still. This property of the medium attunes the reader to a
-particular mode of apprehension, affecting not just the physics but also the
-aesthetics of digital media. Works by the philosophers Henri Bergson, John
-Haugeland, and Nelson Goodman help construct a phenomenology of screen-based
-digital perception. The digital emerges ultimately not as an intrinsic
-property of the medium, but as structure imposed from without. In the extreme,
-that means that a censored *electronic* text can form a perfectly *analog*
-artifact, despite being digital in all other senses of the word. Conversely,
-texts in print are already "born digital," in the sense that literary works
-like Shakespeare's *Hamlet* are amenable to "reliable processes of copying and
-preservation" [@haugeland_analog_1981, 213-225]. Properties that make media
-"digital" or "analog" reveal themselves to be neither universal nor essential
-to the medium. The medium is not the message. "The reliability and
-preservation of textual copies" may mean one thing to a literary scholar,
-another to a software engineer or a legal professional, and something entirely
-different to a librarian, I argue in the conclusion of the chapter. It matters
-not what the medium is, but what we can do with the text.
+The **fourth chapter** charts the emergence of screen reading. Screens restore
+a measure of visibility lost to electromagnetic inscription, with one major
+side-effect. Fidelity between visible and archived inscription cannot be
+guaranteed. Screen reading further happens on screens that refresh themselves
+at a rate of around 60 cycles per second (Hertz). The digital word is
+technically an animation; it moves even as it appears to stand still. This
+property attunes the reader to a particular mode of apprehension, affecting
+not just the physics but also the aesthetics of digital media. Works by
+philosophers Henri Bergson, John Haugeland, and Nelson Goodman construe a
+phenomenology of screen-based digital perception. The digital emerges
+ultimately not as a medium's intrinsic property, but structure imposed from
+without. In the extreme, that means that a censored *electronic* text can form
+a perfectly *analog* artifact, despite being digital in all other senses of
+the word. Conversely, texts in print are already "born digital," in the sense
+that literary works like Shakespeare's *Hamlet* are amenable to "reliable
+processes of copying and preservation" [@haugeland_analog_1981, 213-225].
+Properties that make media "digital" or "analog" reveal themselves to be
+neither universal nor essential to the medium. The medium is not the message.
+"Reliability and preservation of textual copies" may mean one thing to a
+literary scholar, another to a software engineer or a legal professional, and
+something entirely different to a librarian, I argue in the conclusion of the
+chapter. It matters not what the text is, but what we can do with it.
 
 The **fifth and final chapter** begins with a discussion of an apparent
 paradox. A camp of media theorists and textual scholars in the 1990s conceived
@@ -862,10 +857,10 @@ weighty materiality of electronic media. Reading began to engage the
 morphology of rare metals, media archaeology, hard drive forensics. Both
 accounts, I argue, capture an aspect of the same underlying condition. The
 perceived image of an archived inscription splits from its source. The sign
-plausibly resides both on screen and on hard drive. It fractures, in some real
+plausibly resides both on screen and hard drive. It fractures, in some real
 sense, diverging at the site its projection from the site of the archive.
-Using archival materials from the history of telegraphy in the late nineteenth
-and early twentieth centuries, I chart the gradual fracture and the ultimate
+Using materials from the history of telegraphy in the late nineteenth and
+early twentieth centuries, I chart the gradual fracture and the ultimate
 illegibility of the newly composite sign. Early computers stored
 human-readable text and machine instruction at the surface of the same storage
 media like punch cards and ticker tape. Although difficult to read, these

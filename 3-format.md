@@ -165,10 +165,10 @@ The history of formalism, as I will argue, contains within it at least these
 two contradictory intuitions about the nature of literary form. Going back to
 the reception of Plato, Hegel, and the Russian formalists, the English "form"
 renders at times the material, outward, and apparent shape of something said,
-written, or pictured. Yet just as often, critics use "form" in the sense of a
-Platonic ideal: abstracted from matter, inward-facing, and in need of
-explication. Form in the latter sense is closer to the idea of an algorithm or
-formula: it signifies according to implicit rules.
+written, or pictured. Just as often, it is used in the sense of a Platonic
+ideal: abstracted from matter, inward-facing, and in need of explication. Form
+in the latter sense is closer to the idea of an algorithm or formula: it
+signifies according to implicit rules.
 
 I would like to augment these two concepts of form with a third, format. In
 the process, I will show how formats have developed from simple machine
