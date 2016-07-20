@@ -330,11 +330,7 @@ sinusoidal wave to correspond roughly to the shape of the letter. In this way,
 the letter "s," to pick an easy example, could be transmitted by the means of
 an s-shaped wave.
 
-![Record obtained at the receiving station, illustration from "Means for
-Rapidly Transmitting Telegrams," 1900
-[@pollak_means_1900].](images/figure-4-1.png)
-
-![Writing Telegraph, 1901 [@pollak_writing-telegraph_1901].](images/figure-4-2.png)
+![Writing Telegraph, 1901 [@pollak_writing-telegraph_1901].](images/figure-4-1.png)
 
 The Pollak-Virag design thus aimed to constitute an electrical alphabet
 analogous to cursive writing: "to trace in a substantially continuous unbroken

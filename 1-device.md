@@ -206,7 +206,7 @@ The notion of technology itself does not fully find its place in the critical
 literature until the 1950-1970s, judging by the rash of titles like Martin
 Heidegger's *Die Frage nach der Technik* (1954), Jacques Ellul's *La technique
 ou l'enjeu du siècle* (1954), Lynn White's *Medieval Technology and Social
-Change* (1966), and Viktor Fekiss's *The Technological Man* (1969). Calling
+Change* (1966), and Viktor Fekiss's *The Technological Man* (1969).[^ln1-tech] Calling
 for the institution of a new field in 1959, the editors of the inaugural issue
 of the journal *Technology and Culture* would write about the "neglect of
 the study of technology" amidst a body of extant work that has "scarcely
@@ -215,9 +215,9 @@ constituted" a systematic scholarly discipline [@kranzberg_at_1959, 5-6].
 in 1978 in his influential *Autonomous Technology* [@winner_autonomous_1978,
 4].
 
-!["Technology" and "technique," the relative frequency of occurrence in the
-Google Books n-gram corpus [@michel_quantitative_2011]. Illustration adapted by Emily
-Fuhrman.](images/figure-1-1.png)
+[^ln1-tech]: *Technology* overtakes *technique* around 1979, judging by the
+relative frequency of occurrence in the Google Books n-gram corpus
+[@michel_quantitative_2011].
 
 Seen in this light, the pre-WWII concern with literary technique anticipates
 the post-war turn towards technology as a field of cultural analysis. Before
@@ -815,7 +815,8 @@ grooves of a music roll.
 
 ![Electrically operated musical instrument by Clyde Coleman of Chicago, Il.
 1914, US1107495A [@coleman_electrically-operated_1914, 1]. Wittgenstein
-returns to the image of pianola throughout his writings.](images/figure-1-2.png)
+returns to the image of pianola throughout his
+writings.](images/figure-1-1.png)
 
 This sort of a rigid correspondence seems to bring us closer to solving the
 challenge of "proper" interpretation. But, like the other, less exacting,

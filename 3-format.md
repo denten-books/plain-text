@@ -1278,11 +1278,9 @@ by its creator. Crucially, the smart document can enforce the rules of
 engagement without revealing them to the reader. The codified contract is in
 fact "tamper proof," itself resistant to access and therefore interpretation.
 
-!["Concatenated control data and AVI file in memory"
-[@benson_method_1998].](images/figure-3-6.png)
-
-!["Concatenated and encrypted control data and AVI file in memory"
-[@benson_method_1998].](images/figure-3-7.png)
+!["Control data and AVI file in memory. Concatenated control data and
+AVI file. Concatenated and encrypted control data and AVI file."
+[@benson_method_1998, 1].](images/figure-3-6.png)
 
 The "managed" data object thus "concatenates" content and control code.
 Initially, the string of numbers "123456789..." is mixed with instructions for
