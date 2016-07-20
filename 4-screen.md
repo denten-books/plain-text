@@ -332,9 +332,9 @@ an s-shaped wave.
 
 ![Record obtained at the receiving station, illustration from "Means for
 Rapidly Transmitting Telegrams," 1900
-[@pollak_means_1900].](images/virag-wave.png)
+[@pollak_means_1900].](images/figure-4-1.png)
 
-![Writing Telegraph, 1901 [@pollak_writing-telegraph_1901].](images/virag.png)
+![Writing Telegraph, 1901 [@pollak_writing-telegraph_1901].](images/figure-4-2.png)
 
 The Pollak-Virag design thus aimed to constitute an electrical alphabet
 analogous to cursive writing: "to trace in a substantially continuous unbroken
@@ -592,10 +592,9 @@ screen.[^ln3-mishima]
 
 [^ln3-mishima]: See @mishima_novel_2004.
 
-![Liquid crystal in phase transition between polarizers. Schlieren texture
-characteristic nematic phase to the left, and circular focal conic domains in
-the smectic phase to the right. Image licensed under CC-BY-SA 3.0
-[@polimerek_smectic_2004].](images/liquid.jpg)
+!["A method for controlling the passage of radiation through a material
+medium" [@land_light_1934. See also @reinitzer_beitrage_1888 and
+@lehmann_flussige_1906].](images/figure-4-3.png)
 
 In addition to filtering light, modern displays also flicker at a precisely
 calibrated rate. What we observe as a static image on screen, is in reality a
@@ -652,7 +651,7 @@ gaps to create the illusion of smooth movement sideways. This makes us good at
 anticipating the trajectory of laterally moving objects, another likely
 adaptation that favors self-defense and hunting. But beyond some threshold,
 and particularly when things move rapidly up and down, the motion begins to
-appear jerky. Think of tracking a fly, for example, which appears to skip from
+appear fitful. Think of tracking a fly, for example, which seems to skip from
 one place to another as our visual system struggles to process its complex
 trajectories and threshold-crossing speeds.
 
@@ -663,13 +662,13 @@ actual trajectory, since the motion of a represented object-image in the frame
 does not follow the anticipated physics of a similarly sized real-world
 object. Trajectories of moving objects on screen are subject to the vagrancies
 of video editing and recording. Because of the flicker, the movement is
-actually jerky; it is missing frames. The moving object appears at discrete
-stationary locations punctuated by gaps in on-screen movement. This mismatch
-between what is expected and what is perceived appears to the eye as blur.
-Shapes become fuzzy in motion under certain unfavorable viewing conditions
-[@klompenhouwer_motion_2004; @har-noy_lcd_2008]. To complicate matters
-further, the on-off phase transitions of the liquid crystal medium are not
-instantaneous. The individual pixel "fades" instead of vanishing at once,
+actually intermittent; it is missing frames. The moving object appears at
+discrete stationary locations punctuated by gaps in on-screen movement. This
+mismatch between what is expected and what is perceived appears to the eye as
+blur.  Shapes become fuzzy in motion under certain unfavorable viewing
+conditions [@klompenhouwer_motion_2004; @har-noy_lcd_2008]. To complicate
+matters further, the on-off phase transitions of the liquid crystal medium are
+not instantaneous. The individual pixel "fades" instead of vanishing at once,
 leaving a physical (and not merely a perceptual) trail of not-quite
 transitioned pixels in the wake of object movement [@kurita_moving_2001;
 @pan_lcd_2005]. Digital television runs into the analog limitations of the
