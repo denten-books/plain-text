@@ -62,7 +62,7 @@ electromagnetic charge, is transformed into transcendent digital objects:
 novels, songs, films, or poems. Formatting imposes structure.
 
 Think of a paragraph, for example. Writers use them to break up the flow of
-thoughts on a page. Paragraphs contain information. Can one imagine an empty
+thoughts on page. Paragraphs contain information. Can one imagine an empty
 paragraph? Could the shape of a paragraph persist outside of the material
 confines of a page or screen? Can one imagine paragraphs that unfold spatially
 not in two dimensions, a rectangle, but in one, along a straight line, or in
@@ -89,8 +89,8 @@ but native to new media. What you saw is what you got on the page. On the
 screen, what you see is but a small part of what you could get.  We are
 presented with thick content, beyond the visible image, the composite of all
 that is contained within the three-dimensional page. In print, content can be
-gleaned from the surface; there is nothing but surface on a page. The screen
-is a laminate. Light and liquid crystal---the preferred media for contemporary
+gleaned from the surface; there is nothing but surface on page. Screens are
+laminates. Light and liquid crystal---the preferred media for contemporary
 text---surge between the substrates in response to electrical signal. Screen
 surfaces conceal further strata of codification, inscribed onto recondite
 planes of inscription: hard disks, solid state drives, platters, drums, memory
@@ -145,7 +145,7 @@ screen: paragraphs, pages, files, and folders. These resemble their paper
 counterparts, but they represent other, less familiar and nonequivalent
 ordering structures on disk.
 
-![Data structures in the brain, on a page, on disk. Image adapted by Emily
+![Data structures in the brain, on page, on disk. Image adapted by Emily
 Fuhrman.](images/figure-3-1.png)
 
 Formats mediate between data structures, transforming one into the other
@@ -770,7 +770,7 @@ dexterity, for example, a level of cognitive development, and eyesight within
 a specific range of vision. Readers falling outside of these normalized ranges
 are prevented from accessing the text in the manner specified. The book
 further affords abilities like highlighting and the taking of notes. Empty
-space on a page around the text facilitates marginalia. For the highlighter or
+space on page around the text facilitates marginalia. For the highlighter or
 the pen to function well the printing medium must be made of a porous
 material, and not, for example, plastic, which would make marking the page
 difficult while affording other capabilities, like reading under
@@ -955,7 +955,7 @@ phrases, and strings in the input stream" [@berns_format_1968, 91;
 @berns_description_1969, 145].
 
 !["Portion of listing of input stream." The layout of paper citations in
-FORMAT [@berns_format_1968, 87].](images/figure-3-3.png)
+FORMAT [@berns_format_1968, 144].](images/figure-3-3.png)
 
 In another formative paper from the history of contemporary textuality, Brian
 Kernighan and Joseph Ossanna described TROFF, a text processor written around
@@ -1082,7 +1082,7 @@ labeling of blocks [...] distinguished in some way by their physical features
 reconstructed edition)]. A footnote, for example, is a block of text that
 gains meaning in spatial context.
 
-Furthermore, layout, or the arrangement of "concrete objects" on a page,
+Furthermore, layout, or the arrangement of "concrete objects" on page,
 contains also meaningless (to humans) structures, such as the incidental
 "rivers" of empty space between words. The incidental concrete structure goes
 unrecognized because it does not correspond to any abstract objects in the
@@ -1097,7 +1097,7 @@ of page components" [@ogorman_document_1993, 1164].](images/figure-3-4.png)
 Finally, we may describe *viewing* or *printing* a document as a chain of
 formatting operations that transform one type of concrete object, bits
 arranged spatially on the disk into another type of concrete object, pixels
-arranged in space on a screen or ink on a page. Something called the Document
+arranged in space on screen or ink on a page. Something called the Document
 Object Model describes that chain of transformations in detail, containing in
 essence an intermediary map or a blueprint of the intended document. The
 blueprint is not itself a fully formed concrete object, however, because the
@@ -1158,9 +1158,9 @@ is truly what you get. Not so on screens connected to other drives, keyboards,
 and screens. Composite media extends into the third dimension, away from the
 reader and deep into the bowels of the machine.
 
-![A zoomed out view of the connected OSI model. Single node structure on the
-left. Connected devices on the right. The user has access through the top-most
-(application) level, outermost to the network [@piatkowski_iso-ansi_1980,
+![OSI network model. Single node structure on the
+left. Connected devices on the right. The user accesses the system at
+the outermost, application level [@piatkowski_iso-ansi_1980,
 114-15].](images/figure-3-5.png)
 
 The Open Systems Interconnection (OSI) reference model of communication, for

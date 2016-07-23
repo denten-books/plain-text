@@ -499,7 +499,7 @@ arcane encodings, which required specialized training. A number of failed
 communication schemas attempted to heal the rift between human and machine
 alphabets.
 
-![Goldberg's Control Cards [@goldberg_controller_1915].](images/figure-5-3.png)
+![Goldberg's Control Cards [@goldberg_controller_1915, sheet 3].](images/figure-5-3.png)
 
 "You must acknowledge that this is readable without special training," Hymen
 Goldberg wrote in the patent application for his 1911 Controller
@@ -713,7 +713,7 @@ paper configurations would thus achieve a measure of literal analogy.
 
 !["Images formed by a negative voltage," from Electrographic Printer by
 Epstein and Innes
-[@epstein_electrographic_1961]](images/figure-5-4.png)
+[@epstein_electrographic_1961, sheet 3].](images/figure-5-4.png)
 
 Advances in magnetic storage found their way into businesses and home offices
 a decade later. In 1964, IBM combined magnetic tape (MT) storage with its
@@ -773,7 +773,7 @@ with the embedded inscription. The top plate would ultimately reveal the
 signal's "visibl[e] outline."[@youngquist_magnetic_1961, 1]
 
 !["The positioning of a magnetic recording card for visual observation of
-symbols recorded thereon."[@youngquist_magnetic_1961,1]](images/figure-5-5.png)
+symbols recorded thereon."[@youngquist_magnetic_1961, sheet 1]](images/figure-5-5.png)
 
 From the lack of acknowledgement in the literature, we can surmise that
 magnetic readers did not find widespread use. The problem remained: tape and
@@ -1000,7 +1000,7 @@ editing a sentence, likely to correct the nonsensical FOB into a
 FOR.[^ln5-timefob]
 
 !["NOW IS THE TIME FOB." Schematics for a "display system"
-[@engelbart_x-y_1970].](images/figure-5-7.png)
+[@engelbart_x-y_1970, sheet 1].](images/figure-5-7.png)
 
 Reflecting on the use of "visual display systems" for human-computer
 interaction, Engelbart wrote:

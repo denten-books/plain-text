@@ -647,8 +647,8 @@ portion of a charge translating device illustrating a preferred electrical
 contact arrangement. A quantum of charge carriers, representing an information
 bit [...] can be translated along the semiconductor [...] sweeping the
 minority carriers with it. The quantum can be detected by a simple capacitive
-couple, e.g., a floating gate FET"
-[@boyle_information_1974].](images/figure-2-3.png)
+couple, e.g., a floating gate." [@boyle_information_1974, sheet
+7].](images/figure-2-3.png)
 
 Dissimulation is perhaps necessary, because the reading and writing of digital
 data can involve processes far outside of everyday experience. For example, in
