@@ -2,7 +2,7 @@
 title: "Plain Text: The Poetics of Computation"
 author: "Dennis Tenen"
 cover-image: "images/steno.png"
-csl: csl/chicago-fullnote-bibliography.csl
+csl: csl/chicago-note-bibliography-nodoi.csl
 bibliography: plain-text.bib
 toc: true
 documentclass: article
