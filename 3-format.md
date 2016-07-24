@@ -1158,10 +1158,10 @@ is truly what you get. Not so on screens connected to other drives, keyboards,
 and screens. Composite media extends into the third dimension, away from the
 reader and deep into the bowels of the machine.
 
-![OSI network model. Single node structure on the
-left. Connected devices on the right. The user accesses the system at
-the outermost, application level [@piatkowski_iso-ansi_1980,
-114-15].](images/figure-3-5.png)
+![OSI network layering. "Layering is used as a structuring technique to allow
+the network of open systems to be logically decomposed in independent, smaller
+subsystems." Users access the network at the outermost, application layer.
+[@zimmermann_osi_1980, 426; @day_osi_1983, 1335].](images/figure-3-5.png)
 
 The Open Systems Interconnection (OSI) reference model of communication, for
 example, implemented in every computer including electronic book readers,

@@ -852,8 +852,8 @@ inscrutable, like all magnetic media.
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
 Typewriter (MC/ST) in 1969. A simple relationship could be "maintained between
-a typed page and a recorded card" [@may_ibm_1981, 743]. Image by Pointillist
-under GNU Free Documentation License, Version 1.2.](images/figure-5-6.png)
+a typed page and a recorded card" [@may_ibm_1981, 743]. Image scanned from a
+physical card by Pointillist, Wikimedia Commons.](images/figure-5-6.png)
 
 The structure of textual artifacts---from a simple leaflet to a novel in
 multiple volumes---has remained remarkably stable since the invention of
