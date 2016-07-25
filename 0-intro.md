@@ -401,10 +401,10 @@ Shklovksy changed Marx's German alienation [*Entfremdung*], which for Marx
 always denied life, into the Russian estrangement [*ostranenie*], literally an
 "othering," of the kind that affirms it. The difference is one of agency. In
 the first case, subjects are treated like objects by others. In the second,
-they recognize and reject the objectified within. Formalist
+they recognize and reject the objectified other within. Formalist
 estrangement---sometimes also translated as defamiliarization---arrests the
-momentum of tacitly received habit. Once othered, the human experience can be
-revitalized.
+momentum of tacitly received habit. Once estranged and extracted like a
+splinter, ossified experience can be revitalized.
 
 Our challenge today is to uproot ourselves from the comforts that rapidly
 descend on the dwellings of our intellectual life. Dulling the senses,
@@ -506,18 +506,18 @@ recalls the formalist strategy of structural decomposition.[^ln0-reverse] The
 function of case studies in an engineer's education, as Henry Petroski
 explained in his *Invention by Design*, is to understand the ways by which one
 gets "from thought to thing" [@petroski_invention_1996, 3-7]. From thought to
-thing would be another apt definition of poetics and an alternative subtitle
-to this book. Along with literary and historical exposition, each of my
-chapters contains at least one literary thought-thing. Each chapter enacts a
-deconstruction---a literal taking apart---of that device. The epistemic object
-is meant to challenge received theoretical intuition.
+thing would be another apt definition of poetics and an alternate subtitle to
+this book. Along with literary and historical exposition, each of my chapters
+contains at least one literary thought-thing. Each enacts a deconstruction---a
+literal taking apart---of that device. The epistemic object is meant to
+challenge received theoretical intuition.
 
-The reverse engineering of literary devices reveals that not all texts are
-created equal. In print, traditional distinctions between form and content lie
-flat. The printing press embeds ink into paper, leaving no space between type
-and page. Materially-minded critics like Johanna Drucker, Katherine Hayles,
-and Jerome McGann have urged literary scholars to re-evaluate textuality in
-its media-specific contexts [@drucker_digital_2001; @mcgann_radiant_2001;
+Reverse engineering of literary devices reveals that not all texts are created
+equal. In print, traditional distinctions between form and content lie flat.
+The printing press embeds ink into paper, leaving no space between type and
+page. Materially-minded critics like Johanna Drucker, Katherine Hayles, and
+Jerome McGann have urged literary scholars to re-evaluate textuality in its
+media-specific contexts [@drucker_digital_2001; @mcgann_radiant_2001;
 @hayles_print_2004]. Their work reminds us that the flatness of digital text
 is an illusion. Low-level operational intuitions governing textuality---ideas
 about form, content, style, letter, and word---change profoundly as text
@@ -527,8 +527,9 @@ A substantial gap separates visible text from its storage medium. The two
 sites of inscription---screen and electromagnetic storage---are physically
 incongruent. One must be translated, transformed into the other. Control codes
 govern the process of trans-figuration, which brings with it physical control
-at the level of architecture. This is where, for example, we can find spyware
-and censorship filters, prevalent on many modern devices.
+at the level of platform and architecture. This is a layer where, for example,
+we can find spyware and censorship filters, digital rights management and
+advertisement delivery.
 
 I propose we begin then with this obvious sense of difference between paper
 and pixel: where print is governed by law from without, think for example of
@@ -550,14 +551,14 @@ community-based writing initiatives like Wikipedia along with algorithms that
 write spam or summarize news automatically, further erode notions of
 authorship based on individual genius.
 
-The author did not die, however. Authors continue to live and collect
+Author do not die, however; they continue to live and collect
 royalties.[^ln-dead] Autopoiesis---literature writing or discourse speaking
 itself---does not displace the social institution of authorship.[^ln-varela]
 Codification merely makes the flows of poiesis less apparent. It is difficult,
-but not impossible, to find the programmer responsible for sending spam or to
-credit writers based on Wikipedia contribution history. Spammers are sentenced
-just as notable Wikipedia contributors receive barn stars in recognition of
-their efforts.
+but not impossible, for example, to find the programmer responsible for
+sending spam or credit writers based on Wikipedia contribution history.
+Spammers are sentenced just as notable Wikipedia contributors receive barn
+stars in recognition of their efforts.
 
 Extant models of literary transmission assume movement through passive and
 immutable media. Paper constitutes the document of record, which, once
@@ -575,13 +576,15 @@ library containing thousands of texts, complicates the linkage. Unlike pen and
 paper, which come in direct contact with each other during writing, the bridge
 between keyboard and screen passes through multiple mediating filters.
 Writing itself becomes a programmed experience. We do not write in the
-conventional sense of etching marks into a static host. The act is a
-simulation. We neither touch nor see the textual conduit. The visible does not
-correspond to the actual. Simulated erasure for example, of the kind that
-happens when a writer presses the backspace key, does not necessarily entail
-the corresponding erasure of content on disk. The "erased" word could persist
-and even multiply across other storage drives and devices. The sign's fracture
-entails such palpable consequences.
+conventional sense of etching marks into a static host, "at the same time and
+space." The act is a simulation displaced. We neither immediately touch nor
+see the textual conduit. The visible does not correspond to the actual.
+Simulated erasure for example, of the kind that happens when a writer presses
+the backspace key, does not necessarily entail the corresponding erasure of
+content on disk. The "erased" word could persist and even multiply across
+other storage drives and devices. Erasure itself becomes a meaningful data
+point, used to train algorithms or in evidence of intent to conceal. The
+sign's fracture entails such palpable consequences.
 
 Poetics reconstructs a sequence of willful delegation: from
 thought---someone's thought---to thing. A discipline of close attention to the
