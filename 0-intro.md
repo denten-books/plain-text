@@ -422,7 +422,7 @@ believe that literature and literary analysis continue to have a voice in
 contemporary life [@kittler_gramophone_1999, 263]. Technology does
 not---cannot be allowed to---determine literary silence. Rather, as the
 material grounds for all reflective textual activity recede from view, readers
-face the prospect of selective illiteracy. The command of technologies like
+face the prospect of selective illiteracy.[^ln-digitalliteracy] The command of technologies like
 networking and encryption separates those able to read and write under
 conditions of high technology from those who no longer are: another
 dispossession.
@@ -595,10 +595,9 @@ the formulation of their poetics: how they are made.
 > We cannot separate the two things: head and hand [...] the science of life
 > [...] is a superb and dazzlingly lighted hall which may be reached only by
 > passing through a long and ghastly kitchen [...] [W]e shall reach really
-> fruitful and luminous generalizations about vital phenomena only in so far as
-> we ourselves experiment and, in hospitals, amphitheaters, or laboratories,
-> stir the fetid or throbbing ground of life [@bernard_introduction_1957,
-> 3,15].
+> fruitful and luminous generalizations about vital phenomena only in so far
+> as we ourselves experiment and, in hospitals, amphitheaters, or
+> laboratories, stir the fetid or throbbing ground of life.[^ln-bernard]
 
 My approach to writing *Plain Text* stems from the desire to enact theory
 capable of addressing the grim picture Friedrich Kittler painted at the end of
@@ -864,40 +863,25 @@ transmitted, and stored decides who gets to decode, receive, and revise.
 [^ln0-amazon]: The retailer has since introduced a program that allows for
 limited sharing of materials, restricted by time and geography.
 
-[^ln-bernard]: On Bernard see @petit_claude_1987; @sattar_aesthetics_2013; and
-@mcluhan_gutenberg_1962, 4 & 206.
-
-[^ln-bookreview]: I write "supplants the function" because I do not mean to
-imply that the book review disappears or becomes less vital. On massive market
-platforms like Amazon Books, the book review passes from the domain of an
-expert to the domain of the lay reader. Book reviews thus proliferate. Their
-function changes from universal aesthetic judgement to instrumental reasoning.
-In other words, we now find the book first then read the review. The review
-ceases to serve as a tool for discovery--a function now addressed by the
-search and recommendation engines.
-
-[^ln-brains]: For the first view see @putnam_minds_1960 and
-@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
-@dyson_turings_2012.
+[^ln-bernard]: @bernard_introduction_1957, 3,15. On Bernard see
+@petit_claude_1987; @sattar_aesthetics_2013; and @mcluhan_gutenberg_1962, 4 &
+206.
 
 [^ln-brik]: @shklovksy_poetika_1919, 104. Translations are mine unless source
 cited explicitly in English.
 
 [^ln-capital]: Scholars like Alexander Galloway, David Golumbia, Bernard
 Harcourt have advanced critique along similar lines. See
-@galloway_protocol:_2006, @golumbia_cultural_2009, and @harcourt_exposed:_2015.
-
-[^ln-cog]: See for example @gibbs_categorization_1992; @blasko_effects_1993;
-@gibbs_poetics_1994; @neal_role_1997, 441-463; @gentner_alignment_1997.
+@galloway_protocol:_2006, @golumbia_cultural_2009, and
+@harcourt_exposed:_2015.
 
 [^ln-dead]: See @barthes_death_1977; @foucault_what_1980; @nesbit_what_1987.
 
 [^ln-digitalliteracy]: See for example @postman_technopoly:_1992;
 @negroponte_being_1995; @davidson_now_2011; @obama_2016_2016.
 
-[^ln-dissent]: See @harcourt_exposed:_2015, 251-80.
-
-[^ln-dmca]: See @ku_critique_2004; @ginsburg_legal_2005; and @fry_circumventing_2009.
+[^ln-dmca]: See @ku_critique_2004; @ginsburg_legal_2005; and
+@fry_circumventing_2009.
 
 [^ln-dna]: See @bok_xenotext_2011 and @bok_xenotext:_2015: "I have been
 striving to write a short verse about language and genetics, whereupon I use a
@@ -907,33 +891,25 @@ microbe called *Deinococcus radiodurans*---an extremophile, capable of
 surviving, without mutation, in even the most hostile milieus, including the
 vacuum of outer space)."
 
-[^ln-egturner]: Mark Turner, whose work builds on Lakoff and Johnson is a
-strong proponent of such an approach. See @turner_death_1987 or
-@turner_language_1992.
-
-[^ln-flusser]: The work of @flusser_does_2011 has been similarly influential.
-
-[^ln-hegel]: I discuss the topic at length in Chapter 3.
-
 [^ln-iarkho]: I borrow the term "microanalysis" from the largely forgotten in
 the West Russian literary scholar and member of the Moscow Linguistic Circle,
 Boris Iarkho. In his *Methodologies of Exact Literary Study* (circa 1935-6) he
-wrote: "I understand 'atomism' as a sort of an ideal aspiration, as an
-orientation toward the liminally small. But under no circumstances do I
-advocate working with hypothetical quantities, like molecules, atoms,
-positrons, and so on, which are located beyond the limits of perception. That
-this applied mythology gave us such splendid results in chemistry, should not
-conceal its true nature. Tomorrow, all such explanations of visible through
-the invisible could give way to other hypotheses, as was the case with their
-no less fertile predecessors (elemental spirits, phlogiston, and light ether).
-But the cell, the nucleus, and the chromosome endure as lasting
-accomplishments of microanalysis. I suggest to move as far as a microscope can
-reach, and no further" [@iarkho_metodologia_2006, 363-364].
+wrote, in my translation: "I understand 'atomism' as a sort of an ideal
+aspiration, an orientation toward the liminally small. But under no
+circumstances do I advocate working with hypothetical quantities, like
+molecules, atoms, positrons, and so on, which are located beyond the limits of
+perception. That this applied mythology gave us such splendid results in
+chemistry, should not conceal its true nature. Tomorrow, all such explanations
+of visible through the invisible could give way to other hypotheses, as was
+the case with their no less fertile predecessors (elemental spirits,
+phlogiston, and light ether). But the cell, the nucleus, and the chromosome
+endure as lasting accomplishments of microanalysis. I suggest to move as far
+as a microscope can reach, and no further" [@iarkho_metodologia_2006,
+363-364].
 
-[^ln0-influences]: Works by Finn Brunton, Wendy Chun, Matthew Fuller, Alexander
-Galloway, Lisa Gitelman, Yuk Hui, Helen Nissenbaum, Lev Manovich, John Durham
-Peters, Mary Poovey, and Jonathan Sterne among many others left their mark on
-this text.
+[^ln0-influences]: Works by Finn Brunton, Wendy Chun, Lisa Gitelman, Yuk Hui,
+Helen Nissenbaum, John Durham Peters, Mary Poovey, and Jonathan Sterne among
+many others left their mark on this text.
 
 [^ln-kittler2]: *Gramophone, Film, Typewriter* ends as follows: "And while
 professors are still reluctantly trading in their typewriters for word
@@ -943,8 +919,6 @@ charge-coupled devices, surface-wave filters, digital signal processors
 including the four basic forms of computation. Trenches, flashes of lightning,
 stars---storage, transmission, *the laying of cables*."
 @kittler_gramophone_1999, 263.
-
-[^ln0-manovich]: See @manovich_there_2011, 53-106.
 
 [^ln0-marx]: For more on alienation see the relevant discussion in
 @marx_economic_1964 and @marx_theories_1963.
@@ -972,15 +946,6 @@ engineering in media studies see also @fuller_evil_2012, 9.
 [^ln-varela]: See @varela_autopoiesis:_1974; @barthes_rustle_1989, 5;
 @nuttall_new_2007, 6-25.
 
-[^ln-wark]: I use the term "vector" in somewhat more limited sense than it
-appears in the idea of "vectoralist class" coined by McKenzie Wark. By
-"vectoralist class" Wark means something like the group of interests that
-control the distribution of information. See for example
-@wark_information_2006. In understanding the document as a vector I posit it as
-a three-dimensional rather than a two-dimensional object, with the extra
-dimension extending in time, similar to Jerome McGann's idea of the "editorial
-horizon." See @mcgann_textual_1991.
-
 [^ln-winner]: See for example: "[w]riters concerned with with problems of
 technology-out-of-control have frequently echoed Hobbes in suggesting that
 such an artifact---the Leviathan of interconnected technical systems---has a
@@ -990,7 +955,5 @@ technological structure endow the creation with an unanticipated *telos*"
 
 [^ln-witt]: @wittgenstein_philosophical_2001, 67-77. For more on the
 connection between Wittgenstein and James see @goodman_james_2004.
-
-[^ln-twobil]: Code metrics from @mccandless_million_2015.
 
 \newpage
