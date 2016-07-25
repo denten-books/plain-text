@@ -104,14 +104,6 @@ remain legible, in public view, and under continual counter-scrutiny. A
 vibrant discursive practice of textual exegesis is crucial for the
 preservation of whatever ideals that demand a literate populace.
 
-[^ln-dna]: See @bok_xenotext_2011 and @bok_xenotext:_2015: "I have been
-striving to write a short verse about language and genetics, whereupon I use a
-'chemical alphabet' to translate this poem into a sequence of DNA for
-subsequent implantation into the genome of a bacterium (in this case, a
-microbe called *Deinococcus radiodurans*---an extremophile, capable of
-surviving, without mutation, in even the most hostile milieus, including the
-vacuum of outer space)."
-
 ## Thesis and Archive
 
 *Plain Text* is a response to a particular situation of a literary scholar
@@ -174,9 +166,6 @@ concluded. And I hope, along with him, that it is still possible to
 "reconsider and reconstruct" those outcrops that in retrospect impoverish
 culture, to "learn and start again," and to retain the "prospect of
 liberation" [@winner_autonomous_1978, 335].
-
-[^ln0-amazon]: The retailer has since introduced a program that allows for
-limited sharing of materials, restricted by time and geography.
 
 To these ends, *Plain Text* tells a story of a major morphological shift
 affecting cultural production, particularly as it relates to the mechanics of
@@ -268,8 +257,8 @@ storage media, to the modulation of fiber-optic signal, to the shimmer of the
 flowing liquid crystal display rendering the text. Computation occupies the
 space between keyboard and screen, which in turn gives rise to higher-order
 cultural institutions: from the architecture of social media platforms to the
-formation of massive shared archives. The "cultural techniques" that guide our
-use of such technologies are formative of the society as a whole
+formation of massive shared archives. "Cultural techniques" that guide our use
+of such technologies are formative of the society as a whole
 [@leroi-gourhan_gesture_1993, 83-84; @siegert_cultural_2015]. Daily choices
 like choosing a text editor, a filing system, or a social networking platform
 cannot therefore be addressed in shallow instrumental, system-centric ideals.
@@ -781,24 +770,22 @@ write for a machine? What about broken mechanisms of comprehension? At once a
 device and an algorithm, the Turing machine blurs the boundaries between
 software and hardware, code and content, intelligence and its imitation.
 
-The passage from keystroke to pixel gives this book its shape. In the chapters
-to follow, our mobile phones and laptops will come fully into view as metaphor
-machines engendering ubiquitous simulation. The *second chapter* begins with a
-question. What does it mean to turn a page, I ask, when neither pages nor the
-action of turning them correspond to the implied analogy? A close reading of
-the metaphor leads to an intellectual history of human-computer interaction.
-It progresses from "conversational programming" to "direct manipulation"
-schools, the latter shaped by theories from cognitive linguistics and
-immersive theater.  The logic of "directness" culminates in the rapidly
-developing field of brain--computer interfaces. The chapter concludes with a
-moment of speculative formalism, in which I consider the possibility of
-affective literature, of the kind that eschews language and representation.
+The *second chapter* begins with a question. What does it mean to turn a page,
+I ask, when neither pages nor the action of turning them correspond to the
+implied analogy? A close reading of the metaphor leads to an intellectual
+history of human-computer interaction. It progresses from "conversational
+programming" to "direct manipulation" schools, the latter shaped by theories
+from cognitive linguistics and immersive theater. The logic of "directness"
+culminates in the rapidly developing field of brain--computer interfaces. The
+chapter concludes with a moment of speculative formalism, in which I consider
+the possibility of affective literature, of the kind that eschews language and
+representation.
 
-Two rich intellectual histories collide in the third chapter: form in literary
-theory and format in computer science. I show formatting as a process that
-mediates between a text's intrinsic rules for construction and its extrinsic
-shape, transforming one type of structure, a series of bits arranged into
-tracks and sectors, into another, letters arranged into sentences and
+Two rich intellectual histories collide in the **third chapter**: form in
+literary theory and format in computer science. I show formatting as a process
+that mediates between a text's intrinsic rules for construction and its
+extrinsic shape, transforming one type of structure, a series of bits arranged
+into tracks and sectors, into another, letters arranged into sentences and
 paragraphs. I then draw a short history of text formats. It begins with
 several "control characters" limited in function to actions like "carriage
 return" or "stop transmission." With time, formats begin to encompass all
@@ -817,15 +804,15 @@ technically an animation; it moves even as it appears to stand still. This
 property attunes the reader to a particular mode of apprehension, affecting
 not just the physics but also the aesthetics of digital media. Works by
 philosophers Henri Bergson, John Haugeland, and Nelson Goodman construe a
-phenomenology of screen-based digital perception. The digital emerges
-not as a medium's intrinsic property, but structure imposed from
-without. In the extreme, that means that a censored *electronic* text can form
-a perfectly *analog* artifact, despite being digital in all other senses of
-the word. Conversely, texts in print are already "born digital," in the sense
-that literary works like Shakespeare's *Hamlet* are amenable to "reliable
-processes of copying and preservation" [@haugeland_analog_1981, 213-225].
-Properties that make media "digital" or "analog" reveal themselves to be
-neither universal nor essential to the medium. The medium is not the message.
+phenomenology of screen-based digital perception. The digital emerges not as a
+medium's intrinsic property, but structure imposed from without. In the
+extreme, that means that a censored *electronic* text can form a perfectly
+*analog* artifact, despite being digital in all other senses of the word.
+Conversely, texts in print are already "born digital," in the sense that
+literary works like Shakespeare's *Hamlet* are amenable to "reliable processes
+of copying and preservation" [@haugeland_analog_1981, 213-225]. Properties
+that make media "digital" or "analog" reveal themselves to be neither
+universal nor essential to the medium. The medium is not the message.
 "Reliability and preservation of textual copies" may mean one thing to a
 literary scholar, another to a software engineer or a legal professional, and
 something entirely different to a librarian, I argue in the conclusion of the
@@ -834,7 +821,7 @@ chapter. It matters not what the text is, but what we can do with it.
 The **fifth and final chapter** begins with a discussion of an apparent
 paradox. A camp of media theorists and textual scholars in the 1990s conceived
 of electronic texts as an ephemeral, almost immaterial, phenomenon. Text
-shimmered and glared: it was spoken of in terms of *hypertext*, light writing,
+shimmered and glared: it was spoken of in terms of hypertext, light writing,
 and electricity. A generation of theorists that came after insisted on the
 weighty materiality of electronic media. Reading began to engage the
 morphology of rare metals, media archaeology, hard drive forensics. Both
@@ -843,17 +830,16 @@ perceived image of an archived inscription splits from its source. The sign
 plausibly resides both on screen and hard drive. It fractures, in some real
 sense, diverging at the site its projection from the site of the archive.
 Using materials from the history of telegraphy in the late nineteenth and
-early twentieth centuries, I chart the gradual fracture and the ultimate
-illegibility of the newly composite sign. Early computers stored
-human-readable text and machine instruction at the surface of the same storage
-media like punch cards and ticker tape. Although difficult to read, these
-forms of machine writing were readily visible and therefore amenable to
-analysis. The advent of magnetic storage forced the composite inscription into
-an opaque medium. Unable to perceive magnetic polarities without the aid of a
-machine, readers often manipulated text blindly. In this way a typist would
-type several sentences without seeing the printed output. The chapter
-identifies a milestone in the history of human textuality: the moment at which
-the inscription passed from view, giving rise to the sometimes conflicting but
+early twentieth centuries, I chart the gradual fissure and ultimate
+illegibility of the newly composite sign. Marks made on punch cards and ticker
+tape protruded through the medium. Although difficult to read, these forms of
+machine writing were readily visible and therefore amenable to analysis. The
+advent of magnetic storage forced the composite inscription into an opaque
+conduit. Unable to perceive magnetic polarities without the aid of a machine,
+readers often manipulated text blindly. In this way a typist would type
+several sentences without seeing the printed output. The chapter identifies a
+milestone in the history of human textuality: the moment at which the
+inscription passed from view, giving rise to the sometimes conflicting but
 nevertheless consistent accounts of digital textuality.
 
 A short *conclusion* gestures towards the contemporary political consequences
@@ -868,27 +854,15 @@ of prose and poetry to the understanding of code and machine. For text to
 render on screen properly it must be encoded or translated from
 machine-transmittable code into human-readable shape. Encoding constitutes a
 primitive field of textual activity, at the crossroads of computer science and
-the study of literature.  Encoding matters because how texts are encoded,
-transmitted, and stored decides who gets to decode, receive, and access.
-
-The advent of digital text necessitates a computational poetics, which enables
-unfettered access to text, code, platform, and infrastructure. For now,
-commands like *xxd*, *pcap*, *ssh*, and *traceroute* resemble arcane
-incantations that elicit hidden, symbolic action. Those who wield them gain
-the metaphorical power to "hop" across, to "sniff" packets, to "survey," to
-"traverse," and to "flood" network topographies. Computational poetics empower
-the reader to resist hard-wired models of machine-bound interpretation.
-Today, resistance remains in the purview of the few. Plain text channels
-itinerant streams of data back into the tidal pools of human agency and
-comprehension for all. There, code can become intelligible for the very
-subjects whose loss Foucault and Kittler lament.[^ln-lament] Only in such
-encrypted tunnels and secure shells can anything like the digital humanities
-and new media studies take root.
-
+the study of literature. Encoding matters because how texts are encoded,
+transmitted, and stored decides who gets to decode, receive, and revise.
 
 <!--- NOTES  --->
 <!--- NOTES  --->
 <!--- NOTES  --->
+
+[^ln0-amazon]: The retailer has since introduced a program that allows for
+limited sharing of materials, restricted by time and geography.
 
 [^ln-bernard]: On Bernard see @petit_claude_1987; @sattar_aesthetics_2013; and
 @mcluhan_gutenberg_1962, 4 & 206.
@@ -906,8 +880,8 @@ search and recommendation engines.
 @fodor_language_1975. For the second view see @deutsch_quantum_1985 and
 @dyson_turings_2012.
 
-[^ln-brik]: @shklovksy_poetika_1919, 104. Translations are mine unless source cited explicitly in
-English.
+[^ln-brik]: @shklovksy_poetika_1919, 104. Translations are mine unless source
+cited explicitly in English.
 
 [^ln-capital]: Scholars like Alexander Galloway, David Golumbia, Bernard
 Harcourt have advanced critique along similar lines. See
@@ -924,6 +898,14 @@ Harcourt have advanced critique along similar lines. See
 [^ln-dissent]: See @harcourt_exposed:_2015, 251-80.
 
 [^ln-dmca]: See @ku_critique_2004; @ginsburg_legal_2005; and @fry_circumventing_2009.
+
+[^ln-dna]: See @bok_xenotext_2011 and @bok_xenotext:_2015: "I have been
+striving to write a short verse about language and genetics, whereupon I use a
+'chemical alphabet' to translate this poem into a sequence of DNA for
+subsequent implantation into the genome of a bacterium (in this case, a
+microbe called *Deinococcus radiodurans*---an extremophile, capable of
+surviving, without mutation, in even the most hostile milieus, including the
+vacuum of outer space)."
 
 [^ln-egturner]: Mark Turner, whose work builds on Lakoff and Johnson is a
 strong proponent of such an approach. See @turner_death_1987 or
@@ -961,14 +943,6 @@ charge-coupled devices, surface-wave filters, digital signal processors
 including the four basic forms of computation. Trenches, flashes of lightning,
 stars---storage, transmission, *the laying of cables*."
 @kittler_gramophone_1999, 263.
-
-[^ln-lacan]: The evanescent absence of life that Lacan mentions as "the sign
-about which Robinson Crusoe would make no mistake" [@lacan_seminar_1997, 167].
-
-[^ln-lament]: Or perhaps celebrate, depending on your understanding of their
-post-humanism. For more a more extended discussion on Kittler, Foucault, and
-post-humanism see for example @winthrop-young_silicon_2000; @wolfe_what_2010,
-104-128; @siegert_cultural_2013.
 
 [^ln0-manovich]: See @manovich_there_2011, 53-106.
 
@@ -1020,4 +994,3 @@ connection between Wittgenstein and James see @goodman_james_2004.
 [^ln-twobil]: Code metrics from @mccandless_million_2015.
 
 \newpage
-
