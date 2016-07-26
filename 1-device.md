@@ -950,53 +950,52 @@ discussion in the narrow field of number theory. Instead, we encounter a
 number of surfeit features that do not fit neatly into mathematics. These
 account for the perplexing undercurrent of cognitive theory always present in
 Turing's writing. His machines "think," they are "aware," and they "remember,"
-where his humans "calculate" and "compute." The cognitive language reflects
-the heritage of Wittgenstein's thought, concerned more broadly with theory of
-mind and the passage of inscription into understanding.  Turing's machine
-thinks in a particularly literate way: by ingesting and regurgitating symbols.
-Turing inherits these traits from Wittgenstein's menagerie of comprehension
-automata in various states of disrepair. In the wilderness of Wittgenstein's
-thought he locates the concise coordinates for a universal mechanism, placed
-at the liminal space between thing and symbol.
+where his humans "calculate" and "compute." The cognitive language reflects a
+heritage of Wittgenstein's thought, concerned more broadly with theory of mind
+and the passage of inscription into understanding. Turing's machine thinks in
+a particularly literate way: by ingesting and regurgitating symbols. Turing
+inherits these traits from Wittgenstein's menagerie of comprehension automata
+in various states of disrepair. In the wilderness of Wittgenstein's thought he
+locates the concise coordinates for a universal mechanism, placed at the
+liminal space between thing and symbol.
 
-The Turing machine mediates in the metaphoric transference from intrinsic
-"hard" states to their extrinsic "soft" representations. Like its predecessors
-it concerns the grammar of that transformation and, ultimately, the mechanisms
-of exacting obedience. They are fully deterministic systems that nevertheless
-exceed their formal limitation. "How can the rules of operation of the machine
-change?" Turing asks in "Computing Machinery and Intelligence"
-[@turing_computing_1950, 458]. His answer, which begins as a blueprint for a
-narrowly computational machine in the 1930s, by the 1950s blossoms into a
-dramatized conversation between a poet and her critic; into the possibility of
-an evolving artificial intelligence; and into an imitation game, by which the
-computer misrepresents its assigned gender. The very formulation of the Turing
-machine poses a number of questions related to the problem of free will and
+Turing machines mediate in the metaphoric transference from intrinsic "hard"
+states to their extrinsic "soft" representations. Like their predecessors,
+they concern the grammar of that transformation. They are, ultimately,
+mechanisms of exacting obedience: fully deterministic systems that
+nevertheless exceed their formal limitations. "How can the rules of operation
+of the machine change?" Turing asked in "Computing Machinery and Intelligence"
+[@turing_computing_1950, 458]. His answer, which began as a mathematical
+proposition in the 1930s, by the 1950s developed into a dramatized
+conversation between a poet and her critic; into the possibility of an
+evolving artificial intelligence; and into an imitation game, by which
+computers misrepresent their assigned gender. The very formulation of Turing
+machines poses a number of questions related to the problem of free will and
 determinism more broadly. How can a machine escape its programming? How can a
-poet transcend the rules of composition? How do humans become more than the
-sum of their nature and nurture?
+poem transcend the rules of its composition? How do humans become more than
+the sum of their nature and nurture?
 
 Turing's universal machine finally distills the diversity of Wittgenstein's
 experiments into a single concise formula. It needs the following three
-components to function: (a) a system of notation that represents machine
-states, (b) a storage medium capable of bearing its inscription, and (c) a
-reading and writing mechanism to transform the notation into machine states.
-Given these three characteristics, the machine becomes a universal mechanism,
-capable of assuming the function of any other symbolic system.
+components to function: (a) a notational system that represents machine
+states, (b) storage media capable of bearing inscription, and (c) a reading
+and writing mechanism to transform notation into machine states. Given these
+three characteristics, the machine becomes a universal mechanism, capable of
+assuming the function of any other symbolic system.
 
-To understand the Turing machine in practical terms, think about the lower
-limits of modern computation. A Turing machine is capable, for example, of
-simulating the physics of using a hammer, but it is not a hammer itself.
-Physics in this context can be thought of as a system of notation and a logic
-that approximates natural phenomena. The Turing machine thus opens a space of
-interiority, by which the actions of a mechanism (hammering, in our case) can
-be traced into its notational equivalents (instructions for hammering). The
-contemporary idea of a "smart" hammer, or any other smart thing for that
-matter, presupposes a system of symbolic exchange within the instrument.
+To understand Turing machines in practical terms, think about the lower limits
+of computation. A Turing machine can simulate the physics of using a hammer,
+for example, but it cannot ever become one. A smart hammer is one that
+contains inscription: rules and instructions for hammering. Turing machines
+open a space of interiority, by which mechanical actions (hammering, in our
+case) can be traced into their notational equivalents (instructions for
+hammering). A smart hammer, or any other smart thing for that matter,
+presupposes a system of symbolic exchange within the instrument.
 
 Once assimilated in this way, symbols are amenable to grammatical
-transformation. The Turing machine unfolds the logic of tool use, that is, the
-technique of any given instrument. More complicated logics of higher level
-activity like solving physical formulas or writing poetry are similarly
+transformation. Turing machines unfold the logic of instrument use, that is,
+their technique. More complicated symbolic logics, which represent higher
+level activity like solving physical formulas or writing poetry, are similarly
 amenable to Turing simulation, provided a grammar. Technique, if you recall
 from our earlier discussion, is a mode of production abstracted from its
 material contexts. The extent to which Turing machines penetrate everyday life
@@ -1004,8 +1003,6 @@ belies their involvement in the general mechanism of such abstraction, beyond
 computation. The computer extends its reach broadly not because it quantifies
 life, but because much of human cultural and cognitive activity is symbolic in
 nature.
-
-***
 
 Let us examine the mechanics of a Turing machine more closely. Turing begins
 his paper as we would expect from Wittgenstein's student, with a provocative
