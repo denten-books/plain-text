@@ -943,8 +943,12 @@ engineering in media studies see also @fuller_evil_2012, 9.
 [^ln-rhein]: I am in influenced here by the discussion of epistemic things in
 @rheinberger_toward_1997, 24-37.
 
-[^ln-varela]: See @varela_autopoiesis:_1974; @barthes_rustle_1989, 5;
-@nuttall_new_2007, 6-25.
+[^ln-varela]: See for example @heidegger_pathmarks_1998, 57: "For the
+phenomenon most worthy of thought and questioning remains the mystery of
+language---wherein our entire reflection has to gather itself---above all when
+it dawns on us that language is not a work of human beings: language speaks."
+See also @varela_autopoiesis:_1974; @barthes_rustle_1989, 5;
+@blanchot_work_1995, 41 @nuttall_new_2007, 6-25.
 
 [^ln-winner]: See for example: "[w]riters concerned with with problems of
 technology-out-of-control have frequently echoed Hobbes in suggesting that
