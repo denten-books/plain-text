@@ -5,7 +5,7 @@ the machine, the cultural conserve, or the robot, other than through
 submission, actual destruction, and social revolution" [@moreno_who_1953, 595].
 So wrote the Austrian-American psychiatrist, Jacob L. Moreno in his
 idiosyncratic, sprawling, and now seldom read volume, *Who Shall
-Survive?*[^ln2-moreno]
+Survive?*[^ln1-moreno]
 
 Humanity, according to Moreno, faced two major threats: one, human aggression,
 and two, the aggression of robots: "cultural conserves" and "zootechnical
@@ -138,7 +138,7 @@ but in modern usage, it often carries a more concrete connotation, as an
 purpose" [@_device_2016]. "Laying bare the device," for Viktor Shklovsky, who
 coined the phrase, meant making explicit the implied mechanisms of a literary
 trope, particularly in cases where such tropes turn "stale," "automatic," and
-"naturalized," that is, bereft of their evocative power.[^ln2-shklov]
+"naturalized," that is, bereft of their evocative power.[^ln1-shklov]
 
 Vladimir Nabokov, a writer conspicuously aware of his literary-theoretical
 heritage, used the formal technique of "laying bare the device" often and with
@@ -225,7 +225,7 @@ determined by discoverable laws. The turn to technique also meant that the
 mechanisms of meaning production, on the sides of both authorship and
 apprehension, were made accessible to a mass audience. Russian formalists in
 particular understood their task as one of radical democratization of the
-literary sphere.[^ln2-fact] High literature, once the purview of a select few,
+literary sphere.[^ln1-fact] High literature, once the purview of a select few,
 could now belong to the proletariat at large. This also meant that literature
 was *composable*: it could be distilled into discrete and reproducible
 rules---technique over art---to be learned and shared widely.
@@ -420,7 +420,7 @@ The confusion underscores his thesis. Our unfamiliarity with what Lubbock
 calls the novel's "technical aspects" hampers our ability to understand how it
 comes to present itself to the mind in its entirety [@lubbock_craft_1921,
 272]. Viewers grasp other more plastic art forms like sculpture or painting
-whole and at once.[^ln2-herder] These exist synchronically, in space limited
+whole and at once.[^ln1-herder] These exist synchronically, in space limited
 to their physical dimensions. Narratives, by contrast, unfold in time,
 diachronically. To perceive a book, to read a novel, we must therefore
 abstract from the physical object and extend it in working memory, past
@@ -478,7 +478,7 @@ relationship to the physical world. My aim in this disruption is to disconnect
 the history of modern computing from its expected contexts of calculating
 machinery and to join it with literary theory, where as we will see, it also
 finds a measure of congruity. I do so in the absence of direct evidence for an
-explicit intellectual connection.[^ln2-moaran] My goal is not to prove that
+explicit intellectual connection.[^ln1-moran] My goal is not to prove that
 such a linkage exists, but rather to irreparably entwine the nominally
 discordant intellectual and material genealogies in a way that sheds light on
 our modern predicament, where books and guided missiles indeed share the same
@@ -682,13 +682,13 @@ hand to head and from mind to paper. We might say that thinking takes place
 [@wittgenstein_blue_1965, 16]. Thought is rather distributed throughout the
 body and among its extensions. We think by the sign, head, hand, and pen.
 
-"Could a machine think?" Wittgenstein asks later on in the first notebook
-[@wittgenstein_blue_1965, 16]. The challenge, as he explains it, is not one of
-finding a machine that can do the job---of manipulating signs, for example.
-It lies in the ability of the machine to enact both sides of the metaphoric
-equation. "Doing the job," to manipulate external signs for example, must
-correspond to something else. Severed from its analogical structure, the
-"blind" manipulation of signs is a meaningless activity. Meaning, Wittgenstein
+"Could a machine think?" Wittgenstein asks later on in the first notebook.
+[^ln1-descartes] The challenge, as he explains it, is not one of finding a
+machine that can do the job---of manipulating signs, for example.  It lies in
+the ability of the machine to enact both sides of the metaphoric equation.
+"Doing the job," to manipulate external signs for example, must correspond to
+something else. Severed from its analogical structure, the "blind"
+manipulation of signs is a meaningless activity. Meaning, Wittgenstein
 suggests, resides in the metaphorical transference between something (symbol)
 and something else (machine state). "Can a machine hold private mental
 states?" is therefore a better question. Can it feel pain in the sense of pain
@@ -946,18 +946,19 @@ that Turing would not agree to" [@wittgenstein_wittgensteins_1976, 67-8].
 
 One expects Turing's seminal paper on computable numbers, where he first
 proposed his universal computing machine, to contain a strictly technical
-discussion in the narrow field of number theory. Instead, we encounter a
-number of surfeit features that do not fit neatly into mathematics. These
-account for the perplexing undercurrent of cognitive theory always present in
-Turing's writing. His machines "think," they are "aware," and they "remember,"
-where his humans "calculate" and "compute." The cognitive language reflects a
-heritage of Wittgenstein's thought, concerned more broadly with theory of mind
-and the passage of inscription into understanding. Turing's machine thinks in
-a particularly literate way: by ingesting and regurgitating symbols. Turing
-inherits these traits from Wittgenstein's menagerie of comprehension automata
-in various states of disrepair. In the wilderness of Wittgenstein's thought he
-locates the concise coordinates for a universal mechanism, placed at the
-liminal space between thing and symbol.
+discussion in the narrow field of number theory.[^ln1-turing] Instead, we
+encounter a number of surfeit features that do not fit neatly into
+mathematics. These account for the perplexing undercurrent of cognitive theory
+always present in Turing's writing.[^ln1-turingcog] His machines "think," they
+are "aware," and they "remember," where his humans "calculate" and "compute."
+The cognitive language reflects a heritage of Wittgenstein's thought,
+concerned more broadly with theory of mind and the passage of inscription into
+understanding.  Turing's machine thinks in a particularly literate way: by
+ingesting and regurgitating symbols. Turing inherits these traits from
+Wittgenstein's menagerie of comprehension automata in various states of
+disrepair. In the wilderness of Wittgenstein's thought he locates the concise
+coordinates for a universal mechanism, placed at the liminal space between
+thing and symbol.
 
 Turing machines mediate in the metaphoric transference from intrinsic "hard"
 states to their extrinsic "soft" representations. Like their predecessors,
@@ -1118,7 +1119,7 @@ mind, drugs, delirium, madness, and outright deception.
 ## Device
 
 Literature in computer science tends to treat Turing machines as algorithms:
-logical, not necessarily physical constructs. It is impossible however to
+logical, not necessarily physical constructs.[^ln1-notquite] It is impossible however to
 dissociate the implementation from the idea. The historian Thomas Haigh wrote
 that Turing machines "abstract away from the complexity of real computer
 architectures" [@haigh_actually_2014, 241]. It appeals to the theorist because
@@ -1407,6 +1408,15 @@ brain's neural circuitry, would we know what and whom we were reading?
 <!-- notes -->
 <!-- notes -->
 
+[^ln1-abstraction]: This is a topic of some contention in the literature.
+James Moor includes software immateriality as one of the "three myths" of
+computer science: "as a practical matter what we regard as computer
+instructions, and consequently what we regard as computer programs, is
+determined by the computers available." See moor_three_1978, 215. Nurbay
+Irmark argues that software is instead a purely abstract artifact, akin to a
+musical work. See @irmak_software_2012. See also @turner_programming_2013;
+@colburn_software_1999.
+
 [^ln1-compile]: I am forgoing the distinction between interpreters and
 compilers for simplicity's sake. See @elbourn_evolution_1962, 1060;
 @mccarthy_lisp_1962; @bashkow_system_1967; @neuhold_formal_1971, 95.
@@ -1442,103 +1452,75 @@ embodied the classic look and feel of the machine presented in Turing’s paper.
 I wanted to build a machine that would be immediately recognizable as a Turing
 machine to someone familiar with Turing's work" [@davey_turing_2012].
 
-[^ln1-descartes]: Descartes writes in his 1637 *Discourse on Method*: "If
-there were such machines having the organs and the shape of a monkey or some
-other animal that lacked reason, we would have no way of recognizing that they
-were not entirely of the same nature as these animals; whereas if there were
-any such machines that bore a resemblance to our bodies and imitated our
-action as far as this is practically feasible, we would always have two very
-certain means of recognizing that they were not at all, for that reason, true
-men." Also quoted in @dennett_can_2004, 297.
+[^ln1-descartes]: @wittgenstein_blue_1965, 16. Compare with
+@descartes_discourse_1996: "If there were such machines having the organs and
+the shape of a monkey or some other animal that lacked reason, we would have
+no way of recognizing that they were not entirely of the same nature as these
+animals; whereas if there were any such machines that bore a resemblance to
+our bodies and imitated our action as far as this is practically feasible, we
+would always have two very certain means of recognizing that they were not at
+all, for that reason, true men." Also quoted in @dennett_can_2004, 297.
 
-[^ln2-fact]: See for example Osip Brik's "Against Creative Individualism" and
+[^ln1-fact]: See for example Osip Brik's "Against Creative Individualism" and
 Shklovksy's "On Authorship and Production" in @chuzhak_literatura_2000.
 
-[^ln2-herder]: Lubbock collapses somewhat the difference between painting and
-sculpture. See for example @herder_sculpture_2002.
+[^ln1-herder]: Lubbock collapses the difference between painting and
+sculpture. See by contrast the extended discussion in @herder_sculpture_2002.
 
 [^ln1-infinite]: A true universal Turing machine would require a tape that is
 infinitely long. See @turing_computable_1937, 249.
 
-[^ln1-inside]: Note that these are also minimal physical requirements for
-interpretation: the ability to internalize and to externalize symbolically. My
-definitions do imply a sort of a dualism, but not between mind and
-body---simply between inside and outside, self and other, I and not-I.  This
-has been said before in many ways.
-
-[^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
-experience, despite the overwhelming evidence for determinism.
-
-[^ln2-moaran]: There is evidence that Ludwig Wittgenstein, the subject of this
-section, read Russian and that he visited the Soviet Union in the 1930s. Both
-he and Shklovsky fought in Galicia at the Eastern Front although there is no
-evidence that the two men met nor knew of one another's work. See
-@moran_wittgenstein_1972.
-
-[^ln1-normal]: The process of normalization continues today as contemporary
-technologies like natural language processing and optical character recognition
-struggle to bring non-regularized writing systems under the computational
-umbrella.
+[^ln1-moran]: Evidence suggests that Wittgenstein read Russian and that he
+visited the Soviet Union in the 1930s. Both he and Shklovsky fought in Galicia
+at the Eastern Front. Nothing in the sources suggests that they met or knew of
+one another' work. See @moran_wittgenstein_1972.
 
 [^ln1-notquite]: To what extent a personal computer is a Turing machine is
 matter of contention. The Turing machine is a *thought experiment* that
 imagines a machine. The PC is a machine emulating the thought experiment. See
-@putnam_representation_1988, 121-5; @chalmers_does_1996; @petzold_code:_2000. A
-more detailed discussion follows in 1.2.
+@putnam_representation_1988, 121-5; @chalmers_does_1996; @petzold_code:_2000.
 
-[^ln1-pop]: See for example @drucker_digital_2001; @golumbia_cultural_2009;
-@marche_literature_2012.
-
-[^ln2-shklov]: I rely on the Russian originals throughout, but will cite the
+[^ln1-shklov]: I rely on the Russian originals throughout, but will cite the
 English translations where possible as well. See @shklovsky_voskreshenie_1914;
 @shklovksy_poetika_1919; @shklovksy_art_2012.
 
 [^ln1-turing]: The intellectual history of the Turing machine is well
-established, in multiple works on the subject. It follows the Greek Diophantus,
-René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
-Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
-@herken_universal_1988; @grattan-guinness_development_1981].
+established. It follows works by Diophantus, René Descartes, Georg Cantor,
+David Hilbert, Gottlob Frege, Bertrand Russell, Kurt Gödel, Ludwig
+Wittgenstein. See @petzold_annotated_2008; @herken_universal_1988;
+@grattan-guinness_development_1981.
 
 [^ln1-turingcog]: Turing's later work suggests that his use of cognitive
 language throughout "On Computable Numbers" was not accidental, and that he
 meant it to define sentience more generally [@turing_computing_1950].
 
-[^ln1-abstraction]: This is a topic of some contention in the literature. In
-his influential paper on the topic, James Moor includes the immateriality of
-software as one of the "three myths" of computer science: "as a practical
-matter what we regard as computer instructions, and consequently what we
-regard as computer programs, is determined by the computers available," he
-writes [@moor_three_1978, 215]. Nurbay Irmark argues that software is instead
-a purely abstract artifact, akin to a musical work [@irmak_software_2012]. See
-also @turner_programming_2013; @colburn_software_1999.
-
-[^ln2-moreno]: Moreno is remembered today as a pioneer of group therapy and an
+[^ln1-moreno]: Moreno is remembered today as a pioneer of group therapy and an
 early critic of Freud and socialism. Sociologists have also recently
 rediscovered his formative work on network analysis. His books contain
 beautiful diagrams, sprouting nodes and edges, with titles like "Structure of
 a Cottage Family," "A Handicraft Group," and "The Civilian Social Atom."
 Moreno was also a humanist and a philosopher of technology and culture. In
 opposition to eugenics, a popular philosophy at the time, his answer to "Who
-Shall Survive?" was "everyone." [@moreno_who_1953, 245]
+Shall Survive?" was "everyone." See @moreno_who_1953, 245.
 
 [^ln1-tech]: *Technology* overtakes *technique* around 1979, judging by the
 relative frequency of occurrence in the Google Books n-gram corpus
 [@michel_quantitative_2011].
 
 [^ln1-timeline]: To give you a sense of the timeline: Turing entered King's
-College in 1931 [@hodges_alan_1983, 78]. His paper on computable numbers
+College in 1931. See @hodges_alan_1983, 78. His paper on computable numbers
 appeared in print in 1936. It is likely that the two philosophers met at the
 Moral Science Club, where by the 1930s Wittgenstein "monopolized the
 discussion," even in the presence of prominent philosophers like George Edward
-Moore [@duncan-jones_g._1958, 25]. Turing attended Wittgenstein's lectures on
-the foundations of mathematics in 1939.
+Moore. See @duncan-jones_g._1958, 25. Turing attended Wittgenstein's lectures
+on the foundations of mathematics in 1939.
 
-[^ln1-platotr]: @plato_euthyphro._1999 I translate the passage into literal
-English to preserve characteristics notable in the original. In particular,
-note the parallelism between *exōthen* and *endothen*, the ambiguity of
-*allotrion*, as something that comes from another, and the subtle slide
-between *graphō* (letter, figure, writing) and *tupōn* (type, impression,
-trace). I extend my gratitude to Stathis Gourgouris, Simos Zenios, and Guy
-Smoot for their help with the Greek translations.
+[^ln1-platotr]: See @plato_euthyphro._1999. I translate the passage into
+literal English to preserve characteristics notable in the original. In
+particular, note the parallelism between *exōthen* and *endothen*, the
+ambiguity of *allotrion*, as a freight other, and the subtle slide between
+*graphō* (letter, figure, writing) and *tupōn* (type, impression, trace). I
+extend my gratitude to Stathis Gourgouris, Simos Zenios, and Guy Smoot for
+their help with Greek translations.
 
 \newpage
