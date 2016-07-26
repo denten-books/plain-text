@@ -869,15 +869,15 @@ writes, "can make it work properly, like the connection between the keys and
 the hammers in a piano." Crucially, it is that "connection and not the effect
 which determines the meaning" [@wittgenstein_philosophical_1974, 190]. A
 programmer would say that Wittgenstein's "grammatical layer" resembles modern
-programming language interpreters and assemblers, exactly the parts of the
-machine that connect codified instructions to their execution
-[@mccarthy_lisp_1962; @bashkow_system_1967]. Similarly, Wittgenstein's grammar
-"means" in the sense of specifying rules by which meaning succeeds or fails.
-In this way, we can move away from speaking of "intended effects" or "proper
-obedience" and rather concentrate on this interpretive and mediating layer,
-which describes the rules of engagement [@wittgenstein_philosophical_1974,
-194-6]. To learn a language in that sense is not to learn individual words,
-but to understand the mechanical linkages of meaning-making.
+programming language interpreters and compilers, exactly the parts of the
+machine that connect codified instructions to their execution.[^ln1-compile]
+Similarly, Wittgenstein's grammar "means" in the sense of specifying rules by
+which meaning succeeds or fails.  In this way, we can move away from speaking
+of "intended effects" or "proper obedience" and rather concentrate on this
+interpretive and mediating layer, which describes the rules of engagement
+[@wittgenstein_philosophical_1974, 194-6]. To learn a language in that sense
+is not to learn individual words, but to understand the mechanical linkages of
+meaning-making.
 
 We say that the mechanism is rigid or the law is inexorable when the results
 of an action are fixed. Wittgenstein calls such a relationship
@@ -1407,41 +1407,13 @@ brain's neural circuitry, would we know what and whom we were reading?
 <!-- notes -->
 <!-- notes -->
 
-[^ln1-brains]: For the first view see @putnam_minds_1960 and
-@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
-@dyson_turings_2012.
-
-[^ln1-caveat]: The institutional distinctions between software engineering and
-computer science often hinge on the extent to which the discipline pays heed
-to the physical limitations of computing. As usual the situation on the ground
-is much more complicated, and the boundaries between software engineering and
-computer science are fast eroding. Still, North American students often have
-the choice to major in Computer Science or Software Engineering. It would not
-be unusual for the one faculty to be located in the School for Liberal Arts
-and Science and the other in the School of Engineering. Consider also the two
-major professional organizations: Institute for Electrical and Electronics
-Engineers (IEEE) and Association for Computing Machinery (ACM). See
-@glass_comparative_1992; @parnas_software_1999; @glass_analysis_2004;
-@vessey_unified_2005.
-
-[^ln1-ceruzzi]: See @ceruzzi_computing_2012, 11 who writes that "the modern
-computer is a convergence of separate streams of information handling, each
-with its own rich tradition of technological history." "One could add other
-antecedents such as the development of radio, motion pictures, and
-photography" [@ceruzzi_computing_2012, 11].
-
-[^ln2-chomchom]: I make this connection with many caveats and with the
-acknowledgement of the complexity involved. See for example Ch. 6-8 in
-@hacking_why_1975; @waller_chomsky_1977; @green_bertrand_2007, 103-43.
-
-[^ln2-compile]: I am forgoing the distinction between interpreters and
+[^ln1-compile]: I am forgoing the distinction between interpreters and
 compilers for simplicity's sake. See @elbourn_evolution_1962, 1060;
-@neuhold_formal_1971, 95.
+@mccarthy_lisp_1962; @bashkow_system_1967; @neuhold_formal_1971, 95.
 
-[^ln1-consensus]: The literature on consensual governance, for example, going
-back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
-consent. To paraphrase, they ask: What makes whatever compacts made by past
-generations still valid today?
+[^ln1-consensus]: Lapsed consent is a common theme in the works of Thomas
+Hobbes, John Locke, and John Stuart Mill. To paraphrase, they ask: What makes
+whatever voluntary compacts made by past generations still valid today?
 
 [^ln1-cope]: See for example @copeland_what_2000 and
 @wagner_wittgenstein_2005.
