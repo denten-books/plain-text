@@ -935,14 +935,14 @@ intuitions about reading, writing, and comprehension.
 ## Thought Experiment III
 
 In 1939 Alan Turing attended Wittgenstein's lectures on mathematics at King's
-College. From the notes on Wittgenstein's lectures complied and published by
-Cora Diamond, it is clear that Turing was a vociferous presence in the class.
-His name is mentioned eighty-six times in the text, more than any other
-student by a wide margin. At some point of the course Wittgenstein concludes
-his lecture in saying: "Unfortunately Turing will be away from the next
-lecture, and therefore that lecture will have to be somewhat parenthetical.
-For it is no good my getting the rest to agree to something that Turing would
-not agree to" [@wittgenstein_wittgensteins_1976, 67-8].
+College.[^ln1-cope] From the notes on Wittgenstein's lectures complied and
+published by Cora Diamond, it is clear that Turing was a vociferous presence
+in the class.  His name is mentioned eighty-six times in the text, more than
+any other student by a wide margin. At some point of the course Wittgenstein
+concludes his lecture in saying: "Unfortunately Turing will be away from the
+next lecture, and therefore that lecture will have to be somewhat
+parenthetical.  For it is no good my getting the rest to agree to something
+that Turing would not agree to" [@wittgenstein_wittgensteins_1976, 67-8].
 
 One expects Turing's seminal paper on computable numbers, where he first
 proposed his universal computing machine, to contain a strictly technical
@@ -1102,7 +1102,7 @@ the ability to take on differing internal symbolic configurations. It can
 imitate a clock, an abacus, a scale, a book. In a later paper that links
 computing machinery to intelligence, Turing implied also that his machine
 could eventually simulate human thought, because he saw the mind as another
-mechanism for manipulating symbols [^ln1-compete]. Are minds just types of
+mechanism for manipulating symbols.[^ln1-compete] Are minds just types of
 Turing machines or are Turing machines a kind of mind? Turing leaves the door
 open for either possibility. The universal Turing machine finally encapsulates
 a model of computation itself. It is capable of computing anything computable.
@@ -1415,22 +1415,32 @@ compilers for simplicity's sake. See @elbourn_evolution_1962, 1060;
 Hobbes, John Locke, and John Stuart Mill. To paraphrase, they ask: What makes
 whatever voluntary compacts made by past generations still valid today?
 
-[^ln1-cope]: See for example @copeland_what_2000 and
+[^ln1-cope]: Not much is written on the intellectual connections between
+Turing and Wittgenstein. See @copeland_what_2000 and
 @wagner_wittgenstein_2005.
 
-[^ln1-compete]: "We may hope that machines will eventually compete with men in
-all purely intellectual fields" [@turing_computing_1950, 460].
+[^ln1-compete]: See @turing_computing_1950, 460: "We may hope that machines
+will eventually compete with men in all purely intellectual fields."
 
-[^ln1-cs]: Two separate departments offering competing degrees in software
-engineering and computer science is a common occurrence in North American
-universities.
+[^ln1-cs]: The institutional distinctions between software engineering and
+computer science often hinge on the extent to which the discipline pays heed
+to the physical limitations of computing. As usual the situation on the ground
+is much more complicated, and the boundaries between software engineering and
+computer science are fast eroding. Still, North American students often have
+the choice to major in Computer Science or Software Engineering. It would not
+be unusual for the one faculty to be located in the School for Liberal Arts
+and Science and the other in the School of Engineering. Consider also the two
+major professional organizations: Institute for Electrical and Electronics
+Engineers (IEEE) and Association for Computing Machinery (ACM). See
+@glass_comparative_1992; @parnas_software_1999; @glass_analysis_2004;
+@vessey_unified_2005.
 
 [^ln1-davey]: Mike Davey built and displayed a similar instrument at Harvard
 University's Collection of Historical Scientific Instruments in 2012. He
-writes: "My goal in building this project was to create a machine that embodied
-the classic look and feel of the machine presented in Turing’s paper.  I wanted
-to build a machine that would be immediately recognizable as a Turing machine
-to someone familiar with Turing's work" [@davey_turing_2012].
+writes: "My goal in building this project was to create a machine that
+embodied the classic look and feel of the machine presented in Turing’s paper.
+I wanted to build a machine that would be immediately recognizable as a Turing
+machine to someone familiar with Turing's work" [@davey_turing_2012].
 
 [^ln1-descartes]: Descartes writes in his 1637 *Discourse on Method*: "If
 there were such machines having the organs and the shape of a monkey or some
