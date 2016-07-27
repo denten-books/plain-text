@@ -58,8 +58,8 @@ the most insightful public respondents to text on the conference circuit.
 Emily-Jane Cohen and her team at Stanford University Press expertly guided the
 book to publication. I received careful consideration and comments from
 Matthew Fuller, Ray Siemens, and two other anonymous reviewers. I would like
-to thank Micah Siegel, COPYEDITOR NAME HERE, INDEXER NAME HERE, for their
-patience, hard work, and attention to detail.
+to thank Micah Siegel, Marthine Desiree Satris, COPYEDITOR NAME HERE, and INDEXER
+NAME HERE for their patience, hard work, and attention to detail.
 
 Finally, a book extracts its heaviest toll from those closest to the author.
 My family and my partner Yoora gave it the needed time, space, and love.
