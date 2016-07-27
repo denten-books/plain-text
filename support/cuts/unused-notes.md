@@ -1,3 +1,8 @@
+[^ln1-database]: In describing his Relational Calculus Expression for Metaphor
+Generation Lawrence F. Young writes that the "key to this model is the
+observation that any entity can be metaphorically associated with another
+entity" [@young_metaphor_1987, 312].
+
 [^ln1-brains]: For the first view see @putnam_minds_1960 and
 @fodor_language_1975. For the second view see @deutsch_quantum_1985 and
 @dyson_turings_2012.

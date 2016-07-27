@@ -363,8 +363,8 @@ but also become naturalized: that is, understood literally. They create
 connections, which with time become habituated and invisible. Taken for
 literal truth, metaphors lose their quality of mediation or literally
 "ferrying across."[^ln1-greek] The idea of "dead metaphors" itself no longer
-evokes death, for example. Metaphors wither: once a connotation is lost, it
-becomes a denotative statement lacking any exploratory or explanatory
+evokes death, for example.[^ln1-dead] Metaphors wither: once a connotation is
+lost, it becomes a denotative statement lacking any exploratory or explanatory
 potential. In Shelley's view, all metaphors are destined to become habituated
 in this way, only to be reborn again in poetry.
 
@@ -1209,15 +1209,10 @@ early versions at http://rickadams.org/adventure/e_downloads.html.  I ran
 calculate vocabulary. Later versions of the game contain a slightly enriched
 lexicon.
 
-[^ln1-database]: In describing his Relational Calculus Expression for Metaphor
-Generation Lawrence F. Young writes that the "key to this model is the
-observation that any entity can be metaphorically associated with another
-entity" [@young_metaphor_1987, 312].
-
-[^ln1-dead]: For a book length summary on this topic see
+[^ln1-dead]: For a book length discussion of dead metaphors see
 @muller_metaphors_2008.
 
-[^ln1-greek]: In modern Greece metaphor is the ordinary word for
+[^ln1-greek]: In modern Greek metaphor is the ordinary word for
 transportation, often inscribed on trucks and shipping containers.
 
 [^ln2-heid]: See @heidegger_being_1996, 70: "When something at hand is missing
@@ -1232,7 +1227,7 @@ icon, and index. Peirce writes "icons are are so completely substituted for
 their objects as hardly to be distinguished from them" [@peirce_algebra_1992,
 226].
 
-[^ln1-metalakoff]: [@lakoff_contemporary_1998, 245] See also
+[^ln1-metalakoff]: @lakoff_contemporary_1998, 245. See also
 @turner_conceptual_1995; @ruiz_de_mendoza_ibanez_nature_1998;
 @lakoff_invariance_2009.
 
@@ -1244,7 +1239,7 @@ wireless headset reads your brainwave activity. Concentrate...and the ball
 rises on a cushion of air! Relax...and the ball descends. It's literally mind
 over matter!" (@mindflex_mindflex:_2015)
 
-[^ln1-nested]: The notion of "digital text" itself is a metaphor. Files do not
+[^ln1-nested]: The notion of "digital text" is itself a metaphor. Files do not
 really hold texts. The idea of "text" identifies a segment of stored memory
 coupled with control codes that govern layout and projection in specific
 material context. Together, these diverse signals and physical affordances
@@ -1252,14 +1247,13 @@ create the illusion of a single text.
 
 [^ln1-peirce]: Charles Sanders Peirce, a philosopher of language whose
 vocabulary I have been using here, suggests Simulacra as a possible synonym
-for Icon, citing also Plato's *Phaedrus* in relation to the Greek `ὁμοίωμα` or
-imitation [@peirce_excerpts_1998, 481; @plato_euthyphro._1999, 250a-b].
+for Icon, citing also Plato's *Phaedrus* in relation to the Greek `omoiōma` or
+imitation. See @peirce_excerpts_1998, 481; @plato_euthyphro._1999, 250a-b.
 
-[^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
-from speaking to writing: "The most obvious change from speaking to writing
-concerns the relation between message and its medium or channel. At first
-glance, it concerns only this relation, but upon closer examination, the first
-alteration irradiates in every direction, affecting in a decisive manner all
-the factors and functions" [@ricoeur_interpretation_1976, 26].
+[^ln1-rmedium]: See @ricoeur_interpretation_1976, 26: "The most obvious change
+from speaking to writing concerns the relation between message and its medium
+or channel. At first glance, it concerns only this relation, but upon closer
+examination, the first alteration irradiates in every direction, affecting in
+a decisive manner all the factors and functions."
 
 \newpage
