@@ -542,7 +542,7 @@ illusion of similarity. We encounter what is called *skeuomorphic* design, by
 which screen reading retains the ornaments of print. In this way, electronic
 book readers mimic the bent corner of a well-thumbed book. Skeuomorphic
 metaphors extend visual cues from one medium to another. A reader already
-knows how to turn book pages. Book devices therefore simulate page turing to
+knows how to turn book pages. Book devices therefore simulate page turning to
 ease the cognitive burden of transitioning from paper to pixel. Instead of
 issuing arcane commands meant for the machine, readers perform the more
 habituated motion of swiping across the screen. The gliding motion enacts a
@@ -758,7 +758,7 @@ thee to a summer's day," would not "a spring day" do as well or better?
 >`Interrogator:` How about "a winter's day," That would scan all right.  
 >`Witness:` Yes, but nobody wants to be compared to a winter's day.  
 >`Interrogator:` Would you say Mr. Pickwick reminded you of Christmas?  
->`Witness: In a way.  
+>`Witness:` In a way.  
 >`Interrogator:` Yet Christmas is a winter's day, and I do not think Mr. Pickwick
 would mind the comparison.  
 >`Witness:` I don't think you're serious. By a winter's day one means a typical
