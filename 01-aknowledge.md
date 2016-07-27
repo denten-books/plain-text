@@ -1,4 +1,4 @@
-# Acknowledgements
+# Acknowledgments
 
 The book's faults, to quote Will Durant, are all mine. Its strengths, however,
 derive from the support of a community.
