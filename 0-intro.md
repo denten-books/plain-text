@@ -23,7 +23,7 @@ To "open" a book I touch the glass. The machine recognizes my fingerprint. I
 then tap and poke at the surface until I find a small image that represents
 both my library and book store, where I can "buy" and "borrow" books. Buying
 or borrowing books does not, however, involve the possession of physical
-objects. Rather, I agree to a licence that grants limited access to data,
+objects. Rather, I agree to a license that grants limited access to data,
 which the software then assembles into something resembling a book on screen.
 I tap again to begin reading. The screen dims to match room ambiance as it
 fills up with words. A passage on the first page appears underlined: other
@@ -769,7 +769,7 @@ write for a machine? What about broken mechanisms of comprehension? At once a
 device and an algorithm, the Turing machine blurs the boundaries between
 software and hardware, code and content, intelligence and its imitation.
 
-The *second chapter* begins with a question. What does it mean to turn a page,
+The **second chapter** begins with a question. What does it mean to turn a page,
 I ask, when neither pages nor the action of turning them correspond to the
 implied analogy? A close reading of the metaphor leads to an intellectual
 history of human-computer interaction. It progresses from "conversational
@@ -841,10 +841,10 @@ milestone in the history of human textuality: the moment at which the
 inscription passed from view, giving rise to the sometimes conflicting but
 nevertheless consistent accounts of digital textuality.
 
-A short *conclusion* gestures towards the contemporary political consequences
-of the material covered, discussing also the possibility of machine
-phenomenology in relationship to humanism. Computational poetics, I maintain,
-encourages users to become active thinkers, tinkerers, and makers of
+A short **conclusion** gestures towards the contemporary political
+consequences of the material covered, discussing also the possibility of
+machine phenomenology in relationship to humanism. Computational poetics, I
+maintain, encourages users to become active thinkers, tinkerers, and makers of
 technology. It understands digital environments to be also systems of semiotic
 exchange, amenable to the construction and the deconstruction of meaning. I
 further encourage those who may have considered themselves mere "users" of
