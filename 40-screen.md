@@ -13,68 +13,66 @@ glimpse into the nature of simulation.
 The sign is no longer immutable, as if etched in stone. Rather, we observe it
 in motion. The "illusion" of digital textuality is a consequence of the
 dynamic property of projection. To place texts on a screen is to bring them
-closer to the moving image. What does it mean to perceive seemingly static
-words through a fundamentally dynamic medium? What happens to literature that
-takes place on cinema screens?
+closer to moving image. What does it mean to perceive seemingly static words
+through a fundamentally dynamic medium? What happens to literature that takes
+place on cinema screens?
 
-In previous chapters, we have encountered the shape of the conduit: keyboards,
-screens, storage. In this chapter, a short meditation on the digital
-commonplaces in popular culture precedes two case studies, one from the
-material history of telegraphy and the other from the history of modern
-display technology. Archival material---patents, blueprints, phenomenological
-accounts from the early history of word processing---will be brought to bear
-on a debate concerning the nature of digital representation and perception in
-the philosophy of aesthetics.
+In this chapter, a short meditation on the digital commonplaces in popular
+culture precedes two case studies, one from the material history of telegraphy
+and the other from the history of modern display technology. Archival
+material---patents, blueprints, phenomenological accounts from the early
+history of word processing---will be brought to bear on a debate concerning
+the nature of digital representation and perception in the philosophy of
+aesthetics.
 
-I will question the term "digital," a descriptor everywhere now used yet so
-poorly felt and understood. One intuits that it has something to do with
-numbers or fingers, but something more is always at stake in its distinction
-from analog. That something---a remainder, a trace---will be my focus here.
-Through a series of case studies that test our theoretical intuitions against
-the material realities of digital representation, I will advance, as always, a
-materialist, computational poetics, which foregrounds a thick description of
-the device. The chapter will engage with the elemental particulates of two
-primal media conduits: electric ether and liquid crystal, the media behind the
-telegraph and the liquid crystal display (LCD).
+Digital *X*: the adjective is everywhere now used yet so poorly felt and
+understood. One intuits it has something to do with numbers or fingers, but
+something more is always at stake in its distinction from analog things. That
+something---a remainder, a trace---will be my focus here. A series of case
+studies will test our theoretical intuitions against the material realities of
+digital representation. I will advance, as always, a materialist, formal, and
+historically-grounded analysis, which foregrounds a thick description of the
+device. This chapter will engage the elemental particulates of two fundamental
+media conduits: electric ether and liquid crystal. The first is a primary host
+for telegraphy. The second filters light on screen.
 
-I am also concerned with a phenomenological description of human perception.
-My goal is to disturb the comfort and congruity between organ and device. The
-two mold and reshape each other. This dialectic must be disturbed for
-understanding to take place. The nature of "digital" experience might appear
-to be an intrinsic property of the medium. But, under closer examination, as I
-argue, it reveals itself as a political construct that lays claims on the
-body, structuring the physical affordances of communication. The change of the
+I am also concerned here with a phenomenological description of human
+perception. My goal is to disrupt the naturalized congruity between organ and
+device. The quality of something being "digital," I argue, might initially
+appear to be an intrinsic attribute of the medium. Under closer examination,
+it reveals itself as a political construct that lays claims on the body,
+structuring the physical affordances of communication. The change of the
 *medium* from paper to pixel entails a series of corresponding changes in the
-*mode* of perception. The projection "attunes" the viewer to the message. By
-attunement I mean something analogous to what Marcel Mauss calls the
-"techniques of the body" [@mauss_techniques_2006, 78], the way in which we sit
-for example: the position of the hands, the head, or the movement of the eyes.
+*mode* of perception. The mode "attunes" viewers to its message. By attunement
+I mean something analogous to what Marcel Mauss has called the "techniques of
+the body": the way in which we sit down to read for example, the position of
+head and hands, eye movement, and posture [@mauss_techniques_2006, 78].
 Attunement structures apprehension. It answers the "how" of perception.
 
 It would be wrong to conflate the medium with the message in this context. At
-stake in the digital--analog divide is rather the reader's ability to do
-something with the text. Throughout this chapter I will use the word "medium"
-to narrowly identify the physical conduits of representation.[^ln3-oed] Thus
-the medium of painting is paint and canvas; the medium of books is paper and
-ink. The gained precision in terms will help later, when I consider more
-complicated and interested edge cases.
+stake in the digital--analog divide is rather a reader's ability to do
+something with texts. Throughout this chapter, I will use the word "medium" to
+narrowly identify the physical conduits of representation.[^ln3-oed] Thus the
+medium of painting is paint and canvas; the medium of books is paper and ink.
+The gained precision in terms will help later, when we discuss more
+complicated edge cases.
 
-A change in medium often implies a corresponding change in the *mode* of
+A change in medium often implies a corresponding change in the mode of
 perception. At some level of music production, for example, classical music
 may involve a family of brass woodwind instruments, shaped to move and vibrate
-air. Brass, wood, wind, and air are all reasonable *media* through which sound
-and vibration can travel to a listener's ear. The *mode* of music appreciation
-is listening, which involves a set of conventional cultural techniques: the
-buying tickets, the fact that that there are tickets, dress code and proper
-comportment at a concert. A person from the deaf community may use other modes
-of listening, like leaning against sound amplifying speakers or touching the
-woodwind.
+air. Brass, wood, wind, and air are media through which sound and vibration
+travel to reach a listener's ear. The mode of music appreciation is listening,
+which involves a set of conventional cultural techniques: the buying of
+tickets, dress code, and proper comportment at a concert. But these modalities
+are not rigidly determined. Members of the deaf community, for example, may
+use other modes of listening, like leaning against sound amplifying speakers
+or touching the instrument while it is being played.
 
 Yet at another stage of music production, classical music involves notation. A
 whole system of distribution is built around the printing and circulation of
-sheet music. The modality of reading sheet music, as opposed to listening,
-requires a completely different grammar of body postures. It engages different
-practices and different cultural and financial institutions.
+sheet music. The modality of reading sheet music requires a completely
+different from listening grammar of body postures. It involves other practices
+and strategies, cultural and financial institutions.
 
 We confuse the conversation when we conflate the modality of information
 (music, image, text) with the physical channel of its transmission (air,
