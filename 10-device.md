@@ -1299,10 +1299,10 @@ Manovich inverts Kittler's argument into "there is only software," by which he
 means that in a pragmatic sense, software determines the properties of any
 media object. The inversion participates in the perpetual dialectics between
 idealism and materialism: Hegel and Marx, Marx and Gramsci, Gramsci and
-Kittler, Kittler and Manovich. "[W]hat you can do with the same digital file
-can change dramatically," depending on the software, Manovich writes. When it
-comes to digital photographs, to use his example, one application may allow
-the photographer to crop the image while another may not
+Kittler, Kittler and Manovich.[^ln1-flip] "[W]hat you can do with the same
+digital file can change dramatically," depending on the software, Manovich
+writes. When it comes to digital photographs, to use his example, one
+application may allow the photographer to crop the image while another may not
 [@manovich_there_2011, 273]. From this property-determining aspect of software
 (and in reference to the work of Alan Kay and Theodore Nelson), Manovich
 adopts the concept of the *metamedium*, "a medium that can dynamically
@@ -1525,5 +1525,20 @@ ambiguity of *allotrion*, as a freight other, and the subtle slide between
 *graphō* (letter, figure, writing) and *tupōn* (type, impression, trace). I
 extend my gratitude to Stathis Gourgouris, Simos Zenios, and Guy Smoot for
 their help with Greek translations.
+
+[^ln1-flip]: There is a long-standing joke in Marxist literature that involves
+flipping Hegel, who prioritized the transcendent spiritual over the physical
+and material forms of life, over "back to his feet." See for example
+@marx_marx-engels_1978, 320: "The form of wood, for instance, is altered, by
+making a table out of it. Yet, for all that, the table continues to be that
+common, every-day thing, wood. But, so soon as it steps forth as a commodity,
+it is changes into something transcendent. It not only stands with its feed on
+the ground, but, in relation to all other commodities, it stands on its head,
+and evolves out of its wooden brain grotesque ideas, far more wonderful than
+'table-turning' ever was."  See also @engels_ludwig_1941, 44: "Thereby the
+dialectic of the concept itself became merely the conscious reflex of the
+dialectical motion of the real world and the dialectic of Hegel was placed
+upon its head; or rather, turned off its head, on which it was standing
+before, and placed on its feet again."
 
 \newpage
