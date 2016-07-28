@@ -565,24 +565,42 @@ The emphasis on intrinsic rules by contrast leads to a hermeneutics or an
 archaeology of text, by which the critic's role becomes to discover the
 non-apparent deep structural regularities.
 
-Most recently, that theoretical distinction between shape and formula has been
-negotiated in terms of depth and surface. Two types of reading become evident
-in this model. The "symptomatic" literary critic reaches beyond the
-"ephemeral" external appearances to uncover internal and eternal metaphysical
-truth within. For a Marxist critic like Terry Eagleton or Frederic Jameson
-that latent meaning may have something to do with hidden machinations of
-capital and ideology. The psychologically minded critic reads in search of
-hidden drives and desires.
+The "symptomatic" literary critic reaches beyond the "ephemeral" external
+appearances to uncover internal and eternal metaphysical truth within. For a
+Marxist critic like Terry Eagleton or Frederic Jameson that latent meaning may
+have something to do with hidden machinations of capital and ideology. The
+psychologically minded critic reads in search of hidden drives and desires.
+The words "explication" and "exegesis" imply the movement from the inside to
+the outside. Fredrick Jameson, who seems to be channeling Heidegger and the
+Russian formalists, wrote, for example, that "the process of criticism is not
+so much the interpretation of content as it is a revealing of it:"
 
-In contrast to such "symptomatic" reading, Stephen Best and Sharon Marcus
-describe a constellation of reading practices concerned with "what is evident,
-perceptible, apprehensible in texts; what is neither hidden nor hiding; what,
-in the geometrical sense, has length and breadth but no thickness, and
-therefore covers no depth."[@best_surface_2009, 9] The authors identify a
-constellation of related interpretation practices at the surface: reading for
-material surface, reading for verbal structure, reading for affect, reading
-for description, reading for pattern, and finally, reading for literal meaning
-or "just reading." [@best_surface_2009, 12]
+> [It is] a laying bare, a restoration of the original message the original
+> experience, beneath the distortions of the various kinds of censorship that
+> have been at work upon it; and this revelation takes the form of an
+> explanation of why the content was so distorted and is thus inseparable from
+> a description of the mechanisms of this censorship itself
+> [@jameson_marxism_1972, 404].
+
+Language is again seen to be corrupted through use. The critic of depth
+however reveals a word's originating sense. Like scratches on a piece of
+furniture, superfluous distortions are polished away. Texts are to be restored
+to their original condition. The business of philosophy, in Heidegger's
+formulation, is to protect the power of elemental words "flatted by use." The
+philologist philosopher reveals words before use somehow, pre-philosophically,
+before they are "covered over" and "sink back into concealment"
+[@heidegger_being_1996, 202(220). For a sophisticated defense of Heidegger's
+etymological methods see @king_heideggers_2007.]
+
+In contrast to such circumspect, "symptomatic" reading, Stephen Best and
+Sharon Marcus describe a constellation of reading practices concerned with
+"what is evident, perceptible, apprehensible in texts; what is neither hidden
+nor hiding; what, in the geometrical sense, has length and breadth but no
+thickness, and therefore covers no depth."[@best_surface_2009, 9] The authors
+identify a constellation of related interpretation practices at the surface:
+reading for material surface, reading for verbal structure, reading for
+affect, reading for description, reading for pattern, and finally, reading for
+literal meaning or "just reading" [@best_surface_2009, 12].
 
 In making an argument for surface reading, Best and Marcus gesture toward the
 kind of formal poetics advocated by Susan Sontag in the late 1960s. At the
@@ -593,19 +611,8 @@ privileged and unnecessarily meddling position between reader and text. "If
 excessive stress on content provokes the arrogance of interpretation, more
 extended and more thorough descriptions of form would silence," she wrote.
 "The best criticism," she concluded, "and it is uncommon, is of this sort that
-dissolves considerations of content into those of form."[@sontag_against_1966,
-1-12]
-
-Marcus and Best remind us that Sontag's manifesto was also an "affective and
-ethical stance" [@best_surface_2009, 10]. Strategies of "deep" interpretation
-carry with them a claim to authority, as well as an imbalance of interpretive
-acumen. Critics assert to uncover what lay readers do not and supposedly
-cannot see without expert guidance. As an ethical stance, reading for external
-forms flattens the hierarchy between lay readers and professional
-interpreters. In this sense, Best, Marcus, and Sontag continue in the liberal,
-Lutheran tradition of vernacular exegesis. All readers are priests at the
-surface; all readers are capable, the critics suggest, of forming their own
-interpretation.
+dissolves considerations of content into those of form" [@sontag_against_1966,
+1-12].
 
 Interpretation at the level of meaning alone, for Sontag, was an intellectual
 and ultimately reactionary activity. It aims to find the "maximum amount of
@@ -635,34 +642,26 @@ us short of meaning making. A discipline of careful perception---of paying
 attention to---could sharpen reader sensibilities, allowing them to interpret
 independently. There is no need to explain under this model, only describe.
 The history of interpretation Sontag objected to was one that privileged
-content over form.
-
-Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
-deemed the "sensory experience" or the "erotics" of art. In "Against
-Interpretation" Sontag mentions the ideal of "transparence" as the "highest,
-most liberating value in art---and in criticism---today. Transparence means
-experiencing the luminousness of the thing in itself, of things being what
-they are."[@sontag_against_1966, 9] Rather than show what a work of art
-*means*, Sontag urged critics to show "how it is" and "that it
+content over form. Form in the sense of "outward shape" suggests an emphasis
+on what Susan Sontag deemed the "sensory experience" or the "erotics" of art.
+In "Against Interpretation" Sontag mentions the ideal of "transparence" as the
+"highest, most liberating value in art---and in criticism---today.
+Transparence means experiencing the luminousness of the thing in itself, of
+things being what they are."[@sontag_against_1966, 9] Rather than show what a
+work of art *means*, Sontag urged critics to show "how it is" and "that it
 is."[@sontag_against_1966, 10] Form, as she saw it, mirrors McKeown's "shape"
 and the "text's physical characteristics" of Hayles.
 
-The words "explication" and "exegesis" by contrast imply the movement from the
-inside to the outside. For a psychoanalytical critic interpretation in that
-sense may mean revealing the hidden psychological drives behind expression. A
-Marxist critic may instead look for the concealed operation of ideology.
-Fredrick Jameson, a prominent Marxist critic influenced the Russian
-formalists, wrote, for example, that "the process of criticism is not so much
-the interpretation of content as it is a revealing of it:"
-
-> [It is] a laying bare, a restoration of the original message the original
-> experience, beneath the distortions of the various kinds of censorship that
-> have been at work upon it; and this revelation takes the form of an
-> explanation of why the content was so distorted and is thus inseparable from
-> a description of the mechanisms of this censorship itself
-> [@jameson_marxism_1972, 404].
-
-The emphasis on originality 
+Marcus and Best remind us that Sontag's manifesto was also an "affective and
+ethical stance" [@best_surface_2009, 10]. Strategies of "deep" interpretation
+carry with them a claim to authority, as well as an imbalance of interpretive
+acumen. Critics assert to uncover what lay readers do not and supposedly
+cannot see without expert guidance. As an ethical stance, reading for external
+forms flattens the hierarchy between lay readers and professional
+interpreters. In this sense, Best, Marcus, and Sontag continue in the liberal,
+Lutheran tradition of vernacular exegesis. All readers are priests at the
+surface; all readers are capable, the critics suggest, of forming their own
+interpretation.
 
 ## Tactics of Reading
 
@@ -670,7 +669,7 @@ If reading for sensory experience implies an erotics of art and reading for
 hidden formulae implies a hermeneutics, what would it mean to read for format?
 Formats, to borrow from Tanselle, bridge the "physical structure of finished
 books" and their "intellectual content" through what he calls "printing-shop
-routines," which I have identified as a technique for the transformation of
+routines," which I have identified as techniques for the transformation of
 ideas into inscription-things.
 
 Textual scholars have traditionally arbitrated in the conflict between
@@ -685,12 +684,8 @@ Blake's poetry lost, textual critics would reconstruct the texts' genealogy
 from extant remnants. They could, for example, infer the missing illustrations
 based on reception history. "The textual critic," Phelps wrote "is concerned
 mainly with the fact of the [textual] change itself."[@phelps_edition_1994,
-65] Reading for format thus involves a series of value judgements about
+65] Reading for format similarly involves a series of value judgements about
 what the text should be and what it is.
-
-[^ln3-printers]: See for example the discussion on the limits of the inductive
-method in bibliographic study in @mckenzie_making_2002, 16-17. See also
-@mcgann_socialization_1991; @tanselle_textual_1996.
 
 Different schools of textual criticism emphasize differing aspects of the
 publication process. Some privilege the notion of authorial intent, others,
@@ -728,15 +723,12 @@ on the page.
 
 Some formatting features matter to readers (line breaks in poetry, for
 example), while others usually do not (like font kerning). Textual criticism
-reminds the literary theorist of the transition that happens between literary
+reminds literary theorists of the transition that happens between literary
 texts and literary works. It is always a fraught process, because a theorist's
 abstract beliefs must be continually weighed against the material affordances
 of a concrete textual witness. A word or comma omitted, a forgotten line,
 cannot ever become a part of the meaning making processes. Format stands at
 the gates of hermeneutics.
-
-[^ln3-remind]: See for example @shillingsburg_being_2006;
-@greetham_textual_1989.
 
 In an essay on pictographs and pictographic logic, Johanna Drucker and Jerome
 McGann discuss how the "presentational form of texts" usually masks their
@@ -1612,5 +1604,12 @@ representation consisting of plain text plus added information"
 Propp's well-known *Morphology of the Folktale*, a text that finds a limited
 number of universal principles of composition in the multiplicity of folktale
 traditions.
+
+[^ln3-printers]: See for example the discussion on the limits of the inductive
+method in bibliographic study in @mckenzie_making_2002, 16-17. See also
+@mcgann_socialization_1991; @tanselle_textual_1996.
+
+[^ln3-remind]: See for example @shillingsburg_being_2006;
+@greetham_textual_1989.
 
 \newpage
