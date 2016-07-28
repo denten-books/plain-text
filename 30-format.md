@@ -2,9 +2,9 @@
 
 ## Digital Formalisms
 
-Text shapes the human body in strange ways. After a lifetime of reading
-shoulders begin to stoop as if books were exerting pressure against the solar
-plexus. Continual exertion deteriorates eyesight. Tendons and other supporting
+Text shapes the human body in strange ways. A lifetime of reading stoops the
+shoulders as if books were exerting pressure against the solar plexus.
+Continual exertion deteriorates eyesight. Tendons and other supporting
 structures in the wrist swell from the repetitive stress of striking keys. The
 word takes its toll. A further profound change happens when we read and write
 along with the machine. As we interpret it, it interprets us.
@@ -25,24 +25,21 @@ human comprehension [@andrews_survey_1995; @karim_x-trepan:_2015]. A vast
 archive of texts written by and for machines supports the tiny, in comparison,
 corpus of human-compatible literature.
 
-Despite its formative impact on the practices of comprehension, code---the
+Despite its formative impact on practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
 Instead, we consign it to the ornamental "formatting" layer of document
 structure. We do so at our peril. Unlike passive decorative
 elements---fleurons, daggers, and pilcrows---the programmatic sign actively
-molds text into context. Words are arranged in space.
+molds text to context. Words find their topography.
 
-At the maximally blunt limit of its capabilities, format governs access. For
-example, commands can render some words and sentences visible on screen while
-suppressing others. The ability to hide text from view completely or to make
-it so small as to be illegible affects not just the style but the politics of
+At the maximally blunt limit of its capabilities, format governs access.
+Commands can render some words and sentences visible on screen, for example,
+while suppressing others. The ability to hide text from view completely or to
+make it so small as to be illegible affects not just the style but politics of
 text. Code determines its audience, privileging certain voices and modes of
 reading. In this sense, the programmatic sign acquires its
 non-representational, tactical character. Stripped of references,
-resemblances, and designations the programmatic sign commands and
-controls.[^ln3-bdrld]
-
-[^ln3-bdrld]: Recall @baudrillard_simulacra_1994, 139-40.
+resemblances, and designations it commands and controls.[^ln3-bdrld]
 
 Unlike figurative description, machine control languages function in the
 imperative. They do not stand for action---they are action. More binding than
@@ -57,8 +54,8 @@ codified power. Like all violence they do not stand for anything. The
 handcuffs simply contort the body into the shape of submission. Absent a body,
 the restraints draw an empty shape. Code similarly shapes the written word.
 Located somewhere between screen and storage medium, formats relate matter to
-content. They are techniques by which immanent inscription, the
-electromagnetic charge, is transformed into transcendent digital objects:
+content. They are techniques by which immanent inscriptions, the
+electromagnetic charge, are transformed into transcendent digital objects:
 novels, songs, films, or poems. Formatting imposes structure.
 
 Think of a paragraph, for example. Writers use them to break up the flow of
@@ -67,13 +64,13 @@ paragraph? Could the shape of a paragraph persist outside of the material
 confines of a page or screen? Can one imagine paragraphs that unfold spatially
 not in two dimensions, a rectangle, but in one, along a straight line, or in
 three, in the shape of a cube? These questions confound because paragraphs
-draw a singular figure. They are a textual container of a type. Any other
-shape less or more than the paragraph would go by another name, would
-constitute another format. To imagine something like a one-dimensional
-paragraph is akin to imagining a flat shoebox. A flat shoebox cannot contain
-shoes. It can hold only images of footwear. A paragraph embodies a similarly
-singular arrangement of elements. It is a container or a data structure of a
-kind, made to hold a certain amount of sentences.
+draw a singular figure. They are textual containers of a type. Any other shape
+less or more than the paragraph would go by another name; it would constitute
+another format. To imagine something like a one-dimensional paragraph is akin
+to imagining a flat shoebox. A flat shoebox cannot contain shoes. It can hold
+only images of footwear. A paragraph embodies a similarly singular arrangement
+of elements. It is a container or a data structure of a kind, made to hold a
+certain amount of sentences.
 
 We may liken paragraphs, words, and sentences to nesting dolls: data
 structures that contain within them further, smaller arrangements of
@@ -82,19 +79,19 @@ paragraph, the paragraph within a chapter, the chapter within a book, the book
 within an archive, and so on.
 
 Formats like the book or the broadsheet newspaper are known entities: we
-understand how they are made and how to unfold them in space.  Computational
+understand how they are made and how to unfold them in space. Computational
 formats, by contrast, change rapidly and proliferate. They contain further, as
 yet unexplored structural possibilities: shapes like the paragraph on paper,
-but native to new media. What you saw is what you got on the page. On the
-screen, what you see is but a small part of what you could get.  We are
-presented with thick content, beyond the visible image, the composite of all
-that is contained within the three-dimensional page. In print, content can be
-gleaned from the surface; there is nothing but surface on page. Screens are
-laminates. Light and liquid crystal---the preferred media for contemporary
-text---surge between the substrates in response to electrical signal. Screen
-surfaces conceal further strata of codification, inscribed onto recondite
-planes of inscription: hard disks, solid state drives, platters, drums, memory
-sticks, layers of copper and oxide.
+but native to new media. What you saw is what you got on the page. On screen,
+what you see is but a small part of what you could get. We are presented with
+thick content, beyond visible image: the composite of all that is contained in
+three-dimensions. In print, content can be gleaned from surface; there is
+nothing but surface expanse on page. Screens are laminates. Light and liquid
+crystal---the conduits for digital media---surge between substrates in
+response to electrical signal. Screen surfaces conceal further strata of
+codification, inscribed onto recondite planes of inscription: hard disks,
+solid state drives, platters, drums, memory sticks, layers of copper and
+oxide.
 
 A byte, made up of eight binary bits, holds a letter. The string of letters
 spelling out "hello world," as I have mentioned previously, occupies eleven
@@ -129,10 +126,10 @@ control codes reside. Format and content compose what may be called *thick
 content,* which accounts for the disparity between plain and fancy
 text.[^ln3-fancy] Its explication requires thick description that draws on
 material particulates. These further acquire tactical significance in
-practice: the text that edits itself or one that collects its own fees
-necessitates new formalisms and strategies of interpretation.
+practice: texts that edit themselves or collect their own fees necessitate new
+formalisms and strategies of interpretation.
 
-The familiar paper paragraph structure already presents several interesting
+A familiar paper paragraph structure already presents several interesting
 problems for analysis. A paragraph, we intuitively believe, corresponds to a
 unit of thought. But there is nothing inherently paragraph-like in the neural
 arrangement of thoughts in our brains. Physiologically, the brain arranges
@@ -151,14 +148,11 @@ Fuhrman.](images/figure-3-1.png)
 Formats mediate between data structures, transforming one into the other
 according to predefined rules. Mental image, information stored in the head,
 becomes inscription, information stored in the machine, which turns into a
-projection, content arranged on screen. The complexities of the
-transformation stem from the fundamental incompatibility between
-incommensurate languages and physicalities. Format specifications govern the
-transference of data structures from one medium into the other, at the point
-of contact between human, symbol, and machine.
-
-[^ln3-symbolisms]: See @wittgenstein_philosophical_1974, 45. On
-"incommensurate languages" see also @davidson_essays_1980, 187-99.
+projection, content arranged on screen. The complexities of transformation
+stem from a fundamental incompatibility between incommensurate languages and
+physicalities. Format specifications govern the transference of data
+structures from one medium into the other, at the point of contact between
+human, symbol, and machine.
 
 In this chapter I would like to move us towards a systematic study of format.
 The history of formalism, as I will argue, contains within it at least these
@@ -175,30 +169,30 @@ the process, I will show how formats have developed from simple machine
 instructions for typographical layout into complex meta-literary directives
 related to the protection of intellectual property rights, constraints on
 speech, trade agreements, the politics of surveillance, and clandestine
-communication. The intellectual history of form drawn from the annals of
-literary theory will meet the material history of format drawn from computer
-science in the second half of the chapter. The chapter ends with the notion of
-a "smart document," an increasingly common instrument of record capable of
-policing its own encoded rules of reader engagement: what can be read, how,
+communication. An intellectual history of form, drawn from the annals of
+literary theory, will meet the material history of format, drawn from computer
+science in the second half of the chapter. The chapter ends with a discussion
+of "smart documents," increasingly common instruments of record capable of
+policing their own encoded rules of reader engagement: what can be read, how,
 and where.
 
 ## Concrete and Universal
 
 The intellectual history of formalist literary theory contains within it at
-least two contradictory ideas about form: one about the outward shape of the
-sign and another about the inward structure or formula that governs semiosis.
+least two contradictory ideas about form: one about the sign's outward shape
+and another about its inward structure or formula that governs semiosis.
 
-The distinction leads to conflicting strategies of interpretation. In the
-sense of "outward shape," form suggests the affective aesthetics or even
-"erotics" of art [@sontag_against_1966]. In this view, the sign is forever
-embedded into the specific contexts of inscription, or alternatively, in the
-contexts of its reception. The individual peculiarity of the word in context
-renders it forever different from the same word used elsewhere. Formalism in
-this sense is concerned with the distinctive, palpable, and outward physical
-attributes of a text. As formula, form suggests a more analytical approach,
-one that explicates the inward structures---universal rules, patterns, and
-archetypes---that shape the production of text from within.  Formal analysis
-so conceived studies not specific traces or utterances, but rather the
+The distinction leads to diverging strategies of interpretation. In the sense
+of "outward shape," form suggests the affective aesthetics or even "erotics"
+of art [@sontag_against_1966]. In this view, the sign is forever embedded into
+the specific contexts of inscription, or alternatively, in the contexts of its
+reception. The individual peculiarity of the word in context renders it
+forever different from the same word used elsewhere. Formalism in that sense
+is concerned with the distinctive, palpable, and outward physical attributes
+of text. As formula, form suggests a more analytical approach, one that
+explicates the inward structures---universal rules, patterns, and
+archetypes---that shape textual production from within. Formal analysis so
+conceived studies not specific traces or utterances, but rather the
 development of ideal forms, which exist somewhat independently of their
 specific instantiations.[^ln3-levine] Form in the sense of formula embodies an
 abstraction, leading to generalized historical categories like genre and
@@ -208,34 +202,31 @@ of recognition instantiated in discourse" [@gitelman_paper_2014, 2-4]. Where
 palpable form leads to immanent material artifacts, the abstracted notion of
 form leads to transcendent ideal categories.
 
-[^ln3-levine]: See the Introduction to @levine_forms:_2015, for example.
-
 The notion of "format" occupies the conceptual space somewhere between form as
-intrinsic formula and form as extrinsic shape. In what remains, to my
-knowledge, a singular article-length treatment on the topic in literary
-studies, G. Thomas Tanselle approaches the concept of formatting from the
-perspective of textual criticism---the practice of compiling, editing,
-annotating, preserving, and publishing scholarly critical editions of
-canonical texts. For Tanselle's narrow purposes, the concept of formatting
-encompasses something like the "number of page-units placed on the press at
-one time."[@tanselle_concept_2000, 113] He acknowledges, however, that formats
+intrinsic formula and extrinsic shape. In what remains, to my knowledge, a
+singular article-length treatment on the topic in literary studies, G. Thomas
+Tanselle approached the concept of formatting from the perspective of textual
+criticism---the practice of compiling, editing, annotating, preserving, and
+publishing scholarly critical editions of canonical texts. For Tanselle's
+narrow purposes, the concept of formatting encompassed something like the
+"number of page-units placed on the press at one
+time."[@tanselle_concept_2000, 113] He acknowledged, however, that formats
 refer also to the "nature and order of the contents."[@tanselle_concept_2000,
 67] The genre of "soap opera," for example, evokes both a medium, daytime
 television and the specific kind of a story told in that medium, melodrama and
 pulp. The format of a journal may be "broadsheet daily" or "tabloid."
 
-The notion of a format identifies matter both of particular shape and content.
-The soap opera is a kind of a daytime melodrama of a certain length, for
-example. It has certain audiences in mind. The format thus speaks both to the
-physical properties and to the ideational subject matter of the thing. The
-novel is a genre, where the paperback its common format. The novel is
-infinitely malleable, where the paperback is fixed by its methods of
-manufacturing and distribution. We do not expect scientific textbooks in
-paperback, for example, just as we would not expect tabloids to be printed on
-expensive stock or to support long-form investigative journalism. The format
-captures something about the shape, the design, the style, and the thematics
-of the subject matter; it connects, in other words, the where to the what, the
-how, and in what order.
+A format identifies matter both of particular shape and content. The soap
+opera, for example, is a kind of a daytime melodrama of a certain length. It
+has certain audiences in mind. Formats thus address both a thing's physical
+properties and its ideational subject matter. The novel is a genre, where the
+paperback its common format. The novel is infinitely malleable, where the
+paperback is fixed by its methods of manufacturing and distribution. We do not
+usually expect scientific textbooks to appear in paperback, for example, just
+as we would not expect tabloids to be printed on expensive stock or to support
+long-form investigative journalism. Formats capture something about the shape,
+design, style, and thematics of subject matter; they connect, in other words,
+the where to what, how, and in what order.
 
 Whatever the tradition of writing about form, the concept is usually
 contraposed to some idea of content: as in form and content. Content in that
@@ -244,73 +235,82 @@ or extrinsic forces. R.G. Collingwood famously described the distinction
 between classical and romantic art in terms of the form-content divide:
 "classical art," he wrote, "stands for form; romantic art for
 content."[@collingwood_form_1929, 335] The distinction is evoked in other
-fields as well. In her recent work on computational text generation, the
-computer scientist Kathleen McKeown wrote that to produce discourse, writers
-and speakers "must decide what to say and how to present it
-effectively."[@mckeown_text_1992, 1] Similarly, in her influential essay
-"Print Is Flat, Code Is Deep," Katherine Hayles discussed "the interplay
-between a text's physical characteristics and its signifying
-strategies."[@hayles_print_2004, 72]
+fields as well. In her recent work on computational text generation, Kathleen
+McKeown, a renowned computer scientist, wrote that to produce discourse,
+writers and speakers "must decide *what* to say and *how* to present it
+effectively."[@mckeown_text_1992, 1. Emphasis mine.] Similarly, in her
+influential essay "Print Is Flat, Code Is Deep," Katherine Hayles discussed
+"the interplay between a text's physical characteristics and its signifying
+strategies."[@hayles_print_2004, 72] Content and form thus often refer what
+the texts signifies and how, physically it does it.
 
-The distinction between text, its content, and presentation, its form, entails
-the distinction between the work of art in the abstract sense and the object
-of art in the sense of the material artifact. In this way, two slightly
+A distinction between text, its content, and presentation, its form, can also
+entail the distinction between the work of art in the abstract sense and the
+object of art in the sense of the material artifact. In this way, two slightly
 diverging editions of the same text---the various editions of *King Lear*, for
 example---nevertheless refer to the same work of art. The work of art is a
 transcendent idea; the individual editions are contained within its immanent,
 formal characteristics.
 
-As an aside, note that what counts for matter belonging to the contingent
-physical characteristics of a text and what counts for the content belonging
-to its signifying strategies differs from object to object. When reading a
-novel, for example, we commonly ignore variations in line length. The length
-of an average line in Herman Melville's *Moby Dick* changes with the edition.
-Line lengths are not usually important in novels, we would say; they carry no
-meaning. But when reading poetry, the reader does understand line length to be
-an integral part of the text's signifying strategies. The distinction between
-form and content in that sense propagates a kind of value formation, by which
-we separate those attributes of the text that are meaningful from those that
-are not. Form thus identifies physical attributes of the text that can be
-omitted from interpretation and reproduction. A printer can discard
-information about the color of a manuscript's ink for example, or do away with
-the idiosyncrasies of a writer's handwriting when typesetting a manuscript.
+As an aside, note that what counts for matter belonging to a text's contingent
+physical characteristics and what counts for content belonging to its
+signifying strategies differs from object to object. When reading a novel, for
+example, we commonly ignore variations in line length. The length of an
+average line in Herman Melville's *Moby Dick* changes with each edition.  Line
+lengths are not usually important in novels, we would say; they carry no
+meaning. But when reading poetry, readers do value line length. It is, in
+poetry's case, an integral part of the text's signifying strategies.
 
-Theorists also use the word form to refer to the opposite: the essence of the
-text. Under canonical, Platonic definitions, "form" denotes the essential, not
-merely contingent, properties of an object. For Plato, the "essence" of
-something (like a chair) exists in an ideal, metaphysical state, somewhere
-beyond the confines of the material universe. By contrast, a physical
-instantiation of that object (a specific chair) embodies a somewhat more
-limited, corrupted even, version of that perfect idea. The philosopher's task,
-then, becomes one of reconstructing the single ideal chair from its many
+Distinctions between form and content therefore often entail value judgements,
+by which we separate those textual attributes that are meaningful from those
+that are not. Form, in that sense, identifies a text's superfluous physical
+attributes, which can thereby be omitted from interpretation and reproduction.
+A printer can discard information about the color of a manuscript's ink for
+example, or do away with the idiosyncrasies of a writer's handwriting when
+typesetting a manuscript.
+
+Theorists also use form to refer to the opposite of superfluity: meaning the
+essence of the text. Under canonical, Platonic definitions, "form" denotes an
+object's essential, not merely contingent, properties. For Plato, the
+"essence" of something (like a chair) exists in an ideal, metaphysical state,
+somewhere beyond the confines of the material universe. By contrast, a
+physical instantiation of that object (a specific chair) embodies a somewhat
+more limited, corrupted even, version of that perfect idea. The philosopher's
+task, then, becomes one of reconstructing the single ideal chair from its many
 imperfect exemplars.
 
 A computer scientist will recognize in this chain of reasoning some of the
 principles behind object-oriented programming: a way of building software that
 works by defining abstract "object classes" and invoking them into "class
-instances" [@hoare_record_1965; @nygaard_history_1981]. The abstract class can
-further be modified or extended when called into action. In this way, the
+instances" [@hoare_record_1965; @nygaard_history_1981]. An abstract class can
+be further modified or extended when called into action. In this way, the
 abstract category of "chairs" becomes a given chair, complete with individual
 flaws and imperfections. I could, for example, modify the chair by attaching a
 lamp. The modified chair remains a species of chairs. As before, flaws and
 emendations are considered insignificant when compared to the perfected class.
 In the idealist tradition, ideas similarly provide us with lasting universal
 "templates" for instantiation within the contingent and always changing
-physical confines of the material world.[^ln3-descartes]
+physical confines of the material world.[^ln3-descartes] The form is a
+template of arrangement, in that sense. Its content does not matter. Or rather
+content is subservient to form. These words become meaningless when rearranged
+otherwise.
 
 So far, I have been using the term "form" quite liberally, relying on the
-reader's familiarity with its contradictory everyday usage. A closer look at
-the canonical texts in the original will help us identify the conflicting
-meanings that become obvious in translation. In Plato's dialogues we find a
-number of words that are sometimes reasonably rendered into the English
-"form." These include *eidos* (essence), *idea* (idea), *morphe* (shape), and
-*phainomena* (appearance). Compare, for example, the following several
-translations from Plato's *Timaeus*. In *Timaeus*, we see the titular
-character discuss the nature of the physical world with his collocutor. In a
-passage that anticipates the famous "molten wax" analogy in Descartes, Timaeus
-notices that some elements, like water, change their appearance
-[*phantazomenōn*] while remaining essentially the same substance. Benjamin
-Jowett translates the passage as follows:
+reader's familiarity with its contradictory everyday usage. Think of it as
+formal calisthenics. I am certain the reader can think of other usages, that
+run counter to the above examples.
+
+A closer look at the canonical texts in the original will help us identify the
+conflicting meanings that become more obvious in translation. In Plato's
+dialogues, for example, we find a number of words that are reasonably rendered
+into the English "form." These include *eidos* (essence), *idea* (idea),
+*morphe* (shape), and *phainomena* (appearance). Compare, as an exercise, the
+following several translations from Plato's *Timaeus*. In *Timaeus*, we see
+the titular character discuss the nature of the physical world with his
+collocutor. In a passage that anticipates the famous "molten wax" analogy in
+Descartes, Timaeus notices that some elements, like water, change their
+appearance [*phantazomenōn*] while remaining essentially the same substance.
+Benjamin Jowett translates the passage as follows:
 
 > Thus, then, as the several elements never present themselves in the same
 > form [*phantazomenōn*], how can anyone have the assurance to assert
@@ -330,7 +330,8 @@ the plain meaning of the passage: the essence of a thing remains even as its
 outward appearance changes, taking on a phantasmal, fantastic, ghostly,
 imaginable, and even "virtual" shape and appearance (all reasonable English
 approximations of the Greek *phantazomenōn*). Accordingly, Jowett translates
-*phantazomenōn* (that which is changeable) as "form" and Lamb as "appearance."
+*phantazomenōn*---that which is changeable---as "form" and Lamb as
+"appearance."
 
 Contrast the *Timaeus* passages with the ones in *Cratylus*, about
 name-giving. In *Cratylus*, Socrates and Hermogenes discuss the ways in which
@@ -346,55 +347,57 @@ shuttles does not matter as much as the abstracted idea of shuttles. The
 abstraction endures even as given instantiations shatter. There exist
 different types of shuttles, some used to weave wool and some for linen, but
 all of them, in Jowett's translation, "must contain the form or ideal
-[*eidos*] of shuttle" [@plato_dialogues_1937, 389a-b]. In *Cratylus*, *eidos*
-stands for the "universal lasting ideal" of all shuttles: exactly the opposite
-of *phantazomenōn* as "ephemeral instantiation" in the previous passage! Yet
-both *eidos* and *phantazomenōn* were reasonably translated into the English
-"form," indicating the way in which the concept is often made to carry both of
-these conflicting meanings.[^ln3-plato]
+[*eidos*] of shuttle" [@plato_dialogues_1937, 389a-b].
+
+In *Cratylus*, *eidos* stands for the "universal lasting ideal" of all
+shuttles: exactly the opposite of *phantazomenōn* as "ephemeral instantiation"
+in the previous passage! Yet both *eidos* and *phantazomenōn* were reasonably
+translated into the English "form," indicating the way in which the concept is
+often made to carry both of these conflicting meanings.[^ln3-plato]
 
 The overdetermination of form persists similarly in many English translations
 of G.W.F. Hegel, whose discussion of Platonic forms is another paradigmatic
-text. In his *Lectures on Aesthetics*, Hegel posits classical art as striving
-to reach an equilibrium between its ideational, spiritual content and "the
-configuration of sensuous material" [@hegel_hegels_1998, 70].
-Characteristically, Hegel's prose is marked by technical and sometimes
-idiosyncratic vocabulary. Rather than define the terms precisely, Hegel
-saturates his text with semantic cognates. On the side of "content" [*Inhalt*,
-*Gehalt*], he evokes words like inner life [*Innere Lebendigkeit*], feeling
-[*Empfindung*], soul [*Seele*], and spirit [*Geist*].  All of these convey a
-movement inward to a location (if it can be called such) beyond the physical
-world, accessible only to the spirit [*Geist*] or mind [*Gedanken*,
-*Verstand*]. On the side of "form" (same in German), Hegel accumulates words
-like expression [*Ausdruck*] and presentation [*Darstellung*], but also lines,
-curves, surfaces, carvings, colors, tones, word sounds, and generally matter
-or material [*Linien*, *Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*,
-*Tönen*, *Wortklängen*, *Material*] [@hegel_werke:_1986, *Einleitung*]. The
-semantic cluster of words related to "form" conveys physical (palpable, of
-this world) and outward-facing properties, available for examination to the
-senses (*Sinne*).
+text in the formalist canon. In his *Lectures on Aesthetics*, Hegel posits
+classical art as striving to reach an equilibrium between its ideational,
+spiritual content and "the configuration of sensuous material"
+[@hegel_hegels_1998, 70].  Characteristically, Hegel's prose is marked by
+technical and sometimes idiosyncratic vocabulary. Rather than define his terms
+precisely, Hegel saturates his text with semantic cognates. On the side of
+"content" [*Inhalt*, *Gehalt*], he evokes words like inner life [*Innere
+Lebendigkeit*], feeling [*Empfindung*], soul [*Seele*], and spirit [*Geist*].
+All of these convey a movement inward to a location (if it can be called such)
+beyond the physical world, accessible only to the spirit [*Geist*] or mind
+[*Gedanken*, *Verstand*]. On the side of "form" (same in German), Hegel
+accumulates words like expression [*Ausdruck*] and presentation
+[*Darstellung*], but also lines, curves, surfaces, carvings, colors, tones,
+word sounds, and generally matter or material [*Linien*, *Krümmungen*,
+*Flächen*, *Aushöhlungen*, *Farben*, *Tönen*, *Wortklängen*, *Material*]
+[@hegel_werke:_1986, *Einleitung*]. The semantic cluster of words related to
+"form" conveys physical (palpable, of this world) and outward-facing
+properties, available for examination to the senses (*Sinne*).
 
-In contrasting the dominant aesthetic modes of classical and Romantic periods,
-Hegel paints Romanticism as an art that seeks to disengage itself from matter,
-reaching the realm of pure self-reflective Spirit. Romanticism, in his words,
-is "freed from this immediate existence which must be set down as negative,
-overcome, and reflected into the spiritual unity" [@hegel_hegels_1998, 81]. He
-writes: "Poetry is the universal art of the spirit which has become free in
-itself and which is not tied down for its realization to external sensuous
-material; instead, it launches out exclusively in the inner space and the
-inner time of ideas and feelings" [@hegel_hegels_1998, 89]. Finally,
-"[i]nwardness celebrates its triumph over the external and manifests its victory
-in and on the external itself, whereby what is apparent to the senses alone
-sinks into worthlessness" [@hegel_hegels_1998, 81]. Romantic art can, in this
-way, triumph over the external, material world, reaching, at its apex, what he
+Using the above distinction, Hegel contrasts the dominant aesthetic modes of
+classical and Romantic periods. He subsequently paints Romanticism as an art
+that seeks to disengage itself from matter, reaching the realm of pure
+self-reflective Spirit. Romanticism, in his words, is "freed from this
+immediate existence which must be set down as negative, overcome, and
+reflected into the spiritual unity" [@hegel_hegels_1998, 81]. He writes:
+"Poetry is the universal art of the spirit which has become free in itself and
+which is not tied down for its realization to external sensuous material;
+instead, it launches out exclusively in the inner space and the inner time of
+ideas and feelings" [@hegel_hegels_1998, 89]. Finally, "[i]nwardness
+celebrates its triumph over the external and manifests its victory in and on
+the external itself, whereby what is apparent to the senses alone sinks into
+worthlessness" [@hegel_hegels_1998, 81]. Romantic art can, in this way,
+triumph over the external, material world, reaching, at its apex, what he
 calls the stage of "free concrete spirituality" [*freie konkrete Geistigkeit*]
-[@hegel_werke:_1986]. The idea overcomes matter to become both free from the
-constraints of the deterministic physical universe, yet gaining a measure of
-solidity in its tangible instantiation.
+[@hegel_werke:_1986]. The idea overcomes matter to become both free from
+physical and determinate constraints, yet gaining a measure of solidity in its
+tangible instantiation.
 
 Several lines in Hegel's exposition of Plato's idealism give us a glimpse of
 his struggle with the Platonic concept of form. In his "Lectures on
-Philosophy," Hegel writes that, the "[i]dea is nothing but what is current with
+Philosophy," Hegel writes that the "[i]dea is nothing but what is current with
 us under the name of the Universal, when this word is not taken in the sense
 of *formal* Universal [*formell Allgemeine*]." The formal universal for him is
 "merely a property of things," whereas in his interpretation Plato must be
@@ -418,7 +421,7 @@ category, but something that "internally distinguishes itself" while remaining
 "free in its infinitude and independent" from all attempts to fix it
 categorically. By way of comparison, we may think about the evolutionary
 process that continues in the species, even as the taxonomy describing that
-evolution may remain tied to its fixed ways of expression. No matter what we
+evolution may remain tied to our fixed ways of expression. No matter what we
 call cats, the feline species will continue to change. New and radically
 different cats may come into existence---ones no longer covered by the
 "external mark" of being "feline," that is by our taxonomical categories. Yet
@@ -428,35 +431,35 @@ to include new forms of feline being. Ideal feline being moves on immediately
 thereafter, continuing to develop and leaving behind only the husk or a
 snapshot of what it meant to be a cat in times already past. Hegel argues that
 one should not confuse that static categorical snapshot with the animate
-ideal. That it why he disparages the "formal universal" as a corrupted, "mere"
-form of the ideal.
+ideal. He therefore disparages the "formal" or formalized, we would better
+say, universal" as a corrupted, "mere" husk of the living ideal.
 
-In contrast to the "formal universal," Hegel's "concrete universal" exists in
-the real, physical world. It is more than a category. We can understand it as
+In contrast to "formal universals," Hegel's "concrete universals" exist in the
+real, physical world. They are more than categories. We can understand them as
 capturing both *eidos* and *phantazomenōn*---idea and appearance---both
 reasonably transcribed to "form" in English. In an essay on Hegel's concept,
 John Crowe Ransom likens the concrete universal to a "formula of a chemical
-reaction," "the recipe for a dish," and "the blue-print of a machine."
-Crucially, the Hegelian universal becomes concrete when the machine "has been
-materialized," and is "working" properly [@ransom_concrete_1955, 387]. Like
-Wittgenstein, Ransom imagines a perfected kind of a machine, which represents
-the ideal of an aesthetic object.
+reaction," "recipe for a dish," and "blue-print of a machine." Crucially, the
+Hegelian universal becomes concrete when the machine "has been materialized,"
+and is "working" properly [@ransom_concrete_1955, 387]. Like Wittgenstein,
+Ransom imagines a perfected kind of a machine, which represents the ideal of
+an aesthetic object.
 
 ## Format Theory
 
 The above notes on Plato and Hegel point to a series of related folds and
 creases in the formalist tradition.  W.K. Wimsatt once observed that literary
-theorists often persist in making statements that understand a work of literary
-art to be, in a peculiar way, "a very individual thing or a very universal
-thing or both."[@wimsatt_structure_1947, 262] A work of art, a poem,
-understood as something which "cannot be expressed in other terms" leads to the
-kind of criticism that emphasizes the contemplation of the outward, affective,
-palpable elements of the text. The function of such criticism, according to
+theorists often persist in making statements that understand a work of
+literary art to be, in a peculiar way, "a very individual thing or a very
+universal thing or both."[@wimsatt_structure_1947, 262] A work of art, a poem,
+understood as something which "cannot be expressed in other terms" leads to
+the kind of criticism that emphasizes the contemplation of a text's outward,
+affective, and palpable elements. The function of such criticism, according to
 Wimsatt, is to create "approximate descriptions of poems" and "multiple
 restatements of their meaning," which aid the reader in coming to their own
-"intuitive and full realization" of literature [@wimsatt_structure_1947,
-280]. Understood as an end product of a living ideal or formula, the analysis
-of literature seeks to recover latent universal mechanisms, laws, and deep
+"intuitive and full realization" of literature [@wimsatt_structure_1947, 280].
+Understood as an end product of a living ideal or formula, the analysis of
+literature seeks to recover latent universal mechanisms, laws, and deep
 structures that give rise to surface phenomena.
 
 The dual motion of literary criticism, at once towards the extrinsic shape and
@@ -482,7 +485,7 @@ ideas that are difficult to explain rationally [@khlebnivkov_collected_1987,
 179; @khlebnikov_king_1990, 151; @labelle_lexicon_2014, 63].
 
 Poetry in the symbolic mode encodes meaning inwardly: the elephant "stands
-for" memory, or the like. *Zaum* poetics instead evoked affect through
+for" memory, or the like. *Zaum* poetics instead evoke feeling through
 external shape, sensually and affectively. Khlebnikov wrote that "mystical
 incantation and beyonsense are appeals 'over the head' of government straight
 to the population of feelings, a direct cry to the predawn of the soul"
@@ -490,72 +493,74 @@ to the population of feelings, a direct cry to the predawn of the soul"
 words but with sound," appealing to the senses rather than the intellect.
 "Thought and speech," he wrote:
 
-> cannot keep up with inspired experience, and for this reason artists are 
+> cannot keep up with inspired experience, and for this reason artists are
 > free to express themselves not only in language of common understanding, but
 > also in private language---language that has no settled sense [...] Lilacs
-> are beautiful, but how deformed [*bezobrazno*] the word "lilac," plundered
+> are beautiful, but how deformed [*bezobrazno*] the word "lily," plundered
 > and exhausted. This is why I call a lilac "uao," restoring its primal
 > clarity [@shklovksy_poetika_1919, 13].
 
-The word *bezobrazno*, in the meaning of hideous or deformed, literally
-translates as "without an image." The word "lilacs" has lost its verbal,
-linguistic shape, the author implied. Formalism of the outward kind thus aimed
-to restore the sensation of an image, returning form, in the sense of a shape,
-to habituated content. Formal techniques like chanting or neologism helped
-revitalize the external sound image. The word loses its sense through
-repetition, while gaining a distinct physical sound signature, which goes
-unnoticed in everyday use.
+*Bezobrazno*, in the meaning of hideous or deformed, literally translates as
+"without an image." The word "lilacs" has lost its unique shape; it has become
+vulgar. Formalism of the outward kind thus aims to restore the sensation of an
+image, returning form, in the sense of shape, to habituated content. Formal
+techniques like chanting or neologism helped revitalize the external sound
+image. In repetition, the word loses its sense---lily, lily, lily, lily---but
+gains a distinct sound signature, which otherwise goes unnoticed. The flower's
+new name similarly takes the object out of its usual linguistic context. How
+strange the newly discovered uao!
 
-Three of the sixteen essays these volumes struck in another direction, away
+Three of the sixteen essays these volumes strike in another direction, away
 from shape and towards formula. Shklovsky's "Art as Technique," "Linkages
 between Plot and Style Device," and Eichenbaum's "How the *Overcoat* Is Made,"
-dealt with narrative structure rather than phonetic image.[^ln3-propp] All
-three authors cited a common source of influence for this direction of
-research, the work of Alexander Veselovsky, a nineteenth century Russian
+deal with narrative structure rather than phonetic image.[^ln3-propp] All
+three authors cite a common source of influence for this direction of
+research: the work of Alexander Veselovsky, a nineteenth century Russian
 historian of literature who did not attain the renown enjoyed by his pupils in
-the West. An early pioneer of comparative literature, he advocated philology
-as a "historical" and "genetic" study of "poetic consciousness and its forms."
+the West.
+
+An early pioneer of comparative literature, Veselovsky advocated philology as
+a "historical" and "genetic" study of "poetic consciousness and its forms."
 Citing literary explorations by Goethe, Friedrich Schiller, and Georges Polti
-as his inspiration, Veselovsky almost always used the word "form" in the sense
-of "formula," and not at all in the sense of "shape" or "sound." In this, he
-imagined a rather Hegelian model of literary evolution, which proceeds through
-the development of universal constants and narrative plot sequences, which
-further influence the development of literary particulars.  Veselovsky called
-these genetic constants "vagabond formulas" [@veselovsky_sobranie_1913, 185].
+as inspiration, Veselovsky almost always used the word "form" in the sense of
+"formula," and not at all in the sense of "shape" or "sound." In this, he
+imagined a Hegelian model of literary evolution, which develops through
+universal constants and narrative plot sequences. These ideal forms in turn
+influence the development of literary particulars. Veselovsky called his
+genetic constants "vagabond formulas" [@veselovsky_sobranie_1913, 185].
+"Somewhere, someone gave these plots [*siuzhety*] an apt expression," he
+wrote:
 
-> Somewhere, someone gave these plots [*siuzhety*] an apt expression, a
-> formula, elastic enough to fit, if not new content, then new interpretations
-> of plots rich in their associative possibilities. The formula endures.
-> Writers will return to it, altering its significance, expanding its meaning,
-> and adopting it to new types. As the formula of "desire" was and continues
-> to be repeated, so also are repeated the plots of *Faust* and *Don Juan*
-> across the distance of centuries [...] We are connected to a tradition. We
-> expand within it---not to create new forms, but to attach to them new
-> sentiments and concerns. This dynamic could be considered a kind of a law of
-> conservation of energy [@veselovsky_sobranie_1913, 475-47].
-
-[^ln3-propp]: To this strain of formalism one could also adduce Vladimir
-Propp's well-known *Morphology of the Folktale*, a text that finds a limited
-number of universal principles of composition in the multiplicity of folktale
-traditions.
+> a formula, elastic enough to fit, if not new content, then new
+> interpretations of plots rich in their associative possibilities. The
+> formula endures. Writers will return to it, altering its significance,
+> expanding its meaning, and adopting it to new types. As the formula of
+> "desire" was and continues to be repeated, so also are repeated the plots of
+> *Faust* and *Don Juan* across the distance of centuries [...] We are
+> connected to a tradition. We expand within it---not to create new forms, but
+> to attach to them new sentiments and concerns. This dynamic could be
+> considered a kind of a law of conservation of energy
+> [@veselovsky_sobranie_1913, 475-47].
 
 The Hegelian influence is unmistakable in these lines. Like the world spirit,
 literary formulae exist and develop across time and space. Veselovsky's
 formulas resemble concrete universals, which develop independently of
-individual texts. Formulae in this sense have a life of their own, in a trans-
-or meta-human way, not fully accessible to the individual author or reader.
+individual texts. Formulae in that sense have a life of their own, in a trans-
+or meta-human way, not fully accessible to an individual author or reader.
 They are invoked indirectly. They exist in the ether of culture, attaining
-historical momentum through a process of gradual evolutionary development. It
-is exactly the opposite of form in the sense of a private utterance, by which
-an individual author breaks with ossified tradition, as was the case with
-Shklovsky's idiosyncratic naming of the flower, *uao*. In one case, the author
-participates in the formation of shared culture; in the other, the author
-attempts to dissent from the shared cultural norm.
+historical momentum through a process of gradual evolutionary development.
+
+Veselovsky's forms again mean exactly the opposite of form in the sense of a
+private utterance, by which an individual author breaks with ossified
+tradition, as was the case with Shklovsky's idiosyncratic naming of the
+flower, *uao*. In one case, the author participates in the formation of shared
+culture; in the other, the author attempts to dissent from shared cultural
+norm.
 
 The tension between extrinsic shape and intrinsic rule lies at the heart of
 literary theory, manifesting at times under differing yet essentially related
-vocabularies. The emphasis on extrinsic shape logically leads to the poetics
-of affective reading of the kind that privileges apparent surface phenomena.
+vocabularies. The emphasis on extrinsic shape logically leads to a poetics of
+affective reading, of the kind that privileges apparent surface phenomena.
 The emphasis on intrinsic rules by contrast leads to a hermeneutics or an
 archaeology of text, by which the critic's role becomes to discover the
 non-apparent deep structural regularities.
@@ -564,21 +569,22 @@ Most recently, that theoretical distinction between shape and formula has been
 negotiated in terms of depth and surface. Two types of reading become evident
 in this model. The "symptomatic" literary critic reaches beyond the
 "ephemeral" external appearances to uncover internal and eternal metaphysical
-truth within.  For a Marxist critic like Terry Eagleton or Frederic Jameson
+truth within. For a Marxist critic like Terry Eagleton or Frederic Jameson
 that latent meaning may have something to do with hidden machinations of
 capital and ideology. The psychologically minded critic reads in search of
-hidden drives, desires, or cognitive structures. By contrast to symptomatic
-reading, Stephen Best and Sharon Marcus describe a constellation of reading
-practices concerned with "what is evident, perceptible, apprehensible in
-texts; what is neither hidden nor hiding; what, in the geometrical sense, has
-length and breadth but no thickness, and therefore covers no
-depth."[@best_surface_2009, 9] The authors identify a constellation of related
-interpretation practices at the surface: reading for material surface, reading
-for verbal structure, reading for affect, reading for description, reading for
-pattern, and finally, reading for literal meaning or "just reading."
-[@best_surface_2009, 12]
+hidden drives and desires.
 
-In making the argument for surface reading, Best and Marcus gesture toward the
+In contrast to such "symptomatic" reading, Stephen Best and Sharon Marcus
+describe a constellation of reading practices concerned with "what is evident,
+perceptible, apprehensible in texts; what is neither hidden nor hiding; what,
+in the geometrical sense, has length and breadth but no thickness, and
+therefore covers no depth."[@best_surface_2009, 9] The authors identify a
+constellation of related interpretation practices at the surface: reading for
+material surface, reading for verbal structure, reading for affect, reading
+for description, reading for pattern, and finally, reading for literal meaning
+or "just reading." [@best_surface_2009, 12]
+
+In making an argument for surface reading, Best and Marcus gesture toward the
 kind of formal poetics advocated by Susan Sontag in the late 1960s. At the
 time, Sontag wrote about the need for "more attention to form in art."
 Interpretation can be liberating, she wrote, but it can also stifle
@@ -586,19 +592,20 @@ creativity. It "depletes" the world in some way, placing the critic in a
 privileged and unnecessarily meddling position between reader and text. "If
 excessive stress on content provokes the arrogance of interpretation, more
 extended and more thorough descriptions of form would silence," she wrote.
-"The best criticism, and it is uncommon, is of this sort that dissolves
-considerations of content into those of form."[@sontag_against_1966, 1-12]
+"The best criticism," she concluded, "and it is uncommon, is of this sort that
+dissolves considerations of content into those of form."[@sontag_against_1966,
+1-12]
 
 Marcus and Best remind us that Sontag's manifesto was also an "affective and
 ethical stance" [@best_surface_2009, 10]. Strategies of "deep" interpretation
 carry with them a claim to authority, as well as an imbalance of interpretive
-acumen. The critic asserts to uncover what the lay reader does not and
-supposedly cannot see without expert guidance. As an ethical stance, reading
-for external forms by contrast flattens the hierarchy between the lay reader
-and the professional interpreter. In this sense, Best, Marcus, and Sontag
-continue in the liberal, Lutheran tradition of vernacular exegesis. All
-readers are priests at the surface; all readers are capable, the critics
-suggest, of forming their own interpretation.
+acumen. Critics assert to uncover what lay readers do not and supposedly
+cannot see without expert guidance. As an ethical stance, reading for external
+forms flattens the hierarchy between lay readers and professional
+interpreters. In this sense, Best, Marcus, and Sontag continue in the liberal,
+Lutheran tradition of vernacular exegesis. All readers are priests at the
+surface; all readers are capable, the critics suggest, of forming their own
+interpretation.
 
 Interpretation at the level of meaning alone, for Sontag, was an intellectual
 and ultimately reactionary activity. It aims to find the "maximum amount of
@@ -625,23 +632,10 @@ was, for her, "virtually" a type of translation. The critic "transforms" and
 properties of the work: one sentence is long, for example, another short. A
 critic could "make something out of" the variation, but Sontag wanted to stop
 us short of meaning making. A discipline of careful perception---of paying
-attention to---could sharpen readers' sensibilities, allowing them to
-interpret independently. There is no need to explain under this model, only
-describe. The history of interpretation Sontag objected to was one that
-privileged content over form. The words "explication" and "exegesis" imply the
-movement from the inside to the outside. For a psychoanalytical critic
-interpretation in that sense may mean revealing the hidden psychological
-drives behind expression. A Marxist critic may instead look for the concealed
-operation of ideology. Fredrick Jameson, a prominent Marxist critic, wrote
-that:
-
-> the process of criticism is not so much the interpretation of
-content as it is a revealing of it, a laying bare, a restoration of the
-original message, the original experience, beneath the distortions of the
-various kinds of censorship that have been at work upon it; and this
-revelation takes the form of an explanation of why the content was so
-distorted and is thus inseparable from a description of the mechanisms of this
-censorship itself [@jameson_marxism_1972, 404].
+attention to---could sharpen reader sensibilities, allowing them to interpret
+independently. There is no need to explain under this model, only describe.
+The history of interpretation Sontag objected to was one that privileged
+content over form.
 
 Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
 deemed the "sensory experience" or the "erotics" of art. In "Against
@@ -652,6 +646,23 @@ they are."[@sontag_against_1966, 9] Rather than show what a work of art
 *means*, Sontag urged critics to show "how it is" and "that it
 is."[@sontag_against_1966, 10] Form, as she saw it, mirrors McKeown's "shape"
 and the "text's physical characteristics" of Hayles.
+
+The words "explication" and "exegesis" by contrast imply the movement from the
+inside to the outside. For a psychoanalytical critic interpretation in that
+sense may mean revealing the hidden psychological drives behind expression. A
+Marxist critic may instead look for the concealed operation of ideology.
+Fredrick Jameson, a prominent Marxist critic influenced the Russian
+formalists, wrote, for example, that "the process of criticism is not so much
+the interpretation of content as it is a revealing of it:"
+
+> [It is] a laying bare, a restoration of the original message the original
+> experience, beneath the distortions of the various kinds of censorship that
+> have been at work upon it; and this revelation takes the form of an
+> explanation of why the content was so distorted and is thus inseparable from
+> a description of the mechanisms of this censorship itself
+> [@jameson_marxism_1972, 404].
+
+The emphasis on originality 
 
 ## Tactics of Reading
 
@@ -1415,6 +1426,8 @@ operations. Others are used to censor and surveil.
 <!-- notes -->
 <!-- notes -->
 
+[^ln3-bdrld]: Recall @baudrillard_simulacra_1994, 139-40.
+
 [^ln3-fairuse]: DMCA 1201 provides for a number of complicated exemptions,
 which may, under some interpretations, sanction limited use for academic
 purposes. See @liu_dmca_2003; @ku_critique_2004; @herman_catch_2005;
@@ -1589,5 +1602,15 @@ representation consisting of plain text plus added information"
 [^ln3-DMCA4]: See US Code, Title 17, §1201.a.3.A.
 
 [^ln3-DMCA5]: See US Code, Title 17, §1201.a.3.B.
+
+[^ln3-symbolisms]: See @wittgenstein_philosophical_1974, 45. On
+"incommensurate languages" see also @davidson_essays_1980, 187-99.
+
+[^ln3-levine]: See the Introduction to @levine_forms:_2015, for example.
+
+[^ln3-propp]: To this strain of formalism one could also adduce Vladimir
+Propp's well-known *Morphology of the Folktale*, a text that finds a limited
+number of universal principles of composition in the multiplicity of folktale
+traditions.
 
 \newpage
