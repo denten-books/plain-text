@@ -1176,11 +1176,11 @@ reading a newspaper online.[^ln3-osi] It includes, among others:
 - the Physical Layer, which provides "mechanical, electrical, functional, and
   procedural" characteristics of communication.[^ln3-layers]
 
-Apart from technical intricacy, consider the complexity of the onion-like
-composite (Fig. 3-5). Whatever one designates as core "content" is enveloped
-within a multiplicity of standards, references, models, and formats, which in
-aggregate define the medium---the physical preconditions---of laminate
-text.[^ln3-domlayer]
+Apart from technical intricacy, consider the practical complexity of the
+onion-like composite (Fig. 3-5). Whatever one designates as core "content" is
+enveloped within a multiplicity of standards, references, models, and formats,
+which in aggregate define the medium---the physical preconditions---of
+laminate text.[^ln3-domlayer]
 
 In his book on protocols, Alexander Galloway discussed the Open Systems
 Interconnection model in reference to what he calls distributed and
