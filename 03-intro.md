@@ -927,7 +927,8 @@ stars---storage, transmission, *the laying of cables*."
 @seigfried_william_1990, @pihlstrom_structuring_1996, and @putnam_jamess_1997.
 
 [^ln0-reverse]: @kirschenbaum_mechanisms:_2008, 15. On the role of reverse
-engineering in media studies see also @fuller_evil_2012, 9.
+engineering in media studies see also @fuller_evil_2012, 9 and
+@conti_visual_2008.
 
 [^ln-sarab]: See also @english_economy_2008; @brouillette_wither_2015 and
 @brouillette_unesco_2015.

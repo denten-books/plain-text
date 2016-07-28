@@ -691,7 +691,10 @@ Different schools of textual criticism emphasize differing aspects of the
 publication process. Some privilege the notion of authorial intent, others,
 critical reception. Whatever the choices, they determine value, by separating
 those physical attributes meaningful to the work from those that are not.
-Judgements about formatting are value judgements. For example, in a
+"Textual awareness requires," Peter Shillingsburg writes, "that readers demand
+to know which of the possible texts of a work is in hand, to know what the
+choices that determine it] are and why they matter [@shillingsburg_being_2006,
+171]. Judgements about formatting are value judgements. For example, in a
 contemporary online edition of Claude McKay's *Harlem Dawn*, the series'
 editors encode for indentation, thus preserving the poems' visual line
 structure. They have also allowed the text to wrap when viewed on small
@@ -714,21 +717,16 @@ are however usually discarded in reproduction. They are not seen as meaningful
 for the understanding of a text.
 
 Format belongs neither wholly to a text's physical medium (pixel or paper) nor
-to the ideational content of the work. It lies somewhere between the two
-worlds: in the shape of the letters, in the structure of the narrative, and in
-the patterns of stress and intonation of the spoken word. We do not know which
-elements belong to content and which to contingent material artifacts of the
-printing process: the way the fonts look, for example, or the way lines break
-on the page.
-
-Some formatting features matter to readers (line breaks in poetry, for
-example), while others usually do not (like font kerning). Textual criticism
-reminds literary theorists of the transition that happens between literary
-texts and literary works. It is always a fraught process, because a theorist's
-abstract beliefs must be continually weighed against the material affordances
-of a concrete textual witness. A word or comma omitted, a forgotten line,
-cannot ever become a part of the meaning making processes. Format stands at
-the gates of hermeneutics.
+to a work's ideational content. It lies somewhere between the two worlds: in a
+letter's shape, a novel's narrative structure, and spoken patterns of stress
+and intonation. Some formatting features matter to readers (line breaks in
+poetry, for example), while others usually do not (like font kerning). Textual
+criticism reminds literary theorists of the transition that happens between
+literary texts and literary works. It is always a fraught process, because a
+theorist's abstract beliefs must be continually weighed against the material
+affordances of a concrete textual witness. A word or comma omitted, a
+forgotten line, cannot ever become a part of the meaning making processes.
+Format stands at the gates of hermeneutics.
 
 In an essay on pictographs and pictographic logic, Johanna Drucker and Jerome
 McGann discuss how the "presentational form of texts" usually masks their
@@ -740,9 +738,9 @@ repleteness of images" also keeps us from perceiving their "conceptual order
 formatting: at once towards the physical and the mental characteristics of
 text, towards matter and content.
 
-The reader understands the text as an idea that takes shape in the mind. The
-book thus retreats from grasp, as Percy Lubbock wrote in *The Craft of
-Fiction* [@lubbock_craft_1921]. Subsequently, readers treat texts as
+The reader understands text as an idea that takes shape in the mind. Books
+thus retreat from grasp, as Percy Lubbock wrote in *The Craft of Fiction*
+[@lubbock_craft_1921]. Subsequently, readers choose to treat texts as
 disembodied artifacts---surface rhetoric---reading past the material
 structures that support mental phenomena. As an object, a unified image, the
 page presents itself in its entirety, at once, in what Drucker and McGann call
@@ -754,53 +752,49 @@ conclude that "systems of graphic presentation are operational, not merely
 passive schematic structures [...] active agents for creating meaning,
 instructions for reading, viewing, comprehending
 information."[@drucker_images_2010] Choices were made, in other words, that
-would later affect meaning making. Apprehension precedes comprehension.
+would later affect meaning making.  Apprehension precedes comprehension.
 Processes of interpretation have commenced and in some cases concluded before
 the reader laid eyes on a page.
 
-In summary, we are confronted with several concrete differences between print
-and digital formats.
+Technical differences between print and digital text amplify the importance of
+format.
 
-Print editors and textual scholars negotiate the shape of the text in advance
-of publication. The choice to exclude certain words, versions, or visual
-elements is fixed into the final proof, where it remains static for the
-duration of a book's existence. The book itself provides a stable platform for
-a range of reading practices, which include the annotation, copying, and
-preservation of written work. To the extent that books determine the
-affordances of reading, those affordances exhibit historical continuity. To
-read a book in print one must possess certain physical capacities: manual
-dexterity, for example, a level of cognitive development, and eyesight within
-a specific range of vision. Readers falling outside of these normalized ranges
-are prevented from accessing the text in the manner specified. The book
-further affords abilities like highlighting and the taking of notes. Empty
-space on page around the text facilitates marginalia. For the highlighter or
-the pen to function well the printing medium must be made of a porous
-material, and not, for example, plastic, which would make marking the page
-difficult while affording other capabilities, like reading under
-water.[^ln3-notes]
-
-[^ln3-notes]: See @blair_note_2004; @daston_taking_2004; @piper_note_2012.
+Print editors and textual scholars negotiate a text's shape in advance of
+publication. The choice to exclude certain words, versions, or visual elements
+is fixed into the final proof, where it remains static for the duration of a
+book's existence. Books are stable platforms for a range of reading practices,
+which include the annotation, copying, and preservation of written work. To
+the extent that books determine reading affordances, those affordances exhibit
+historical continuity. To read a book in print one must possess certain
+physical capacities: manual dexterity, for example, a level of cognitive
+development, and eyesight within a specific range of vision. Readers falling
+outside of these normalized ranges are prevented from accessing the text in
+the manner specified. The book further affords abilities like highlighting and
+the taking of notes. Empty space on page around the text facilitates
+marginalia. For the highlighter or the pen to function well the printing
+medium must be made of a porous material, and not, for example, plastic, which
+would make marking the page difficult while affording other capabilities, like
+reading under water.[^ln3-notes]
 
 The affordances of the electronic book are more diffuse. They now exist in a
 multitude of competing digital formats, each vying to supplant print as the
-singular, unified reading platform.
-
-Software made by Adobe Systems, the company behind the popular Portable
-Document Format, includes Adobe Digital Editions, which the reader can use "to
-download and purchase digital content, which can be read both online and
-offline." The platform's "features" include the ability to "download and
-transfer books between devices" and to "search eBooks." It supports multiple
-languages, the ability to borrow books, printing, limited support for visually
-impaired readers, bookmarking, highlights, notes, and file organization
-[@adobe_plans_2016]. The company's own competing Adobe Document Cloud reading
-platform includes the Free, Standard, and Pro versions of Acrobat Reader, the
-"global standard for reliably viewing, printing, and commenting on PDF
-documents" [@_adobe_2016]. Only the most expensive Pro version allows one to
-"create and validate PDFs to meet accessibility standards for people with
-disabilities." The free version does not support bookmarks or document
-editing. The Pro version enables readers to "redact and permanently remove
-sensitive information in PDFs" and to "compare two versions of a document to
-see what's changed" [@adobe_plans_2016].
+singular, unified reading platform. For example: software made by Adobe
+Systems, the company behind the popular Portable Document Format, includes
+Adobe Digital Editions, which the reader can use "to download and purchase
+digital content, which can be read both online and offline." The platform's
+"features" include the ability to "download and transfer books between
+devices" and to "search eBooks." It supports multiple languages, the ability
+to borrow books, printing, limited support for visually impaired readers,
+bookmarking, highlights, notes, and file organization [@adobe_plans_2016]. The
+company's own competing Adobe Document Cloud reading platform includes the
+Free, Standard, and Pro versions of Acrobat Reader, the "global standard for
+reliably viewing, printing, and commenting on PDF documents" [@_adobe_2016].
+Only the most expensive Pro version allows one to "create and validate PDFs to
+meet accessibility standards for people with disabilities." The free version
+does not support bookmarks or document editing. The Pro version enables
+readers to "redact and permanently remove sensitive information in PDFs" and
+to "compare two versions of a document to see what's changed"
+[@adobe_plans_2016].
 
 Another popular electronic book format, the Amazon Kindle reader, by
 comparison to PDF, includes a feature called "Public Notes" which allows
@@ -819,35 +813,41 @@ and has turned on Public Notes for the book, you'll see that passage
 highlighted along with the name of the person who highlighted it. You'll also
 see the notes that they made in the book [@_amazon_2016].
 
-The Google Play Books platform does not have the public note features nor does
-it support book editing. It does, however, allow readers to translate words
-and passages and look up phrases using the company's search engine
-[@google_read_2016].
+Google's Play Books software, to take another example does not facilitate
+public notes, nor does it support book editing. It does, however, allow
+readers to translate words and passages and look up phrases using the
+company's search engine [@google_read_2016].
+
+Imagine reading the same novel on these four different platforms, four
+formats, four books. The experience would differ drastically in each case.
+What initially seems like one thing---an electronic book---falls apart under
+examination. The electronic book is in reality a multitude of dynamic formats.
+Each requires specialized strategies of reading and interpretation.
 
 Encoded ideas about intellectual property are another stark manifestation of
 inter-platform incompatibility. Whatever its comparative affordances, reading
-software always emulates the logic of ownership. To own a book electronically
-means to have access to the bits that bring the simulation of that book into
-existence. At some lower level of abstraction, however,  the variety of
-reading platforms rests on the same computational substratum. Both Amazon and
-Adobe books rely on the underlying capabilities of the personal computer. This
+software emulates the logic of ownership. To own a book electronically means
+to have access to the bits that bring the simulation of that book into
+existence. At some lower level of abstraction, however, the variety of reading
+platforms rests on the same computational substratum. Both Amazon and Adobe
+books rely on the underlying capabilities of the personal computer. This
 "hypermedia," as Lev Manovich has called it, lies at the base of all competing
-ebook formats [@manovich_software_2013, 71, 79-80. He adopts the term from
-Theodore H. Nelson---see @nelson_file_2003]. Owning a book on that level, must
-involve manipulating hardware states. A common act of epistemic disobedience,
-to borrow a phrase from Walter Mignolo, therefore includes accessing the book
-bits directly, through channels not afforded by the publisher
-[@mignolo_epistemic_2009]. Such acts disentangle the mechanisms of book
+ebook formats [@manovich_software_2013, 71, 79-80. See also
+@nelson_file_2003]. Owning a book on that level, must involve manipulating
+hardware states. A common act of epistemic disobedience, to borrow a phrase
+from Walter Mignolo, therefore includes accessing the book bits directly,
+through channels not afforded by the publisher [On epistemic disobedience see
+@mignolo_epistemic_2009]. Such acts disentangle the mechanisms of book
 ownership as defined by Google or Amazon, from the book's "content" proper.
 The so called "ripping" of proprietary book libraries involves reformatting
 individual books into other file formats which could hypothetically enable
-unconstrained copying and circulation of the text. The activity need not be
+unconstrained copying and circulation of texts. The activity need not be
 illicit. The extraction of plain text from the Portable Document Format
 commonly constitutes the initial step in corpus-based natural language
 processing. Readers routinely "liberate" content in other ways as well: they
 lend books to friends, read them out loud, and make photocopies.
 
-These examples illustrate that the electronic book, unlike print, is not a
+These examples illustrate that electronic books, unlike print, are not a
 single format, but many. Software, governed by specific socio-economic
 exigencies, determines the affordances of reading, sharing, and storing books.
 Thus a book available in North America, might not be available on other
@@ -862,44 +862,43 @@ formats would reconstruct the meaning of the book in much shorter
 evolutionally stages to keep pace with the medium's rapid development.
 
 The above examples confront us with aspects of instrumental formatting:
-copying, analysis, or preservation. In that sense, the lay reader engages with
-a task similar to that of a textual critic. In reading the book out loud or
-making a photocopy, readers make value judgements that distinguish those
-physical aspects of the book crucial to interpolation from those that are not.
+copying, analysis, and preservation. The lay digital reader is forced to
+become textually aware: to ask, after Shillingsburg, why this version of the
+text and how? What does it mean now to reproduce this text? Which physical
+aspects of this edition are crucial to interpretation and which are not? Are
+these marks mere artifacts of layout? Were they introduced to advertise a
+product? Are they a part of authorial intent? Are they a part of form or
+content, work or object?
 
-Reading for format explicitly, would similarly involve the deconstruction,
-both literal and figurative, of the *textual laminate*. Whatever interpretive
-activity readers hope to enact at the surface level of content is grounded in
-its deep material affordances. The conflicted properties of electronic text
-entail the added burden of materialist poetics. Reading digitally, one cannot
-take the stability of print for granted. A number of agents intercede in the
-transformation between form and content, the inscription as information on a
-disk and its representation, as pixels on screen. These intercessions may be
-benign, as when the electronic book adjusts the layout of a text to fit a
-smaller screen; or it may be totalizing as when a book platform is designed to
-censor or surveil its readers for commercial or political purposes. Reading
-for format reveals the structure of the transformation between media: the
-liquid crystal, the floating gate, and the entorhinal grid. Formats govern and
+The answer to such question---in reading for format explicitly---involves the
+deconstruction, both literal and figurative, of the *textual laminate*.
+Whatever interpretive activity readers hope to enact at a book's surface is
+grounded in its deep material affordances. The conflicted properties of
+electronic text entail the added burden of materialist poetics. Reading
+digitally, one cannot take the stability of print for granted. A number of
+agents intercede in the transformation between form and content, the
+inscription as information on a disk and its representation, as pixels on
+screen. These intercessions may be benign, as when the electronic book adjusts
+layout to fit a smaller screen. Conversely, they may involve complex social
+mechanisms of censorship and surveillance, enacted for commercial or political
+purposes.
+
+## Composite Media
+
+Reading for format involves the de-lamination of media composites. It concerns
+the grammar of transformation between disparate conduits. Formats govern and
 control in the sense of shaping the encounter between otherwise incommensurate
-media, hardware and wetware---storage, screen, and brain.
+media, hardware and wetware---storage, screen, and brain.[^ln3-galloway]
 
-## Transformation
-
-Reading for format involves the reconstruction of rules that govern the
-transformation of text. It delaminates media composites into layers of
-content, spatial arrangement, and machine instruction.
-
-Format further necessitates the notion of document depth, distinct from the
-metaphorical uses of the word in the discussion on surface reading, where it
-refers to concealed structures of meaning, literary formulae, signification,
-or ideology [See @best_surface_2009]. In another, more literal sense, depth
-refers to the formation of literary laminates that hold the inscription in
-suspense between layers of glass, plastic, liquid crystal, aluminum, iridium,
-and oxide.
+Format necessitates a notion of document depth, distinct from the metaphorical
+uses of the word in the discussion on surface reading, where it refers to
+concealed structures of meaning, literary formulae, signification, or ideology
+[See @best_surface_2009]. In another, more literal sense, depth refers to the
+formation of literary laminates that hold the inscription in suspense between
+layers of glass, plastic, liquid crystal, aluminum, iridium, and oxide.
 
 The following few case studies from the history of the Document Object Model
-(DOM) show us how the above theoretical principles were instantiated in
-practice.
+(DOM) illustrate formatting theory in practice.
 
 EDIT was one of the first text editors, designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968. I look to its blueprints to
@@ -921,7 +920,8 @@ distinguish between semantic and spatial units: words and their coordinates.
 These two separate streams of data are then stored in two discrete locations,
 in effect embodying the dichotomy between form and content.
 
-![EDIT Document Model, 1968 [@kaiman_computer-aided_1968,66].](images/figure-3-2.png)
+![EDIT Document Model, 1968
+[@kaiman_computer-aided_1968,66].](images/figure-3-2.png)
 
 The creators of QED, another influential early text editor (made for the
 SDS-930 time-sharing system at Berkeley) similarly encouraged writers to
@@ -1091,9 +1091,6 @@ contains also meaningless (to humans) structures, such as the incidental
 unrecognized because it does not correspond to any abstract objects in the
 available document object taxonomy.[^ln3-river]
 
-[^ln3-river]: There are also genres of literature where the rivers do become
-meaningful, as in concrete poetry, for example.
-
 ![Method for extracting document structure based on "nearest-neighbor clustering
 of page components" [@ogorman_document_1993, 1164].](images/figure-3-4.png)
 
@@ -1180,9 +1177,9 @@ reading a newspaper online.[^ln3-osi] It includes, among others:
   procedural" characteristics of communication.[^ln3-layers]
 
 Apart from technical intricacy, consider the complexity of the onion-like
-composite. Whatever one designates as "content" is enveloped within a
-multiplicity of standards, references, models, and formats, which in aggregate
-define the medium---the physical preconditions---of laminate
+composite (Fig. 3-5). Whatever one designates as core "content" is enveloped
+within a multiplicity of standards, references, models, and formats, which in
+aggregate define the medium---the physical preconditions---of laminate
 text.[^ln3-domlayer]
 
 In his book on protocols, Alexander Galloway discussed the Open Systems
@@ -1217,7 +1214,7 @@ interaction happens at the superficial application layer which at best
 conceals the dynamics of deep text transformation. In more acute cases, access
 to deep structures is made illicit outright.
 
-## Composite Media: Smart Contracts
+## Smart Contracts
 
 Text at a document's surface is subject to professional rules of conduct
 governing practices of sharing, quotation, and attribution. The American
@@ -1279,7 +1276,8 @@ music, video, or software. Similar to the CITED mechanism, it embodies a
 contractual structure. The medium sets the conditions of usage predetermined
 by its creator. Crucially, the smart document can enforce the rules of
 engagement without revealing them to the reader. The codified contract is in
-fact "tamper proof," itself resistant to access and therefore interpretation.
+fact "tamper proof," itself resistant to access and therefore interpretation
+(Fig. 3-6).
 
 !["Control data and AVI file in memory. Concatenated control data and
 AVI file. Concatenated and encrypted control data and AVI file."
@@ -1358,18 +1356,18 @@ standard for interpreting conduct" [@american_law_institute_restatement_1973,
 exist in an objectively verifiable manner, accessible for analysis to both
 parties.
 
-Smart contracts, in contrast, obscure the contract by design. Readers lack the
-physical means to examine its terms or interpret the conduct of the party
-whose interests lie within the document's encrypted, tamper-proof layer. Worse
-yet, when presented with documents describing the terms of a smart contract in
-writing---the Terms of Service, for example---readers have no way to verify
-their appropriate implementation. The terms of service could in any detail
-differ from their implementation. Moreover, on networked devices, code is
-routinely updated independent of the originating accord. Thus, a book
-purchased on a proprietary platform may become unavailable at a later day;
-private information related to reader's search habits may be shared with third
-parties; screen aids for the visually impaired that "read" the text out loud
-may suddenly cease to function.
+Smart contracts, in contrast, obscure a part of a contract's intention by
+design. Readers lack the physical means to examine its terms or interpret the
+conduct of the party whose interests lie within the document's encrypted,
+tamper-proof layer (Fig. 3-6). Worse yet, when presented with documents
+describing the terms of a smart contract in writing---the Terms of Service,
+for example---readers have no way to verify their appropriate implementation.
+The terms of service could in any detail differ from their implementation.
+Moreover, on networked devices, code is routinely updated independent of the
+originating accord. Thus, a book purchased on a proprietary platform may
+become unavailable at a later day; private information related to reader's
+search habits may be shared with third parties; screen aids for the visually
+impaired that "read" the text out loud may suddenly cease to function.
 
 The idea of "tamper proof" smart contracts thus stands in stark opposition to
 a tradition of contract law---and textual interpretation more generally---tied
@@ -1406,13 +1404,12 @@ confined to reading for surface meaning alone. How can close or distant
 reading practices persist, when the reading device reconfigures a text
 dynamically, to fit individual taste, mood, or politics?[^ln3-modern] Or, when
 it simply prevents access to some of the content? Formats shape the very
-structure of interpretation. The seemingly innocuous control and formatting
-layer contains the essence of machine control. Long a marginal concept in
-literary theory, formatting is therefore central to the contemporary practice
-of computational poetics. More than embellishment, formats govern the
-interface between meaning and matter, thought and page. Formats contain the
-capability of political control. Some prevent simple copy and paste
-operations. Others are used to censor and surveil.
+structure of interpretation. The seemingly innocuous formatting layer contains
+the essence of machine control. Long a marginal concept in literary theory,
+formatting is therefore central to the contemporary practice of computational
+poetics. More than embellishment, formats govern the interface between meaning
+and matter, thought and page. Formats embody governance. Some prevent simple
+copy and paste operations. Others are used to censor and surveil.
 
 <!-- notes -->
 <!-- notes -->
@@ -1423,36 +1420,29 @@ operations. Others are used to censor and surveil.
 [^ln3-fairuse]: DMCA 1201 provides for a number of complicated exemptions,
 which may, under some interpretations, sanction limited use for academic
 purposes. See @liu_dmca_2003; @ku_critique_2004; @herman_catch_2005;
-@armstrong_digital_2006.
+@armstrong_digital_2006; @stoltz_is_2013.
 
-[^ln3-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
-in the history of writing technologies in that they present a premeditated
-material environment built and engineered to propagate an illusion of
-immateriality; the digital nature of computational representation is precisely
-what enables this illusion---or else call it a working model---of immaterial
-behavior" [@kirschenbaum_mechanisms:_2008, 135].
+[^ln3-illusion]: Matthew Kirschenbaum writes: "Computers are unique in the
+history of writing technologies in that they present a premeditated material
+environment built and engineered to propagate an illusion of immateriality;
+the digital nature of computational representation is precisely what enables
+this illusion---or else call it a working model---of immaterial behavior." See
+@kirschenbaum_mechanisms:_2008, 135.
 
 [^ln3-iso216]: A series of paper sizes are governed by the International
 Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
-8.27in × 11.7in respectively
-[@international_organization_for_standardization_writing_1975].
+8.27in × 11.7in respectively. See
+@international_organization_for_standardization_writing_1975.
 
 [^ln3-layers]: The full OSI protocol stack includes Application, Presentation,
-Session, Transport, Network, Data Link, and Physical layers
-[@miller_iso_1981, 285-6; @piatkowski_iso-ansi_1980; @ncs_open_1981; @day_osi_1983;
-@ncs_national_1988; @day_revised_1995].
+Session, Transport, Network, Data Link, and Physical layers. Consult
+@miller_iso_1981, 285-6; @piatkowski_iso-ansi_1980; @ncs_open_1981;
+@day_osi_1983; @ncs_national_1988; @day_revised_1995.
 
-[^ln3-modern]: Note that these effects are not limited to contemporary
-literature at all. In purchasing a medieval text, the reader still buys not a
-text or a work but a device, which, despite the content being out of copyright
-protection, may still restrict access to other, protected layers of device
-function.
-
-[^ln3-move]: "Move" in the sense that *Harai Goshi* is a "Sweeping Hip Throw"
-"move" in Judo, and a part of *Koshi-Waza* or "hip technique."
-
-[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol:_2006;
-@conti_visual_2008; and @kirschenbaum_mechanisms_2012.
+[^ln3-modern]: Note that these effects are not necessarily limited to
+contemporary documents. Medieval texts often involved locking mechanisms,
+locks, and hidden compartments which would similarly alter the nature of the
+textual encounter, depending on the reader.
 
 [^ln3-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
 International Organization for Standardization in 1984, as ISO 7498.
@@ -1465,49 +1455,19 @@ parallel texts. Sources consulted on Plato's theory of forms include
 @woods_form_1993. I would also like to thank Stathis Gourgouris for his
 generous comments on these passages.
 
-[^ln3-root]: @stoltz_is_2013.
-
 [^ln3-smart]: For examples see @grundy_information_1994;
 @robshaw_abuse-resistant_1995; @hasebe_licensee_2003.
 
-[^ln3-reading]: All of the technologies I list here exist today (in the second
-decade of the twenty-first century) commercially, much beyond the prototype
-stage.
-
-[^ln3-translate]: Translations are mine, unless cited otherwise.
-
-[^ln3-barthes]: "The work is a fragment of substance," he writes. The work is
-"moderately symbolic" where text is "radically symbolic." The work "occupies
-space of books," where the text is "a process of demonstration," "experienced
-only in an activity of production." He writes also that "the Text cannot stop
-(for example, on a library shelf); its constitutive movement is that of cutting
-across (in particular, it can cut across the work, several works)"
-[@barthes_work_1978, 156-7].
-
 [^ln3-descartes]: It is difficult to resist quoting from Descartes's
 *Meditations on First Philosophy* when discussing idealism. He writes: "Let us
-consider the things that people ordinarily think they understand best of all,
-namely the bodies that we touch and see. I don't mean bodies in general---for
-our general thoughts are apt to be confused---but one particular body: this
-piece of wax, for example. It has just been taken from the honeycomb; it still
-tastes of honey and has the scent of the flowers from which the honey was
-gathered; its color, shape and size are plain to see; it is hard, cold and can
-be handled easily; if you rap it with your knuckle it makes a sound. In short,
-it has everything that seems to be needed for a body to be known perfectly
-clearly. But as I speak these words I hold the wax near to the fire, and look!
-The taste and smell vanish, the color changes, the shape is lost, the size
-increases; the wax becomes liquid and hot; you can hardly touch it, and it no
-longer makes a sound when you strike it. But is it still the same wax? Of
-course it is; no one denies this. So what was it about the wax that I
-understood so clearly? Evidently it was not any of the features that the senses
-told me of; for all of them---brought to me through taste, smell, sight, touch
-or hearing---have now altered, yet it is still the same wax."
-
-[^ln3-translate2]: "In our discussion of this text we have been using an
-authoritative French translation of Plato, the one published by Guillaume Bude.
-In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
-refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
-71]."
+take, for instance, this piece of wax. It has been taken quite recently from
+the honeycomb [...] It retains some of the scent of the flowers from which it
+was collected. Its color, shape, and size are manifest. It is hard and cold;
+it is easy to touch [...] But notice that, as I am speaking, I am bringing it
+close to the fire. The remaining traces of the honey flavor are disappearing;
+the scent is vanishing; the color is changing [...] it is becoming liquid and
+hot [...] Does the same wax still remain? I must confess that it does." See
+@descartes_meditations_1993, 21(30).
 
 [^ln3-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
@@ -1609,7 +1569,13 @@ traditions.
 method in bibliographic study in @mckenzie_making_2002, 16-17. See also
 @mcgann_socialization_1991; @tanselle_textual_1996.
 
-[^ln3-remind]: See for example @shillingsburg_being_2006;
-@greetham_textual_1989.
+[^ln3-notes]: See @blair_note_2004; @daston_taking_2004; @piper_note_2012.
+
+[^ln3-galloway]: On movie theater as intersection of incommensurate media see
+@galloway_gaming:_2006, 39.
+
+[^ln3-river]: There are also genres of literature where the rivers do become
+meaningful, as in concrete poetry, for example.
 
 \newpage
+

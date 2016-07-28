@@ -31,8 +31,8 @@
 ### Concrete and Universal
 ### Format Theory
 ### Tactics of Reading
-### Transformation
-### Composite Media: Smart Contracts
+### Composite Media
+### Smart Contracts
 
 ## Chapter 4: Literature Down to a Pixel
 ### Digital Wake (My Two Terminators)

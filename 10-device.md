@@ -1304,12 +1304,12 @@ can change dramatically," depending on the software, Manovich writes. When it
 comes to digital photographs, to use his example, one application may allow
 the photographer to crop the image while another may not
 [@manovich_there_2011, 273]. From this property-determining aspect of software
-(and in reference to the work of Alan Kay), Manovich adopts the concept of the
-*metamedium*, "a medium that can dynamically simulate the details of any other
-medium" [@kay_computer_1984, 59, qtd. in @manovich_software_2013, 105-6].
-Software defines the properties of digital manipulation, determining the
-physics of all higher-order media it simulates [@manovich_software_2013,
-150-1].
+(and in reference to the work of Alan Kay and Theodore Nelson), Manovich
+adopts the concept of the *metamedium*, "a medium that can dynamically
+simulate the details of any other medium" [@kay_computer_1984, 59, qtd. in
+@manovich_software_2013, 105-6].  Software defines the properties of digital
+manipulation, determining the physics of all higher-order media it simulates
+[@manovich_software_2013, 150-1].
 
 Kittler, would perhaps object that all such higher-order, simulated physics
 rest on the bedrock of silicon. In opening a series of nested software black

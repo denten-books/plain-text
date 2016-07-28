@@ -1,3 +1,17 @@
+[^ln3-translate2]: "In our discussion of this text we have been using an
+authoritative French translation of Plato, the one published by Guillaume Bude.
+In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
+refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
+71]."
+
+[^ln3-barthes]: "The work is a fragment of substance," he writes. The work is
+"moderately symbolic" where text is "radically symbolic." The work "occupies
+space of books," where the text is "a process of demonstration," "experienced
+only in an activity of production." He writes also that "the Text cannot stop
+(for example, on a library shelf); its constitutive movement is that of cutting
+across (in particular, it can cut across the work, several works)"
+[@barthes_work_1978, 156-7].
+
 [^ln1-database]: In describing his Relational Calculus Expression for Metaphor
 Generation Lawrence F. Young writes that the "key to this model is the
 observation that any entity can be metaphorically associated with another
