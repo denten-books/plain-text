@@ -1,3 +1,9 @@
+[^ln3-virag]: The Pollak-Virag device also proposed an "electromagnetic
+vibrator" coupled to a recording "mirror-galvanometer." The authors further
+specify for "the vibrator of the receiving instrument [to] vibrat[e] in harmony
+with these impulses, vibrating in one direction or the other, according to
+their sign and to an extent depending upon their intensity" [@pollak_means_1900].
+
 [^ln3-derr]: See @derrida_writing_1978. I am alluding particularly to
 statements like "ethnology-like any science-comes about within the element of
 discourse," and "this moment was that in which language invaded the universal
