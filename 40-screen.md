@@ -579,17 +579,18 @@ from the complex system.
 
 ## Soap Opera Effect
 
-Consider another case study. Modern televisions began shipping with a feature
-called "Motion-Compensated Frame Interpolation" (MCFI) in 2010. It caused some
-viewers to report what was dubbed the "soap opera effect." Everything looks
-cheap to a viewer experiencing the soap opera effect. Even the familiar,
-critically acclaimed blockbuster featuring top acting talent and expensive
-camera work looks unnatural, as if produced on home video. I am quite
-susceptible to this phenomenon myself. Under the MCFI effect, a shot's
-dynamics look somehow fabricated. The actors, even in films that I have known
-and love, appear to be faking it. Their acting seems forced and "over the
-top." I notice their makeup and their props. It is like watching bad silent
-cinema.
+Consider another case study at the human-machine, digital-analog divide.
+Modern televisions began shipping with a feature called "Motion-Compensated
+Frame Interpolation" (MCFI) in 2010. It caused some viewers to report what was
+dubbed the "soap opera effect." Everything looks cheap to a viewer
+experiencing the soap opera effect. Even critically acclaimed footage,
+featuring top acting talent and expensive camera work, looks unnatural, as if
+produced on home video. I rapidly recognize its symptoms. Under the MCFI
+effect, a shot's dynamics look somehow fabricated. The actors, even in films
+that I have known and love, appear to be faking it. Their acting seems forced
+and "over the top." I notice their makeup and props. It is like watching bad
+silent cinema of the kind that prevents the suspension of disbelief and
+immersion. I am no longer susceptible to the conventions of the genre.
 
 MCFI was developed to correct motion blur that occurs on flat-panel liquid
 crystal displays (LCDs). LCDs work by passing light through a liquid crystal
@@ -598,12 +599,10 @@ degrees to each other. As light enters through one side, it twists following
 the slightly curved molecular structure of the crystal, allowing the beam to
 rotate and pass through both filters. The structure unwinds when it receives
 an electrical current, which effectively blocks light from passing through the
-medium. The gates close, so to speak, as the second filter prevents light from
-exiting. By this refractive structure, a series of small, pinhole-like pixels
-can be turned on and off to create shapes, letters, and images on the
-screen.[^ln3-mishima]
-
-[^ln3-mishima]: See @mishima_novel_2004.
+medium (Fig. 4-2). The gates close, so to speak, as the second filter prevents
+light from exiting. By this refractive structure, a series of small,
+pinhole-like pixels can be turned on and off to create shapes, letters, and
+images on the screen.[^ln3-mishima]
 
 !["A method for controlling the passage of radiation through a material
 medium" [@land_light_1934. See also @reinitzer_beitrage_1888 and
@@ -636,14 +635,14 @@ LCDs mimic the action of an analog projector by refreshing the screen at
 intervals between 60 and 120Hz. This happens even when the image is wholly
 static, like the page of an electronic book.
 
-Humans, to complicate matters, are more sensitive to rapid motion at the
+To complicate matters, humans are more sensitive to rapid motion at the
 periphery of vision, in a mechanism likely evolved to detect predatory attack
-[@burr_temporal_1981; @didyk_perceptually-motivated_2010]. As humans move
-closer to their screens---when sitting in front of a computer monitor, for
-example---more of the image enters their field of peripheral vision, making
-them more sensitive to screen flicker. When sitting close to a screen, flicker
-can become more noticeable because more of the moving image enters the
-sensitive area of peripheral vision adept at perceiving rapid movement.
+[@burr_temporal_1981; @didyk_perceptually-motivated_2010]. As we move closer
+to our screens---when sitting in front of a computer monitor, for
+example---more of the image enters our field of peripheral vision, making us
+more sensitive to screen flicker. When sitting close to a screen, flicker can
+become more noticeable because more of the moving image enters the sensitive
+area of peripheral vision adept at perceiving rapid movement.
 
 Furthermore, being closer to a screen increases the angular velocity of any
 depicted moving object. When viewed from afar, the movement of several inches
@@ -673,14 +672,15 @@ smooth movement. The brain assumes that moving objects move smoothly. But on
 screen, the object's anticipated location does not always correspond to its
 actual trajectory, since the motion of a represented object-image in the frame
 does not follow the anticipated physics of a similarly sized real-world
-object. Trajectories of moving objects on screen are subject to the vagrancies
+object. The image moves inches where our brain tells us it moves yards.
+Trajectories of moving objects on screen are further subject to the vagrancies
 of video editing and recording. Because of the flicker, the movement is
 actually intermittent; it is missing frames. The moving object appears at
 discrete stationary locations punctuated by gaps in on-screen movement. This
 mismatch between what is expected and what is perceived appears to the eye as
-blur.  Shapes become fuzzy in motion under certain unfavorable viewing
+blur. Shapes become fuzzy in motion under certain unfavorable viewing
 conditions [@klompenhouwer_motion_2004; @har-noy_lcd_2008]. To complicate
-matters further, the on-off phase transitions of the liquid crystal medium are
+matters more, the on-off phase transitions of the liquid crystal medium are
 not instantaneous. The individual pixel "fades" instead of vanishing at once,
 leaving a physical (and not merely a perceptual) trail of not-quite
 transitioned pixels in the wake of object movement [@kurita_moving_2001;
@@ -699,10 +699,10 @@ for home entertainment.
 
 To compensate for motion blur, LCD manufacturers introduced a technology
 called Motion-Compensated Frame Interpolation (MCFI), by which the television
-itself inserts artificially computed frames in between the original stock
-footage. The algorithm averages the moving object between two frames, creates
-an approximation of its position, and injects the computed frame into the
-action. The extra frames should, in theory, make the motion appear more
+itself inserts artificially computed frames in between the images on original
+stock footage. The algorithm averages the moving object between two frames,
+creates an approximation of its position, and injects the computed frame into
+the action. The extra frames should, in theory, make the motion appear more
 natural, filling in the missing gaps that confuse the brain. Unfortunately for
 the viewer, the effectively higher sample rates carry a major unintended side
 effect. Most viewers associate sampling rates of 40Hz and above with daytime
@@ -714,9 +714,9 @@ Film is expensive because film cameras work by fixing the image onto the
 medium through a photochemical process. Like traditional film photography, raw
 footage must be developed and processed properly before it can be used for
 editing, playback, and distribution. Video and more modern, digital recorders,
-by contrast, transform light into fluctuations of the magnetic field, storing
-the results on magnetic tape or solid state "floating gate" storage. The
-transducer (tape head) reads and writes directly from and to tape, making
+by contrast, transform light into fluctuations of the electromagnetic field,
+storing the results on tape or solid state storage (recall the floating gate).
+The transducer (tape head) reads and writes directly from and to tape, making
 magnetic storage significantly more compact and less expensive than film, as
 it does not require chemical processing for playback
 [@edgerton_columbia_2009].
@@ -725,32 +725,31 @@ Crucially for our story, video recorders operate at 60 frames per second, a
 recording resolution that together with the distinctive video color profile
 and audio aberration signatures give rise to what viewers perceive as that
 "cheap video" "soap opera" look. By inserting extra frames into the moving
-image, modern televisions in effect alter the apparently expensive, slow
-format to match its faster, cheaper video equivalent. The net improvement in
-sampling degrades the perceived quality of the original. The motion may be
-smoother, but it begins to looks unnatural, in that it subtly differs from the
-acculturated practice. It gives the eye too much detail. Minutiae of costume
-and makeup become much more readily apparent, breaking the spell of acting and
-dissolving the fourth wall.[^ln3-wall]
+image, modern televisions in effect alter the apparently expensive, discrete,
+slow film format to match its faster, more continuous, and cheaper video
+alternative. The net improvement in sampling degrades the perceived quality of
+the original. The motion may be smoother, but it looks unnatural, in that it
+subtly differs from acculturated practice. It gives the eye too much detail.
+Minutiae of costume and makeup, previously hidden by the low sampling quality
+of film, become more readily apparent. An actor's micro-movements and
+expressions, not usually perceptible to the eye, come to fore and highlight
+the contrivance of the proceedings. The extrapolated detail breaks the spell
+of acting.[^ln3-wall]
 
-[^ln3-wall]: It would be interesting to try to create the reverse effect by
-reducing the fidelity of a "cheap" soap opera video feed to the more
-"expensive" look of film shot at 24 frames per second.
-
-The soap opera effect undercuts some of our most ingrained intuitions about
-the analog--digital divide.
+The soap opera effect again undercuts some of our most ingrained intuitions
+about the analog--digital divide.
 
 First, it challenges the easy equivalence between "digital" and "discrete"
 properties of the medium so often found in critical literature. According to
 accepted intuitions, film (the more discrete format of representation) more
 closely approaches the analog (continuous) nature of observed phenomenon,
 despite being the more fragmentary medium. Under closer examination, however,
-it reveals itself to be more digital than digital video, particularly if we
+it reveals itself to be more the more digital medium than digital video, if we
 take "digital" to mean "discrete" and "differentiated." The incongruity
-between detailed material contexts of perception and theoretical speculation
-points to a confusion in the common terms. Since screens play a key part in
-the reception of all "digital" media, film and text, we must carefully peel
-apart the layers of the visible image to reveal the mechanics of projection.
+between theory and practice points to a confusion in terms. Since screens play
+a key part in the reception of all "digital" media, film and text, we must
+carefully peel apart the layers of the visible image to reveal its physics:
+both in projection and perception.
 
 Second, it seems that the material properties involved in our understanding of
 "digital" and "analog" formats are also implicated in higher-level functions
@@ -759,11 +758,12 @@ drifts with the vagrancies of encoding. "Good acting" inexplicably falls apart
 with the introduction of extra frames. This should worry the critic unfamiliar
 with artifacts of digital conversion. Even an introductory examination of the
 soap opera effect, reveals sensory glitches and distortions which affect the
-coupling between organ and device. In fact, the illusion of cinematic motion
-itself takes advantage of the idiosyncratic particularities of human vision,
-which is limited by image persistence and evolved to perceive smooth lateral
-motion. A more perfected visual apparatus would perceive flicker at much
-higher rates and have no persistence visual trail artifacts.
+coupling between organ and device. The illusion of cinematic motion takes
+advantage of the idiosyncratic particularities of human vision. A more
+perfected visual apparatus would perceive flicker at much higher rates and
+have no persistence visual trail artifacts. The socially constructed aesthetic
+object is shown to contain physiologically-determined qualities, undermining
+the strong version of social constructivism.[^ln4-construction]
 
 Finally, where the literature often places "artificial" digital discreteness
 in opposition to "natural" analog continuity, a thick description of our
@@ -1323,6 +1323,15 @@ being human) to engage in its analysis.
 
 [^ln5-underwater]: For a detailed description of contemporary digital
 infrastructure see @starosielski_undersea_2015.
+
+[^ln3-mishima]: See @mishima_novel_2004.
+
+[^ln3-wall]: It would be interesting to try to create the reverse effect by
+reducing the fidelity of a "cheap" soap opera video feed to the more
+"expensive" look of film shot at 24 frames per second.
+
+[^ln4-construction]: For a primer on both sides of social constructivism see
+@hacking_social_1999 and @boghossian_fear_2007.
 
 \newpage
 
