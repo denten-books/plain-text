@@ -252,7 +252,7 @@ departing from some previously constructed category of the human, with one
 audience applauding its trans-human potential for liberation and the other
 lamenting its anti-human potential for demise and destruction. A conversation
 about media modalities, unlike any other, is quick to slide into ethics,
-aesthetics, politics.
+aesthetics, politics.[^ln3-digital]
 
 Because apprehension is grounded in the physical capabilities of human
 perception, new media affect the very notion of what it means to be human. I
@@ -1214,22 +1214,18 @@ constraint visible to view, under continual scrutiny of critical, close, and
 closest possible reading.
 
 [^ln3-ndc]: Also known as the "single current" or "single Morse" system
-@welk_neutral_2000.
+@welk_neutral_2000. The later International Telegraph Alphabet No. 2 (ITA2), a
+convention that preceded ASCII, could also be adopted to work with "double
+current" devices, in which case 0 would represent "negative current" and 1
+"positive current" [@itu_telegraph_1932, 36].
 
-[^ln3-current]: ITA-2 could also be adopted to work with "double current"
-devices, in which case 0 would represent "negative current" and 1 "positive
-current" [@itu_telegraph_1932, 36].
-
-[^ln3-kittler]: This along with the ominous "laying of cables" that concludes
-Friedrich Kittler's *Gramophone, Film, Typewriter*.
-
-[^ln3-tele]: See for example @angell_pro_2009, 233:  "The telegraph is a
-digital device, sending only high and low pulses through the wire;"
+[^ln3-tele]: See for example @angell_pro_2009, 233: "The telegraph is a
+digital device, sending only high and low pulses through the wire." In
 @jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
-dashes in a manner similar to the ones and zeroes of digital logic;"
-@comer_internet_2006, 32: "The telegraph is a digital device because instead of
-sending a continuous signal that is an exact analog of the input, the telegraph
-clicks to send the individual characters."
+dashes in a manner similar to the ones and zeroes of digital logic." In
+@comer_internet_2006, 32: "The telegraph is a digital device because instead
+of sending a continuous signal that is an exact analog of the input, the
+telegraph clicks to send the individual characters."
 
 [^ln3-cont]: Gregory Hickok, a prominent UC Irvine cognitive scientist wrote:
 "The brain samples the world in rhythmic pulses, perhaps even discrete time
@@ -1239,87 +1235,68 @@ say that the brain dances to its own beat, dragging perception along for the
 ride. In fact, it seems to work the other way around: Rhythms in the
 environment, such as those in music or speech, can draw neural oscillations
 into their tempo, effectively synchronizing the brain's rhythms with those of
-the world around us" [@hickok_its_2015].
+the world around us." See @hickok_its_2015.
 
-[^ln3-art]: "Replaceable" and "reproducible" as in the sense that an art
-gallery perseveres through the continual loss and rearrangement of its
-constituent art works.
-
-[^ln3-maley]: See for example @maley_analog_2011: "the received view is that
-analog representations vary smoothly, while digital representations vary in
-stepwise manner. In other words, 'digital' is synonymous with 'discrete,' while
-'analog' is synonymous with 'continuous'" [@maley_analog_2011, 117]. See also
-@kittler_there_1995, "Confronted as they are with a continuous environment of
-weather, waves, and wars, digital computers can cope with this real
-number-avalanche only by adding element to element."
+[^ln3-maley]: See for example @maley_analog_2011, 117: "the received view is
+that analog representations vary smoothly, while digital representations vary
+in stepwise manner. In other words, 'digital' is synonymous with 'discrete,'
+while 'analog' is synonymous with 'continuous.'" See also @kittler_there_1995:
+"Confronted as they are with a continuous environment of weather, waves, and
+wars, digital computers can cope with this real number-avalanche only by
+adding element to element."
 
 [^ln3-goodman]: Goodman differentiates between "syntactic" and "semantic"
 density. Some notational systems like writing and the decimal system are,
-according to Goodman, "syntactically differentiated but semantically dense"
-[@goodman_languages_1968, 161]. The key distinction for him seems to be
-a "limit on the length of message," by which I think he means something related
-to infinite divisibility [@goodman_languages_1968, 164]. The decimal system as
-a whole can continue to approach a quantity indefinitely, reaching an arbitrary
-point of precision. The computer limits decimal precision to some arbitrary
-"depth" of approximation, making it semantically discrete. I find this part of
-the argument unconvincing.
+according to Goodman, "syntactically differentiated but semantically dense."
+The key distinction for him seems to be a "limit on the length of message," by
+which I think he means something related to infinite divisibility. The decimal
+system as a whole can continue to approach a quantity indefinitely, reaching
+an arbitrary point of precision.  The computer limits decimal precision to
+some arbitrary "depth" of approximation, making it semantically discrete. I
+find this part of the argument unconvincing. See @goodman_languages_1968,
+161-4.
 
-[^ln3-oed]: The Oxford English suggests as one of the usages "Any physical
+[^ln3-oed]: The Oxford English Dictionary suggests "medium: any physical
 material (as tape, disk, paper, etc.) used for recording or reproducing data,
-images, or sound" [@oed_medium_2001].
+images, or sound." Consult @oed_medium_2001.
 
 [^ln3-siegert]: Siegert takes the Virag as an "apocryphal" emblem of a
 "systemic...logic" in the "dominant cultural technique," representative of the
-"order of digital signals" [@siegert_cacography_2011, 41]. Although not
-concerned with the history or philosophy of digital media explicitly, Siegert
-suggests that the writing telegraph symbolizes the cleansing of "the noise of
-all graphic form." His theory of cultural techniques instead creates "an
-awareness for the plenitude of a world of as yet undistinguished things, that,
-as an inexhaustible reservoir of possibilities, remain the basic point of
-reference for every type of culture" [@siegert_cacography_2011, 32, 35]. The
-world of undistinguished things hints his position on the analog side of
-continues-discrete dichotomy of human experience.
+"order of digital signals." Although not concerned with the history or
+philosophy of digital media explicitly, Siegert suggests that the writing
+telegraph symbolizes the cleansing of "the noise of all graphic form." His
+theory of cultural techniques instead creates "an awareness for the plenitude
+of a world of as yet undistinguished things, that, as an inexhaustible
+reservoir of possibilities, remain the basic point of reference for every type
+of culture." The world of undistinguished things hints his position on the
+analog side of continues-discrete dichotomy of human experience. Quotes from
+@siegert_cacography_2011, 41, 32, & 35.
 
-[^ln3-dervish]: One could make more of the Dervish being used here as a
-negative example, in an instance of colonial gaze. But Murray himself was an
-empire outsider, born in the small, remote town of Invercargill, New Zealand
-(a town that also happens to be one of the southern-most cities in world). "I
-am a child of the Southern Cross," he writes in *Philosophy of Power*, "and I
-have no preordained respect for geniuses born under the Northern
-constellations" [@murray_philosophy_1939, 51].
+[^ln3-dervish]: One could make more of Dervish orientalism here. Murray
+himself was an empire outsider, born in the small, remote town of
+Invercargill, New Zealand (a town that also happens to be one of the
+southern-most cities in world). "I am a child of the Southern Cross," he wrote
+in *Philosophy of Power*, "and I have no preordained respect for geniuses born
+under the Northern constellations." See @murray_philosophy_1939, 51.
 
-[^ln3-swedenborg]: See @swedenborg_treatise_1778, regarding the "gross error of
-those who assert the materiality of the soul, affirming it to be homogeneous,
-and continuous with the body; whereas it is heterogeneous, and discrete" (24).
-Swedenborg gives the neoplatonic, monistic articulation of the matter to the
-angels, in the "Angelic Idea of Creation," writing, "The question was asked,
-'Whence, then, is hell?' They said, 'From man's freedom, without which a man
-would not be a man,' because man, from that freedom, broke the continuity in
-himself; and this being broken, separation took place; and the continuity,
-which was in him from creation, became like a chain, or a piece of linked
-work, which falls to pieces when the hooks above are broken or torn out, and
-then hangs down from small threads. Separation or rupture was brought about,
-and is brought about, by the denial of God" [@swedenborg_apocalypse_1901, 290].
-
-[^ln3-golumbia]: See @golumbia_cultural_2009: "Following a line of criticism
-that extends at least as farm back as Kant [...] (loc. 63)." Paraphrasing
-@deleuze_postscript_1992, Golumbia writes "To submit a phenomenon to
-computation is to striate otherwise-smooth details, among details, to push
-upwards towards the sovereign, to make only high-level control available to
-the user and then only those aspects of control that are deemed appropriate to
-the sovereign (loc. 159)." To make sense of the contemporary unease with
-digitization, we will first examine some of the material contexts that support
-the propagation of digital media. We will then look at a few formal,
-theoretical attempts to describe the particularity of digital representation.
-Finally, we will have the chance to examine the specifics by which digital
-media necessitates a change in the "mode" of specifically digital
-apprehension.
+[^ln3-swedenborg]: See @swedenborg_treatise_1778, 24 regarding the "gross
+error of those who assert the materiality of the soul, affirming it to be
+homogeneous, and continuous with the body; whereas it is heterogeneous, and
+discrete." It is otherwise in the "Angelic Idea of Creation," see
+@swedenborg_apocalypse_1901, 290. "The question was asked, 'Whence, then, is
+hell?' They [angels] said, 'From man's freedom, without which a man would not
+be a man,' because man, from that freedom, broke the continuity in himself;
+and this being broken, separation took place; and the continuity, which was in
+him from creation, became like a chain, or a piece of linked work, which falls
+to pieces when the hooks above are broken or torn out, and then hangs down
+from small threads. Separation or rupture was brought about, and is brought
+about, by the denial of God."
 
 [^ln3-digital]: For a summary of digital physics and metaphysics see
 @steinhart_digital_1998 and @floridi_against_2009.
 
-[^ln3-bergsonism]: [@bergson_creative_1944, 36] On the rather complex topic of
-discrete vs. continuous multiplicities in Bergsonian thought see also
+[^ln3-bergsonism]: See @bergson_creative_1944, 36. On the rather complex topic
+of discrete vs. continuous multiplicities in Bergsonian thought see also
 @james_pluralistic_1909 and @deleuze_bergsonism_1990.
 
 [^ln5-apriori]: A priori because one must already inhabit the category (of
