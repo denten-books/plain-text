@@ -1,14 +1,14 @@
 # Chapter 5: Literature Down to a Pixel
 
-Screens have one major peculiarity: they refresh themselves multiple times per
-second. Even those shapes that appear to stand still on them continuously move
-at a speed beyond the threshold of human perception. We are vaguely aware of
-this movement: it is commonly visible when a screen appears on another screen,
-as it does in documentary films that show someone typing at a computer
-terminal or watching television. The difference in flicker rates between the
-projector showing the image and the projector "in the frame" is what produces
-the characteristic horizontal interference pattern. Such glitches give us a
-glimpse into the nature of simulation.
+Screens have this one major peculiarity: they refresh themselves multiple
+times per second. Even those shapes that appear to stand still on them
+continuously move at a speed beyond the threshold of human perception. We are
+vaguely aware of this movement: it is commonly visible when a screen appears
+on another screen, as it does in documentary films that show someone typing at
+a computer terminal or watching television. The difference in flicker rates
+between the projector showing the image and the projector "in the frame" is
+what produces the characteristic horizontal interference pattern. Such
+glitches give us a glimpse into the nature of simulation.
 
 The sign is no longer immutable, as if etched in stone. Rather, we observe it
 in motion. The "illusion" of digital textuality is a consequence of the
