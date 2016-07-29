@@ -921,7 +921,7 @@ These two separate streams of data are then stored in two discrete locations,
 in effect embodying the dichotomy between form and content.
 
 ![EDIT Document Model, 1968
-[@kaiman_computer-aided_1968,66].](images/figure-3-2.png)
+[@kaiman_computer-aided_1968,66].](images/figure-3-2.jpg)
 
 The creators of QED, another influential early text editor (made for the
 SDS-930 time-sharing system at Berkeley) similarly encouraged writers to
@@ -958,7 +958,7 @@ phrases, and strings in the input stream" [@berns_format_1968, 91;
 @berns_description_1969, 145].
 
 !["Portion of listing of input stream." The layout of paper citations in
-FORMAT [@berns_format_1968, 144].](images/figure-3-3.png)
+FORMAT [@berns_format_1968, 144].](images/figure-3-3.jpg)
 
 In another formative paper from the history of contemporary textuality, Brian
 Kernighan and Joseph Ossanna described TROFF, a text processor written around
@@ -1092,7 +1092,7 @@ unrecognized because it does not correspond to any abstract objects in the
 available document object taxonomy.[^ln3-river]
 
 ![Method for extracting document structure based on "nearest-neighbor clustering
-of page components" [@ogorman_document_1993, 1164].](images/figure-3-4.png)
+of page components" [@ogorman_document_1993, 1164].](images/figure-3-4.jpg)
 
 Finally, we may describe *viewing* or *printing* a document as a chain of
 formatting operations that transform one type of concrete object, bits
@@ -1161,7 +1161,7 @@ reader and deep into the bowels of the machine.
 ![OSI network layering. "Layering is used as a structuring technique to allow
 the network of open systems to be logically decomposed in independent, smaller
 subsystems." Users access the network at the outermost, application layer.
-[@zimmermann_osi_1980, 426; @day_osi_1983, 1335].](images/figure-3-5.png)
+[@zimmermann_osi_1980, 426; @day_osi_1983, 1335].](images/figure-3-5.jpg)
 
 The Open Systems Interconnection (OSI) reference model of communication, for
 example, implemented in every computer including electronic book readers,
@@ -1281,7 +1281,7 @@ fact "tamper proof," itself resistant to access and therefore interpretation
 
 !["Control data and AVI file in memory. Concatenated control data and
 AVI file. Concatenated and encrypted control data and AVI file."
-[@benson_method_1998, 1].](images/figure-3-6.png)
+[@benson_method_1998, 1].](images/figure-3-6.jpg)
 
 The "managed" data object thus "concatenates" content and control code.
 Initially, the string of numbers "123456789..." is mixed with instructions for
