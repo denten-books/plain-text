@@ -1,4 +1,4 @@
-# Chapter 2: Metaphor Machines
+# Chapter 1: Metaphor Machines
 
 Jean Baudrillard's sometimes enigmatic comments on the "genesis of simulacra"
 in the late eighties are beginning to come into focus for me only now, at a
@@ -189,10 +189,10 @@ further metaphors like "profits are going up" and "moving on up"
 your mind" and "close-minded."
 
 !["An exemplary interface for viewing a three dimensional book."
-[@card_methods_2006, 3]](images/figure-2-1.png)
+[@card_methods_2006, 3]](images/figure-1-1.png)
 
 !["Alternate display techniques for information about a big book."
-[@card_methods_2006,4]](images/figure-2-2.png)
+[@card_methods_2006,4]](images/figure-1-2.png)
 
 In the cognitive view, metaphors perform a number of "conventional mappings
 from one domain to another" [@lakoff_contemporary_1998, 239]. Lakoff mentions
@@ -634,13 +634,13 @@ contact arrangement. A quantum of charge carriers, representing an information
 bit [...] can be translated along the semiconductor [...] sweeping the
 minority carriers with it. The quantum can be detected by a simple capacitive
 couple, e.g., a floating gate." [@boyle_information_1974, sheet
-7].](images/figure-2-3.png)
+7].](images/figure-1-3.png)
 
 Dissimulation is perhaps necessary, because the reading and writing of digital
 data can involve processes far outside of everyday experience. For example, in
 reading data from solid state (FLASH) memory, a circuit imparts electrical
 charge through quantum tunneling onto a connected series of floating gate
-transistors (Fig 2.3) [See @pavan_flash_1997; @bez_introduction_2003].
+transistors (Fig 1-3) [See @pavan_flash_1997; @bez_introduction_2003].
 Whatever the complexities of solid state storage architecture, the difference
 in the structure of information on pages and floating gates is apparent. The
 arrangement of one has only an arbitrary connection to the other.
@@ -956,7 +956,7 @@ they, in some sense, *are* the things they refer to" [@hutchins_direct_1986,
 110].
 
 !["ViewPoint screen image." On screen menus for the Xerox 6085 Daybreak
-workstation, 1985 [@johnson_xerox_1989, 13].](images/figure-2-4.png)
+workstation, 1985 [@johnson_xerox_1989, 13].](images/figure-1-4.png)
 
 Principles of direct interaction stood against what Laurel called the
 mediator's "ill-formed" presence.  Conversational computing now seemed
@@ -980,7 +980,7 @@ in the early- to mid-1980s. The Xerox 8010 Star workstation introduced in 1981
 and the Xerox 6085 Daybreak workstation, introduced in 1985, heralded the era
 of accessible, metaphor-driven personal computing, characterized by the use of
 virtual graphical objects like windows, icons, desktops, folders, and buttons
-(Fig 2.4). The Star and Daybreak workstations were some of the earliest
+(Fig. 2-4). The Star and Daybreak workstations were some of the earliest
 machines to put the principles of metaphoric domain blending and direct
 manipulation into action. The interface was meant to reveal the structure of
 simulated objects intuitively, without training or lengthy written

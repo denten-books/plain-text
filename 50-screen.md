@@ -1,4 +1,4 @@
-# Chapter 4: Literature Down to a Pixel
+# Chapter 5: Literature Down to a Pixel
 
 Screens have one major peculiarity: they refresh themselves multiple times per
 second. Even those shapes that appear to stand still on them continuously move
@@ -329,11 +329,11 @@ line which correspond to the direction and the size of a single letter
 element" [@pollak_writing-telegraph_1901, 3]. In other words, they wanted to
 bend the sinusoidal wave to correspond roughly to the shape of the letter. In
 this way, the letter "s," to pick an easy example, could be transmitted by the
-means of an s-shaped wave (Fig 4-1).
+means of an s-shaped wave (Fig. 5-1).
 
 !["[R]eproduction of Gothic characters'" and "transmission-strip having
 suitable perforations for influencing the receiver to reproduce
-[them]."[@pollak_writing-telegraph_1901].](images/figure-4-1.png)
+[them]."[@pollak_writing-telegraph_1901].](images/figure-5-1.png)
 
 The Pollak-Virag design thus aimed to constitute an electrical alphabet
 analogous to cursive writing: "to trace in a substantially continuous unbroken
@@ -599,14 +599,14 @@ degrees to each other. As light enters through one side, it twists following
 the slightly curved molecular structure of the crystal, allowing the beam to
 rotate and pass through both filters. The structure unwinds when it receives
 an electrical current, which effectively blocks light from passing through the
-medium (Fig. 4-2). The gates close, so to speak, as the second filter prevents
+medium (Fig. 5-2). The gates close, so to speak, as the second filter prevents
 light from exiting. By this refractive structure, a series of small,
 pinhole-like pixels can be turned on and off to create shapes, letters, and
 images on the screen.[^ln3-mishima]
 
 !["A method for controlling the passage of radiation through a material
 medium" [@land_light_1934. See also @reinitzer_beitrage_1888 and
-@lehmann_flussige_1906].](images/figure-4-2.png)
+@lehmann_flussige_1906].](images/figure-5-2.png)
 
 In addition to filtering light, modern displays also flicker at a precisely
 calibrated rate. What we observe as a static image on screen, is in reality a

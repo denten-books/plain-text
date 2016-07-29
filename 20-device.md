@@ -1,4 +1,4 @@
-# Chapter 1: Laying Bare the Device: Computer's Modernist, Literary Roots
+# Chapter 2: Laying Bare the Device: The Modernist Roots of Computation
 
 "The weakest point in our present day universe is the incapacity of man to meet
 the machine, the cultural conserve, or the robot, other than through
@@ -795,12 +795,12 @@ long as the mechanism functions properly, musical notation and internal
 arrangement of instrument parts stand in perfect accord. The connection's
 rigidity assures a symbolic correspondence. The machine enacts an exacting
 translation from one medium to the next by mechanical means, as the actuating
-mechanisms of the player piano fit into the grooves of a music roll (Fig 1.1).
+mechanisms of the player piano fit into the grooves of a music roll (Fig. 2-1).
 
 ![Electrically operated musical instrument by Clyde Coleman of Chicago, Il.
 1914, US1107495A [@coleman_electrically-operated_1914, 1]. Wittgenstein
 returns to the image of pianola throughout his
-writings.](images/figure-1-1.png)
+writings.](images/figure-2-1.png)
 
 The idea of a rigid correspondence seems to bring us closer to solving the
 challenge of "proper" comprehension. What if reading could become similarly

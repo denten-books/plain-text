@@ -755,7 +755,18 @@ keyboard switch, through copper and silicon, to liquid crystal and the
 floating gate, and on towards the reader and the community. It is but one of
 many possible passes through a cavernous black box.
 
-At the core of the book's **first chapter** lies the notion of a modernist
+The **first chapter** begins with a question. What does it mean to turn a
+page, I ask, when neither pages nor the action of turning them correspond to
+the implied analogy? A close reading of the metaphor leads to an intellectual
+history of human-computer interaction. It progresses from "conversational
+programming" to "direct manipulation" schools, the latter shaped by theories
+from cognitive linguistics and immersive theater. The logic of "directness"
+culminates in the rapidly developing field of brain--computer interfaces. The
+chapter concludes with a moment of speculative formalism, in which I consider
+the possibility of affective literature, of the kind that eschews language and
+representation.
+
+At the core of the book's **second chapter** lies the notion of a modernist
 literary device, understood both as literary technique and thought experiment
 about intelligent machines, directly connected to the birth of modern
 computing. A section on literary technique in the work of Percy Lubbock,
@@ -768,17 +779,6 @@ write imply a type of cognitive processing.  What does it mean to read and to
 write for a machine? What about broken mechanisms of comprehension? At once a
 device and an algorithm, the Turing machine blurs the boundaries between
 software and hardware, code and content, intelligence and its imitation.
-
-The **second chapter** begins with a question. What does it mean to turn a page,
-I ask, when neither pages nor the action of turning them correspond to the
-implied analogy? A close reading of the metaphor leads to an intellectual
-history of human-computer interaction. It progresses from "conversational
-programming" to "direct manipulation" schools, the latter shaped by theories
-from cognitive linguistics and immersive theater. The logic of "directness"
-culminates in the rapidly developing field of brain--computer interfaces. The
-chapter concludes with a moment of speculative formalism, in which I consider
-the possibility of affective literature, of the kind that eschews language and
-representation.
 
 Two rich intellectual histories collide in the **third chapter**: form in
 literary theory and format in computer science. I show formatting as a process
@@ -794,12 +794,36 @@ to surveil digital text is contained within the formatting layer: from
 electronic books that modify themselves to suit the reader's geographic
 location to "smart contracts" that contain the rules of their own execution.
 
-The **fourth chapter** charts the emergence of screen reading. Screens restore
-a measure of visibility lost to electromagnetic inscription, with one major
-side-effect. Fidelity between visible and archived inscription cannot be
-guaranteed. Screen reading further happens on screens that refresh themselves
-at a rate of around 60 cycles per second (Hertz). The digital word is
-technically an animation; it moves even as it appears to stand still. This
+The **fourth** begins with a discussion of an apparent paradox. A camp of
+media theorists and textual scholars in the 1990s conceived of electronic
+texts as an ephemeral, almost immaterial, phenomenon. Text shimmered and
+glared: it was spoken of in terms of hypertext, light writing, and
+electricity. A generation of theorists that came after insisted on the weighty
+materiality of electronic media. Reading began to engage the morphology of
+rare metals, media archaeology, hard drive forensics. Both accounts, I argue,
+capture an aspect of the same underlying condition. The perceived image of an
+archived inscription splits from its source. The sign plausibly resides both
+on screen and hard drive. It fractures, in some real sense, diverging at the
+site its projection from the site of the archive.  Using materials from the
+history of telegraphy in the late nineteenth and early twentieth centuries, I
+chart the gradual fissure and ultimate illegibility of the newly composite
+sign. Marks made on punch cards and ticker tape protruded through the medium.
+Although difficult to read, these forms of machine writing were readily
+visible and therefore amenable to analysis. The advent of magnetic storage
+forced the composite inscription into an opaque conduit. Unable to perceive
+magnetic polarities without the aid of a machine, readers often manipulated
+text blindly. In this way a typist would type several sentences without seeing
+the printed output. The chapter identifies a milestone in the history of human
+textuality: the moment at which the inscription passed from view, giving rise
+to the sometimes conflicting but nevertheless consistent accounts of digital
+textuality.
+
+The **fifth and final chapter** charts the emergence of screen reading.
+Screens restore a measure of visibility lost to electromagnetic inscription,
+with one major side-effect. Fidelity between visible and archived inscription
+cannot be guaranteed. Screen reading further happens on screens that refresh
+themselves at a rate of around 60 cycles per second (Hertz). The digital word
+is technically an animation; it moves even as it appears to stand still. This
 property attunes the reader to a particular mode of apprehension, affecting
 not just the physics but also the aesthetics of digital media. Works by
 philosophers Henri Bergson, John Haugeland, and Nelson Goodman construe a
@@ -816,30 +840,6 @@ universal nor essential to the medium. The medium is not the message.
 literary scholar, another to a software engineer or a legal professional, and
 something entirely different to a librarian, I argue in the conclusion of the
 chapter. It matters not what the text is, but what we can do with it.
-
-The **fifth and final chapter** begins with a discussion of an apparent
-paradox. A camp of media theorists and textual scholars in the 1990s conceived
-of electronic texts as an ephemeral, almost immaterial, phenomenon. Text
-shimmered and glared: it was spoken of in terms of hypertext, light writing,
-and electricity. A generation of theorists that came after insisted on the
-weighty materiality of electronic media. Reading began to engage the
-morphology of rare metals, media archaeology, hard drive forensics. Both
-accounts, I argue, capture an aspect of the same underlying condition. The
-perceived image of an archived inscription splits from its source. The sign
-plausibly resides both on screen and hard drive. It fractures, in some real
-sense, diverging at the site its projection from the site of the archive.
-Using materials from the history of telegraphy in the late nineteenth and
-early twentieth centuries, I chart the gradual fissure and ultimate
-illegibility of the newly composite sign. Marks made on punch cards and ticker
-tape protruded through the medium. Although difficult to read, these forms of
-machine writing were readily visible and therefore amenable to analysis. The
-advent of magnetic storage forced the composite inscription into an opaque
-conduit. Unable to perceive magnetic polarities without the aid of a machine,
-readers often manipulated text blindly. In this way a typist would type
-several sentences without seeing the printed output. The chapter identifies a
-milestone in the history of human textuality: the moment at which the
-inscription passed from view, giving rise to the sometimes conflicting but
-nevertheless consistent accounts of digital textuality.
 
 A short **conclusion** gestures towards the contemporary political
 consequences of the material covered, discussing also the possibility of
