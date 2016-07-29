@@ -160,18 +160,18 @@ events that reverberate today: from algorithmic financial trading to the war
 between junk (spam) mail generators and their filters.
 
 The advent of programmable media---punch cards and ticker tape---coupled
-human-compatible alphabets with machine control code. Reduced to a discrete
-and reliably reproducible set of characters, natural languages could now be
-conveyed as electric signals. In such a transitive state language became more
-mobile than ever before. It was transmitted efficiently across vast distances.
-The mechanization of type introduced new control characters into circulation,
-that affected machine state changes at a distance. Initially, such state
-changes were simple: "begin transmission," "sound error bell," "start new
-line." With time, they developed into what we now know as programming
-languages. Content meant for people was being routinely intermixed with code
-meant to control machine devices. Such early remote capabilities were quickly
-adapted to control everything from radio stations to advertising billboards
-and knitting machines [@hough_wired_1931; @adler_knitting_1933;
+human-compatible alphabets with machine control code.[^ln2-loom] Reduced to a
+discrete and reliably reproducible set of characters, natural languages could
+now be conveyed as electric signals. In such a transitive state language
+became more mobile than ever before. It was transmitted efficiently across
+vast distances.  The mechanization of type introduced new control characters
+into circulation, that affected machine state changes at a distance.
+Initially, such state changes were simple: "begin transmission," "sound error
+bell," "start new line." With time, they developed into what we now know as
+programming languages. Content meant for people was being routinely intermixed
+with code meant to control machine devices. Such early remote capabilities
+were quickly adapted to control everything from radio stations to advertising
+billboards and knitting machines [@hough_wired_1931; @adler_knitting_1933;
 @casper_remote_1934].
 
 Language compressed and pushed through the wires underwent a number of
@@ -1238,8 +1238,9 @@ control occupy the void as the sign acquires new dimensions and capabilities
 for automation. Code and codex subsequently sink beneath the matte surface of
 a synthetic storage medium. Screens purport to restore a sense of lost
 immediacy: of the kind felt upon contact between pen nib and paper, as the
-capillary action of cellulose conveys ink into its shallow conduit. Screens
-are meant to open a window onto the unfamiliar physicalities of
+capillary action of cellulose conveys ink into its shallow conduit.
+
+Screens are meant to open a window onto the unfamiliar physicalities of
 electromagnetic inscription. They obviated, for example, the need for multiple
 typings or print outs. Projected image should, in theory, correspond to its
 originating keystroke. The gap separating input and output appears to close.
@@ -1254,8 +1255,8 @@ interrogate embedded power structures.
 
 [^ln2-gate]: Solid state memory technology, flash memory for example, store
 information in capacitor "circuit states." This by contrast with
-electromagnetic storage that works by modulating electrical charge over
-a magnetic surface. Solid state capacitor storage was used in the earliest
+electromagnetic storage that works by modulating electrical charge over a
+magnetic surface. Solid state capacitor storage was used in the earliest
 computers, but was prohibitively expensive to manufacture until well into the
 twenty-first century, when solid state drives began to replace electromagnetic
 storage in consumer electronics [@kahng_semipermanent_1967, 1296]. In an early
@@ -1267,8 +1268,9 @@ through an outer gate, the floating gate charges up. The charges are stored
 even after the removal of the charging field due to much lower back transport
 probability [...] Such a device functions as a bistable memory with
 nondestructive read-out features. The memory holding time observed was longer
-than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
-and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
+than one hour" [@kahng_floating_1967, 1288]. See also
+@horton_experimental_1962 and @frohman-bentchkowsky_fully_1971 on "floating
+gate avalanche injection."
 
 [^ln2-printermen]: According to the U.S. Department of Labor statistics, women
 comprised 24 percent of Morse operators in 1915 (before the wide-spread advent
@@ -1285,31 +1287,25 @@ Proficience of Learning or the Partitions of Sciences," following the Oxford
 new Oxford Collected Works, containing *The Advancement*, was not out at the
 time of my writing this book (2015).
 
-[^ln2-brain]: We will later entertain the (real) possibility of
-non-representational communication, suggested by early experiments in direct
-brain-to-brain or brain-to-machine interfaces.
-
 [^ln2-denning]: These stages correspond roughly to the "three generations of
-electronic computing" outlined in Peter Denning's "theory of operating systems"
-[@denning_third_1971].
+electronic computing" outlined in Peter Denning's "theory of operating
+systems." See @denning_third_1971.
 
-[^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
+[^ln2-busa]: See for example @hockey_history_2004: "Father Busa has stories of
 truckloads of punched cards being transported from one center to another in
-Italy" (para. 8).
+Italy."
 
-[^ln2-magnet]: See for example @stefanita_magnetism:_2012, 1-69 and
-@ohmori_memory_2015.
+[^ln2-magnet]: See @stefanita_magnetism:_2012, 1-69 and @ohmori_memory_2015.
 
-[^ln2-loom]: These dates, as is usually the case with periodization, are
-somewhat arbitrary. I suggest 1725 as an inaugural date when the French textile
-worker Basile Bouchon used "drill paper" to automate industrial drawlooms
-[@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
-honors could also go to the brothers Banū Mūsā, ninth-century automata
-inventors from Baghdad; to Jacques De Vaucanson, who delighted the public with
-his lifelike mechanisms in the mid eighteenth century
-[@riskin_defecating_2003]; or to Joseph Charles Marie Jacquard, who improved
-upon and popularized Bouchon's looms on an industrial scale around the same
-time.
+[^ln2-loom]: Programmable media more generally has multiple origins, worthy of
+its own extended history. The French textile worker Basile Bouchon used "drill
+paper" to automate industrial drawlooms. The invention of the loom could also
+be attributed to Brothers Banū Mūsā, ninth-century automata inventors from
+Baghdad; to Jacques De Vaucanson, who delighted the public with his lifelike
+mechanisms in the mid eighteenth century; or to Joseph Charles Marie Jacquard,
+who improved upon and popularized Bouchon's looms on an industrial scale
+around the same time. See @koetsier_prehistory_2001, 593-595;
+@riskin_defecating_2003; @randell_history_2003.
 
 [^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
 since formatting is an important part of the reported experience. See
@@ -1330,21 +1326,22 @@ published, they may be copied on the keys of the functional tape preparation
 unit [...] and the tape produced by the punches associated with this unit,
 under manual control. Second, as suitable control tape may be coded directing
 the calculator to compute the values of *f(x)* and record them by means of one
-of the four output punches, mounted on the right wing of the machine" (33-4).
+of the four output punches, mounted on the right wing of the machine."
 
 [^ln2-hayles]: See also @hayles_print_2004.
 
 [^ln1-google]: "Google's mission is to organize the world's information and
 make it universally accessible and useful" (@google_about_2015).  See also
 Johanna Drucker's discussion on "the totalizing drive of the digital" in
-[@drucker_digital_2001, 145].
+@drucker_digital_2001, 145.
 
 [^ln1-murray]: The Australian Donald Murray improved on the Baudot system to
 minimize the amount of "designed to punch as few holes as possible," allotting
-fewer perforations to common English letters (@murray_setting_1905, 567).
+fewer perforations to common English letters. Consult @murray_setting_1905,
+567.
 
-[^ln1-zero]: Twenty-eight measures to indicate the numerical "figure space" and
-26 to indicate double quotes (which shared the encoding length with the letter
-"z").
+[^ln1-zero]: Twenty-eight measures to indicate the numerical "figure space"
+and 26 to indicate double quotes, which shared the encoding length with the
+letter "z".
 
 \newpage
