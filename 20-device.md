@@ -553,7 +553,7 @@ German Jesuit scholar Athanasius Kircher, the inventor of *Arca Musurgicae*, a
 music composition device, by which a composer not versed in music could
 combine predetermined musical phrases written on wooden planks to compose a
 score. In correspondence with Kircher, the German Baroque poet Quirinus
-Kuhlman argued that using a similar instrument to compose poetry would amount
+Kuhlmann argued that using a similar instrument to compose poetry would amount
 to *sed versus, non poema* [mere versification, not poetry]. Would we call a
 naive child using such a contraption a composer or a poet, he asked?  And
 answered:
