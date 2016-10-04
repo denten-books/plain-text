@@ -319,7 +319,7 @@ channel. The receiving machine would then separate one message from the other
 based on its time signature [@murray_setting_1905].
 
 ![Multiple Printing Telegraph, 1905 [@murray_setting_1905,
-574].](images/figure-4-1.png)
+574].](images/figure-4-1.jpg)
 
 It was important to maintain unison in such multiplexed systems. Time-shared
 device operators had to know when it was their turn to type. The Baudot
@@ -400,7 +400,7 @@ a mere five units in length, with the maximum of ten used to switch the
 receiving device into "figure" or "capital letter" states (for the total of
 ten units) [@murray_setting_1905; @beauchamp_history_2001 380-397].
 
-![Table of Alphabets, 1901 [@vansize_new_1901, 23].](images/figure-4-2.png)
+![Table of Alphabets, 1901 [@vansize_new_1901, 23].](images/figure-4-2.jpg)
 
 Fixed-length signal alphabets drove the wedge further between human and
 machine communication. Significantly, the automated printing telegraph
@@ -499,7 +499,8 @@ arcane encodings, which required specialized training. A number of failed
 communication schemas attempted to heal the rift between human and machine
 alphabets.
 
-![Goldberg's Control Cards [@goldberg_controller_1915, sheet 3].](images/figure-4-3.png)
+![Goldberg's Control Cards [@goldberg_controller_1915, sheet
+3].](images/figure-4-3.jpg)
 
 "You must acknowledge that this is readable without special training," Hymen
 Goldberg wrote in the patent application for his 1911 Controller
@@ -713,7 +714,7 @@ paper configurations would thus achieve a measure of literal analogy.
 
 !["Images formed by a negative voltage," from Electrographic Printer by
 Epstein and Innes
-[@epstein_electrographic_1961, sheet 3].](images/figure-4-4.png)
+[@epstein_electrographic_1961, sheet 3].](images/figure-4-4.jpg)
 
 Advances in magnetic storage found their way into businesses and home offices
 a decade later. In 1964, IBM combined magnetic tape (MT) storage with its
@@ -773,7 +774,8 @@ with the embedded inscription. The top plate would ultimately reveal the
 signal's "visibl[e] outline."[@youngquist_magnetic_1961, 1]
 
 !["The positioning of a magnetic recording card for visual observation of
-symbols recorded thereon."[@youngquist_magnetic_1961, sheet 1]](images/figure-4-5.png)
+symbols recorded thereon."[@youngquist_magnetic_1961, sheet
+1]](images/figure-4-5.jpg)
 
 From the lack of acknowledgement in the literature, we can surmise that
 magnetic readers did not find widespread use. The problem remained: tape and
@@ -853,7 +855,7 @@ inscrutable, like all magnetic media.
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
 Typewriter (MC/ST) in 1969. A simple relationship could be "maintained between
 a typed page and a recorded card" [@may_ibm_1981, 743]. Image scanned from a
-physical card by Pointillist, Wikimedia Commons.](images/figure-4-6.png)
+physical card by Pointillist, Wikimedia Commons.](images/figure-4-6.jpg)
 
 The structure of textual artifacts---from a simple leaflet to a novel in
 multiple volumes---has remained remarkably stable since the invention of
@@ -1000,7 +1002,7 @@ editing a sentence, likely to correct the nonsensical FOB into a
 FOR.[^ln5-timefob]
 
 !["NOW IS THE TIME FOB." Schematics for a "display system"
-[@engelbart_x-y_1970, sheet 1].](images/figure-4-7.png)
+[@engelbart_x-y_1970, sheet 1].](images/figure-4-7.jpg)
 
 Reflecting on the use of "visual display systems" for human-computer
 interaction, Engelbart wrote:

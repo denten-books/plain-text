@@ -800,7 +800,7 @@ mechanisms of the player piano fit into the grooves of a music roll (Fig. 2-1).
 ![Electrically operated musical instrument by Clyde Coleman of Chicago, Il.
 1914, US1107495A [@coleman_electrically-operated_1914, 1]. Wittgenstein
 returns to the image of pianola throughout his
-writings.](images/figure-2-1.png)
+writings.](images/figure-2-1.jpg)
 
 The idea of a rigid correspondence seems to bring us closer to solving the
 challenge of "proper" comprehension. What if reading could become similarly
