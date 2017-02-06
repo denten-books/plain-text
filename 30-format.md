@@ -315,22 +315,22 @@ Benjamin Jowett translates the passage as follows:
 > Thus, then, as the several elements never present themselves in the same
 > form [*phantazomenōn*], how can anyone have the assurance to assert
 > positively that any of them, whatever it may be, is one thing rather than
-> another? [@plato_timaeus_1998, 49d]
+> another? [@plato_timaeus_1998, 469]
 
-Compare the above with the translation of the same passage by W.R.M. Lamb, who
+Compare the above with the translation of the same passage by Robert Bury, who
 renders the Greek *phantazomenōn* into the English "appearance":
 
 > Accordingly, since no one of these ever remains identical in appearance
 > [*phantazomenōn*], which of them shall a man definitely affirm to be any one
 > particular element and no other without incurring ridicule?
-> [@plato_plato_1955, 49d]
+> [@plato_plato_1955, 115]
 
 Both translations of the Greek *phantazomenōn*, form and appearance, capture
 the plain meaning of the passage: the essence of a thing remains even as its
 outward appearance changes, taking on a phantasmal, fantastic, ghostly,
 imaginable, and even "virtual" shape and appearance (all reasonable English
 approximations of the Greek *phantazomenōn*). Accordingly, Jowett translates
-*phantazomenōn*---that which is changeable---as "form" and Lamb as
+*phantazomenōn*---that which is changeable---as "form" and Bury as
 "appearance."
 
 Contrast the *Timaeus* passages with the ones in *Cratylus*, about
