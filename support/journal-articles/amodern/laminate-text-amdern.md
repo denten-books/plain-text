@@ -26,7 +26,114 @@ reach of humans senses. Clandestine forces of capital and control subsequently
 contest such newly found microscopic expanses, thus limiting the scope of
 possible interpretive activity.
 
+## Literary Composites
+
+Little separates ink from paper in print. Ink permeates paper; the conduit is
+firmly embedded into the medium. The amalgam of in and paper implies specific
+physical properties and their related affordances: what the medium is relates
+to what can be done with it.[^2] Print is stable on the scale of decades and
+sometimes centuries. At the very least, once can be assured that a text will
+remain the same as it passes from one pair of hands into another. As
+interpreters of texts, we usually can (with some effort) make certain to find
+ourselves, literally, on the same page and to insure that we are discussing
+roughly the same piece of writing.
+
+Traditional models of modernist hermeneutics often assume the relative
+permanence of the medium.[^3] For example, Paul Ricoeur wrote about "the
+possibility of transferring orders of long distances without serious
+distortions" as related to the "birth of political rule exercised by a distant
+state."[^4] Among other effects, Ricoeur attributed to the fixity of print
+"the birth of market relationships" and economics, "the birth of justice" in
+the fixity of the legal codex, "the constitution of archives" and therefore
+the very possibility of history. He concluded to write that "such an immense
+range of effects suggests that human discourse is not merely preserved from
+destruction by being fixed in writing, but that it is deeply affected in its
+communicative function."[^5]
+
+The architecture of contemporary computational media---screens, hard drives,
+and keyboards---cannot sustain the assumption of fixity. Electromagnetic
+inscription occupies several available surfaces at once. It exists at once on
+screen, itself a composite of glass panes and liquid crystal, and "in memory,"
+as manifested in the arrangement of silicon and circuitry. The word is in the
+wires. When reading digitally, on a personal computer for example, the
+distance between these localities may extend a few inches, enough to cover the
+space between a screen and a hard drive. In other contexts, when viewing text
+on a commercial "electronic reader," that space may span continents as stored
+data are transmitted over vast distances, between content "owners" and its
+"users," who hold only a temporary right to peruse, limited in scope to
+specific timelines and geographies. An electronic book borrowed from the New
+York Public Library, for example, may be stored somewhere in New York, on
+library servers. It disappears from my devices when the terms of my book
+borrowing expire.
+
+In this way, the digital sign is continually stretched, elongated, and
+fractured across diverse material strata, subject to distinct local
+affordances. A simple act of erasure on screen, as when one backspaces over a
+word written in error, simulates a comparable action in print. However on
+disk, metaphoric "erasure" takes on a different connotation, entailing an
+entirely new set of operations, not congruent with the implied action on
+screen or in print. The incongruence is often benign, particularly when
+readers and writers are interested in handling surface representation,
+operating on the level of words and ideas. However, in certain contexts, our
+inability to perceive the mechanics of inscription at depth severely
+undermines critical acuity. To take a blunt example, imagine a scholar or a
+journalist who needs to redact unpublished materials in order to protect her
+sources. Surface erasure in this case is insufficient to guarantee true
+anonymity. Words erased on screen may persevere through deeper structures on
+disk and among remote servers, in a way susceptible to malicious breach or
+state-sponsored surveillance.
+
+The affordances of laminate text depend not only on the medium, but also on
+the contexts of its reception. The same "source text" may be transformed
+according to its geography or the identity of its reader. The composition of
+the sign changes as a text changes hands. A digital document may respond to a
+reader's location, gender, age, or ethnicity. Think of an online newspaper, to
+take a common example, where the very composition of headlines and stories are
+often tailed to the reader. Such dynamic inscriptions contain the rules of
+their own transformation. Content and control code intertwine to produce an
+amalgamated artifact, which adapts to its context. The often covert presence
+of control structures extend the reach of governance over the process of
+interpretation. A government may censor speech through legislation, for
+example, and prosecute those who express opinions contrary to the reigning
+ideology. Similarly, mechanisms of censorship may be encoded into the fabric
+of the laminate itself, through technologies that simply prevent prohibited
+ideological formations from appearing on screen. Such technologies can also
+limit the transmission and the reception of illicit material. Unlike those
+censored explicitly, readers under the reach of algorithmic governance may not
+be immediately aware of control mechanisms structuring their everyday
+interpretive experience.
+
+The stratified nature of digital inscription poses obvious challenges in a
+political sphere. Our ability to mobilize against censorship or surveillance,
+for example, is in peril when such mechanisms operate at a microscopic scale,
+requiring specialized training and tools for interpretation. It also presents
+a c challenge to the practice of literary hermeneutics more generally. How
+does critical interpretive practice persist in conditions where readers can no
+longer rely on the continuing stability of the medium? The theoretical problem
+is not one where can choose to discuss texts as entities of pure immanence
+or pure transcendence, enduring or ephemeral. We are confronted instead with
+textuality that does not converge on a single location and with texts whose
+multivalence is derived from their structural diffusion. The emerging
+materialities of laminate text force us to reconsider long-standing critical
+assumptions about the physics of inscription.
+
+
+
 
 [^1]: Chun, "Enduring Ephemeral," 148.
 
+[^2]: See Levine, *Forms*, 6-11. Levine explains: "Affordance is a term used
+to describe the potential uses or actions latent in materials and designs.
+Glass affords transparency and brittleness. Steel affords strength,
+smoothness, hardness and durability. Cotton affords fluffiness, but also
+breathable cloth when it is spun into yarn and thread" (6).
 
+[^3]: The situation is more complicated for pre-modern texts, where the
+materiality of print cannot be taken for granted.
+
+[^4]: See also Gadamer, *Truth and Method*, 110: “In both legal and
+theological hermeneutic there is an essential tension between the fixed
+text---the law or the gospel---on the one hand and, on the other, the sense
+arrived at by applying it at the concrete moment of interpretation."
+
+[^5]: Ricoeur, *Interpretation Theory*, 28.
