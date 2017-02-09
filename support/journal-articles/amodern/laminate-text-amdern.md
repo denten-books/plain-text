@@ -117,6 +117,9 @@ multivalence is derived from their structural diffusion. The emerging
 materialities of laminate text force us to reconsider long-standing critical
 assumptions about the physics of inscription.
 
+##
+
+Having outlined 
 
 
 
