@@ -175,9 +175,12 @@ arrived at by applying it at the concrete moment of interpretation."
 Archaeology*, 3: "Media Archaeology should not be confused with archaeology as
 a discipline. When media archaeologists claim they are 'excavating'
 media-cultural phenomena, the word should be understood in a specific way."
-The use of quotes signals the metaphoric nature of the borrowing.
+The use of quotes signals the metaphoric nature of the borrowing. See also
+Grant Wythoff, "Artifactual Interpretation." Wythoff writes: "[H]ow do we
+close the metaphorical divide between the 'excavations' performed in
+archaeology and media archaeology?" (27)
 
-[^6]: See Schenck, "Applied Paleontology"; Simonetti, "Between the Vertical
+[^7]: See Schenck, "Applied Paleontology"; Simonetti, "Between the Vertical
 and the Horizontal: Time and Space in Archaeology"; and Geikie, "The Rise of
 Stratigraphical Geology in England" in *The Founders
 of Geology*, 337-364.
