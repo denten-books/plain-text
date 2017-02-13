@@ -15,10 +15,10 @@ inscription.
 
 This inherent duplicity of electromagnetic inscription, as I argue here,
 results in conflicting critical accounts in the scholarly literature.
-Furthermore, it engender a fundamental alienation from the material contexts
+Furthermore, it engenders a fundamental alienation from the material contexts
 of digital knowledge production. The alienation ultimately threatens critical
 disempowerment. In this essay, I outline a condition I name *laminate
-textuality*, but which an inscription fractures to occupy multiple surfaces
+textuality*, by which an inscription fractures to occupy multiple surfaces
 concurrently. A historical archaeology of electromagnetic writing anchors the
 more theoretical portion of the essay within the emerging affordances of
 computational media, which take place, in part, at quantum scale, beyond the
@@ -103,15 +103,15 @@ censored explicitly, readers under the reach of algorithmic governance may not
 be immediately aware of control mechanisms structuring their everyday
 interpretive experience.
 
-The stratified nature of digital inscription poses obvious challenges in a
+The stratified nature of digital inscription poses obvious challenges in the
 political sphere. Our ability to mobilize against censorship or surveillance,
 for example, is in peril when such mechanisms operate at a microscopic scale,
 requiring specialized training and tools for interpretation. It also presents
 a c challenge to the practice of literary hermeneutics more generally. How
 does critical interpretive practice persist in conditions where readers can no
 longer rely on the continuing stability of the medium? The theoretical problem
-is not one where can choose to discuss texts as entities of pure immanence
-or pure transcendence, enduring or ephemeral. We are confronted instead with
+is not one where can choose to discuss texts as entities of pure immanence or
+pure transcendence, enduring or ephemeral. We are confronted instead with
 textuality that does not converge on a single location and with texts whose
 multivalence is derived from their structural diffusion. The emerging
 materialities of laminate text force us to reconsider long-standing critical
@@ -154,10 +154,57 @@ the 1950s alongside their modern descendants.
 
 For the purposes of our conversation, which concerns the paradoxically
 conflicting nature of electromagnetic inscription, at once enduring and
-ephemeral, we may separate the formation of the extant strata of
-electromagnetic inscription into three distinct historical categories. In the 
+ephemeral, we may separate the formation of electromagnetic composites into
+three historical periods, each leaving behind a distinctive media sediment.
 
+First, with the advance of telecommunications, we observe the increasing
+admixture of human-readable text and machine-readable code. Removable storage
+media such as ticker tape and punch cards embodied a machine instruction set
+meant to effect a mechanism, which in turn produced human-legible inscription.
+Unintelligible (to humans without special training) control codes that
+actuated machinery were thereby mixed with plain text, the content of
+communication. Inscription split between the sites of storage, where an
+expanded machine instruction set was archived, and projection, where the human
+legible portion of the inscription was displayed.
 
+Second, whereas ticker tape and punch cards were legible to the naked eye,
+magnetic tape, a medium which supplanted paper, made for an inscrutable
+substance, inaccessible directly without instrumentation. In the 1950s and
+1960s machine operators worked blindly, using complicated workarounds to
+verify equivalence between data input, storage, and output. Writing began to
+involve multiple typings or printings. Specialized magnetic reading devices
+were developed to make inscription more apparent and to establish a
+correspondence between input, storage content, and output of entered text. The
+physical properties of electromagnetic inscription also allowed for rapid
+re-mediation. Tape was more forgiving than paper: it could be written and
+re-written at high speeds and volume. However, the opacity of the medium has
+also placed it, in practice, beyond human sense.
+
+Finally, the appearance of cathode-ray tube (CRT) displays in the late 1960s
+restored a measure of legibility lost to magnetic storage media. The sign
+reemerged on-screen. Crucially, it framed a simulacrum of archived
+inscription. Typing a word on a keyboard produced one sort of a structure on
+tape or disk and another on-screen. The two related contingently, without
+necessary equivalence. The lay reader lacked the means to ensure a
+correspondence between visible trace and stored mark. An opaque black box of
+automated word processing (rules for transmediation) began to intercede
+between simultaneous acts of writing and reading.
+
+I have selected a number of textual machines to illustrate this condensed
+history. Three mechanisms mark the journey: the Controller patented by Hyman
+Goldberg in 1911; the Magnetic Reader introduced by Robert Youngquist and
+Robert Hanes in 1958; and, for a lack of a better name, the Time Fob,
+introduced by Douglas Engelbart in 1968. Goldberg’s device was designed to
+bridge the rift between human and machine alphabets in that it was a
+mechanical punch card that could move minds and levers alike. His Controller
+traced an alphabet understood by both humans and machines. Youngquist and
+Hanes attempted to give human operators a glimpse into the hidden world of
+magnetic polarities and electric charges. Engelbart’s Time Fob finally belongs
+to what Peter Denning, a prominent computer scientist, has called the "third
+generation" of computer systems. This third, and still current stage,
+constitutes an assemblage of storage, input, and output technologies.[^8]
+Together, these devices tell a story of a fissure at the heart of our
+contemporary textual predicament.
 
 [^1]: Chun, "Enduring Ephemeral," 148.
 
@@ -170,7 +217,7 @@ breathable cloth when it is spun into yarn and thread" (6).
 [^3]: The situation is more complicated for pre-modern texts, where the
 materiality of print cannot be taken for granted.
 
-[^4]: See also Gadamer, *Truth and Method*, 110: “In both legal and
+[^4]: See also Gadamer, *Truth and Method*, 110: "In both legal and
 theological hermeneutic there is an essential tension between the fixed
 text---the law or the gospel---on the one hand and, on the other, the sense
 arrived at by applying it at the concrete moment of interpretation."
@@ -182,14 +229,15 @@ Archaeology*, 3: "Media Archaeology should not be confused with archaeology as
 a discipline. When media archaeologists claim they are 'excavating'
 media-cultural phenomena, the word should be understood in a specific way."
 The use of quotes signals the metaphoric nature of the borrowing. See also
-Grant Wythoff, "Artifactual Interpretation." Wythoff writes: "[H]ow do we
+Grant Wythoff, "Artifactual Interpretation"  Wythoff writes: "[H]ow do we
 close the metaphorical divide between the 'excavations' performed in
-archaeology and media archaeology?" (27)
+archaeology and media archaeology?" (27). On the use of stratigraphy related to
+hard drive forensics see Perry and Morgan, "Materializing Media Archaeologies:
+the MAD-P Hard Drive Excavation."
 
 [^7]: See Schenck, "Applied Paleontology"; Simonetti, "Between the Vertical
 and the Horizontal: Time and Space in Archaeology"; and Geikie, "The Rise of
-Stratigraphical Geology in England" in *The Founders
-of Geology*, 337-364.
+Stratigraphical Geology in England" in *The Founders of Geology*, 337-364.
 
 [^8]: For periodization of computer systems see Denning, "Third Generation
 Computer Systems."
