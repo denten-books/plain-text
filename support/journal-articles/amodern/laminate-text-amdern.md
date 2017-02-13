@@ -117,11 +117,41 @@ multivalence is derived from their structural diffusion. The emerging
 materialities of laminate text force us to reconsider long-standing critical
 assumptions about the physics of inscription.
 
-##
+## Stratigraphy
 
-Having outlined 
+Having summarized the basic theoretical concerns related to the emerging
+material conditions laminate text, I would like to turn my attention now to
+the historical archaeology of the medium itself. I borrow the term
+"stratigraphy" from the field of archaeology proper, as opposed to media
+archaeology where the term is used in its more evocative and metaphoric
+sense.[^6] The art of analyzing sedimentary rock layers dates back at least to
+the geological observations of the seventeenth century Danish scientist
+Nicolas Steno, later extended by John Strachey in his *Observations on the
+Different Strata of Earths and Minerals* (1727), and to the geological
+cross-sections of William Smith and William Maclure, who drew beautifully
+detailed cross-sections of the British and American landscapes [Figure 1].
 
+![Stratigraphic map legend. "Sketch of the Succession of Strata and their
+relative Altitudes." William Smith, "DELINEATION of the STRATA of ENGLAND and
+WALES with part of SCOTLAND; exhibiting the COLLIERIES and MINES; the MARSHES
+and FEN LANDS ORIGINALLY OVERFLOWED BY THE SEA; and the VARIETIES of Soil
+according to the Variations in the Sub Strata; ILLUSTRATED by the MOST
+DESCRIPTIVE NAMES," Section 16 (1815). Image in the public domain. Reproduced
+from the collection of Sedgwick Museum of Earth Sciences, University of
+Cambridge.](/image/smith-16.jpg)
 
+The concept of stratigraphy is an apt borrowing when applied to the history of
+computer technology, where the various layers of historical development are
+often extant in one and the same device. In this manner, the legacy of machine
+alphabets such as the Morse and Baudot alphabets is, in some real way, present
+on modern devices through the ASCII and UTF-16 conventions. A
+"conversational," text-based, model of human computer-interaction developed in
+the 1960s, coexists with the later, graphic-based "direct-interaction" modes
+of interaction in the innards of every modern mobile phone, game console, or
+tablet.
+
+conversational
+text-based human-computer interfaces of the 
 
 [^1]: Chun, "Enduring Ephemeral," 148.
 
@@ -140,3 +170,14 @@ text---the law or the gospel---on the one hand and, on the other, the sense
 arrived at by applying it at the concrete moment of interpretation."
 
 [^5]: Ricoeur, *Interpretation Theory*, 28.
+
+[^6]: See, for example, Huhtamo and Parikka's "Introduction" in *Media
+Archaeology*, 3: "Media Archaeology should not be confused with archaeology as
+a discipline. When media archaeologists claim they are 'excavating'
+media-cultural phenomena, the word should be understood in a specific way."
+The use of quotes signals the metaphoric nature of the borrowing.
+
+[^6]: See Schenck, "Applied Paleontology"; Simonetti, "Between the Vertical
+and the Horizontal: Time and Space in Archaeology"; and Geikie, "The Rise of
+Stratigraphical Geology in England" in *The Founders
+of Geology*, 337-364.
