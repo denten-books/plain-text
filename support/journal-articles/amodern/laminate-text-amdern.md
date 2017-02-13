@@ -148,10 +148,16 @@ on modern devices through the ASCII and UTF-16 conventions. A
 "conversational," text-based, model of human computer-interaction developed in
 the 1960s, coexists with the later, graphic-based "direct-interaction" modes
 of interaction in the innards of every modern mobile phone, game console, or
-tablet.
+tablet.[^8] The same can be said about "low-level" assembly languages and
+their alternatives like FORTRAN, LISP, and COBOL, continuously in use since
+the 1950s alongside their modern descendants.
 
-conversational
-text-based human-computer interfaces of the 
+For the purposes of our conversation, which concerns the paradoxically
+conflicting nature of electromagnetic inscription, at once enduring and
+ephemeral, we may separate the formation of the extant strata of
+electromagnetic inscription into three distinct historical categories. In the 
+
+
 
 [^1]: Chun, "Enduring Ephemeral," 148.
 
@@ -184,3 +190,6 @@ archaeology and media archaeology?" (27)
 and the Horizontal: Time and Space in Archaeology"; and Geikie, "The Rise of
 Stratigraphical Geology in England" in *The Founders
 of Geology*, 337-364.
+
+[^8]: For periodization of computer systems see Denning, "Third Generation
+Computer Systems."
