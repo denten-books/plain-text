@@ -1,7 +1,7 @@
 Laminate Text: Material Contexts of Digital Knowledge Production
 Dennis Yi Tenen
 
-Digital text,  at the basis of all computer-mediated epistemological activity,
+Digital text, at the basis of all computer-mediated epistemological activity,
 appears to view at once an ephemeral and enduring phenomenon. It is, as Wendy
 Hui Kyong Chun wrote, an "enduringly ephemeral" inscription that "create[es]
 unforeseen degenerative links between humans and machines."[^1] At the site of
@@ -20,7 +20,7 @@ of digital knowledge production. The alienation ultimately threatens critical
 disempowerment. In this essay, I outline a condition I name *laminate
 textuality*, by which an inscription fractures to occupy multiple surfaces
 concurrently. A historical archaeology of electromagnetic writing anchors the
-more theoretical portion of the essay within the emerging affordances of
+more theoretical portions of the essay within the emerging affordances of
 computational media, which take place, in part, at quantum scale, beyond the
 reach of humans senses. Clandestine forces of capital and control subsequently
 contest such newly found microscopic expanses, thus limiting the scope of
@@ -29,14 +29,14 @@ possible interpretive activity.
 ## Literary Composites
 
 Little separates ink from paper in print. Ink permeates paper; the conduit is
-firmly embedded into the medium. The amalgam of in and paper implies specific
-physical properties and their related affordances: what the medium is relates
-to what can be done with it.[^2] Print is stable on the scale of decades and
-sometimes centuries. At the very least, once can be assured that a text will
-remain the same as it passes from one pair of hands into another. As
+firmly embedded into the medium. The amalgam of ink and paper implies specific
+physical properties and their related affordances: what the medium *is*
+relates to what can be *done* with it.[^2] Print is stable on the scale of
+decades and sometimes centuries. At the very least, once can be assured that a
+text will remain the same as it passes from one pair of hands into another. As
 interpreters of texts, we usually can (with some effort) make certain to find
-ourselves, literally, on the same page and to insure that we are discussing
-roughly the same piece of writing.
+ourselves, literally, on the same page and to insure that our discussion
+concerns roughly the same piece of writing.
 
 Traditional models of modernist hermeneutics often assume the relative
 permanence of the medium.[^3] For example, Paul Ricoeur wrote about "the
@@ -52,9 +52,9 @@ communicative function."[^5]
 
 The architecture of contemporary computational media---screens, hard drives,
 and keyboards---cannot sustain the assumption of fixity. Electromagnetic
-inscription occupies several available surfaces at once. It exists at once on
-screen, itself a composite of glass panes and liquid crystal, and "in memory,"
-as manifested in the arrangement of silicon and circuitry. The word is in the
+inscription occupies several available surfaces at once. It exists on screen,
+itself a composite of glass panes and liquid crystal, and "in memory," as
+manifested in the arrangement of silicon and circuitry. The word is in the
 wires. When reading digitally, on a personal computer for example, the
 distance between these localities may extend a few inches, enough to cover the
 space between a screen and a hard drive. In other contexts, when viewing text
@@ -62,26 +62,26 @@ on a commercial "electronic reader," that space may span continents as stored
 data are transmitted over vast distances, between content "owners" and its
 "users," who hold only a temporary right to peruse, limited in scope to
 specific timelines and geographies. An electronic book borrowed from the New
-York Public Library, for example, may be stored somewhere in New York, on
+York Public Library, for example, may be stored somewhere in the city, on
 library servers. It disappears from my devices when the terms of my book
 borrowing expire.
 
 In this way, the digital sign is continually stretched, elongated, and
 fractured across diverse material strata, subject to distinct local
 affordances. A simple act of erasure on screen, as when one backspaces over a
-word written in error, simulates a comparable action in print. However on
-disk, metaphoric "erasure" takes on a different connotation, entailing an
-entirely new set of operations, not congruent with the implied action on
-screen or in print. The incongruence is often benign, particularly when
-readers and writers are interested in handling surface representation,
-operating on the level of words and ideas. However, in certain contexts, our
-inability to perceive the mechanics of inscription at depth severely
-undermines critical acuity. To take a blunt example, imagine a scholar or a
-journalist who needs to redact unpublished materials in order to protect her
-sources. Surface erasure in this case is insufficient to guarantee true
-anonymity. Words erased on screen may persevere through deeper structures on
-disk and among remote servers, in a way susceptible to malicious breach or
-state-sponsored surveillance.
+word written in error, simulates a comparable action in print. On disk,
+metaphoric "erasure" assumes a different connotation, entailing an entirely
+new set of operations, not congruent with the implied action on screen or in
+print. The incongruence is often benign. Readers and writers are often
+interested in handling surface representation alone, dwelling on the level of
+words and ideas. In certain contexts however, our inability to perceive the
+mechanics of inscription at depth severely undermines critical acuity. To take
+a blunt example, imagine a scholar or a journalist who needs to redact
+unpublished materials in order to protect her sources. Surface erasure in this
+case is insufficient to guarantee true anonymity. Words erased on screen may
+persevere through deeper structures on disk and among remote servers, in a way
+susceptible to malicious breach or state-sponsored surveillance. Surface
+anonymity is sufficient at times, while other times require deep anonymity.
 
 The affordances of laminate text depend not only on the medium, but also on
 the contexts of its reception. The same "source text" may be transformed
