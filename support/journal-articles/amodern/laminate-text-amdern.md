@@ -362,40 +362,40 @@ the advent of  magnetic tape.
 
 ## 2. Magnetic Reader
 
-One could hardly call early programmable media ephemeral. Anecdotes circulate
-about Father Roberto Busa, an early pioneer of computational philology, who in
-the 1960s carted his punch cards around Italy in his truck.[43] Codified
-inscription, before its electromagnetic period, was fragile and unwieldy. Just
-like writing with pen and paper, making an error on ticker tape entry required
-cumbersome corrections and sometimes wholesale reentry of lines or pages. On
-the surface of ticker tape, the inscription still made a strong commitment to
-the medium. Once committed to paper, it was nearly immutable. Embossed onto
-ticker tape or punched into the card, early software protruded through the
-medium.
+The Goldberg Controller and its contemporary devices reveal a growing concern
+with the comprehensibility of machine alphabets. However, one could hardly
+call early programmable media ephemeral. Anecdotes circulate about Father
+Roberto Busa, an early pioneer of computational philology, who in the 1960s
+carted his punch cards around Italy in his truck.[^23] Codified inscription,
+before its electromagnetic period, was fragile and unwieldy. Just like writing
+with pen and paper, making an error on ticker tape entry required cumbersome
+corrections and sometimes wholesale reentry of lines or pages. On the surface
+of ticker tape, the inscription still made a strong commitment to the medium.
+Once committed to paper, it was nearly immutable. Embossed onto ticker tape or
+punched into the card, early software protruded through the medium.
 
-In the age of telegraphy encoding stood in the way of code comprehension.
-Morse code and similar alphabet conventions at least left a visible mark on
-the paper. They were legible if not always intelligible. Once the machine
-encoding was identified (as Morse, Baudot, or Murray), it could be translated
-back into natural language using a simple lookup table.
+Morse code and similar alphabet conventions left a visible mark on the paper.
+They were at least legible if not always intelligible. At the 1967 Symposium
+on Electronic Composition in Printing, Jon Haley, staff director of the
+Congressional Joint Committee on Printing, still spoke of “compromises with
+legibility [that] had been made for the sake of pure speed in composition and
+dissemination of the end product.”[^24]
 
-Magnetic tape changed the commitment between inscription and medium. It
-provided a temporary home, where the word could be altered before being
-committed to paper. At the 1967 Symposium on Electronic Composition in
-Printing, Jon Haley, staff director of the Congressional Joint Committee on
-Printing, spoke of “compromises with legibility [that] had been made for the
-sake of pure speed in composition and dissemination of the end product.”[44] A
-new breed of magnetic storage devices allowed for the manipulation of words in
-“memory,” on a medium that was easily erased and rewritten. The magnetic
-charge adhered lightly to the tape surface. This light touch gave the word its
-newfound ephemeral quality. But it also made inscription illegible. In
-applications such as law and banking, where the fidelity between input,
-storage, and output was crucial, the immediate illegibility of magnetic
-storage posed a considerable engineering challenge. After the advent of
-teletype but before cathode ray screens, machine makers used a variety of
+Magnetic tape changed the commitment between inscription and medium. It gave
+inscription a temporary shelter, where it could dwell lightly and be
+transformed, before finding its more permanent, final shape on paper. A new
+breed of magnetic storage devices allowed for the manipulation of words in
+“memory,” on a medium that was easily erased and rewritten.
+
+The magnetic charge adhered lightly to the tape surface. This light touch gave
+the word its newfound ephemeral quality. But it also made inscription
+physically illegible. In applications such as law and banking, where fidelity
+between input, storage, and output was crucial, the immediate illegibility of
+magnetic storage posed a considerable engineering challenge. After the advent
+of teletype but before cathode ray screens, machine makers used a variety of
 techniques to restore a measure of congruence between invisible magnetic
-inscription and its paper representation. What was entered had to be verified
-against what was stored.
+inscription and its paper representation. What was entered had to be
+continually verified against what was stored.
 
 The principles of magnetic recording were developed by Oberlin Smith (among
 others), an American engineer who also filed several patents for inventions
@@ -404,75 +404,74 @@ Smith made public his experiments with an “electrical method” of sound
 recording using a “magnetized cord” (cotton mixed with hardened steel dust) as
 a recording medium. These experiments were later put into practice by Valdemar
 Poulsen of Denmark, who patented several influential designs for a magnetic
-wire recorder.[45]
+wire recorder.[^25]
 
 Magnetic recording on wire or plastic tape offered several distinct advantages
 over mechanical perforation. Tape was more durable than paper; it could fit
 more information per square inch; and it was reusable. “One of the important
 advantages of magnetic recording,” Marvin Camras, a physicist with the Armour
 Research Foundation, wrote in 1948, “is that the record may be erased if
-desired, and a new record made in its place.”[46] Most early developments in
+desired, and a new record made in its place.”[^26] Most early developments in
 magnetic storage were aimed at sound recording. The use of magnetic medium for
-data storage did not take off in earnest until the 1950s.[47] However, early
+data storage did not take off in earnest until the 1950s.[^27] However, early
 developers of electromagnetic storage and recording technology already
 imagined their work in dialog with the long history of letters (and not just
-sound).  In an address to the Franklin Institute on December 16, 1908, Charles
+sound). In an address to the Franklin Institute on December 16, 1908, Charles
 Fankhauser, the inventor of the electromagnetic telegraphone, spoke as
 follows:
 
-To transport human speech over a distance of one thousand miles is a wonderful
-achievement. How much more wonderful, then, is the achievement that makes
-possible<3.>its storage at the receiving end, so that the exact sentence, the
-exact intonation of the voice, the exact timbre, may be reproduced over and
-over again, an endless number of times.[48]
+> To transport human speech over a distance of one thousand miles is a
+> wonderful achievement. How much more wonderful, then, is the achievement
+> that makes possible [...] its storage at the receiving end, so that the
+> exact sentence, the exact intonation of the voice, the exact timbre, may be
+> reproduced over and over again, an endless number of times.[^28]
 
 Comparing magnetic recording to the invention of the Gutenberg press,
 Fankhauser added:
 
-@ext:It is my belief that what type has been to the spoken word, the
+> It is my belief that what type has been to the spoken word, the
 telegraphone will be to the electrically transmitted word<4.>As printing
 spread learning and civilization among the peoples of the earth and influenced
 knowledge and intercourse among men, so I believe the telegraphone will
-influence and spread electrical communication among men.[49]
+influence and spread electrical communication among men.[^29]
 
 In that speech Fankhauser also lamented the evanescence of telegraph and
 telephone communications. The telephone, he rued, fails to preserve “an
-authentic record of conversation over the wire.”[50] Fankhauser imagined his
+authentic record of conversation over the wire.”[^30] Fankhauser imagined his
 telegraphone being used by
 
-@ext:the sick, the infirm, [and] the aged<4.> A book can be read to the
+> the sick, the infirm, [and] the aged [...] A book can be read to the
 sightless or the invalid by the machine, while the patient lies in bed.
 Lectures, concerts, recitations--what one wishes, may be had at will. Skilled
 readers or expert elocution teachers could be employed to read into the wires
-entire libraries.[51]
+entire libraries.[^31]
 
-@tae:Anticipating the popularity of twenty-first-century audio formats such as
-{stat I this case if possible} podcasts and audiobooks, Fankhauser spoke of
-“tired and jaded” workers who would “sooth [themselves] into a state of
-restfulness” by listening to their favorite authors.[52] Fankhauser saw his
-“electric writing” emerge as “clear” and “distinct” as “writing by hand,” “an
-absolutely legal and conclusive record.”[53] Whereas written language was
-lossy and reductive, Fankhauser hoped that electromagnetic signals would hold
-high fidelity to the original.
+Anticipating the popularity of twenty-first-century audio formats like
+podcasts and audiobooks, Fankhauser spoke of “tired and jaded” workers who
+would “sooth [themselves] into a state of restfulness” by listening to their
+favorite authors.[^32] Fankhauser saw his “electric writing” emerge as “clear”
+and “distinct” as “writing by hand,” “an absolutely legal and conclusive
+record.”[^33] Whereas written language was lossy and reductive, Fankhauser
+hoped that electromagnetic signals would hold high fidelity to the original.
 
-@tx:In 1909 Fankhauser thought of magnetic storage as primarily an audio
-format that would combine the best of telegraphy and telephony. Magnetic data
-storage technology did not mature until the 1950s, when advances in composite
-plastics made it possible to manufacture tape that was cheaper and more
-durable than its paper or cloth alternatives. The state-of-the-art relay
-calculator, commissioned by the Bureau of Ordinance of the Navy Department in
-1944 and built by the Computation Laboratory at Harvard University in 1947,
-still made use of standard-issue telegraph “tape readers and punchers” adapted
-for computation with the aid of engineers from Western Union Telegraph
-Company.[54] It was equipped with a number of Teletype Model 12A tape readers
-and Model 10B perforators, using <fr>11/16</fr>-inch-wide paper tape,
-partitioned into “five intelligence holes,” where each quantity entered for
-computation took up thirteen lines of code.[55] Readers and punchers were
-capable of running 600 operations per minute. Four Model 15 Page-Printers were
-needed to compare printed characters with the digits stored on the ticker tape
-print register. The numerical inscription in this setup was therefore already
-split between input and output channels, with input stored on ticker tape and
-output displayed in print.
+In 1909 Fankhauser thought of magnetic storage as primarily an audio format
+that would combine the best of telegraphy and telephony. Magnetic data storage
+technology did not mature until the 1950s, when advances in composite plastics
+made it possible to manufacture tape that was cheaper and more durable than
+its paper or cloth alternatives. The state-of-the-art relay calculator,
+commissioned by the Bureau of Ordinance of the Navy Department in 1944 and
+built by the Computation Laboratory at Harvard University in 1947, still made
+use of standard-issue telegraph “tape readers and punchers” adapted for
+computation with the aid of engineers from Western Union Telegraph
+Company.[^34] It was equipped with a number of Teletype Model 12A tape readers
+and Model 10B perforators, using 11/16-inch-wide paper tape, partitioned into
+“five intelligence holes,” where each quantity entered for computation took up
+thirteen lines of code.[^35] Readers and punchers were capable of running 600
+operations per minute. Four Model 15 Page-Printers were needed to compare
+printed characters with the digits stored on the ticker tape print register.
+The numerical inscription in this setup was therefore already split between
+input and output channels, with input stored on ticker tape and output
+displayed in print.
 
 The Mark III Calculator, which followed the Computation Laboratory’s earlier
 efforts, was also commissioned by the Navy’s Bureau of Ordinance. It was
@@ -483,29 +482,30 @@ recorders. The drums, limited in their storage capacity, revolved at much
 faster speeds than tape reels. They were used for fast, temporary internal
 storage. A drum’s surface was coated with a “thin film composed of finely
 divided magnetic oxides of iron suspended in a plastic lacquer, and applied to
-the drums with an artist’s air brush.”[56] The Mark III Calculator used
-twenty-five such drums, rotating at 6,900 rpm; each was capable of storing 240
+the drums with an artist’s air brush.”[^36] A single Mark III calculator used
+twenty-five such drums, rotating at 6,900 rpm, each capable of storing 240
 binary digits.
 
-In addition to the fast “internal storage” drums, the floor plan included
-eight slow “external storage” tape-reader mechanisms. Tape was slower than
-drums but cheaper. It easily extended to multiple reels, thus approaching the
-architecture of an ideal Turing machine, which, if you recall, called for tape
-of “infinite length.”  In practice, tape was in limited supply merely long
+In addition to the fast “internal storage” drums, the Mark III floor plan
+included eight slow “external storage” tape-reader mechanisms. Tape was slower
+than drums but also cheaper. It easily extended to multiple reels, thus
+approaching the architecture of an ideal Turing machine, which called for tape
+of “infinite length.”[^37] In practice, tape was in limited supply, long
 enough to answer the needs of military computation. Unlike stationary drums,
 tape was portable. Operators could prepare tape in advance, in a different
 room, at the allotted instructional tape preparation table. The information on
-tape would then be synced with and transferred to a slow drum. In the next
+tape would then be synced with and transferred to a slow drum.  In the next
 stage the slow drum accelerated to match the higher rotating speeds of the
 more rapid internal storage drums, and the information was transferred again
 for computation. The Mark III Calculator was further equipped with five
 printers “for presenting computed results in a form suitable for publication.”
 The printers were capable of determining the “number of digits to be printed,
 the intercolumnar and interlinear spacing, and other items related to the
-typography of the printed page.”[57] In reflecting on these early
-“supercomputers,” one imagines the pathway of a single character as it crosses
-surfaces, through doorways and interfaces, gaining new shapes and
-temporalities with each transition.
+typography of the printed page.”[^38]
+
+In reflecting on these early “supercomputers,” one imagines the pathway of a
+single character as it crosses surfaces, through doorways and interfaces,
+gaining new shapes and temporalities with each transition.
 
 Electromagnetic signals were transcoded into binary numerical notation. To
 transfer characters onto tape, operators sat at the numerical tape preparation
@@ -517,26 +517,31 @@ intended mark registered properly upon first entry. An error bell would sound
 when the first quantity did not match the second, in which case the operator
 would reenter the mismatched digits. To “ensure completely reliable results,”
 one of the five attached Underwood electric teletypes could further be used to
-print all channels and confirm input visually.[58]
+print all channels and confirm input visually.[^39]
 
 Before screes, the potential for incongruence between recondite data formats
 and their apparent representation posed a significant problem. In a 1954
 patent, filed on behalf of Burroughs Corporation, Herman Epstein and Frank
 Innes described an “electrographic printer” involving an “electrical method
 and apparatus for making electrostatic images on a dielectric surface by
-electrical means which may be rendered permanently visible” (Fig 4.4).[59] The
-electrographic printer anticipated the modern photocopier in that it proposed
-to use dusting inks to reveal the static charge. Rather than encoding its data
-into another representation, such as the Baudot code, the printer traced
-human-legible letter shapes directly onto tape. A small printing head would
-convert binary input into a five-by-seven grid of electromagnetic charges
-rendering the English alphabet. Such magnetic shapes  were then made apparent
-by combining them with a “recording medium” that had the “correct physical
-properties to adhere to the electrostatic latent images.”[60] A light dusting
-of powder ink would reveal the otherwise imperceptible magnetic inscription.
-Tape and paper configurations could thus achieve a measure of literal analogy.
+electrical means which may be rendered permanently visible” [Figure 4].[^40]
+The electrographic printer anticipated the modern photocopier in that it
+proposed to use dusting inks to reveal the static charge. Rather than encoding
+its data into another representation, such as the Baudot code, the printer
+traced human-legible letter shapes directly onto tape. A small printing head
+would convert binary input into a five-by-seven grid of electromagnetic
+charges rendering the English alphabet. Such magnetic shapes  were then made
+apparent by combining them with a “recording medium” that had the “correct
+physical properties to adhere to the electrostatic latent images.”[^41] A
+light dusting of powder ink would reveal the otherwise imperceptible magnetic
+inscription.  Tape and paper configurations could thus achieve a measure of
+literal analogy.
 
-[fig4.4]
+![An attempt at electromagnetic inscription without encoding. The diagram
+illustrates "images formed by a negative voltage" in a device that prefigures
+contemporary photocopy machines. Herman Epstein and Frank Innes,
+"Electrographic Printer," Patent US3012839A, issued December 12, 1961, Sheet
+3; quote on p. 5.](/image/figure-4.jpg)
 
 Advances in magnetic storage found their way into small businesses and home
 offices a decade later. In 1964 IBM combined magnetic tape (MT) storage with
@@ -1189,51 +1194,65 @@ Operators,” 514.
 
 [^20]: Goldberg, “Controller,” 1.
 
-[^21]: Goldberg, Controller, 1<->4.
+[^21]: Goldberg, Controller, 1-4.
 
 [^22]: Goldberg, “Controller,” 1.
 
-[^43]: For example, Susan Hockey says, “Father Busa has stories of truckloads of punched cards being transported from one center to another in Italy” (^Hockey, “History of Humanities Computing,” n.p.).
+[^23]: For example, Susan Hockey says, “Father Busa has stories of truckloads
+of punched cards being transported from one center to another in Italy”
+(^Hockey, “History of Humanities Computing,” n.p.).
 
-[^44]: Lee and Worral, Electronic Composition, 48.
+[^24]: Lee and Worral, Electronic Composition, 48.
 
-[^45]: Daniel et al., Magnetic Recording; ^Engel, “1888<->1988”; ^Poulsen, “Method of Recording”; O. ^Smith, “Some Possible Forms”; ^Thiele, “Magnetic Sound Recording”; ^Vasic and Kurtas, Coding and Signal Processing.
+[^25]: Daniel et al., Magnetic Recording; Engel, “1888<->1988”; Poulsen,
+“Method of Recording”; O. Smith, “Some Possible Forms”; Thiele, “Magnetic
+Sound Recording”; Vasic and Kurtas, Coding and Signal Processing.
 
-[^46]: Camras, “Magnetic Recording Tapes,” 505.
+[^26]: Camras, “Magnetic Recording Tapes,” 505.
 
-[^47]: Dee, “Magnetic Tape,” 1775.
+[^27]: Dee, “Magnetic Tape,” 1775.
 
-[^48]: Fankhauser, “Telegraphone,” 37<->38.
+[^28]: Fankhauser, “Telegraphone,” 37-38.
 
-[^49]: Fankhauser, “Telegraphone,” 40.
+[^29]: Fankhauser, “Telegraphone,” 40.
 
-[^50]: Fankhauser, “Telegraphone,” 39<->40.
+[^30]: Fankhauser, “Telegraphone,” 39-40.
 
-[^51]: Fankhauser, “Telegraphone,” 44.
+[^31]: Fankhauser, “Telegraphone,” 44.
 
-[^52]: Fankhauser, “Telegraphone,” 45.
+[^32]: Fankhauser, “Telegraphone,” 45.
 
-[^53]: Fankhauser, “Telegraphone,” 41.
+[^33]: Fankhauser, “Telegraphone,” 41.
 
-[^54]: The staff of the Computation Laboratory of Harvard University wrote:  “Two means are available for preparing the functional tapes required for the operation of the interpolators. First, when the tabular values of f(x) have been previously published, they may be copied on the keys of the functional tape preparation unit<3.>and the tape produced by the punches associated with this unit, under manual control. Second, as suitable control tape may be coded directing the calculator to compute the values of f(x) and record them by means of one of the four output punches, mounted on the right wing of the machine” (^Computation Laboratory, Relay Calculator, 33).
+[^34]: The staff of the Computation Laboratory of Harvard University wrote:
+“Two means are available for preparing the functional tapes required for the
+operation of the interpolators. First, when the tabular values of f(x) have
+been previously published, they may be copied on the keys of the functional
+tape preparation unit<3.>and the tape produced by the punches associated with
+this unit, under manual control. Second, as suitable control tape may be coded
+directing the calculator to compute the values of f(x) and record them by
+means of one of the four output punches, mounted on the right wing of the
+machine” (Computation Laboratory, Relay Calculator, 33).
 
-[^55]: Computation Laboratory, Relay Calculator, 30.
+[^35]: Computation Laboratory, Relay Calculator, 30.
 
-[^56]: Computation Laboratory, Magnetic Drum Calculator, 1.
+[^36]: Computation Laboratory, Magnetic Drum Calculator, 1.
 
-[^57]: Computation Laboratory, Magnetic Drum Calculator, 34<->35.
+[^37]: Turing, "Computing Machinery and Intelligence," 444.
 
-[^58]: Computation Laboratory, Magnetic Drum Calculator, 35, 143<->88.
+[^38]: Computation Laboratory, Magnetic Drum Calculator, 34-35.
 
-[^59]: Epstein and Innes, “Electrographic Printer,” 1.
+[^39]: Computation Laboratory, Magnetic Drum Calculator, 35, 143-88.
 
-[^60]: Epstein and Innes, “Electrographic Printer,” 2.
+[^40]: Epstein and Innes, “Electrographic Printer,” 1.
+
+[^41]: Epstein and Innes, “Electrographic Printer,” 2.
 
 [^61]: Eisenberg, “Word Processing.”
 
 [^62]: ABA Journal,“The $10,000 typewriter.”.
 
-[^63]: See ^Ohmori et al., “Memory Element”; and ^Stefanita, Magnetism, 1<->69.
+[^63]: See ^Ohmori et al., “Memory Element”; and ^Stefanita, Magnetism, 1-69.
 
 [^64]: Recall Wittgenstein’s broken reading machines, which exhibited a
 similarly recursive problem of verification. To check whether someone
@@ -1255,7 +1274,8 @@ understood a message, one has to resort to another message, and so on.
 
 [^72]: Bishop et al., “Development,” 382.
 
-[^73]: Bishop et al., “Development,” 382. See also ^May, “IBM Word Processing Developments.”
+[^73]: Bishop et al., “Development,” 382. See also ^May, “IBM Word Processing
+Developments.”
 
 [^74]: Frutiger, “IBM Selectric Composer,” 10.
 
@@ -1265,15 +1285,23 @@ understood a message, one has to resort to another message, and so on.
 
 [^77]: Engelbart, Human Intellect Augmentation Techniques, 1.
 
-[^78]: The source of the cryptic phrase is likely Charles Edward Weller: “We were then in the midst of an exciting political campaign, and it was then for the first time that the well known sentence was inaugurated--‘Now is the time for all good men to come to the aid of the party’; also the opening sentence of the Declaration of Independence,<3.>which sentences were repeated many times in order to test the speed of the machine” (^Weller, Early History of the Typewriter, 21, 30).
+[^78]: The source of the cryptic phrase is likely Charles Edward Weller: “We
+were then in the midst of an exciting political campaign, and it was then for
+the first time that the well known sentence was inaugurated--‘Now is the time
+for all good men to come to the aid of the party’; also the opening sentence
+of the Declaration of Independence, [...] which sentences were repeated many
+times in order to test the speed of the machine” (Weller, Early History of the
+Typewriter, 21, 30).
 
 [^79]: Weller, Early History of the Typewriter, 1.
 
-[^80]: Engelbart, Human Intellect Augmentation Techniques, 48<->49. I have reproduced the text verbatim, preserving the line breaks, because formatting is an important part of the reported experience.
+[^80]: Engelbart, Human Intellect Augmentation Techniques, 48-49. I have
+reproduced the text verbatim, preserving the line breaks, because formatting
+is an important part of the reported experience.
 
 [^81]: Engelbart, Human Intellect Augmentation Techniques, 50.
 
-[^82]: Engelbart, Human Intellect Augmentation Techniques, 50<->51.
+[^82]: Engelbart, Human Intellect Augmentation Techniques, 50-51.
 
 [^83]: Engelbart, Human Intellect Augmentation Techniques, 51.
 
