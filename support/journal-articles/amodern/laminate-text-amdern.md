@@ -104,23 +104,23 @@ be immediately aware of control mechanisms structuring their everyday
 interpretive experience.
 
 The stratified nature of digital inscription poses obvious challenges in the
-political sphere. Our ability to mobilize against censorship or surveillance,
-for example, is in peril when such mechanisms operate at a microscopic scale,
-requiring specialized training and tools for interpretation. It also presents
-a c challenge to the practice of literary hermeneutics more generally. How
-does critical interpretive practice persist in conditions where readers can no
+political sphere. Our ability to mobilize against censorship or surveillance
+is in peril when such mechanisms operate at a microscopic scale, requiring
+specialized training and tools for interpretation. Laminate text presents a
+challenge to the practice of literary hermeneutics more generally. How does
+critical interpretive practice persist in conditions where readers can no
 longer rely on the continuing stability of the medium? The theoretical problem
-is not one where can choose to discuss texts as entities of pure immanence or
-pure transcendence, enduring or ephemeral. We are confronted instead with
-textuality that does not converge on a single location and with texts whose
-multivalence is derived from their structural diffusion. The emerging
-materialities of laminate text force us to reconsider long-standing critical
-assumptions about the physics of inscription.
+is not one of fixing a text as either an immanent object or a transcendent
+idea, enduring or ephemeral. We are confronted instead with texts that do not
+converge on a single location and whose multivalence is derived from their
+structural diffusion. Composite media force us to reconsider long-standing
+critical assumptions about the physics of inscription at the foundation of
+hermeneutics.
 
 ## Stratigraphy
 
 Having summarized the basic theoretical concerns related to the emerging
-material conditions laminate text, I would like to turn my attention now to
+material properties of laminate text, I would like to turn my attention now to
 the historical archaeology of the medium itself. I borrow the term
 "stratigraphy" from the field of archaeology proper, as opposed to media
 archaeology where the term is used in its more evocative and metaphoric
@@ -172,7 +172,7 @@ magnetic tape, a medium which supplanted paper, made for an inscrutable
 substance, inaccessible directly without instrumentation. In the 1950s and
 1960s machine operators worked blindly, using complicated workarounds to
 verify equivalence between data input, storage, and output. Writing began to
-involve multiple typings or printings. Specialized magnetic reading devices
+involve multiple typings and printings. Specialized magnetic reading devices
 were developed to make inscription more apparent and to establish a
 correspondence between input, storage content, and output of entered text. The
 physical properties of electromagnetic inscription also allowed for rapid
@@ -181,32 +181,31 @@ re-written at high speeds and volume. However, the opacity of the medium has
 also placed it, in practice, beyond human sense.
 
 Finally, the appearance of cathode-ray tube (CRT) displays in the late 1960s
-restored a measure of legibility lost to magnetic storage media. The sign
-reemerged on-screen. Crucially, it framed a simulacrum of archived
-inscription. Typing a word on a keyboard produced one sort of a structure on
-tape or disk and another on-screen. The two related contingently, without
-necessary equivalence. The lay reader lacked the means to ensure a
-correspondence between visible trace and stored mark. An opaque black box of
-automated word processing (rules for transmediation) began to intercede
-between simultaneous acts of writing and reading.
+restored a measure of legibility lost to magnetic storage. The sign reemerged
+on-screen. Crucially, it framed a *simulacrum* of archived inscription: typing
+a word on a keyboard produced one sort of a structure on tape or disk and
+another on-screen. The two related contingently, without necessary
+equivalence. The lay reader lost the direct means to ensure a correspondence
+between visible trace and stored mark. An opaque black box of automated word
+processing (rules for transmediation) began to intercede between simultaneous
+acts of writing and reading.
 
 I have selected a number of textual machines to illustrate this condensed
 history. Three mechanisms mark the journey: the Controller patented by Hyman
 Goldberg in 1911; the Magnetic Reader introduced by Robert Youngquist and
 Robert Hanes in 1958; and, for a lack of a better name, the Time Fob,
-introduced by Douglas Engelbart in 1968. Goldberg’s device was designed to
-bridge the rift between human and machine alphabets in that it was a
-mechanical punch card that could move minds and levers alike. His Controller
-traced an alphabet understood by both humans and machines. Youngquist and
-Hanes attempted to give human operators a glimpse into the hidden world of
-magnetic polarities and electric charges. Engelbart’s Time Fob finally belongs
-to what Peter Denning, a prominent computer scientist, has called the "third
-generation" of computer systems. This third, and still current stage,
+introduced by Douglas Engelbart in 1968.
+
+Goldberg’s device embodied an alphabet understood by both humans and machines.
+Youngquist and Hanes attempted to give human operators a glimpse into the
+hidden world of magnetic polarities and electric charges. Engelbart’s Time Fob
+belongs to what Peter Denning, a prominent computer scientist, has called the
+"third generation" of computer systems. This third, and still current stage,
 constitutes an assemblage of storage, input, and output technologies.[^8]
 Together, these devices tell a story of a fissure at the heart of our
 contemporary textual predicament.
 
-## 1. Control Media
+## 1. Goldberg's Controller
 
 The turn of the twentieth century was a pivotal period in the history of
 letters. It saw the languages of people and machines enter the same mixed
@@ -217,7 +216,7 @@ regularized, type was converted into electric signal, sent over great
 distances, and used to program machines remotely. These expanded textual
 affordances came at a price of legibility. Initially, a cadre of trained
 machine operators were required to translate human language into
-machine-transmittable code.  Eventually, specialized equipment automated this
+machine-transmittable code. Eventually, specialized equipment automated this
 process, removing the human from the equation.
 
 The advent of programmable media (punch cards and ticker tape) coupled
@@ -229,37 +228,44 @@ distances. The mechanization of type also introduced new control characters
 into circulation capable of affecting machine state changes at a distance.
 Initially, such state changes were simple: “begin transmission,” “sound error
 bell,” or “start new line.” With time, they developed into what we now know as
-programming languages. Content meant for people was being routinely intermixed
-with code meant to control machine devices. Such early remote capabilities
-were quickly adapted to control everything from radio stations to advertising
-billboards and knitting machines.[^10]
+programming languages. Thereby content meant for human consumption was
+routinely intermixed with code meant to control machine devices. In other
+words, a text stream could "mean" one thing to a human interpreter and another
+to a machine one. Such early remote control capabilities were quickly adapted
+to automate everything from radio stations to advertising billboards and
+knitting machines.[^10]
 
 Hundreds of alphabet systems vying to displace Morse code were devised to
 speed up automated communications. These evolved from variable-length
 alphabets such as Morse and Hughes codes, to fixed-length alphabets such as
-Baudot and Murray codes. The systematicity of the signal--always the same
-length, always at the same time--shifted text encoding further away from
-natural human languages, which rely on affect and variation, and toward
-artificial languages, which prioritize other attributes, such as consistency
-and reproducibility.
+Baudot and Murray codes. The systematicity of the signal---equal length at
+regular intervals---minimized the "natural" aspects of human languages, affect
+and variation, in favor of "artificial" aspects like consistency and
+reproducibility.
 
 The fixed-length property of Bacon’s cipher, later implemented in the 5-bit
 Baudot code, signaled the beginning of the modern era of serial
-communications.[27] The Baudot and Murray alphabets were designed with
-automation in mind.[28] Both did away with the “end of character” signal that
+communications.[^11] The Baudot and Murray alphabets were designed with
+automation in mind.[^12] Both did away with the “end of character” signal that
 separated letters in Morse code. Signal units were to be divided into letters
 by count, with every five codes representing a single character. Temporal
 synchronization was therefore unnecessary, given the receiver’s ability to
 read the message from the beginning. A character was simply a unit of space
-divisible by 5.
+divisible by five.
 
 In addition, the Murray code was more compact than Morse code and especially
 more economical than Hughes code, which, in the extreme, used up to fifty-four
-measures of silence to send a signal representing double quotes.[29] The
+measures of silence to send a signal representing double quotes.[^13] The
 signal for “zero” in Morse code occupied twenty-two measures. By contrast, all
 Baudot and Murray characters were a mere five units in length, with the
 maximum of ten used to switch the receiving device into “figure” or “capital
-letter” states, for the total of ten units (Fig 4.2).[30]
+letter” states, for the total of ten units [Fig 2].[^14]
+
+![Table of Alphabets including Morse, Baudot, and Murray conventions
+illustrates the difference between variable- and fixed-length encodings.
+Vansize, William B. “A New Page-Printing Telegraph.” American Institute of
+Electrical Engineers, Transactions of the XVIII (January 1901):
+23.](/image/figure-2.jpg)
 
 Fixed-length signal alphabets drove the wedge further between human and
 machine communication. Significantly, the automated printing telegraph
@@ -267,8 +273,8 @@ decoupled information encoding from its transmission. Fixed-length encoding of
 messages could be done in advance, with more facility and in volume. Prepared
 messages could then be fed into a machine without human assistance. In 1905
 Donald Murray wrote that the “object of machine telegraphy [is] not only to
-increase the saving of telegraph wire<3.>but also to reduce the labour cost of
-translation and writing by the use of suitable machines.”[31] Baudot’s and
+increase the saving of telegraph wire [...] but also to reduce the labour cost
+of translation and writing by the use of suitable machines.”[^15] Baudot’s and
 Murray’s codes were not only shorter but also simpler and less error-prone and
 thus resulted in less complicated and more durable devices.
 
@@ -283,34 +289,30 @@ predetermined rules and instructions. A message could activate a machine that
 prints a log and another that trades stocks and another that replies with a
 confirmation.
 
-The new generation of printing telegraphs was programmed in this way using
-removable storage media, similar to the way player pianos were programmed to
-play music by means of music rolls. Just as perforated music rolls decoupled
-music making from its live performance, programmable media decoupled
-inscription from transmission. In both cases one could strike keys now, only
-to feel the effects of their impact later. Programmable media conserved the
-logic of desired effects for later execution. Decoupled from its human
-sources, that logic could then be compressed and optimized for speed and
-efficiency. Prepared ticker tape and punch cards were fed into the mechanism
-for transmission at rates far exceeding the possibilities of hand-operated
-Morse telegraphy.
+Just as perforated music could be used to displace the act of performance in
+time, programmable media deferred the act of inscription. Writers also became
+de facto programmers. One could strike a key in the present, only to feel the
+effects of its impact later, at a remote location. Decoupled from its human
+sources, inscription could be compressed and optimized for speed and
+efficiency. Electromechanical readers could ingest prepared ticker tape and
+punch cards at rates far exceeding the possibilities of hand-operated Morse
+telegraphy.
 
 Besides encoding language, the Baudot schema left space for several special
-control characters. The character space of the language could was therefore
-expanded further by switching the receiving mechanism into a special control
-mode in which every combination of five bits represented an individual control
-character, instead of a letter. In this manner, human content and machine
-control became intertwined and began to occupy the same spectrum of
-communication.
+control characters. The "character space" of an existing alphabet was
+therefore expanded further by switching the receiving mechanism into a special
+control mode in which every combination of five bits represented an individual
+control character, instead of a letter. In this manner, human content and
+machine control intertwined to occupy the same spectrum of communication.
 
 By the 1930s devices variously known as printer telegraphs, teletypewriters,
 and teletypes displaced Morse code telegraphy as the dominant mode of
 commercial communication. A 1932 U.S. Bureau of Labor Statistics report
 estimated a more than 50 percent drop in Morse code operators between 1915 and
 1931. Morse operators referred to teletypists on the sending side as
-“punchers” and those on the receiving side as “printer men.”[32] The printer
+“punchers” and those on the receiving side as “printer men.”[^16] The printer
 men responsible for assembling pages from ticker tape were called “pasters”
-and sometimes, derisively, as “paperhangers.”[33] Teletype technology
+and sometimes, derisively, as “paperhangers.”[^17] Teletype technology
 automated this entire process, rendering punchers, pasters, and paperhangers
 obsolete. Operators could enter printed characters directly into the machine,
 using a keyboard similar to the typewriter, which, by that time, was widely
@@ -318,41 +320,49 @@ available for business use. The teletype would then automatically transcode
 the input into transmitted signal and then back from the signal onto paper on
 the receiving end.
 
-Machine code thus occupied a gray area between plain text and cipher.
-Theoretically, it was considered intelligible only when its compilation
-sources were available to the transmitter. Without its sources it became
-equivalent to secret communication. In practice, the proliferation of
-encodings and machine instructions had the effect of selective illiteracy.
-Telegraph operators carried with them multiple cheat sheets, small cards that
-reminded them of each system’s particularities. Telegraphy reintroduced the
-pre-Lutheran problem of legibility into human letters.
+Machine code thus occupied a gray area between "plain text" and "cipher," both
+legal as well as technical terms, governed by international treaties that
+guaranteed the passage of plain text communications. According to conventions,
+code was considered intelligible only when the schema for its decoding was
+available to the transmitter.[^18] Without such keys, a transmitted message
+was considered secret and therefore not subject to free passage across
+national boundaries. In practice, the proliferation of encodings and machine
+instructions had the effect of selective illiteracy, if not outright secrecy.
+Telegraph operators used multiple cheat sheets to help decipher encoded
+messages.
 
-To speak in telegraph was to learn arcane encodings, which required
-specialized training. A number of failed communication schemas consequently
-attempted to bridge the rift between human and machine alphabets. “You must
-acknowledge that this is readable without special training,” Hymen Goldberg
-wrote in the patent application for his 1911 Controller.[38] The device was
-made “to provide [a] mechanism operable by a control sheet which is legible to
-every person having sufficient education to enable him to read.” In an
-illustration attached to his patent, Goldberg pictured a “legible control
+In this sense, telegraphy reintroduced a pre-Lutheran problem of legibility
+into human letters. To speak in telegraph was to learn arcane encodings, not
+spoken in the vernacular and requiring specialized training. A number of
+failed communication schemas consequently attempted to bridge the rift between
+human and machine alphabets.
+
+“You must acknowledge that this is readable without special training,” Hymen
+Goldberg wrote in the patent application for his 1911 Controller.[^19] The
+device was made “to provide [a] mechanism operable by a control sheet which is
+legible to every person having sufficient education to enable him to read.” In
+an illustration attached to his patent, Goldberg pictured a “legible control
 sheet [...] in which the control characters are in the form of the letters of
-the ordinary English alphabet.”[39] Goldberg’s perforations did the “double
+the ordinary English alphabet.”[^20] Goldberg’s perforations did the “double
 duty” of carrying human-readable content and mechanically manipulating machine
-“blocks,” “handles,” “terminal blades,” and “plungers.”[40] Unlike other
+“blocks,” “handles,” “terminal blades,” and “plungers.”[^21] Unlike other
 schemas, messages in Goldberg’s alphabet could be “read without special
 information,” effectively addressing the problem of code’s apparent
-unintelligibility (Fig 4.3).[41]
+unintelligibility [Figure 3].[^22]
 
-[fig4.3]
+![Goldberg's control cards. Machine and human languages coincide on the same
+surface. The perforations that actuate levers can also be read "without
+special training," in contrast to other text encodings. Goldberg, Hyman Eli.
+"Controller." US1165663 A, issued December 1915, sheet 3.](/image/figure-2.jpg)
 
 The inscription remained visible at the surface of Goldberg’s control sheet,
 as a perforated figure punched through the conduit. Whatever challenges punch
 cards and ticker tape presented for readers, these were soon complicated by
 the advent of  magnetic tape.
 
-## 2. Opacity
+## 2. Magnetic Reader
 
-One could hardly call early programmable media ephemeral.  Anecdotes circulate
+One could hardly call early programmable media ephemeral. Anecdotes circulate
 about Father Roberto Busa, an early pioneer of computational philology, who in
 the 1960s carted his punch cards around Italy in his truck.[43] Codified
 inscription, before its electromagnetic period, was fragile and unwieldy. Just
@@ -724,7 +734,7 @@ tape to paper. On paper the inscription remains visible in circulation; it
 disappears from view on tape, soon after key press. Submerged beneath a facade
 of opaque oxide, inscriptions thicken and stratify into laminates.
 
-## 3. Mimesis
+## 3. Time Fob
 
 @to:The contemporary textual condition took its present form in the late
 1960s. Computers subsequently changed in terms of size, speed, and ubiquity.
@@ -1004,23 +1014,103 @@ easy,
 
 peek at what is to come soon.[83]
 
- 
+The passages appear too contrived to be spontaneous. Despite its experimental
+structure, these phenomenological reflections advance key elements of
+Engelbart’s research program, which aimed to develop new data structures in
+combination with new ways of displaying them. Yet I cannot help but be moved
+by the fluency of the prose and by the sheer audacity of the project.
 
-@tae:The passages appear too contrived to be spontaneous. Despite its experimental structure, these phenomenological reflections advance key elements of Engelbart’s research program, which aimed to develop new data structures in combination with new ways of displaying them. Yet I cannot help but be moved by the fluency of the prose and by the sheer audacity of the project.
+Engelbart’s research into intellect augmentation created tools that
+augment research. In an image that evokes Baron Münchhausen pulling himself
+out of a swamp by his own bootstraps, Engelbart called his group’s methodology
+“bootstrapping,” which involved the recursive strategy of “developing tools
+and techniques” to develop better tools and techniques.[84] The “tangible
+product” of such an activity was a “constantly improving augmentation system
+for use in developing and studying augmentation systems.”[85]
 
-            @tx:Engelbart’s research into intellect augmentation created tools that augment research. In an image that evokes Baron Münchhausen pulling himself out of a swamp by his own bootstraps, Engelbart called his group’s methodology “bootstrapping,” which involved the recursive strategy of “developing tools and techniques” to develop better tools and techniques.[84] The “tangible product” of such an activity was a “constantly improving augmentation system for use in developing and studying augmentation systems.”[85]
+It was an appealing vision, but only so long as it remained recursive.
+Engelbart’s group benefited from creating their own tools and methods.
+Engelbart also hoped that his system could be “transferred--as a whole or by
+pieces of concept, principle and technique--to help others develop
+augmentation systems for many other disciplines and activities.”[86]
+Undoubtedly, Engelbart’s ideas about intellect augmentation have had a broad
+effect on knowledge work across disciplines. However, his vision loses the
+property of self-determination when transferred outside the narrow confines of
+a laboratory actively engaged in the transformation of material contexts of
+their own knowledge production. Word processing today rarely involves
+communities pulling themselves up by their own bootstraps: using their tools
+and techniques of their own design. Augmentation enforced from without often
+advances values and principles no longer comprehensible to the entity being
+augmented.
 
-            It was an appealing vision, but only so long as it remained recursive. Engelbart’s group benefited from creating their own tools and methods. Engelbart also hoped that his system could be “transferred--as a whole or by pieces of concept, principle and technique--to help others develop augmentation systems for many other disciplines and activities.”[86] Undoubtedly, Engelbart’s ideas about intellect augmentation have had a broad effect on knowledge work across disciplines. However, his vision loses the property of self-determination when transferred outside the narrow confines of a laboratory actively engaged in the transformation of material contexts of their own knowledge production. Word processing today rarely involves communities pulling themselves up by their own bootstraps: using their tools and techniques of their own design. Augmentation enforced from without often advances values and principles no longer comprehensible to the entity being augmented.
+To bring his system into being, Engelbart convened a community that through
+recursive self-improvement could lift itself up toward a smarter, more
+efficient, more human way of doing research. The group crafted novel
+instruments for reading and writing. They engineered new programming
+languages, compilers to interpret them, and debuggers to troubleshoot them.
+The system shows care and love for the craft of writing. But there is also
+complexity. “This complexity has grown more than expected,” Engelbart wrote in
+conclusion.[87] The feeling of transcendence that the anonymous typist
+describes in using the system engages a sophisticated mechanism. The mechanism
+was not, however, the primary instrument of augmentation. Rather, it was the
+process of designing, making, and experimenting with tools that enhanced the
+intellect.. Engelbart wrote, “The development of the Bootstrap Community must
+be coordinated with the capacity of our consoles, computer service, and file
+storage to support Community needs, and with our ability to integrate and
+coordinate people and activities.”[88] In other words, the development of the
+community must form a feedback loop with software development. It involves
+training, practice, critical self-reflection, and thoughtful deliberation.
 
-            To bring his system into being, Engelbart convened a community that through recursive self-improvement could lift itself up toward a smarter, more efficient, more human way of doing research. The group crafted novel instruments for reading and writing. They engineered new programming languages, compilers to interpret them, and debuggers to troubleshoot them. The system shows care and love for the craft of writing. But there is also complexity. “This complexity has grown more than expected,” Engelbart wrote in conclusion.[87] The feeling of transcendence that the anonymous typist describes in using the system engages a sophisticated mechanism. The mechanism was not, however, the primary instrument of augmentation. Rather, it was the process of designing, making, and experimenting with tools that enhanced the intellect.. Engelbart wrote, “The development of the Bootstrap Community must be coordinated with the capacity of our consoles, computer service, and file storage to support Community needs, and with our ability to integrate and coordinate people and activities.”[88] In other words, the development of the community must form a feedback loop with software development. It involves training, practice, critical self-reflection, and thoughtful deliberation.
+Modern word processors enable us to drag and drop passages with unprecedented
+facility. We live in Engelbart’s world, to the extent that we use his lab’s
+complex systems daily and in a smaller configuration: screens, keyboards,
+storage. Today’s computer users rarely form a self-determined bootstrapping
+community, however. The contemporary writer is bootstrapped passively to the
+prevailing vision of intellect augmentation. The very metaphor of
+bootstrapping suggests the impossibility of using one’s bootstraps to pull
+others out of the Platonic cave. Engelbart’s liberatory research program
+therefore left another less lofty imprint on the everyday practice of modern
+intellectual life. Text, which before the advent of the CRT was readily
+apparent on the page in all its fullness, finally entered a complex system of
+executable code and inscrutable control instruction. The material lightness of
+textual being came at the price of legibility.
 
-            Modern word processors enable us to drag and drop passages with unprecedented facility. We live in Engelbart’s world, to the extent that we use his lab’s complex systems daily and in a smaller configuration: screens, keyboards, storage. Today’s computer users rarely form a self-determined bootstrapping community, however. The contemporary writer is bootstrapped passively to the prevailing vision of intellect augmentation. The very metaphor of bootstrapping suggests the impossibility of using one’s bootstraps to pull others out of the Platonic cave. Engelbart’s liberatory research program therefore left another less lofty imprint on the everyday practice of modern intellectual life. Text, which before the advent of the CRT was readily apparent on the page in all its fullness, finally entered a complex system of executable code and inscrutable control instruction. The material lightness of textual being came at the price of legibility.
+Short-lived screenless word processors of the early 1960s (e.g., the MT/ST)
+were difficult to operate, because typists had no means to visualize complex
+data structures on tape. Screens helped by representing document topography
+visually, restoring a sense of apparent space to otherwise opaque media. The
+contemporary digital document may resemble a page on-screen, but beneath it,
+it is a jumble of bits, split into the various regions of internal memory.
+Screens simulate document unity by presenting holistic images of paragraphs,
+pages, and books. The simulation seems to follow the physics of paper and ink:
+One can turn pages, write in margins, and insert bookmarks. But the underlying
+inscription remains in fracture. Simulated text does not transcend matter.
+Screens merely conceal its material properties while recreating others, more
+seemingly transcendent ones. The act of continual dissemblage, one medium
+imitating the other, manufactures an ephemeral illusion by which pages fade in
+and out of sight, paper folds in improbable ways, and words glide effortlessly
+between registers of copy and paste.
 
-            Short-lived screenless word processors of the early 1960s (e.g., the MT/ST) were difficult to operate, because typists had no means to visualize complex data structures on tape. Screens helped by representing document topography visually, restoring a sense of apparent space to otherwise opaque media. The contemporary digital document may resemble a page on-screen, but beneath it, it is a jumble of bits, split into the various regions of internal memory. Screens simulate document unity by presenting holistic images of paragraphs, pages, and books. The simulation seems to follow the physics of paper and ink: One can turn pages, write in margins, and insert bookmarks. But the underlying inscription remains in fracture. Simulated text does not transcend matter. Screens merely conceal its material properties while recreating others, more seemingly transcendent ones. The act of continual dissemblage, one medium imitating the other, manufactures an ephemeral illusion by which pages fade in and out of sight, paper folds in improbable ways, and words glide effortlessly between registers of copy and paste.
+In the rift between  input and output, programmable media inject arbitrary
+intervals of time and space. Forces of capital and control occupy the void as
+the sign acquires new dimensions and capabilities for automation. Code and
+codex subsequently sink beneath the matte surface of a synthetic storage
+medium. Screens purport to restore a sense of lost immediacy, of the kind felt
+on contact between pen nib and paper as the capillary action of cellulose
+conveys ink into its shallow conduit.
 
-            In the rift between  input and output, programmable media inject arbitrary intervals of time and space. Forces of capital and control occupy the void as the sign acquires new dimensions and capabilities for automation. Code and codex subsequently sink beneath the matte surface of a synthetic storage medium. Screens purport to restore a sense of lost immediacy, of the kind felt on contact between pen nib and paper as the capillary action of cellulose conveys ink into its shallow conduit.
-
-            Screens are meant to open a window onto the unfamiliar physicalities of electromagnetic inscription. For example, they obviate the need for multiple typings or printouts. Projected image should, in theory, correspond to its originating keystroke. The gap separating inputs and outputs appears to close. Crucially, the accord between archived inscription and its image cannot be guaranteed. The interval persists in practice and is actively contested. Deep and shallow inscriptions entwine. Laminate text seems weightless and ephemeral at some layers of the composite, allowing for rapid remediation. At other layers its affordances are determined by its physics; at still other layers they are carefully constructed to resist movement or interpretation. Alienated from the base particulates of the word, we lose some of our basic interpretive capacities to interrogate embedded power structures.
+Screens are meant to open a window onto the unfamiliar physicalities of
+electromagnetic inscription. For example, they obviate the need for multiple
+typings or printouts. Projected image should, in theory, correspond to its
+originating keystroke. The gap separating inputs and outputs appears to close.
+Crucially, the accord between archived inscription and its image cannot be
+guaranteed. The interval persists in practice and is actively contested. Deep
+and shallow inscriptions entwine. Laminate text seems weightless and ephemeral
+at some layers of the composite, allowing for rapid remediation. At other
+layers its affordances are determined by its physics; at still other layers
+they are carefully constructed to resist movement or interpretation. Alienated
+from the base particulates of the word, we lose some of our basic interpretive
+capacities to interrogate embedded power structures.
 
 [^1]: Chun, "Enduring Ephemeral," 148.
 
@@ -1070,3 +1160,129 @@ Randell et al., "History of Digital Computers"; and Riskin, "Defecating Duck."
 
 [^10]: Adler and Albertman, “Knitting Machine”; Casper, “Remote Control
 Advertising”; Hough, “Wired Radio Program Apparatus.”
+
+[^11]: Jennings, “Annotated History.”
+
+[^12]: The Australian Donald Murray improved on the Baudot system to minimize
+the amount of holes needing to be punched, allotting fewer perforations to
+common English letters. See ^Murray, “Setting Type,” 567.
+
+[^13]: Twenty-eight measures indicate the numerical “figure space” and
+twenty-six indicate double quotes, which share the encoding length with the
+letter z.
+
+[^14]: Beauchamp, History of Telegraphy, 380-97; Murray, “Setting Type.”
+
+[^15]: Murray, "Setting Type," 557.
+
+[^16]: According to the U.S. Bureau of Labor Statistics, women made up 24
+percent of the Morse operators in 1915 (before the widespread advent of
+automated telegraphy). By 1931 women made up 64 percent of printer and Morse
+manual operators. U.S. Bureau of Labor Statistics, “Displacement of Morse
+Operators,” 514.
+
+[^17]: Brackbill, “Some Telegraphers’ Terms,” 290.
+
+[^18]: International Telegraph Union, "Telegraph Regulations," 12-13.
+
+[^19]: Goldberg, “Controller,” , sheet 3.
+
+[^20]: Goldberg, “Controller,” 1.
+
+[^21]: Goldberg, Controller, 1<->4.
+
+[^22]: Goldberg, “Controller,” 1.
+
+[^43]: For example, Susan Hockey says, “Father Busa has stories of truckloads of punched cards being transported from one center to another in Italy” (^Hockey, “History of Humanities Computing,” n.p.).
+
+[^44]: Lee and Worral, Electronic Composition, 48.
+
+[^45]: Daniel et al., Magnetic Recording; ^Engel, “1888<->1988”; ^Poulsen, “Method of Recording”; O. ^Smith, “Some Possible Forms”; ^Thiele, “Magnetic Sound Recording”; ^Vasic and Kurtas, Coding and Signal Processing.
+
+[^46]: Camras, “Magnetic Recording Tapes,” 505.
+
+[^47]: Dee, “Magnetic Tape,” 1775.
+
+[^48]: Fankhauser, “Telegraphone,” 37<->38.
+
+[^49]: Fankhauser, “Telegraphone,” 40.
+
+[^50]: Fankhauser, “Telegraphone,” 39<->40.
+
+[^51]: Fankhauser, “Telegraphone,” 44.
+
+[^52]: Fankhauser, “Telegraphone,” 45.
+
+[^53]: Fankhauser, “Telegraphone,” 41.
+
+[^54]: The staff of the Computation Laboratory of Harvard University wrote:  “Two means are available for preparing the functional tapes required for the operation of the interpolators. First, when the tabular values of f(x) have been previously published, they may be copied on the keys of the functional tape preparation unit<3.>and the tape produced by the punches associated with this unit, under manual control. Second, as suitable control tape may be coded directing the calculator to compute the values of f(x) and record them by means of one of the four output punches, mounted on the right wing of the machine” (^Computation Laboratory, Relay Calculator, 33).
+
+[^55]: Computation Laboratory, Relay Calculator, 30.
+
+[^56]: Computation Laboratory, Magnetic Drum Calculator, 1.
+
+[^57]: Computation Laboratory, Magnetic Drum Calculator, 34<->35.
+
+[^58]: Computation Laboratory, Magnetic Drum Calculator, 35, 143<->88.
+
+[^59]: Epstein and Innes, “Electrographic Printer,” 1.
+
+[^60]: Epstein and Innes, “Electrographic Printer,” 2.
+
+[^61]: Eisenberg, “Word Processing.”
+
+[^62]: ABA Journal,“The $10,000 typewriter.”.
+
+[^63]: See ^Ohmori et al., “Memory Element”; and ^Stefanita, Magnetism, 1<->69.
+
+[^64]: Recall Wittgenstein’s broken reading machines, which exhibited a
+similarly recursive problem of verification. To check whether someone
+understood a message, one has to resort to another message, and so on.
+
+[^65]: Youngquist and Hanes, “Magnetic Reader,” 1.
+
+[^66]: Youngquist and Hanes, “Magnetic Reader,” 1.
+
+[^67]: Morgan and Norwood, “IBM Selectric Composer,” 69.
+
+[^68]: Bishop et al., “Development.”
+
+[^69]: Clancy et al., “Data Reading,” 1.
+
+[^70]: May, “IBM Word Processing Developments,” 743.
+
+[^71]: May, “IBM Word Processing Developments,” 743.
+
+[^72]: Bishop et al., “Development,” 382.
+
+[^73]: Bishop et al., “Development,” 382. See also ^May, “IBM Word Processing Developments.”
+
+[^74]: Frutiger, “IBM Selectric Composer,” 10.
+
+[^75]: Rogers, “The Demo”; ^Tweney, “Mother of All Demos.”
+
+[^76]: Engelbart, “Doug Engelbart 1968 Demo.”
+
+[^77]: Engelbart, Human Intellect Augmentation Techniques, 1.
+
+[^78]: The source of the cryptic phrase is likely Charles Edward Weller: “We were then in the midst of an exciting political campaign, and it was then for the first time that the well known sentence was inaugurated--‘Now is the time for all good men to come to the aid of the party’; also the opening sentence of the Declaration of Independence,<3.>which sentences were repeated many times in order to test the speed of the machine” (^Weller, Early History of the Typewriter, 21, 30).
+
+[^79]: Weller, Early History of the Typewriter, 1.
+
+[^80]: Engelbart, Human Intellect Augmentation Techniques, 48<->49. I have reproduced the text verbatim, preserving the line breaks, because formatting is an important part of the reported experience.
+
+[^81]: Engelbart, Human Intellect Augmentation Techniques, 50.
+
+[^82]: Engelbart, Human Intellect Augmentation Techniques, 50<->51.
+
+[^83]: Engelbart, Human Intellect Augmentation Techniques, 51.
+
+[^84]: Engelbart and English, “Research Center,” 396.
+
+[^85]: Engelbart, Human Intellect Augmentation Techniques, 6.
+
+[^86]: Engelbart, Human Intellect Augmentation Techniques, 6.
+
+[^87]: Engelbart, Human Intellect Augmentation Techniques, 67.
+
+[^88]: Engelbart, Human Intellect Augmentation Techniques, 67.
