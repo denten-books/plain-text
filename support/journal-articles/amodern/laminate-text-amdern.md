@@ -738,21 +738,18 @@ into laminates.
 
 The contemporary textual condition took its present form in the late 1960s.
 Computers subsequently changed in terms of size, speed, and ubiquity.
-However, they retained {ED: not sure about the suggested past tense here: I am
-trying to say that computers remain essentially the same today, in the
-present.}the same essential architecture as they have today: {ED: I feel like
-there needs to be a verb here, the transition to the list is otherwise abrupt}
+However, they retain the same essential architecture, consisting of
 programmable media, electromagnetic storage, and screens.
 
-@tx: The addition of a screen to the floorplan could finally address the
-problem of electromagnetic legibility. In the first stage of its digital
-development, language became “programmable:” fused with machine instruction it
-could be used to automate devices remotely. Language itself became automated.
-Coupled with electromagnetic storage in the second stage, programmable media
-was freed, to an extent,  from its immutable contexts. It was “lighter,”
-faster, more portable and therefore more iterant and malleable than print or
-punch. Ferric oxide became the preferred medium for digital storage: memory.
-However, that  new memory layer, lay also beyond the reach of human senses. It
+The addition of a screen finally promised to address the problem of
+electromagnetic legibility. In the first stage of its digital development,
+language became “programmable:” fused with machine instruction it could be
+used to automate devices remotely. Language itself became automated. Coupled
+with electromagnetic storage in the second stage, programmable media was
+freed, to an extent,  from its immutable contexts. It was “lighter,” faster,
+more portable and therefore more iterant and malleable than print or punch.
+Ferric oxide became the preferred medium for digital storage: memory.
+However, that new memory layer, lay also beyond the reach of human senses. It
 was difficult to access and manipulate mentally.
 
 Screens added a much needed window onto the abstraction. On-screen,  machine
