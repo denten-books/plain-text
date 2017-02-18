@@ -193,19 +193,19 @@ acts of writing and reading.
 I have selected a number of textual machines to illustrate this condensed
 history. Three mechanisms mark the journey: the Controller patented by Hyman
 Goldberg in 1911; the Magnetic Reader introduced by Robert Youngquist and
-Robert Hanes in 1958; and, for a lack of a better name, the Time Fob,
+Robert Hanes in 1958; and, for a lack of a better name, the Display System,
 introduced by Douglas Engelbart in 1968.
 
 Goldberg’s device embodied an alphabet understood by both humans and machines.
 Youngquist and Hanes attempted to give human operators a glimpse into the
-hidden world of magnetic polarities and electric charges. Engelbart’s Time Fob
-belongs to what Peter Denning, a prominent computer scientist, has called the
-"third generation" of computer systems. This third, and still current stage,
-constitutes an assemblage of storage, input, and output technologies.[^8]
-Together, these devices tell a story of a fissure at the heart of our
-contemporary textual predicament.
+hidden world of magnetic polarities and electric charges. Engelbart’s Display
+System belongs to what Peter Denning, a prominent computer scientist, has
+called the "third generation" of computer systems. This third, and still
+current stage, constitutes an assemblage of storage, input, and output
+technologies.[^8] Together, these devices tell a story of a fissure at the
+heart of our contemporary textual predicament.
 
-## 1. Goldberg's Controller
+## 1. Controller
 
 The turn of the twentieth century was a pivotal period in the history of
 letters. It saw the languages of people and machines enter the same mixed
@@ -259,13 +259,7 @@ measures of silence to send a signal representing double quotes.[^13] The
 signal for “zero” in Morse code occupied twenty-two measures. By contrast, all
 Baudot and Murray characters were a mere five units in length, with the
 maximum of ten used to switch the receiving device into “figure” or “capital
-letter” states, for the total of ten units [Fig 2].[^14]
-
-![Table of Alphabets including Morse, Baudot, and Murray conventions
-illustrates the difference between variable- and fixed-length encodings.
-Vansize, William B. “A New Page-Printing Telegraph.” American Institute of
-Electrical Engineers, Transactions of the XVIII (January 1901):
-23.](/image/figure-2.jpg)
+letter” states, for the total of ten units.[^14]
 
 Fixed-length signal alphabets drove the wedge further between human and
 machine communication. Significantly, the automated printing telegraph
@@ -537,12 +531,6 @@ light dusting of powder ink would reveal the otherwise imperceptible magnetic
 inscription.  Tape and paper configurations could thus achieve a measure of
 literal analogy.
 
-![An attempt at electromagnetic inscription without encoding. The diagram
-illustrates "images formed by a negative voltage" in a device that prefigures
-contemporary photocopy machines. Herman Epstein and Frank Innes,
-"Electrographic Printer," Patent US3012839A, issued December 12, 1961, Sheet
-3; quote on p. 5.](/image/figure-4.jpg)
-
 Advances in magnetic storage found their way into small businesses and home
 offices a decade later. In 1964 IBM combined magnetic tape (MT) storage with
 its Selectric line of electric typewriters (ST). Selectric typewriters were
@@ -721,20 +709,20 @@ kind of illiteracy, which divided those who could read and write at the site
 of storage from those who could only observe its aftereffects passively, at
 the shimmering surface of archival projection.
 
-The discussed schematics embody textual fissure in practice. The path of a
-signal through the machine leads to multiplicity of inscription sites. These
-are not metaphoric but literal localities that stretch the sign across
-manifold surfaces. Whereas pens, typewriters, and hole punches transfer
-inscription to paper directly, electromagnetic devices compound them obliquely
-into a laminated aggregate. The propagation of electric signal across space
-required and continues to require numerous phase transitions between media:
-from one channel of tape to another, from tape to drum, from a slow drum to a
-fast one, and from drum and tape to paper. On paper the inscription remains
-visible in circulation; it disappears from view on tape, soon after key press.
-Submerged beneath a facade of opaque oxide, inscriptions thicken and stratify
-into laminates.
+The schematics I discuss in this section and above embody textual fissure in
+practice. The path of a signal through the machine leads to multiplicity of
+inscription sites. These are not metaphoric but literal localities that
+stretch the sign across manifold surfaces. Whereas pens, typewriters, and hole
+punches transfer inscription to paper directly, electromagnetic devices
+compound them obliquely into a laminated aggregate. The propagation of
+electric signal across space required and continues to require numerous phase
+transitions between media: from one channel of tape to another, from tape to
+drum, from a slow drum to a fast one, and from drum and tape to paper. On
+paper the inscription remains visible in circulation; it disappears from view
+on tape, soon after key press. Submerged beneath a facade of opaque oxide,
+inscriptions thicken and stratify into laminates.
 
-## 3. Time Fob
+## 3. Display System
 
 The contemporary textual condition took its present form in the late 1960s.
 Computers subsequently changed in terms of size, speed, and ubiquity.
@@ -762,31 +750,16 @@ On December 9, 1968, Douglas Engelbart, then the  primary investigator at the
 NASA- and ARPA-funded Augmentation Research Center at the Stanford Research
 Institute, gave what later became known as the “mother of all demos” to an
 audience of roughly 1,000 or so computer professionals attending the Joint
-Computer Conference in San Francisco.[75] The flier advertising the event read
-as follows:
+Computer Conference in San Francisco. The demo announced the arrival of almost
+every technology prophesied by Vannevar Bush in his influential 1945 Atlantic
+essay, “As We May Think.” During his short lecture, Engelbart presented
+functional prototypes of the following: graphical user interfaces, video
+conferencing, remote camera monitoring, links and hypertext, version control,
+text search, image manipulation, windows-based user interfaces, digital
+slides, networked machines, mouse, stylus, and joystick inputs, and “what you
+see is what you get” (WYSIWYG) word processing.[^57]
 
-This session is entirely devoted to a presentation by Dr. Engelbart on a
-computer-based, interactive, multiconsole display system which is being
-developed at Stanford Research Institute under the sponsorship of ARPA, NASA
-and RADC. The system is being used as an experimental laboratory for
-investigating principles by which interactive computer aids can augment
-intellectual capability. The techniques which are being described will,
-themselves, be used to augment the presentation. The session will use an
-on-line, closed circuit television hook-up to the SRI computing system in
-Menlo Park. Following the presentation remote terminals to the system, in
-operation, may be viewed during the remainder of the conference in a special
-room set aside for that purpose.[76]
-
-@tae:The demo announced the arrival of almost every technology prophesied by
-Vannevar Bush in his influential 1945 Atlantic essay, “As We May Think.”
-During his short lecture, Engelbart presented functional prototypes of the
-following: graphical user interfaces, video conferencing, remote camera
-monitoring, links and hypertext, version control, text search, image
-manipulation, windows-based user interfaces, digital slides, networked
-machines, mouse, stylus, and joystick inputs, and “what you see is what you
-get” (WYSIWYG) word processing.
-
-@tx:In his report to NASA, Engelbart described his colleagues as a group of
+In his report to NASA, Engelbart described his colleagues as a group of
 scientists “developing an experimental laboratory around an interactive,
 multiconsole computer-display system” and “working to learn the principles by
 which interactive computer aids can augment the intellectual capability of the
@@ -794,11 +767,14 @@ subjects.”[77] CRT displays were central to this research mission. In one of
 many patents that came out of his “intellect augmentation” laboratory,
 Engelbart pictured his “display system” as a workstation that combines a
 typewriter, a CRT screen, and a mouse. The schematics show the workstation in
-action, with the words “<sc>now is the time fob</sc>” prominently displayed
-on-screen. The user was evidently in the process of editing a sentence, likely
-to correct the nonsensical “fob” into “for” (Fig. 4.7).[78]
+action, with the words “now is the time fob” prominently displayed on-screen.
+The user was evidently in the process of editing a sentence, likely to correct
+the nonsensical “fob” into “for” [Figure 4].[^58]
 
-[fig4.7]
+![Schematics for Engelbart's "Display System." The arrangement of keyboard,
+mouse, and screen will define an epoch of human-computer interaction. Source:
+Douglas Engelbart, "X-Y Position Indicator for a Display System," Patent
+US3541541, 1970.](/image/fob.jpg)
 
 Reflecting on the use of visual display systems for human-computer
 interaction, Engelbart wrote, “One of the potentially most promising means for
@@ -1264,12 +1240,12 @@ understood a message, one has to resort to another message, and so on.
 
 [^53]: Bishop et al., “Development,” 382.
 
-[^54]: Bishop et al., “Development,” 382. See also ^May, “IBM Word Processing
+[^54]: Bishop et al., “Development,” 382. See also May, “IBM Word Processing
 Developments.”
 
 [^55]: Frutiger, “IBM Selectric Composer,” 10.
 
-[^56]: Rogers, “The Demo”; ^Tweney, “Mother of All Demos.”
+[^56]: Rogers, “The Demo”; Tweney, “Mother of All Demos.”
 
 [^57]: Engelbart, “Doug Engelbart 1968 Demo.”
 
@@ -1285,22 +1261,22 @@ Typewriter, 21, 30).
 
 [^60]: Weller, Early History of the Typewriter, 1.
 
-[^80]: Engelbart, Human Intellect Augmentation Techniques, 48-49. I have
+[^61]: Engelbart, Human Intellect Augmentation Techniques, 48-49. I have
 reproduced the text verbatim, preserving the line breaks, because formatting
 is an important part of the reported experience.
 
-[^81]: Engelbart, Human Intellect Augmentation Techniques, 50.
+[^62]: Engelbart, Human Intellect Augmentation Techniques, 50.
 
-[^82]: Engelbart, Human Intellect Augmentation Techniques, 50-51.
+[^63]: Engelbart, Human Intellect Augmentation Techniques, 50-51.
 
-[^83]: Engelbart, Human Intellect Augmentation Techniques, 51.
+[^64]: Engelbart, Human Intellect Augmentation Techniques, 51.
 
-[^84]: Engelbart and English, “Research Center,” 396.
+[^65]: Engelbart and English, “Research Center,” 396.
 
-[^85]: Engelbart, Human Intellect Augmentation Techniques, 6.
+[^66]: Engelbart, Human Intellect Augmentation Techniques, 6.
 
-[^86]: Engelbart, Human Intellect Augmentation Techniques, 6.
+[^67]: Engelbart, Human Intellect Augmentation Techniques, 6.
 
-[^87]: Engelbart, Human Intellect Augmentation Techniques, 67.
+[^68]: Engelbart, Human Intellect Augmentation Techniques, 67.
 
-[^88]: Engelbart, Human Intellect Augmentation Techniques, 67.
+[^69]: Engelbart, Human Intellect Augmentation Techniques, 67.
