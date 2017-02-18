@@ -743,22 +743,20 @@ programmable media, electromagnetic storage, and screens.
 
 The addition of a screen finally promised to address the problem of
 electromagnetic legibility. In the first stage of its digital development,
-language became “programmable:” fused with machine instruction it could be
-used to automate devices remotely. Language itself became automated. Coupled
-with electromagnetic storage in the second stage, programmable media was
-freed, to an extent,  from its immutable contexts. It was “lighter,” faster,
-more portable and therefore more iterant and malleable than print or punch.
-Ferric oxide became the preferred medium for digital storage: memory.
-However, that new memory layer, lay also beyond the reach of human senses. It
-was difficult to access and manipulate mentally.
+language became “programmable.” Coupled with electromagnetic storage in the
+second stage, programmable media was freed, to an extent, from its immutable
+contexts. It was “lighter,” faster, more portable and therefore more itinerant
+and malleable than print or punch. Ferric oxide became the preferred medium
+for digital storage. This new memory layer lay also beyond the reach of human
+senses. It was difficult to access and manipulate mentally.
 
-Screens added a much needed window onto the abstraction. On-screen,  machine
-memory could be mapped and represented visually, obviating the need for double
-entry or frequent printouts. Screens interjected to mediate between input and
-output. They flattened stratified complexity to facilitate use. Textual
-laminates were still invisible in part. Screen simulacra restored the
-appearance of a single surface. However, it also obscured the dynamics of
-mediation.
+Screens added a much needed window onto the memory abstraction. On-screen, the
+topography of electromagnetic storage could be represented visually, obviating
+the need for double entry or frequent printouts. Screens interjected to
+mediate between input and output. They flattened the stratified complexity of
+a laminate medium to facilitate use. Digital inscription remained invisible.
+But the screen simulation could restore the appearance of a single surface.
+As it did so it also obscured the dynamics of mediation.
 
 On December 9, 1968, Douglas Engelbart, then the  primary investigator at the
 NASA- and ARPA-funded Augmentation Research Center at the Stanford Research
@@ -767,7 +765,7 @@ audience of roughly 1,000 or so computer professionals attending the Joint
 Computer Conference in San Francisco.[75] The flier advertising the event read
 as follows:
 
-@ext:This session is entirely devoted to a presentation by Dr. Engelbart on a
+This session is entirely devoted to a presentation by Dr. Engelbart on a
 computer-based, interactive, multiconsole display system which is being
 developed at Stanford Research Institute under the sponsorship of ARPA, NASA
 and RADC. The system is being used as an experimental laboratory for
