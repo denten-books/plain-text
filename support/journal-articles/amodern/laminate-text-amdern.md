@@ -763,13 +763,13 @@ In his report to NASA, Engelbart described his colleagues as a group of
 scientists “developing an experimental laboratory around an interactive,
 multiconsole computer-display system” and “working to learn the principles by
 which interactive computer aids can augment the intellectual capability of the
-subjects.”[77] CRT displays were central to this research mission. In one of
+subjects.”[^58] CRT displays were central to this research mission. In one of
 many patents that came out of his “intellect augmentation” laboratory,
 Engelbart pictured his “display system” as a workstation that combines a
 typewriter, a CRT screen, and a mouse. The schematics show the workstation in
 action, with the words “now is the time fob” prominently displayed on-screen.
 The user was evidently in the process of editing a sentence, likely to correct
-the nonsensical “fob” into “for” [Figure 4].[^58]
+the nonsensical “fob” into “for” [Figure 4].[^59]
 
 ![Schematics for Engelbart's "Display System." The arrangement of keyboard,
 mouse, and screen will define an epoch of human-computer interaction. Source:
@@ -781,209 +781,147 @@ interaction, Engelbart wrote, “One of the potentially most promising means for
 delivering and receiving information to and from digital computers involves
 the display of computer outputs as visual representations on a cathode ray
 tube and the alteration of the display by human operator in order to deliver
-instructions to the computer.”[79] The first subjects to read and write
+instructions to the computer.”[^60] The first subjects to read and write
 on-screen reported feeling freedom and liberation from paper. An anonymous
 account included in Engelbart’s report offered the following self-assessment:
 
-@cext:1B2B1 To accommodate and preserve a thought or
-
-piece of information that isn’t related to the work
-
+```
+1B2B1 To accommodate and preserve a thought or
+piece of information that isn't related to the work
 of the moment, one can very quickly and easily
-
 insert a note within the structure of a file at such
-
 a place that it will neither get in the way nor get
-
 lost.
 
 1B2B2 Later, working in another part of the file,
-
 he can almost instantly (e.g. within two seconds)
-
 return to the place where he temporarily is storing
-
 such notes, to modify or add to any of them.
 
- 
-
 1B2B3 As any such miscellaneous thought develops,
-
 it is easy (and delightful) to reshape the structure
-
 and content of its discussion material.[80]
+```
 
- 
+Writing, which this typist previously perceived as an ordered and continuous
+activity, subsequently was performed in a more disjointed way. The typist
+could delight in shaping paragraphs that more closely matched her mental
+activity. Screens thus restored some of the fluidity of writing that
+typewriters denied. Writers could, for example, pursue two thoughts at the
+same time, documenting both at different parts of the file as one would in a
+notebook. Not constrained by the rigidity of a linear mechanism, they moved
+around the document at will.
 
-@tae:Writing, which this typist previously perceived as an ordered and continuous activity, subsequently was performed in a more disjointed way. The typist could delight in shaping paragraphs that more closely matched her mental activity. Screens thus restored some of the fluidity of writing that typewriters denied. Writers could, for example, pursue two thoughts at the same time, documenting both at different parts of the file as one would in a notebook. Not constrained by the rigidity of a linear mechanism, they moved around the document at will.
+Engelbart recorded what must count as some of the most evocative passages to
+appear in a NASA technical report. His “Results and Discussion” section
+contains the following contemplation by an anonymous typist:
 
-            @tx:Engelbart recorded what must count as some of the most evocative passages to appear in a NASA technical report. His “Results and Discussion” section contains the following contemplation by an anonymous typist:
+1B4 I find that I can express myself better, if I can make all the little
+changes and experiments with wording and structure as they occur to me. [Here
+the user experiments a little with using structural decomposition of a complex
+sentence.][81]
 
- 
+A decomposition follows indeed. The author deviates dramatically from
+technical writing conventions. Numbered passages along with unexpected
+enjambment heighten the staccato quality of prose, which attains an almost
+lyrical quality:
 
-@cext:1B4 I find that I can express myself better, if I can
-
-make all the little changes and experiments with wording
-
-and structure as they occur to me. [Here the user
-
-experiments a little with using structural decomposition
-
-of a complex sentence.][81]
-
- 
-
-@tae:A decomposition follows indeed. The author deviates dramatically from technical writing conventions. Numbered passages along with unexpected enjambment heighten the staccato quality of prose, which attains an almost lyrical quality:
-
- 
-
-@cext:1B4A I find that I write faster and more freely,
-
- 
-
+1B4A I find that I write faster and more freely,
 1B4A1 pouring thoughts and trial words onto the
-
 screen with much less inhibition,
 
- 
-
 1B4A2 finding it easy to repair mistakes or wrong
-
 choices
 
- 
-
 1B4A2A so while capturing a thought I don’t
-
 have to inhibit the outpouring of thought and
-
 action to do it with particular correctness,
 
- 
-
 1B4A3 finding that several trials at the right
-
 wording can be done very quickly
 
- 
-
 1B4A3A so I can experiment, easily take a look
-
 and see how a new version strikes me--and often
-
 the first unworried attempt at a way to express
-
 something turns out to be satisfactory, or at
-
 least to require only minor touch up.
 
- 
-
 1B4A4 Finding that where I might otherwise
-
 hesitate in search of the right word, I now pour out
-
 a succession of potentially appropriate words,
-
 leaving them all there while the rest of the
-
 statement takes shape. Then I select from among
-
 them, or replace them all, or else merely change the
-
 list a bit and wait for a later movement of the
-
 spirit.[82]
 
  
+When input and output coincide in time, as they do on paper, mistakes are
+costly. Once inscribed, the sign gains permanence; it is difficult to emend.
+An eraser can help remove a layer of physical material. Alternatively, writers
+use white ink to restore the writing surface. Engelbart’s anonymous typist
+reports the feeling of freedom from such physical commitment. She can simply
+backspace and start over. Words come easily because there are no penalties for
+being wrong. Virtual space seems limitless and endlessly pliable.
 
-@tae:When input and output coincide in time, as they do on paper, mistakes are costly. Once inscribed, the sign gains permanence; it is difficult to emend. An eraser can help remove a layer of physical material. Alternatively, writers use white ink to restore the writing surface. Engelbart’s anonymous typist reports the feeling of freedom from such physical commitment. She can simply backspace and start over. Words come easily because there are no penalties for being wrong. Virtual space seems limitless and endlessly pliable.
+The feeling of material transcendence--the ephemeral quality of digital
+text--is tied directly to the underlying physical affordances  of
+electromagnetic storage. Screens expose the pliability of the medium, where
+erasure is effortless. Content can be addressed in memory and copied at the
+stroke of a key. The numbered paragraphs suggest a novel system for
+recollection. Data storage units become, in a sense, mental units. I am struck
+by the distinctly phenomenological quality of technical description: The
+editor does not merely resemble a page; it is, for the writer, a newly
+discovered way of thought that changes the writer’s relation not only to text
+but also to her own thoughts. The highly hierarchical and blocky paragraph
+structure, along with its repetitive refrain (“finding” and “I find that”),
+gives the prose a hypnotic drive forward. The cadence matches the reported
+experience of discovery.
 
-            @tx:The feeling of material transcendence--the ephemeral quality of digital text--is tied directly to the underlying physical affordances  of  electromagnetic storage. Screens expose the pliability of the medium, where erasure is effortless. Content can be addressed in memory and copied at the stroke of a key. The numbered paragraphs suggest a novel system for recollection. Data storage units become, in a sense, mental units. I am struck by the distinctly phenomenological quality of technical description: The editor does not merely resemble a page; it is, for the writer, a newly discovered way of thought that changes the writer’s relation not only to text but also to her own thoughts. The highly hierarchical and blocky paragraph structure, along with its repetitive refrain (“finding” and “I find that”), gives the prose a hypnotic drive forward. The cadence matches the reported experience of discovery.
+The writer continues:
 
-            The writer continues:
-
- 
-
-@cext: 1B4B I find that
-
- 
+```
+1B4B I find that
 
 1B4B1 being much more aware of
 
- 
-
 1B4B1A the relationships among the phrases of a
-
 sentence,
-
- 
 
 1B4B1B among the statements of a list,
 
- 
-
 1B4B1C and among the various level and members
-
 of a branch,
-
- 
 
 1B4B2 being able
 
- 
-
 1B4B2A to view them in different ways,
-
- 
 
 1B4B2B to rearrange them easily,
 
- 
-
 1B4B2C to experiment with certain special
-
 portrayals,
 
- 
-
 1B4B2C1 not available easily in unstructured
-
 data
-
- 
 
 1B4B2C2 or usable without the CRT display,
 
- 
-
 1B4B3 and being aware that
 
- 
-
 1B4B3A I can (and am seeking to) develop still
-
 further special conventions and computer aids
 
- 
-
 1B4B3B to make even more of this available and
-
 easy,
-
- 
 
 1B4B4 all tend to increase
 
- 
-
 1B4B4A my interest and experimentation
 
- 
-
 1B4B4B and my conviction that this is but a
-
 peek at what is to come soon.[83]
+```
 
 The passages appear too contrived to be spontaneous. Despite its experimental
 structure, these phenomenological reflections advance key elements of
