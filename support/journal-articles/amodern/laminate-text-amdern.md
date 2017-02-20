@@ -1028,7 +1028,7 @@ Advertising”; Hough, “Wired Radio Program Apparatus.”
 
 [^12]: The Australian Donald Murray improved on the Baudot system to minimize
 the amount of holes needing to be punched, allotting fewer perforations to
-common English letters. See ^Murray, “Setting Type,” 567.
+common English letters. See Murray, “Setting Type,” 567.
 
 [^13]: Twenty-eight measures indicate the numerical “figure space” and
 twenty-six indicate double quotes, which share the encoding length with the
@@ -1060,11 +1060,11 @@ Operators,” 514.
 of punched cards being transported from one center to another in Italy”
 (^Hockey, “History of Humanities Computing,” n.p.).
 
-[^24]: Lee and Worral, Electronic Composition, 48.
+[^24]: Lee and Worral, *Electronic Composition*, 48.
 
-[^25]: Daniel et al., Magnetic Recording; Engel, “1888<->1988”; Poulsen,
-“Method of Recording”; O. Smith, “Some Possible Forms”; Thiele, “Magnetic
-Sound Recording”; Vasic and Kurtas, Coding and Signal Processing.
+[^25]: Daniel et al., Magnetic Recording; Engel, “1888-1988”; Poulsen, “Method
+of Recording”; Oberlin Smith, “Some Possible Forms”; Thiele, “Magnetic Sound
+Recording”; Vasic and Kurtas, Coding and Signal Processing.
 
 [^26]: Camras, “Magnetic Recording Tapes,” 505.
 
@@ -1086,21 +1086,21 @@ Sound Recording”; Vasic and Kurtas, Coding and Signal Processing.
 “Two means are available for preparing the functional tapes required for the
 operation of the interpolators. First, when the tabular values of f(x) have
 been previously published, they may be copied on the keys of the functional
-tape preparation unit<3.>and the tape produced by the punches associated with
-this unit, under manual control. Second, as suitable control tape may be coded
-directing the calculator to compute the values of f(x) and record them by
-means of one of the four output punches, mounted on the right wing of the
-machine” (Computation Laboratory, Relay Calculator, 33).
+tape preparation unit [...] and the tape produced by the punches associated
+with this unit, under manual control. Second, as suitable control tape may be
+coded directing the calculator to compute the values of f(x) and record them
+by means of one of the four output punches, mounted on the right wing of the
+machine” (Staff, Description of a Relay Calculator, 33).
 
-[^35]: Computation Laboratory, Relay Calculator, 30.
+[^35]: Staff, Description of a Relay Calculator, 30.
 
-[^36]: Computation Laboratory, Magnetic Drum Calculator, 1.
+[^36]: Staff, Description of a Magnetic Drum Calculator, 1.
 
 [^37]: Turing, "Computing Machinery and Intelligence," 444.
 
-[^38]: Computation Laboratory, Magnetic Drum Calculator, 34-35.
+[^38]: Staff, Description of a Magnetic Drum Calculator, 34-35.
 
-[^39]: Computation Laboratory, Magnetic Drum Calculator, 35, 143-88.
+[^39]: Staff, Description of a Magnetic Drum Calculator, 35 & 143-88.
 
 [^40]: Epstein and Innes, “Electrographic Printer,” 1.
 
@@ -1108,9 +1108,9 @@ machine” (Computation Laboratory, Relay Calculator, 33).
 
 [^42]: Eisenberg, “Word Processing.”
 
-[^43]: ABA Journal,“The $10,000 typewriter.”.
+[^43]: ABA Journal,“The $10,000 typewriter.”
 
-[^44]: See ^Ohmori et al., “Memory Element”; and ^Stefanita, Magnetism, 1-69.
+[^44]: See Ohmori et al., “Memory Element”; and Stefanita, Magnetism, 1-69.
 
 [^45]: Recall Wittgenstein’s broken reading machines, which exhibited a
 similarly recursive problem of verification. To check whether someone
@@ -1175,6 +1175,21 @@ is an important part of the reported experience.
 Adler, Alfred, and Harry Albertman. "Knitting Machine". US1927016A. New York,
 NY, filed August 1, 1922, and issued September 19, 1933.
 
+American Bar Association. “The $10,000 Typewriter.” *ABA Journal*, May 1966.
+
+Beauchamp, K. G. *History of Telegraphy*. London: The Institution of
+Engineering and Technology, 2001.
+
+Bishop, D.A., R.S. Heard, R.E. Hunt, J.E. Jones, and R.A. Rahenkamp.
+“Development of the IBM Magnetic Tape SELECTRIC Composer.” *IBM Journal of
+Research and Development* 12, no. 5 (September 1968): 380–98.
+
+Brackbill, Hervey. “Some Telegraphers’ Terms.” *American Speech* 4, no. 4
+(April 1, 1929): 287–90.
+
+Camras, Marvin. “Magnetic Recording Tapes.” *Transactions of the American
+Institute of Electrical Engineers* 67, no. 1 (January 1948): 503–6.
+
 Casper, Louis. "Remote Control Advertising and Electric Signaling System".
 US1953072A. Richmond Hill, NY, filed September 9, 1930, and issued April 3,
 1934.
@@ -1182,12 +1197,57 @@ US1953072A. Richmond Hill, NY, filed September 9, 1930, and issued April 3,
 Chun, Wendy Hui Kyong. “The Enduring Ephemeral, or the Future Is a Memory.”
 *Critical Inquiry* 35, no. 1 (September 1, 2008): 148–71.
 
+Clancy, Douglas, George Hobgood, and Frederick May. "Data Reading, Recording,
+and Positioning System." US3530448A, filed January 15, 1968, and issued
+September 22, 1970.
+
+Daniel, Eric D., C. Denis Mee, and Mark H. Clark, eds. *Magnetic Recording:
+The First 100 Years*. New York: Wiley-IEEE Press, 1998.
+
+Dee, R.H. “Magnetic Tape for Data Storage: An Enduring Technology.”
+*Proceedings of the IEEE* 96, no. 11 (November 2008): 1775–85.
+
 Denning, Peter J. “Third Generation Computer Systems.” *ACM Computing Surveys*
 3, no. 4 (December 1971): 175–216.
+
+Eisenberg, Daniel. “History of Word Processing.” In *Encyclopedia of Library
+and Information Science*, 49:268–78. New York: Dekker, 1992.
+
+Engel, Friedrich K. “1888-1988 : A Hundred Years of Magnetic Sound Recording.”
+*Journal of the Audio Engineering Society* 36, no. 3 (March 1, 1988): 170–78.
+
+Engelbart, Douglas. “Doug Engelbart 1968 Demo,” December 9, 1968.
+http://web.stanford.edu/dept/SUL/library/extra4/sloan/mousesite/1968Demo.html.
+
+Engelbart, Douglas C., and William K. English. “A Research Center for
+Augmenting Human Intellect.” In *Proceedings of the December 9-11, 1968, Fall
+Joint Computer Conference*, Part I, 395–410. AFIPS ’68 (Fall, Part I). New
+York, NY, USA: ACM, 1968.
+
+Engelbart, Douglas, C. “Human Intellect Augmentation Techniques.” NASA
+Contractor Report, January 1969.
+
+Epstein, Herman, and Frank Innes. "Electrographic Printer". US3012839A.
+Detroit, MI, filed July 15, 1954, and issued December 12, 1961.
+
+Fankhauser, Charles. “The Telegraphone.” *Journal of the Franklin Institute*,
+no. 167 (January 1909): 37–70.
+
+Frutiger, A. “The IBM SELECTRIC Composer: The Evolution of Composition
+Technology.” *IBM Journal of Research and Development* 12, no. 1 (January 1968):
+9–14.
 
 Gadamer, Hans-Georg. Truth and Method. New York: Seabury Press, 1975.
 
 Geikie, Archibald. *The Founders of Geology*. New York: Macmillan, 1905.
+
+Goldberg, Hyman Eli. "Controller". US1165663 A, filed January 10, 1911, and
+issued December 28, 1915.
+
+Hockey, Susan. “The History of Humanities Computing.” In *Companion to Digital
+Humanities* (Blackwell Companions to Literature and Culture). Blackwell
+Companions to Literature and Culture. Oxford: Blackwell Publishing
+Professional, 2004.
 
 Hough, Clinton. "Wired Radio Program Apparatus". US1805665A. New York, NY,
 filed April 27, 1927, and issued May 19, 1931.
@@ -1196,16 +1256,41 @@ Huhtamo, Erkki, and Pekka Parikka. *Media Archaeology: Approaches,
 Applications, and Implications*. Berkeley, CA: University of California Press,
 2011.
 
+Jennings, Tom. “An Annotated History of Some Character Codes or ASCII:
+American Standard Code for Information Infiltration,” October 29, 2004.
+https://web.archive.org/web/20120113050309/http://wps.com/projects/codes/index.html
+
 Koetsier, Teun. “On the Prehistory of Programmable Machines: Musical Automata,
 Looms, Calculators.” *Mechanism and Machine Theory* 36, no. 5 (May 2001):
 589–603.
 
+Lee, Richard and Roy Worrall. *Symposium on Electronic Composition in
+Printing*. Washington, DC: National Bureau of Standards, 1968.
+
 Levine, Caroline. *Forms: Whole, Rhythm, Hierarchy, Network*. Princeton, N.J.:
 Princeton University Press, 2015.
+
+May, F.T. “IBM Word Processing Developments.” *IBM Journal of Research and
+Development* 25, no. 5 (September 1981): 741–54.
+
+Morgan, J.S., and J.R. Norwood. “The IBM SELECTRIC Composer: Justification
+Mechanism.” *IBM Journal of Research and Development* 12, no. 1 (January
+1968): 68–75.
+
+Murray, Donald. “Setting Type by Telegraph.” *Journal of the Institution of
+Electrical Engineers* 34, no. 172 (May 1905): 555–97.
+
+Ohmori, Hiroyuki, Masanori Hosomi, Kazuhiro Bessho, Yutaka Higo, Kazutaka
+Yamane, and Hiroyuki Uchida. "Memory Element, Method of Manufacturing the
+Same, and Memory Device". United States Patent Application 20150097254 Kind
+Code: A1, filed September 4, 2014, and issued April 9, 2015.
 
 Perry, Sara, and Colleen Morgan. “Materializing Media Archaeologies: The MAD-P
 Hard Drive Excavation.” *Journal of Contemporary Archaeology* 2, no. 1 (April
 24, 2015): 94–104.
+
+Poulsen, Valdemar. "Method of Recording and Reproducing Sounds or Signals."
+US661619 A, filed July 8, 1899, and issued November 13, 1900.
 
 Randell, Brian, Maurice V. Wilkes, and Paul E. Ceruzzi. “History of Digital
 Computers.” *In Encyclopedia of Computer Science*, 545–570. Chichester, UK:
@@ -1217,6 +1302,9 @@ Fort Worth: Texas Christian University Press, 1976.
 Riskin, Jessica. “The Defecating Duck, Or, the Ambiguous Origins of Artificial
 Life.” *Critical Inquiry* 29, no. 4 (June 1, 2003): 599–633.
 
+Rogers, Rosemary. “The Demo.” MouseSite, 2005.
+http://web.archive.org/web/20150415203743/http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html.
+
 Schenck, Hubert G. “Applied Paleontology.” *AAPG Bulletin* 24, no. 10 (1940):
 1752–78.
 
@@ -1224,7 +1312,38 @@ Simonetti, Cristián. “Between the Vertical and the Horizontal: Time and Space
 in Archaeology.” *History of the Human Sciences* 26, no. 1 (February 1, 2013):
 90–110.
 
+Smith, Oberllin. “Some Possible Forms of the Phonograph.” *The Electrical
+World*, September 8, 1888, 116–17.
+
+Staff. *Description of a Magnetic Drum Calculator*. Vol. XXV. Annals of the
+Computation Laboratory of Harvard University. Cambridge: Harvard University
+Press, 1952.
+
+Staff. *Description of a Relay Calculator*. Vol. XXIV. Annals of the
+Computation Laboratory of Harvard University. London: Oxford University Press,
+1949.
+
+Stefanita, Carmen-Gabriela. *Magnetism: Basics and Applications*. Springer
+Science & Business Media, 2012.
+
+Thiele, Heinz H. K. “Magnetic Sound Recording in Europe up to 1945.” *Journal
+of the Audio Engineering Society* 36, no. 5 (May 1, 1988): 396–408.
+
+Turing, A. M. “Computing Machinery and Intelligence.” *Mind* 59, no. 236
+(October 1, 1950): 433–60.
+
+U.S. Bureau of Labor Statistics. “Displacement of Morse Operators in
+Commercial Telegraph Offices.” *Monthly Labor Review* 34, no. 3 (March 1,
+1932): 501–15.
+
+Vasic, Bane, and Erozan M. Kurtas. *Coding and Signal Processing for Magnetic
+Recording Systems*. CRC Press, 2004.
+
+Weller, Charles Edward. *The Early History of the Typewriter*. La Porte,
+Indiana: Chase & Shepard, Printers, 1918.
+
 Wythoff, Grant. “Artifactual Interpretation.” *Journal of Contemporary
 Archaeology* 2, no. 1 (April 24, 2015): 23–29.
 
-
+Youngquist, Robert, and Robert Hanes. "Magnetic Reader". US3013206A.
+Stillwater, MN, filed August 28, 1958, and issued December 12, 1961.
