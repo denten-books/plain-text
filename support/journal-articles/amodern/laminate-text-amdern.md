@@ -1,5 +1,9 @@
-Laminate Text: Material Contexts of Digital Knowledge Production
-Dennis Yi Tenen
+---
+title: "Laminate Text"
+subtitle: "Material Contexts of Digital Knowledge Production"
+author: Dennis Yi Tenen
+documentclass: scrartcl
+---
 
 Digital text, at the basis of all computer-mediated epistemological activity,
 appears to view at once an ephemeral and enduring phenomenon. It is, as Wendy
@@ -138,7 +142,7 @@ and FEN LANDS ORIGINALLY OVERFLOWED BY THE SEA; and the VARIETIES of Soil
 according to the Variations in the Sub Strata; ILLUSTRATED by the MOST
 DESCRIPTIVE NAMES," Section 16 (1815). Image in the public domain. Reproduced
 from the collection of Sedgwick Museum of Earth Sciences, University of
-Cambridge.](/image/smith-16.jpg)
+Cambridge.](figure-1.jpg)
 
 The concept of stratigraphy is an apt borrowing when applied to the history of
 computer technology, where the various layers of historical development are
@@ -342,12 +346,12 @@ duty” of carrying human-readable content and mechanically manipulating machine
 “blocks,” “handles,” “terminal blades,” and “plungers.”[^21] Unlike other
 schemas, messages in Goldberg’s alphabet could be “read without special
 information,” effectively addressing the problem of code’s apparent
-unintelligibility [Figure 3].[^22]
+unintelligibility [Figure 2].[^22]
 
 ![Goldberg's control cards. Machine and human languages coincide on the same
 surface. The perforations that actuate levers can also be read "without
 special training," in contrast to other text encodings. Goldberg, Hyman Eli.
-"Controller." US1165663 A, issued December 1915, sheet 3.](/image/figure-2.jpg)
+"Controller." US1165663 A, issued December 1915, sheet 3.](figure-2.jpg)
 
 The inscription remained visible at the surface of Goldberg’s control sheet,
 as a perforated figure punched through the conduit. Whatever challenges punch
@@ -518,18 +522,17 @@ and their apparent representation posed a significant problem. In a 1954
 patent, filed on behalf of Burroughs Corporation, Herman Epstein and Frank
 Innes described an “electrographic printer” involving an “electrical method
 and apparatus for making electrostatic images on a dielectric surface by
-electrical means which may be rendered permanently visible” [Figure 4].[^40]
-The electrographic printer anticipated the modern photocopier in that it
-proposed to use dusting inks to reveal the static charge. Rather than encoding
-its data into another representation, such as the Baudot code, the printer
-traced human-legible letter shapes directly onto tape. A small printing head
-would convert binary input into a five-by-seven grid of electromagnetic
-charges rendering the English alphabet. Such magnetic shapes  were then made
-apparent by combining them with a “recording medium” that had the “correct
-physical properties to adhere to the electrostatic latent images.”[^41] A
-light dusting of powder ink would reveal the otherwise imperceptible magnetic
-inscription.  Tape and paper configurations could thus achieve a measure of
-literal analogy.
+electrical means which may be rendered permanently visible.”[^40] The
+electrographic printer anticipated the modern photocopier in that it proposed
+to use dusting inks to reveal the static charge. Rather than encoding its data
+into another representation, such as the Baudot code, the printer traced
+human-legible letter shapes directly onto tape. A small printing head would
+convert binary input into a five-by-seven grid of electromagnetic charges
+rendering the English alphabet. Such magnetic shapes  were then made apparent
+by combining them with a “recording medium” that had the “correct physical
+properties to adhere to the electrostatic latent images.”[^41] A light dusting
+of powder ink would reveal the otherwise imperceptible magnetic inscription.
+Tape and paper configurations could thus achieve a measure of literal analogy.
 
 Advances in magnetic storage found their way into small businesses and home
 offices a decade later. In 1964 IBM combined magnetic tape (MT) storage with
@@ -579,7 +582,7 @@ advantages of magnetic recording sheet material, e.g., ease in correction,
 economy in reuse, simplicity of equipment, compactness of recorded data,
 etc.[^46]
 
-The magnetic reader consisted of two hinged plates [Figure 5]. Youngquist and
+The magnetic reader consisted of two hinged plates [Figure 3]. Youngquist and
 Hanes proposed to fill its covers with a transparent liquid that would host
 “visible, weakly ferromagnetic crystals.” When sandwiched between the plates,
 a piece of magnetic tape incited the crystal medium, which would in turn
@@ -588,7 +591,7 @@ reveal the signal’s “visibl[e] outline.”[^47]
 !["Magnetic recording tape is often criticized because the recorded signals
 are invisible." Youngquist and Hanes imagined a device that physically reveals
 the magnetic inscription. Robert Yongquist and Robert Hanes, "Magnetic
-Reader," Patent US3013206, 1961.](/image/figure-5.jpg)
+Reader," Patent US3013206, 1961.](figure-3.jpg)
 
 Devices like the Magnetic Reader attempted (and failed) to address the
 fundamental incongruence between paper and tape. Data plowed into rows on the
@@ -775,7 +778,7 @@ the nonsensical “fob” into “for” [Figure 4].[^59]
 ![Schematics for Engelbart's "Display System." The arrangement of keyboard,
 mouse, and screen will define an epoch of human-computer interaction. Source:
 Douglas Engelbart, "X-Y Position Indicator for a Display System," Patent
-US3541541, 1970.](/image/fob.jpg)
+US3541541, 1970.](figure-4.jpg)
 
 Reflecting on the use of visual display systems for human-computer
 interaction, Engelbart wrote, “One of the potentially most promising means for
@@ -970,7 +973,7 @@ at some layers of the composite, allowing for rapid remediation. At other
 layers its affordances are determined by its physics; at still other layers
 they are carefully constructed to resist movement or interpretation. Alienated
 from the base particulates of the word, we lose some of our basic interpretive
-capacities to interrogate embedded power structures.
+capacities to interrogate embedded power structures.[^
 
 [^1]: Chun, "Enduring Ephemeral," 148.
 
@@ -997,9 +1000,9 @@ media-cultural phenomena, the word should be understood in a specific way."
 The use of quotes signals the metaphoric nature of the borrowing. See also
 Grant Wythoff, "Artifactual Interpretation"  Wythoff writes: "[H]ow do we
 close the metaphorical divide between the 'excavations' performed in
-archaeology and media archaeology?" (27). On the use of stratigraphy related to
-hard drive forensics see Perry and Morgan, "Materializing Media Archaeologies:
-the MAD-P Hard Drive Excavation."
+archaeology and media archaeology?" (27). On the use of stratigraphy related
+to hard drive forensics see Perry and Morgan, "Materializing Media
+Archaeologies: the MAD-P Hard Drive Excavation."
 
 [^7]: See Schenck, "Applied Paleontology"; Simonetti, "Between the Vertical
 and the Horizontal: Time and Space in Archaeology"; and Geikie, "The Rise of
@@ -1163,3 +1166,65 @@ is an important part of the reported experience.
 [^65]: Engelbart, Human Intellect Augmentation Techniques, 67.
 
 [^66]: Engelbart, Human Intellect Augmentation Techniques, 67.
+
+[^67]: A portions of this essay in their extended form appear in Chapter 4 of
+*Plain Text: The Poetics of Computation* (Stanford University Press, 2017).
+
+## Bibliography
+
+Adler, Alfred, and Harry Albertman. "Knitting Machine". US1927016A. New York,
+NY, filed August 1, 1922, and issued September 19, 1933.
+
+Casper, Louis. "Remote Control Advertising and Electric Signaling System".
+US1953072A. Richmond Hill, NY, filed September 9, 1930, and issued April 3,
+1934.
+
+Chun, Wendy Hui Kyong. “The Enduring Ephemeral, or the Future Is a Memory.”
+*Critical Inquiry* 35, no. 1 (September 1, 2008): 148–71.
+
+Denning, Peter J. “Third Generation Computer Systems.” *ACM Computing Surveys*
+3, no. 4 (December 1971): 175–216.
+
+Gadamer, Hans-Georg. Truth and Method. New York: Seabury Press, 1975.
+
+Geikie, Archibald. *The Founders of Geology*. New York: Macmillan, 1905.
+
+Hough, Clinton. "Wired Radio Program Apparatus". US1805665A. New York, NY,
+filed April 27, 1927, and issued May 19, 1931.
+
+Huhtamo, Erkki, and Pekka Parikka. *Media Archaeology: Approaches,
+Applications, and Implications*. Berkeley, CA: University of California Press,
+2011.
+
+Koetsier, Teun. “On the Prehistory of Programmable Machines: Musical Automata,
+Looms, Calculators.” *Mechanism and Machine Theory* 36, no. 5 (May 2001):
+589–603.
+
+Levine, Caroline. *Forms: Whole, Rhythm, Hierarchy, Network*. Princeton, N.J.:
+Princeton University Press, 2015.
+
+Perry, Sara, and Colleen Morgan. “Materializing Media Archaeologies: The MAD-P
+Hard Drive Excavation.” *Journal of Contemporary Archaeology* 2, no. 1 (April
+24, 2015): 94–104.
+
+Randell, Brian, Maurice V. Wilkes, and Paul E. Ceruzzi. “History of Digital
+Computers.” *In Encyclopedia of Computer Science*, 545–570. Chichester, UK:
+John Wiley and Sons Ltd., 2003.
+
+Ricoeur, Paul. *Interpretation Theory: Discourse and the Surplus of Meaning*.
+Fort Worth: Texas Christian University Press, 1976.
+
+Riskin, Jessica. “The Defecating Duck, Or, the Ambiguous Origins of Artificial
+Life.” *Critical Inquiry* 29, no. 4 (June 1, 2003): 599–633.
+
+Schenck, Hubert G. “Applied Paleontology.” *AAPG Bulletin* 24, no. 10 (1940):
+1752–78.
+
+Simonetti, Cristián. “Between the Vertical and the Horizontal: Time and Space
+in Archaeology.” *History of the Human Sciences* 26, no. 1 (February 1, 2013):
+90–110.
+
+Wythoff, Grant. “Artifactual Interpretation.” *Journal of Contemporary
+Archaeology* 2, no. 1 (April 24, 2015): 23–29.
+
+
