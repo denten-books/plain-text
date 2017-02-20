@@ -732,19 +732,20 @@ programmable media, electromagnetic storage, and screens.
 The addition of a screen finally promised to address the problem of
 electromagnetic legibility. In the first stage of its digital development,
 language became “programmable.” Coupled with electromagnetic storage in the
-second stage, programmable media was freed, to an extent, from its immutable
-contexts. It was “lighter,” faster, more portable and therefore more itinerant
-and malleable than print or punch. Ferric oxide became the preferred medium
-for digital storage. This new memory layer lay also beyond the reach of human
-senses. It was difficult to access and manipulate mentally.
+second stage, programmable media was "freed," at least in appearance, from its
+immutable contexts. It was “lighter,” faster, more portable and therefore more
+itinerant and malleable than print or punch. Ferric oxide became the preferred
+medium for digital storage. But this new memory layer lay also beyond the
+reach of human senses. It was "weighty" in another sense, difficult to access
+and manipulate mentally.
 
-Screens added a much needed window onto the memory abstraction. On-screen, the
-topography of electromagnetic storage could be represented visually, obviating
-the need for double entry or frequent printouts. Screens interjected to
-mediate between input and output. They flattened the stratified complexity of
-a laminate medium to facilitate use. Digital inscription remained invisible.
-But the screen simulation could restore the appearance of a single surface.
-As it did so it also obscured the dynamics of mediation.
+Screens added a much needed window onto an opaque memory abstraction.
+On-screen, the topography of electromagnetic storage could be represented
+visually, obviating the need for double entry or frequent printouts. Screens
+interjected to mediate between input and output. They flattened the stratified
+complexity of a laminate medium to facilitate use. Digital inscription
+remained invisible. The screen simulation could restore the appearance of a
+single surface. As it did so it also obscured the very dynamics of mediation.
 
 On December 9, 1968, Douglas Engelbart, then the  primary investigator at the
 NASA- and ARPA-funded Augmentation Research Center at the Stanford Research
@@ -783,7 +784,8 @@ the display of computer outputs as visual representations on a cathode ray
 tube and the alteration of the display by human operator in order to deliver
 instructions to the computer.”[^60] The first subjects to read and write
 on-screen reported feeling freedom and liberation from paper. An anonymous
-account included in Engelbart’s report offered the following self-assessment:
+account included in Engelbart’s report offered the following
+self-assessment:[^61]
 
 ```
 1B2B1 To accommodate and preserve a thought or
@@ -800,7 +802,7 @@ such notes, to modify or add to any of them.
 
 1B2B3 As any such miscellaneous thought develops,
 it is easy (and delightful) to reshape the structure
-and content of its discussion material.[80]
+and content of its discussion material.
 ```
 
 Writing, which this typist previously perceived as an ordered and continuous
@@ -814,48 +816,42 @@ around the document at will.
 
 Engelbart recorded what must count as some of the most evocative passages to
 appear in a NASA technical report. His “Results and Discussion” section
-contains the following contemplation by an anonymous typist:
+contains the following contemplation by an anonymous typist. Numbered passages
+along with unexpected enjambment heighten the staccato quality of prose, which
+attains an almost lyrical quality:[^61]
 
-1B4 I find that I can express myself better, if I can make all the little
-changes and experiments with wording and structure as they occur to me. [Here
-the user experiments a little with using structural decomposition of a complex
-sentence.][81]
-
-A decomposition follows indeed. The author deviates dramatically from
-technical writing conventions. Numbered passages along with unexpected
-enjambment heighten the staccato quality of prose, which attains an almost
-lyrical quality:
-
+```
 1B4A I find that I write faster and more freely,
-1B4A1 pouring thoughts and trial words onto the
-screen with much less inhibition,
 
-1B4A2 finding it easy to repair mistakes or wrong
-choices
+    1B4A1 pouring thoughts and trial words onto the
+    screen with much less inhibition,
 
-1B4A2A so while capturing a thought I don’t
-have to inhibit the outpouring of thought and
-action to do it with particular correctness,
+    1B4A2 finding it easy to repair mistakes or wrong
+    choices
 
-1B4A3 finding that several trials at the right
-wording can be done very quickly
+        1B4A2A so while capturing a thought I don’t
+        have to inhibit the outpouring of thought and
+        action to do it with particular correctness,
 
-1B4A3A so I can experiment, easily take a look
-and see how a new version strikes me--and often
-the first unworried attempt at a way to express
-something turns out to be satisfactory, or at
-least to require only minor touch up.
+    1B4A3 finding that several trials at the right
+    wording can be done very quickly
 
-1B4A4 Finding that where I might otherwise
-hesitate in search of the right word, I now pour out
-a succession of potentially appropriate words,
-leaving them all there while the rest of the
-statement takes shape. Then I select from among
-them, or replace them all, or else merely change the
-list a bit and wait for a later movement of the
-spirit.[82]
+        1B4A3A so I can experiment, easily take a look
+        and see how a new version strikes me--and often
+        the first unworried attempt at a way to express
+        something turns out to be satisfactory, or at
+        least to require only minor touch up.
 
- 
+    1B4A4 Finding that where I might otherwise
+    hesitate in search of the right word, I now pour out
+    a succession of potentially appropriate words,
+    leaving them all there while the rest of the
+    statement takes shape. Then I select from among
+    them, or replace them all, or else merely change the
+    list a bit and wait for a later movement of the
+    spirit.
+```
+
 When input and output coincide in time, as they do on paper, mistakes are
 costly. Once inscribed, the sign gains permanence; it is difficult to emend.
 An eraser can help remove a layer of physical material. Alternatively, writers
@@ -878,70 +874,25 @@ structure, along with its repetitive refrain (“finding” and “I find that�
 gives the prose a hypnotic drive forward. The cadence matches the reported
 experience of discovery.
 
-The writer continues:
-
-```
-1B4B I find that
-
-1B4B1 being much more aware of
-
-1B4B1A the relationships among the phrases of a
-sentence,
-
-1B4B1B among the statements of a list,
-
-1B4B1C and among the various level and members
-of a branch,
-
-1B4B2 being able
-
-1B4B2A to view them in different ways,
-
-1B4B2B to rearrange them easily,
-
-1B4B2C to experiment with certain special
-portrayals,
-
-1B4B2C1 not available easily in unstructured
-data
-
-1B4B2C2 or usable without the CRT display,
-
-1B4B3 and being aware that
-
-1B4B3A I can (and am seeking to) develop still
-further special conventions and computer aids
-
-1B4B3B to make even more of this available and
-easy,
-
-1B4B4 all tend to increase
-
-1B4B4A my interest and experimentation
-
-1B4B4B and my conviction that this is but a
-peek at what is to come soon.[83]
-```
-
 The passages appear too contrived to be spontaneous. Despite its experimental
 structure, these phenomenological reflections advance key elements of
 Engelbart’s research program, which aimed to develop new data structures in
 combination with new ways of displaying them. Yet I cannot help but be moved
 by the fluency of the prose and by the sheer audacity of the project.
 
-Engelbart’s research into intellect augmentation created tools that
-augment research. In an image that evokes Baron Münchhausen pulling himself
-out of a swamp by his own bootstraps, Engelbart called his group’s methodology
+Engelbart’s research into intellect augmentation created tools that augment
+research. In an image that evokes Baron Münchhausen pulling himself out of a
+swamp by his own bootstraps, Engelbart called his group’s methodology
 “bootstrapping,” which involved the recursive strategy of “developing tools
-and techniques” to develop better tools and techniques.[84] The “tangible
+and techniques” to develop better tools and techniques.[^62] The “tangible
 product” of such an activity was a “constantly improving augmentation system
-for use in developing and studying augmentation systems.”[85]
+for use in developing and studying augmentation systems.”[^63]
 
 It was an appealing vision, but only so long as it remained recursive.
 Engelbart’s group benefited from creating their own tools and methods.
 Engelbart also hoped that his system could be “transferred--as a whole or by
 pieces of concept, principle and technique--to help others develop
-augmentation systems for many other disciplines and activities.”[86]
+augmentation systems for many other disciplines and activities.”[^64]
 Undoubtedly, Engelbart’s ideas about intellect augmentation have had a broad
 effect on knowledge work across disciplines. However, his vision loses the
 property of self-determination when transferred outside the narrow confines of
@@ -959,19 +910,19 @@ instruments for reading and writing. They engineered new programming
 languages, compilers to interpret them, and debuggers to troubleshoot them.
 The system shows care and love for the craft of writing. But there is also
 complexity. “This complexity has grown more than expected,” Engelbart wrote in
-conclusion.[87] The feeling of transcendence that the anonymous typist
+conclusion.[^65] The feeling of transcendence that the anonymous typist
 describes in using the system engages a sophisticated mechanism. The mechanism
 was not, however, the primary instrument of augmentation. Rather, it was the
 process of designing, making, and experimenting with tools that enhanced the
 intellect.. Engelbart wrote, “The development of the Bootstrap Community must
 be coordinated with the capacity of our consoles, computer service, and file
 storage to support Community needs, and with our ability to integrate and
-coordinate people and activities.”[88] In other words, the development of the
+coordinate people and activities.”[^66] In other words, the development of the
 community must form a feedback loop with software development. It involves
 training, practice, critical self-reflection, and thoughtful deliberation.
 
 Modern word processors enable us to drag and drop passages with unprecedented
-facility. We live in Engelbart’s world, to the extent that we use his lab’s
+facility. We live in Engelbart’s world to the extent that we use his lab’s
 complex systems daily and in a smaller configuration: screens, keyboards,
 storage. Today’s computer users rarely form a self-determined bootstrapping
 community, however. The contemporary writer is bootstrapped passively to the
@@ -1199,22 +1150,16 @@ Typewriter, 21, 30).
 
 [^60]: Weller, Early History of the Typewriter, 1.
 
-[^61]: Engelbart, Human Intellect Augmentation Techniques, 48-49. I have
+[^61]: Engelbart, Human Intellect Augmentation Techniques, 50-51. I have
 reproduced the text verbatim, preserving the line breaks, because formatting
 is an important part of the reported experience.
 
-[^62]: Engelbart, Human Intellect Augmentation Techniques, 50.
+[^62]: Engelbart and English, “Research Center,” 396.
 
-[^63]: Engelbart, Human Intellect Augmentation Techniques, 50-51.
+[^63]: Engelbart, Human Intellect Augmentation Techniques, 6.
 
-[^64]: Engelbart, Human Intellect Augmentation Techniques, 51.
+[^64]: Engelbart, Human Intellect Augmentation Techniques, 6.
 
-[^65]: Engelbart and English, “Research Center,” 396.
+[^65]: Engelbart, Human Intellect Augmentation Techniques, 67.
 
-[^66]: Engelbart, Human Intellect Augmentation Techniques, 6.
-
-[^67]: Engelbart, Human Intellect Augmentation Techniques, 6.
-
-[^68]: Engelbart, Human Intellect Augmentation Techniques, 67.
-
-[^69]: Engelbart, Human Intellect Augmentation Techniques, 67.
+[^66]: Engelbart, Human Intellect Augmentation Techniques, 67.
