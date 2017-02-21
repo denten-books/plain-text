@@ -1,7 +1,6 @@
 ---
 title: "Laminate Text"
 subtitle: "Material Contexts of Digital Knowledge Production"
-author: Dennis Yi Tenen
 documentclass: scrartcl
 ---
 
@@ -22,8 +21,8 @@ results in conflicting critical accounts in the scholarly literature.
 Furthermore, it engenders a fundamental alienation from the material contexts
 of digital knowledge production. The alienation ultimately threatens critical
 disempowerment. In this essay, I outline a condition I name *laminate
-textuality*, by which an inscription fractures to occupy multiple surfaces
-concurrently. A historical archaeology of electromagnetic writing anchors the
+textuality*, by which an inscription fractures to occupy multiple surfaces at
+the same time. A historical archaeology of electromagnetic writing anchors the
 more theoretical portions of the essay within the emerging affordances of
 computational media, which take place, in part, at quantum scale, beyond the
 reach of humans senses. Clandestine forces of capital and control subsequently
@@ -33,7 +32,7 @@ possible interpretive activity.
 ## Literary Composites
 
 Little separates ink from paper in print. Ink permeates paper; the conduit is
-firmly embedded into the medium. The amalgam of ink and paper implies specific
+firmly embedded into the medium. The amalgam of ink and paper entails specific
 physical properties and their related affordances: what the medium *is*
 relates to what can be *done* with it.[^2] Print is stable on the scale of
 decades and sometimes centuries. At the very least, once can be assured that a
@@ -973,7 +972,7 @@ at some layers of the composite, allowing for rapid remediation. At other
 layers its affordances are determined by its physics; at still other layers
 they are carefully constructed to resist movement or interpretation. Alienated
 from the base particulates of the word, we lose some of our basic interpretive
-capacities to interrogate embedded power structures.[^
+capacities to interrogate embedded power structures.[^67]
 
 [^1]: Chun, "Enduring Ephemeral," 148.
 
