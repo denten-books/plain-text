@@ -1201,13 +1201,13 @@ physical medium---bumps and holes---used to animate the mechanical movement of
 the transmission apparatus, the kind of rigid linkage Wittgenstein described
 in his thought experiments. Indeed, of the 33 asserted claims in the
 "Telegraphy" patent by the Bumstead brothers, the first 13 relate to the
-transmission of intelligence:
+transmission of intelligence, including:
 
-> [...] adapted to initiate a succession of electrical impulses all of which
-> have a character representing significance, a receiver adapted to detect
-> variations in the time intervals elapsing between successive impulses, a
-> plurality of interpreting relays selectively actuated by said receiver, and a
-> printing mechanism responsive to the combined action
+> [...] a transmitter adapted to initiate a succession of electrical impulses
+> all of which have a character representing significance, a receiver adapted
+> to detect variations in the time intervals elapsing between successive
+> impulses, a plurality of interpreting relays selectively actuated by said
+> receiver, and a printing mechanism responsive to the combined action
 > [@bumstead_telegraphy_1916, 13-4].
 
 What began as a description of a communication mechanism, concluded with a
@@ -1521,7 +1521,7 @@ on the foundations of mathematics in 1939.
 [^ln1-platotr]: See @plato_euthyphro._1999. I translate the passage into
 literal English to preserve characteristics notable in the original. In
 particular, note the parallelism between *exōthen* and *endothen*, the
-ambiguity of *allotrion*, as a freight other, and the subtle slide between
+ambiguity of *allotrion*, as a foreign other, and the subtle slide between
 *graphō* (letter, figure, writing) and *tupōn* (type, impression, trace). I
 extend my gratitude to Stathis Gourgouris, Simos Zenios, and Guy Smoot for
 their help with Greek translations.
