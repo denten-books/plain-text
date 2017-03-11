@@ -890,12 +890,12 @@ outputs. Final printing was then accomplished by:
 > two-station reader output unit, setting the pitch, leading, impression
 > control and dead key space of the Composer unit to the desired values, and
 > entering set-up instructions on the console control panel (e.g., one-station
-or > two-station tape read, depending on whether a correction tape is present;
+> or two-station tape read, depending on whether a correction tape is present;
 > line count instructions for format control and space to be left for
 > pictures, etc.; special format instructions; and any required control codes
-> known to have been omitted from the input tape). During printing the operator
-> changes type elements when necessary, loads paper as required, and makes and
-> enters hyphenation decisions if justified copy is being printed
+> known to have been omitted from the input tape). During printing the
+> operator changes type elements when necessary, loads paper as required, and
+> makes and enters hyphenation decisions if justified copy is being printed
 > [@bishop_development_1968, 382].
 
 The tape and control units thus intervened between keyboard and printed page.
