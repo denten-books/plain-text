@@ -1,6 +1,5 @@
 ---
-title: "Laminate Text"
-subtitle: "Material Contexts of Digital Knowledge Production"
+title: "Laminate Text: A Media History in Three Artifacts"
 documentclass: scrartcl
 ---
 
@@ -13,45 +12,37 @@ liquid crystal, in response to the modulation of an electric signal. At the
 site of its storage, on "hard" drives, among "floating gates" and
 ferromagnetic polarities, the text adheres to recondite surfaces persistently.
 There, it multiplies and obstinately spreads, like silicon dust, filling the
-available crevices with stored data, far beyond the immediate contexts of
+available crevices with stored data, far from the immediate contexts of
 inscription.
 
 This inherent duplicity of electromagnetic inscription, as I argue here,
 results in conflicting critical accounts in the scholarly literature.
 Furthermore, it engenders a fundamental alienation from the material contexts
-of digital knowledge production. The alienation ultimately threatens critical
-disempowerment. In this essay, I outline a condition I name *laminate
-textuality*, by which an inscription fractures to occupy multiple surfaces at
-the same time. A historical archaeology of electromagnetic writing anchors the
-more theoretical portions of the essay within the emerging affordances of
-computational media, which take place, in part, at quantum scale, beyond the
-reach of humans senses. Clandestine forces of capital and control subsequently
-contest such newly found microscopic expanses, thus limiting the scope of
-possible interpretive activity.
+of digital knowledge production. Reading digitally takes place, in part, at
+quantum scale, beyond the reach of humans senses. Clandestine forces of
+capital and control subsequently contest such newly found microscopic
+expanses, thus limiting the scope of possible interpretive activity. Such
+alienation ultimately threatens critical disempowerment. *Laminate textuality*
+is meant to name the condition by which inscriptions fracture to occupy
+multiple surfaces and topographies at the same time. By traversing these
+difficult terrains, I hope to ground our theoretical intuitions historically,
+not just as a matter of theoretical conjecture but as material grounds for
+intellectual labor. My primary contribution is therefore primarily historical,
+with the aim of anchoring the more theoretical portions of the essay within
+specific, emerging affordances of computer media. 
 
 ## Literary Composites
 
 Little separates ink from paper in print. Ink permeates paper; the conduit is
-firmly embedded into the medium. The amalgam of ink and paper entails specific
+firmly embedded into its host. The amalgam of ink and paper entails specific
 physical properties and their related affordances: what the medium *is*
-relates to what can be *done* with it.[^2] Print is stable on the scale of
-decades and sometimes centuries. At the very least, once can be assured that a
-text will remain the same as it passes from one pair of hands into another. As
-interpreters of texts, we usually can (with some effort) make certain to find
-ourselves, literally, on the same page and to insure that our discussion
+relates to what can be *done* with it.[^2] A book printed on high-quality
+acid-free paper will remain inert for decades and sometimes centuries. That is
+not to say that print is a stable medium. At the very least, readers know that
+a text will keep its shape as it passes from one pair of hands into another.
+As interpreters of texts, we usually can (with some effort) make certain to
+find ourselves, literally, on the same page and to insure that our discussion
 concerns roughly the same piece of writing.
-
-Traditional models of modernist hermeneutics often assume the relative
-permanence of the medium.[^3] For example, Paul Ricoeur wrote about "the
-possibility of transferring orders of long distances without serious
-distortions" as related to the "birth of political rule exercised by a distant
-state."[^4] Among other effects, Ricoeur attributed to the fixity of print
-"the birth of market relationships" and economics, "the birth of justice" in
-the fixity of the legal codex, "the constitution of archives" and therefore
-the very possibility of history. He concluded to write that "such an immense
-range of effects suggests that human discourse is not merely preserved from
-destruction by being fixed in writing, but that it is deeply affected in its
-communicative function."[^5]
 
 The architecture of contemporary computational media---screens, hard drives,
 and keyboards---cannot sustain the assumption of fixity. Electromagnetic
@@ -75,55 +66,64 @@ affordances. A simple act of erasure on screen, as when one backspaces over a
 word written in error, simulates a comparable action in print. On disk,
 metaphoric "erasure" assumes a different connotation, entailing an entirely
 new set of operations, not congruent with the implied action on screen or in
-print. The incongruence is often benign. Readers and writers are often
-interested in handling surface representation alone, dwelling on the level of
-words and ideas. In certain contexts however, our inability to perceive the
-mechanics of inscription at depth severely undermines critical acuity. To take
-a blunt example, imagine a scholar or a journalist who needs to redact
-unpublished materials in order to protect her sources. Surface erasure in this
-case is insufficient to guarantee true anonymity. Words erased on screen may
-persevere through deeper structures on disk and among remote servers, in a way
-susceptible to malicious breach or state-sponsored surveillance. Surface
-anonymity is sufficient at times, while other times require deep anonymity.
+print.[^68] The incongruence is often benign. Readers and writers are
+sometimes interested in handling surface representation alone, dwelling on the
+level of words and ideas. In certain contexts however, our inability to
+perceive the mechanics of inscription at depth severely undermines critical
+acuity. To take a blunt example, imagine a scholar or a journalist who needs
+to redact unpublished materials in order to protect her sources. Surface
+erasure in this case is insufficient to guarantee true anonymity. Words erased
+on screen may persevere through deeper structures on disk and among remote
+servers, in a way susceptible to malicious breach or state-sponsored
+surveillance. Surface anonymity is sufficient at times, while other times
+require deep anonymity.
 
 The affordances of laminate text depend not only on the medium, but also on
 the contexts of its reception. The same "source text" may be transformed
 according to its geography or the identity of its reader. The composition of
 the sign changes as a text changes hands. A digital document may respond to a
 reader's location, gender, age, or ethnicity. Think of an online newspaper, to
-take a common example, where the very composition of headlines and stories are
-often tailed to the reader. Such dynamic inscriptions contain the rules of
-their own transformation. Content and control code intertwine to produce an
-amalgamated artifact, which adapts to its context. The often covert presence
-of control structures extend the reach of governance over the process of
-interpretation. A government may censor speech through legislation, for
-example, and prosecute those who express opinions contrary to the reigning
-ideology. Similarly, mechanisms of censorship may be encoded into the fabric
-of the laminate itself, through technologies that simply prevent prohibited
-ideological formations from appearing on screen. Such technologies can also
-limit the transmission and the reception of illicit material. Unlike those
-censored explicitly, readers under the reach of algorithmic governance may not
-be immediately aware of control mechanisms structuring their everyday
-interpretive experience.
+take a common example, where the very composition of headlines and stories is
+routinely tailored to the individual reader. Such dynamic inscriptions contain
+the rules of their own transformation. Content and control code intertwine to
+produce an amalgamated artifact, which adapts to its context. The often covert
+presence of control structures extend the reach of governance over the process
+of interpretation. Governments that censor speech by legislation prosecute
+those who express opinions contrary to the reigning ideology. More
+insidiously, mechanisms of censorship may be encoded into the fabric of the
+laminate itself, through technologies that outright prevent prohibited
+ideological formations from appearing on screen. Such technologies limit the
+transmission and the reception of illicit material more definitively. Unlike
+those censored by political means, readers under the reach of algorithmic
+censorship are not immediately aware of control mechanisms structuring their
+everyday interpretive experience.
 
-The stratified nature of digital inscription poses obvious challenges in the
-political sphere. Our ability to mobilize against censorship or surveillance
-is in peril when such mechanisms operate at a microscopic scale, requiring
-specialized training and tools for interpretation. Laminate text presents a
-challenge to the practice of literary hermeneutics more generally. How does
-critical interpretive practice persist in conditions where readers can no
-longer rely on the continuing stability of the medium? The theoretical problem
-is not one of fixing a text as either an immanent object or a transcendent
-idea, enduring or ephemeral. We are confronted instead with texts that do not
-converge on a single location and whose multivalence is derived from their
-structural diffusion. Composite media force us to reconsider long-standing
-critical assumptions about the physics of inscription at the foundation of
+The stratified nature of digital inscription poses obvious general challenges
+in the political sphere, which this essay can address only obliquely. Our
+ability to mobilize against censorship or surveillance is in peril when such
+mechanisms operate at a microscopic scale, requiring specialized skills and
+tools for interpretation. A tactical response requires not just history, but
+training and advocacy efforts. Laminate text presents a challenge to the
+practice of literary hermeneutics more specifically. How does critical
+interpretive practice persist in conditions where readers can no longer rely
+on the continuing stability of the medium?  The theoretical problem is not one
+of fixing a text as either an immanent object or a transcendent idea, enduring
+or ephemeral. We are confronted instead with texts that do not converge on a
+single location and whose multivalence is derived from their structural
+diffusion. Composite media force us to reconsider long-standing critical
+assumptions about the physics of inscription at the foundation of
 hermeneutics.
 
 ## Stratigraphy
 
-Having summarized the basic theoretical concerns related to the emerging
-material properties of laminate text, I would like to turn my attention now to
+Several parallel literary and media archaeologies were formative to my
+approach to thinking through the history of laminate inscription. The specter
+of Friedrich Kittler haunts all work on literature and technology. His legacy
+is complicated by his often fatalistic pronouncements. "Under the conditions
+of high technology, literature has nothing more to say," he wrote in the
+conclusion of *Gramaphone, Film, Typewriter*. Scholars such as Matthew
+Kirschenbaum, Lisa Gitelman, and Lori Emmerson
+
 the historical archaeology of the medium itself. I borrow the term
 "stratigraphy" from the field of archaeology proper, as opposed to media
 archaeology where the term is used in its more evocative and metaphoric
@@ -974,6 +974,191 @@ they are carefully constructed to resist movement or interpretation. Alienated
 from the base particulates of the word, we lose some of our basic interpretive
 capacities to interrogate embedded power structures.[^67]
 
+## Bibliography
+
+Adler, Alfred, and Harry Albertman. "Knitting Machine". US1927016A. New York,
+NY, filed August 1, 1922, and issued September 19, 1933.
+
+American Bar Association. “The $10,000 Typewriter.” *ABA Journal*, May 1966.
+
+Beauchamp, K. G. *History of Telegraphy*. London: The Institution of
+Engineering and Technology, 2001.
+
+Bishop, D.A., R.S. Heard, R.E. Hunt, J.E. Jones, and R.A. Rahenkamp.
+“Development of the IBM Magnetic Tape SELECTRIC Composer.” *IBM Journal of
+Research and Development* 12, no. 5 (September 1968): 380–98.
+
+Brackbill, Hervey. “Some Telegraphers’ Terms.” *American Speech* 4, no. 4
+(April 1, 1929): 287–90.
+
+Camras, Marvin. “Magnetic Recording Tapes.” *Transactions of the American
+Institute of Electrical Engineers* 67, no. 1 (January 1948): 503–6.
+
+Casper, Louis. "Remote Control Advertising and Electric Signaling System".
+US1953072A. Richmond Hill, NY, filed September 9, 1930, and issued April 3,
+1934.
+
+Chun, Wendy Hui Kyong. “The Enduring Ephemeral, or the Future Is a Memory.”
+*Critical Inquiry* 35, no. 1 (September 1, 2008): 148–71.
+
+Clancy, Douglas, George Hobgood, and Frederick May. "Data Reading, Recording,
+and Positioning System." US3530448A, filed January 15, 1968, and issued
+September 22, 1970.
+
+Daniel, Eric D., C. Denis Mee, and Mark H. Clark, eds. *Magnetic Recording:
+The First 100 Years*. New York: Wiley-IEEE Press, 1998.
+
+Dee, R.H. “Magnetic Tape for Data Storage: An Enduring Technology.”
+*Proceedings of the IEEE* 96, no. 11 (November 2008): 1775–85.
+
+Denning, Peter J. “Third Generation Computer Systems.” *ACM Computing Surveys*
+3, no. 4 (December 1971): 175–216.
+
+Eisenberg, Daniel. “History of Word Processing.” In *Encyclopedia of Library
+and Information Science*, 49:268–78. New York: Dekker, 1992.
+
+Engel, Friedrich K. “1888-1988 : A Hundred Years of Magnetic Sound Recording.”
+*Journal of the Audio Engineering Society* 36, no. 3 (March 1, 1988): 170–78.
+
+Engelbart, Douglas. “Doug Engelbart 1968 Demo,” December 9, 1968.
+http://web.stanford.edu/dept/SUL/library/extra4/sloan/mousesite/1968Demo.html.
+
+Engelbart, Douglas C., and William K. English. “A Research Center for
+Augmenting Human Intellect.” In *Proceedings of the December 9-11, 1968, Fall
+Joint Computer Conference*, Part I, 395–410. AFIPS ’68 (Fall, Part I). New
+York, NY, USA: ACM, 1968.
+
+Engelbart, Douglas, C. “Human Intellect Augmentation Techniques.” NASA
+Contractor Report, January 1969.
+
+Epstein, Herman, and Frank Innes. "Electrographic Printer". US3012839A.
+Detroit, MI, filed July 15, 1954, and issued December 12, 1961.
+
+Fankhauser, Charles. “The Telegraphone.” *Journal of the Franklin Institute*,
+no. 167 (January 1909): 37–70.
+
+Frutiger, A. “The IBM SELECTRIC Composer: The Evolution of Composition
+Technology.” *IBM Journal of Research and Development* 12, no. 1 (January 1968):
+9–14.
+
+Gadamer, Hans-Georg. Truth and Method. New York: Seabury Press, 1975.
+
+Geikie, Archibald. *The Founders of Geology*. New York: Macmillan, 1905.
+
+Goldberg, Hyman Eli. "Controller". US1165663 A, filed January 10, 1911, and
+issued December 28, 1915.
+
+Hockey, Susan. “The History of Humanities Computing.” In *Companion to Digital
+Humanities* (Blackwell Companions to Literature and Culture). Blackwell
+Companions to Literature and Culture. Oxford: Blackwell Publishing
+Professional, 2004.
+
+Hough, Clinton. "Wired Radio Program Apparatus". US1805665A. New York, NY,
+filed April 27, 1927, and issued May 19, 1931.
+
+Huhtamo, Erkki, and Pekka Parikka. *Media Archaeology: Approaches,
+Applications, and Implications*. Berkeley, CA: University of California Press,
+2011.
+
+Jennings, Tom. “An Annotated History of Some Character Codes or ASCII:
+American Standard Code for Information Infiltration,” October 29, 2004.
+https://web.archive.org/web/20120113050309/http://wps.com/projects/codes/index.html
+
+Kirschenbaum, Matthew G. *Mechanisms: New Media and the Forensic Imagination*.
+The MIT Press, 2008.
+
+Kittler, Friedrich A. *Gramophone, Film, Typewriter*. Translated by Geoffrey
+Winthrop-Young and Michael Wutz. Stanford, CA: Stanford University Press,
+1999.
+
+Koetsier, Teun. “On the Prehistory of Programmable Machines: Musical Automata,
+Looms, Calculators.” *Mechanism and Machine Theory* 36, no. 5 (May 2001):
+589–603.
+
+Lee, Richard and Roy Worrall. *Symposium on Electronic Composition in
+Printing*. Washington, DC: National Bureau of Standards, 1968.
+
+Levine, Caroline. *Forms: Whole, Rhythm, Hierarchy, Network*. Princeton, N.J.:
+Princeton University Press, 2015.
+
+May, F.T. “IBM Word Processing Developments.” *IBM Journal of Research and
+Development* 25, no. 5 (September 1981): 741–54.
+
+Morgan, J.S., and J.R. Norwood. “The IBM SELECTRIC Composer: Justification
+Mechanism.” *IBM Journal of Research and Development* 12, no. 1 (January
+1968): 68–75.
+
+Murray, Donald. “Setting Type by Telegraph.” *Journal of the Institution of
+Electrical Engineers* 34, no. 172 (May 1905): 555–97.
+
+Ohmori, Hiroyuki, Masanori Hosomi, Kazuhiro Bessho, Yutaka Higo, Kazutaka
+Yamane, and Hiroyuki Uchida. "Memory Element, Method of Manufacturing the
+Same, and Memory Device". United States Patent Application 20150097254 Kind
+Code: A1, filed September 4, 2014, and issued April 9, 2015.
+
+Perry, Sara, and Colleen Morgan. “Materializing Media Archaeologies: The MAD-P
+Hard Drive Excavation.” *Journal of Contemporary Archaeology* 2, no. 1 (April
+24, 2015): 94–104.
+
+Poulsen, Valdemar. "Method of Recording and Reproducing Sounds or Signals."
+US661619 A, filed July 8, 1899, and issued November 13, 1900.
+
+Randell, Brian, Maurice V. Wilkes, and Paul E. Ceruzzi. “History of Digital
+Computers.” *In Encyclopedia of Computer Science*, 545–570. Chichester, UK:
+John Wiley and Sons Ltd., 2003.
+
+Ricoeur, Paul. *Interpretation Theory: Discourse and the Surplus of Meaning*.
+Fort Worth: Texas Christian University Press, 1976.
+
+Riskin, Jessica. “The Defecating Duck, Or, the Ambiguous Origins of Artificial
+Life.” *Critical Inquiry* 29, no. 4 (June 1, 2003): 599–633.
+
+Rogers, Rosemary. “The Demo.” MouseSite, 2005.
+http://web.archive.org/web/20150415203743/http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html.
+
+Schenck, Hubert G. “Applied Paleontology.” *AAPG Bulletin* 24, no. 10 (1940):
+1752–78.
+
+Simonetti, Cristián. “Between the Vertical and the Horizontal: Time and Space
+in Archaeology.” *History of the Human Sciences* 26, no. 1 (February 1, 2013):
+90–110.
+
+Smith, Oberllin. “Some Possible Forms of the Phonograph.” *The Electrical
+World*, September 8, 1888, 116–17.
+
+Staff. *Description of a Magnetic Drum Calculator*. Vol. XXV. Annals of the
+Computation Laboratory of Harvard University. Cambridge: Harvard University
+Press, 1952.
+
+Staff. *Description of a Relay Calculator*. Vol. XXIV. Annals of the
+Computation Laboratory of Harvard University. London: Oxford University Press,
+1949.
+
+Stefanita, Carmen-Gabriela. *Magnetism: Basics and Applications*. Springer
+Science & Business Media, 2012.
+
+Thiele, Heinz H. K. “Magnetic Sound Recording in Europe up to 1945.” *Journal
+of the Audio Engineering Society* 36, no. 5 (May 1, 1988): 396–408.
+
+Turing, A. M. “Computing Machinery and Intelligence.” *Mind* 59, no. 236
+(October 1, 1950): 433–60.
+
+U.S. Bureau of Labor Statistics. “Displacement of Morse Operators in
+Commercial Telegraph Offices.” *Monthly Labor Review* 34, no. 3 (March 1,
+1932): 501–15.
+
+Vasic, Bane, and Erozan M. Kurtas. *Coding and Signal Processing for Magnetic
+Recording Systems*. CRC Press, 2004.
+
+Weller, Charles Edward. *The Early History of the Typewriter*. La Porte,
+Indiana: Chase & Shepard, Printers, 1918.
+
+Wythoff, Grant. “Artifactual Interpretation.” *Journal of Contemporary
+Archaeology* 2, no. 1 (April 24, 2015): 23–29.
+
+Youngquist, Robert, and Robert Hanes. "Magnetic Reader". US3013206A.
+Stillwater, MN, filed August 28, 1958, and issued December 12, 1961.
+
 [^1]: Chun, "Enduring Ephemeral," 148.
 
 [^2]: See Levine, *Forms*, 6-11. Levine explains: "Affordance is a term used
@@ -1169,180 +1354,6 @@ is an important part of the reported experience.
 [^67]: A portions of this essay in their extended form appear in Chapter 4 of
 *Plain Text: The Poetics of Computation* (Stanford University Press, 2017).
 
-## Bibliography
+[^68]: See Kirschenbaum, 50 on the persistence of erased data.
 
-Adler, Alfred, and Harry Albertman. "Knitting Machine". US1927016A. New York,
-NY, filed August 1, 1922, and issued September 19, 1933.
-
-American Bar Association. “The $10,000 Typewriter.” *ABA Journal*, May 1966.
-
-Beauchamp, K. G. *History of Telegraphy*. London: The Institution of
-Engineering and Technology, 2001.
-
-Bishop, D.A., R.S. Heard, R.E. Hunt, J.E. Jones, and R.A. Rahenkamp.
-“Development of the IBM Magnetic Tape SELECTRIC Composer.” *IBM Journal of
-Research and Development* 12, no. 5 (September 1968): 380–98.
-
-Brackbill, Hervey. “Some Telegraphers’ Terms.” *American Speech* 4, no. 4
-(April 1, 1929): 287–90.
-
-Camras, Marvin. “Magnetic Recording Tapes.” *Transactions of the American
-Institute of Electrical Engineers* 67, no. 1 (January 1948): 503–6.
-
-Casper, Louis. "Remote Control Advertising and Electric Signaling System".
-US1953072A. Richmond Hill, NY, filed September 9, 1930, and issued April 3,
-1934.
-
-Chun, Wendy Hui Kyong. “The Enduring Ephemeral, or the Future Is a Memory.”
-*Critical Inquiry* 35, no. 1 (September 1, 2008): 148–71.
-
-Clancy, Douglas, George Hobgood, and Frederick May. "Data Reading, Recording,
-and Positioning System." US3530448A, filed January 15, 1968, and issued
-September 22, 1970.
-
-Daniel, Eric D., C. Denis Mee, and Mark H. Clark, eds. *Magnetic Recording:
-The First 100 Years*. New York: Wiley-IEEE Press, 1998.
-
-Dee, R.H. “Magnetic Tape for Data Storage: An Enduring Technology.”
-*Proceedings of the IEEE* 96, no. 11 (November 2008): 1775–85.
-
-Denning, Peter J. “Third Generation Computer Systems.” *ACM Computing Surveys*
-3, no. 4 (December 1971): 175–216.
-
-Eisenberg, Daniel. “History of Word Processing.” In *Encyclopedia of Library
-and Information Science*, 49:268–78. New York: Dekker, 1992.
-
-Engel, Friedrich K. “1888-1988 : A Hundred Years of Magnetic Sound Recording.”
-*Journal of the Audio Engineering Society* 36, no. 3 (March 1, 1988): 170–78.
-
-Engelbart, Douglas. “Doug Engelbart 1968 Demo,” December 9, 1968.
-http://web.stanford.edu/dept/SUL/library/extra4/sloan/mousesite/1968Demo.html.
-
-Engelbart, Douglas C., and William K. English. “A Research Center for
-Augmenting Human Intellect.” In *Proceedings of the December 9-11, 1968, Fall
-Joint Computer Conference*, Part I, 395–410. AFIPS ’68 (Fall, Part I). New
-York, NY, USA: ACM, 1968.
-
-Engelbart, Douglas, C. “Human Intellect Augmentation Techniques.” NASA
-Contractor Report, January 1969.
-
-Epstein, Herman, and Frank Innes. "Electrographic Printer". US3012839A.
-Detroit, MI, filed July 15, 1954, and issued December 12, 1961.
-
-Fankhauser, Charles. “The Telegraphone.” *Journal of the Franklin Institute*,
-no. 167 (January 1909): 37–70.
-
-Frutiger, A. “The IBM SELECTRIC Composer: The Evolution of Composition
-Technology.” *IBM Journal of Research and Development* 12, no. 1 (January 1968):
-9–14.
-
-Gadamer, Hans-Georg. Truth and Method. New York: Seabury Press, 1975.
-
-Geikie, Archibald. *The Founders of Geology*. New York: Macmillan, 1905.
-
-Goldberg, Hyman Eli. "Controller". US1165663 A, filed January 10, 1911, and
-issued December 28, 1915.
-
-Hockey, Susan. “The History of Humanities Computing.” In *Companion to Digital
-Humanities* (Blackwell Companions to Literature and Culture). Blackwell
-Companions to Literature and Culture. Oxford: Blackwell Publishing
-Professional, 2004.
-
-Hough, Clinton. "Wired Radio Program Apparatus". US1805665A. New York, NY,
-filed April 27, 1927, and issued May 19, 1931.
-
-Huhtamo, Erkki, and Pekka Parikka. *Media Archaeology: Approaches,
-Applications, and Implications*. Berkeley, CA: University of California Press,
-2011.
-
-Jennings, Tom. “An Annotated History of Some Character Codes or ASCII:
-American Standard Code for Information Infiltration,” October 29, 2004.
-https://web.archive.org/web/20120113050309/http://wps.com/projects/codes/index.html
-
-Koetsier, Teun. “On the Prehistory of Programmable Machines: Musical Automata,
-Looms, Calculators.” *Mechanism and Machine Theory* 36, no. 5 (May 2001):
-589–603.
-
-Lee, Richard and Roy Worrall. *Symposium on Electronic Composition in
-Printing*. Washington, DC: National Bureau of Standards, 1968.
-
-Levine, Caroline. *Forms: Whole, Rhythm, Hierarchy, Network*. Princeton, N.J.:
-Princeton University Press, 2015.
-
-May, F.T. “IBM Word Processing Developments.” *IBM Journal of Research and
-Development* 25, no. 5 (September 1981): 741–54.
-
-Morgan, J.S., and J.R. Norwood. “The IBM SELECTRIC Composer: Justification
-Mechanism.” *IBM Journal of Research and Development* 12, no. 1 (January
-1968): 68–75.
-
-Murray, Donald. “Setting Type by Telegraph.” *Journal of the Institution of
-Electrical Engineers* 34, no. 172 (May 1905): 555–97.
-
-Ohmori, Hiroyuki, Masanori Hosomi, Kazuhiro Bessho, Yutaka Higo, Kazutaka
-Yamane, and Hiroyuki Uchida. "Memory Element, Method of Manufacturing the
-Same, and Memory Device". United States Patent Application 20150097254 Kind
-Code: A1, filed September 4, 2014, and issued April 9, 2015.
-
-Perry, Sara, and Colleen Morgan. “Materializing Media Archaeologies: The MAD-P
-Hard Drive Excavation.” *Journal of Contemporary Archaeology* 2, no. 1 (April
-24, 2015): 94–104.
-
-Poulsen, Valdemar. "Method of Recording and Reproducing Sounds or Signals."
-US661619 A, filed July 8, 1899, and issued November 13, 1900.
-
-Randell, Brian, Maurice V. Wilkes, and Paul E. Ceruzzi. “History of Digital
-Computers.” *In Encyclopedia of Computer Science*, 545–570. Chichester, UK:
-John Wiley and Sons Ltd., 2003.
-
-Ricoeur, Paul. *Interpretation Theory: Discourse and the Surplus of Meaning*.
-Fort Worth: Texas Christian University Press, 1976.
-
-Riskin, Jessica. “The Defecating Duck, Or, the Ambiguous Origins of Artificial
-Life.” *Critical Inquiry* 29, no. 4 (June 1, 2003): 599–633.
-
-Rogers, Rosemary. “The Demo.” MouseSite, 2005.
-http://web.archive.org/web/20150415203743/http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html.
-
-Schenck, Hubert G. “Applied Paleontology.” *AAPG Bulletin* 24, no. 10 (1940):
-1752–78.
-
-Simonetti, Cristián. “Between the Vertical and the Horizontal: Time and Space
-in Archaeology.” *History of the Human Sciences* 26, no. 1 (February 1, 2013):
-90–110.
-
-Smith, Oberllin. “Some Possible Forms of the Phonograph.” *The Electrical
-World*, September 8, 1888, 116–17.
-
-Staff. *Description of a Magnetic Drum Calculator*. Vol. XXV. Annals of the
-Computation Laboratory of Harvard University. Cambridge: Harvard University
-Press, 1952.
-
-Staff. *Description of a Relay Calculator*. Vol. XXIV. Annals of the
-Computation Laboratory of Harvard University. London: Oxford University Press,
-1949.
-
-Stefanita, Carmen-Gabriela. *Magnetism: Basics and Applications*. Springer
-Science & Business Media, 2012.
-
-Thiele, Heinz H. K. “Magnetic Sound Recording in Europe up to 1945.” *Journal
-of the Audio Engineering Society* 36, no. 5 (May 1, 1988): 396–408.
-
-Turing, A. M. “Computing Machinery and Intelligence.” *Mind* 59, no. 236
-(October 1, 1950): 433–60.
-
-U.S. Bureau of Labor Statistics. “Displacement of Morse Operators in
-Commercial Telegraph Offices.” *Monthly Labor Review* 34, no. 3 (March 1,
-1932): 501–15.
-
-Vasic, Bane, and Erozan M. Kurtas. *Coding and Signal Processing for Magnetic
-Recording Systems*. CRC Press, 2004.
-
-Weller, Charles Edward. *The Early History of the Typewriter*. La Porte,
-Indiana: Chase & Shepard, Printers, 1918.
-
-Wythoff, Grant. “Artifactual Interpretation.” *Journal of Contemporary
-Archaeology* 2, no. 1 (April 24, 2015): 23–29.
-
-Youngquist, Robert, and Robert Hanes. "Magnetic Reader". US3013206A.
-Stillwater, MN, filed August 28, 1958, and issued December 12, 1961.
+[^69]: Kittler, 263.
