@@ -400,17 +400,17 @@ special training," in contrast to other text encodings. Goldberg, Hyman Eli.
 The inscription remained visible at the surface of Goldberg’s control sheet,
 as a perforated figure punched through the conduit. Whatever challenges punch
 cards and ticker tape presented for readers, these were soon complicated by
-the advent of  magnetic tape.
+the advent of magnetic tape.
 
 ## 2. Magnetic Reader
 
 The Goldberg Controller and its contemporary devices reveal a growing concern
-with the comprehensibility of machine alphabets. However, one could hardly
-call early programmable media ephemeral. Anecdotes circulate about Father
-Roberto Busa, an early pioneer of computational philology, who in the 1960s
-carted his punch cards around Italy in his truck.[^23] Codified inscription,
-before its electromagnetic period, was fragile and unwieldy. Just like writing
-with pen and paper, making an error on ticker tape entry required cumbersome
+with the comprehensibility of machine alphabets. One could hardly call early
+programmable media ephemeral. Anecdotes circulate about Father Roberto Busa,
+an early pioneer of computational philology, who in the 1960s carted his punch
+cards around Italy in his truck.[^23] Codified inscription, before its
+electromagnetic period, was fragile and unwieldy. Just like writing with pen
+and paper, making an error on ticker tape entry required cumbersome
 corrections and sometimes wholesale reentry of lines or pages. On the surface
 of ticker tape, the inscription still made a strong commitment to the medium.
 Once committed to paper, it was nearly immutable. Embossed onto ticker tape or
@@ -460,19 +460,10 @@ developers of electromagnetic storage and recording technology already
 imagined their work in dialog with the long history of letters (and not just
 sound). In an address to the Franklin Institute on December 16, 1908, Charles
 Fankhauser, the inventor of the electromagnetic telegraphone, spoke as
-follows:
-
-> To transport human speech over a distance of one thousand miles is a
-> wonderful achievement. How much more wonderful, then, is the achievement
-> that makes possible [...] its storage at the receiving end, so that the
-> exact sentence, the exact intonation of the voice, the exact timbre, may be
-> reproduced over and over again, an endless number of times.[^28]
-
-Comparing magnetic recording to the invention of the Gutenberg press,
-Fankhauser added:
+follows, comparing magnetic recording to the invention of the Gutenberg press:
 
 > It is my belief that what type has been to the spoken word, the
-telegraphone will be to the electrically transmitted word<4.>As printing
+telegraphone will be to the electrically transmitted word [...] As printing
 spread learning and civilization among the peoples of the earth and influenced
 knowledge and intercourse among men, so I believe the telegraphone will
 influence and spread electrical communication among men.[^29]
@@ -508,25 +499,21 @@ computation with the aid of engineers from Western Union Telegraph
 Company.[^34] It was equipped with a number of Teletype Model 12A tape readers
 and Model 10B perforators, using 11/16-inch-wide paper tape, partitioned into
 “five intelligence holes,” where each quantity entered for computation took up
-thirteen lines of code.[^35] Readers and punchers were capable of running 600
-operations per minute. Four Model 15 Page-Printers were needed to compare
-printed characters with the digits stored on the ticker tape print register.
-The numerical inscription in this setup was therefore already split between
-input and output channels, with input stored on ticker tape and output
+thirteen lines of code.[^35] Four Model 15 Page-Printers were needed to
+compare printed characters with the digits stored on the ticker tape print
+register. The numerical inscription in this setup was therefore already split
+between input and output channels, with input stored on ticker tape and output
 displayed in print.
 
 The Mark III Calculator, which followed the Computation Laboratory’s earlier
 efforts, was also commissioned by the Navy’s Bureau of Ordinance. It was
-completed in 1950. Its organization or “floor plan” (“system architecture,” we
-would say today) did away with punch cards and ticker tape, favoring instead
-an array of large electromagnetic drums coupled with reel-to-reel tape
-recorders. The drums, limited in their storage capacity, revolved at much
-faster speeds than tape reels. They were used for fast, temporary internal
-storage. A drum’s surface was coated with a “thin film composed of finely
-divided magnetic oxides of iron suspended in a plastic lacquer, and applied to
-the drums with an artist’s air brush.”[^36] A single Mark III calculator used
-twenty-five such drums, rotating at 6,900 rpm, each capable of storing 240
-binary digits.
+completed in 1950. Its “floor plan” (or “system architecture,” in modern
+terms) did away with punch cards and ticker tape, favoring instead an array of
+large electromagnetic drums coupled with reel-to-reel tape recorders. The
+drums, limited in their storage capacity, revolved at much faster speeds than
+tape reels. They were used for fast, temporary internal storage. A single Mark
+III calculator used twenty-five such drums, rotating at 6,900 rpm, each
+capable of storing 240 binary digits.
 
 In addition to the fast “internal storage” drums, the Mark III floor plan
 included eight slow “external storage” tape-reader mechanisms. Tape was slower
@@ -561,23 +548,6 @@ would reenter the mismatched digits. To “ensure completely reliable results,�
 one of the five attached Underwood electric teletypes could further be used to
 print all channels and confirm input visually.[^39]
 
-Before screes, the potential for incongruence between recondite data formats
-and their apparent representation posed a significant problem. In a 1954
-patent, filed on behalf of Burroughs Corporation, Herman Epstein and Frank
-Innes described an “electrographic printer” involving an “electrical method
-and apparatus for making electrostatic images on a dielectric surface by
-electrical means which may be rendered permanently visible.”[^40] The
-electrographic printer anticipated the modern photocopier in that it proposed
-to use dusting inks to reveal the static charge. Rather than encoding its data
-into another representation, such as the Baudot code, the printer traced
-human-legible letter shapes directly onto tape. A small printing head would
-convert binary input into a five-by-seven grid of electromagnetic charges
-rendering the English alphabet. Such magnetic shapes  were then made apparent
-by combining them with a “recording medium” that had the “correct physical
-properties to adhere to the electrostatic latent images.”[^41] A light dusting
-of powder ink would reveal the otherwise imperceptible magnetic inscription.
-Tape and paper configurations could thus achieve a measure of literal analogy.
-
 Advances in magnetic storage found their way into small businesses and home
 offices a decade later. In 1964 IBM combined magnetic tape (MT) storage with
 its Selectric line of electric typewriters (ST). Selectric typewriters were
@@ -606,16 +576,16 @@ forced to redouble the original inscription, in a process that was prone to
 error, because storage media could not be accessed directly without
 specialized instruments.[^45]
 
-Users of the Mark III Calculator were asked to input quantities several times
-over. Another class of solutions involved making the magnetic mark more
+Users of the Mark III Calculator were also asked to input quantities several
+times over. Another class of solutions involved making the magnetic mark more
 apparent. For example, Youngquist and Hanes described their 1962 magnetic
-reader as a
+reader as
 
-> device for visual observation of magnetic symbols recorded on a magnetic
-recording medium in tape or sheet form. Magnetic recording tape is often
-criticized because the recorded signals are invisible, and the criticism has
-been strong enough to deny it certain important markets. For example, this has
-been a major factor in hampering sales efforts at substituting magnetic
+> [...] a device for visual observation of magnetic symbols recorded on a
+magnetic recording medium in tape or sheet form. Magnetic recording tape is
+often criticized because the recorded signals are invisible, and the criticism
+has been strong enough to deny it certain important markets. For example, this
+has been a major factor in hampering sales efforts at substituting magnetic
 recording tape and card equipment for punched tape and card equipment which
 presently is dominant in automatic digital data-handling systems. Although
 magnetic recording devices are faster and more troublefree, potential
@@ -635,7 +605,7 @@ reveal the signal’s “visibl[e] outline.”[^47]
 !["Magnetic recording tape is often criticized because the recorded signals
 are invisible." Youngquist and Hanes imagined a device that physically reveals
 the magnetic inscription. Robert Yongquist and Robert Hanes, "Magnetic
-Reader," Patent US3013206, 1961.](figure-3.jpg)
+Reader," Patent US3013206, 1961.](figure-4.jpg)
 
 Devices like the Magnetic Reader attempted (and failed) to address the
 fundamental incongruence between paper and tape. Data plowed into rows on the
@@ -687,18 +657,6 @@ for a typed page.”[^51] Although it offered a measure of topographic analogy
 between tape and paper, the “mag card” was short-lived partly because of its
 limited storage capacity, capricious feeding mechanism, and its persistent
 inscrutability.[^52]
-
-The structure of textual artifacts--from a simple leaflet to a novel in
-multiple volumes--has remained remarkably stable since the invention of
-movable type. One rarely finds a sentence that spans several paragraphs, for
-example. Nor would a contemporary reader expect to find pages of different
-sizes in the same tome. Long-standing historical conventions guide the
-production of printed text. Likewise, semantic and decorative units on a page
-exist within a strict hierarchy. No book of serious nonfiction, for example,
-would be typeset in a cursive font. Unless something out of the ordinary
-attracts their attention, readers tend to gloss the inconsequential details of
-formatting in favor of content. The material contexts of a well-designed book
-fade from view during reading.
 
 For a few decades after the advent of magnetic storage media but before the
 arrival of screen technology, the sign’s outward shape disappeared altogether.
@@ -822,7 +780,7 @@ the nonsensical “fob” into “for” [Figure 4].[^59]
 ![Schematics for Engelbart's "Display System." The arrangement of keyboard,
 mouse, and screen will define an epoch of human-computer interaction. Source:
 Douglas Engelbart, "X-Y Position Indicator for a Display System," Patent
-US3541541, 1970.](figure-4.jpg)
+US3541541, 1970.](figure-5.jpg)
 
 Reflecting on the use of visual display systems for human-computer
 interaction, Engelbart wrote, “One of the potentially most promising means for
@@ -1009,17 +967,18 @@ on contact between pen nib and paper as the capillary action of cellulose
 conveys ink into its shallow conduit.
 
 Screens are meant to open a window onto the unfamiliar physicalities of
-electromagnetic inscription. For example, they obviate the need for multiple
-typings or printouts. Projected image should, in theory, correspond to its
-originating keystroke. The gap separating inputs and outputs appears to close.
-Crucially, the accord between archived inscription and its image cannot be
-guaranteed. The interval persists in practice and is actively contested. Deep
-and shallow inscriptions entwine. Laminate text seems weightless and ephemeral
-at some layers of the composite, allowing for rapid remediation. At other
-layers its affordances are determined by its physics; at still other layers
-they are carefully constructed to resist movement or interpretation. Alienated
-from the base particulates of the word, we lose some of our basic interpretive
-capacities to interrogate embedded power structures.[^67]
+electromagnetic inscription. They obviate the need for multiple typings or
+printouts. Projected image should, in theory, correspond to its originating
+keystroke. The gap separating inputs and outputs appears to close. Crucially,
+the accord between archived inscription and its image cannot be guaranteed.
+The interval persists in practice and is actively contested. Deep and shallow
+inscriptions entwine. Laminate text seems weightless and ephemeral at some
+layers of the composite, allowing for rapid remediation. At other layers its
+affordances are determined by its physics; at still other layers they are
+carefully constructed to resist movement or interpretation. Alienated from the
+base particulates of the word, we lose some of our basic interpretive
+capacities to interrogate embedded power structures.[^67] The history of
+digital text is one of its gradual disappearance and the rise of a simulation.
 
 ## Bibliography
 
@@ -1237,9 +1196,6 @@ Glass affords transparency and brittleness. Steel affords strength,
 smoothness, hardness and durability. Cotton affords fluffiness, but also
 breathable cloth when it is spun into yarn and thread" (6).
 
-[^3]: The situation is more complicated for pre-modern texts, where the
-materiality of print cannot be taken for granted.
-
 [^4]: See for example Gadamer, *Truth and Method*, 110: "In both legal and
 theological hermeneutic there is an essential tension between the fixed
 text---the law or the gospel---on the one hand and, on the other, the sense
@@ -1250,12 +1206,9 @@ Ricoeur, *Interpretation Theory*, 28.
 Archaeology*, 3: "Media Archaeology should not be confused with archaeology as
 a discipline. When media archaeologists claim they are 'excavating'
 media-cultural phenomena, the word should be understood in a specific way."
-The use of quotes signals the metaphoric nature of the borrowing. See also
-Grant Wythoff, "Artifactual Interpretation"  Wythoff writes: "[H]ow do we
-close the metaphorical divide between the 'excavations' performed in
-archaeology and media archaeology?" (27). On the use of stratigraphy related
-to hard drive forensics see Perry and Morgan, "Materializing Media
-Archaeologies: the MAD-P Hard Drive Excavation."
+See also Grant Wythoff, "Artifactual Interpretation." On the use of
+stratigraphy related to hard drive forensics see Perry and Morgan,
+"Materializing Media Archaeologies: the MAD-P Hard Drive Excavation."
 
 [^7]: See Schenck, "Applied Paleontology"; Simonetti, "Between the Vertical
 and the Horizontal: Time and Space in Archaeology"; and Geikie, "The Rise of
@@ -1347,17 +1300,11 @@ machine” (Staff, Description of a Relay Calculator, 33).
 
 [^35]: Staff, Description of a Relay Calculator, 30.
 
-[^36]: Staff, Description of a Magnetic Drum Calculator, 1.
-
 [^37]: Turing, "Computing Machinery and Intelligence," 444.
 
 [^38]: Staff, Description of a Magnetic Drum Calculator, 34-35.
 
 [^39]: Staff, Description of a Magnetic Drum Calculator, 35 & 143-88.
-
-[^40]: Epstein and Innes, “Electrographic Printer,” 1.
-
-[^41]: Epstein and Innes, “Electrographic Printer,” 2.
 
 [^42]: Eisenberg, “Word Processing.”
 
