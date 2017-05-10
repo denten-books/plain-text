@@ -787,11 +787,10 @@ and content of its discussion material.
 Writing, which this typist previously perceived as an ordered and continuous
 activity, subsequently was performed in a more disjointed way. The typist
 could delight in shaping paragraphs that more closely matched her mental
-activity. Screens thus restored some of the fluidity of writing that
-typewriters denied. Writers could, for example, pursue two thoughts at the
-same time, documenting both at different parts of the file as one would in a
-notebook. Not constrained by the rigidity of a linear mechanism, they moved
-around the document at will.
+activity. Screens restored some of the fluidity of writing that typewriters
+denied. Writers could pursue two thoughts at the same time, documenting both
+at different parts of the file as one would in a notebook. Not constrained by
+the rigidity of a linear mechanism, they moved around the document at will.
 
 Engelbart recorded what must count as some of the most evocative passages to
 appear in a NASA technical report. His “Results and Discussion” section
@@ -831,13 +830,14 @@ attains an almost lyrical quality:[^61]
     spirit.
 ```
 
-When input and output coincide in time, as they do on paper, mistakes are
-costly. Once inscribed, the sign gains permanence; it is difficult to emend.
-An eraser can help remove a layer of physical material. Alternatively, writers
-use white ink to restore the writing surface. Engelbart’s anonymous typist
-reports the feeling of freedom from such physical commitment. She can simply
-backspace and start over. Words come easily because there are no penalties for
-being wrong. Virtual space seems limitless and endlessly pliable.
+The lines remind us that when input and output coincide in time, as they do on
+paper, mistakes are costly. Once inscribed, the sign gains permanence; it is
+difficult to emend. An eraser can help remove a layer of physical material.
+Alternatively, writers use white ink to restore the writing surface.
+Engelbart’s anonymous typist reports the feeling of freedom from such physical
+commitment. She can simply backspace and start over. Words come easily because
+there are no penalties for being wrong. Virtual space seems limitless and
+endlessly pliable.
 
 The feeling of material transcendence--the ephemeral quality of digital
 text--is tied directly to the underlying physical affordances  of
@@ -873,7 +873,7 @@ Engelbart also hoped that his system could be “transferred--as a whole or by
 pieces of concept, principle and technique--to help others develop
 augmentation systems for many other disciplines and activities.”[^64]
 Undoubtedly, Engelbart’s ideas about intellect augmentation have had a broad
-effect on knowledge work across disciplines. However, his vision loses the
+impact on knowledge work across disciplines. However, his vision loses the
 property of self-determination when transferred outside the narrow confines of
 a laboratory actively engaged in the transformation of material contexts of
 their own knowledge production. Word processing today rarely involves
@@ -893,7 +893,7 @@ conclusion.[^65] The feeling of transcendence that the anonymous typist
 describes in using the system engages a sophisticated mechanism. The mechanism
 was not, however, the primary instrument of augmentation. Rather, it was the
 process of designing, making, and experimenting with tools that enhanced the
-intellect.. Engelbart wrote, “The development of the Bootstrap Community must
+intellect. Engelbart wrote, “The development of the Bootstrap Community must
 be coordinated with the capacity of our consoles, computer service, and file
 storage to support Community needs, and with our ability to integrate and
 coordinate people and activities.”[^66] In other words, the development of the
@@ -909,28 +909,29 @@ storage. Today’s computer users rarely form a self-determined bootstrapping
 community, however. The contemporary writer is bootstrapped passively to the
 prevailing vision of intellect augmentation. The very metaphor of
 bootstrapping suggests the impossibility of using one’s bootstraps to pull
-others out of the Platonic cave. Engelbart’s liberatory research program
-therefore left another less lofty imprint on the everyday practice of modern
+others out of the Platonic cave. Engelbart’s liberatory research program thus
+left another less lofty imprint on the everyday practice of modern
 intellectual life. Text, which before the advent of the CRT was readily
 apparent on the page in all its fullness, finally entered a complex system of
 executable code and inscrutable control instruction. The material lightness of
-textual being came at the price of legibility.
+textual being came at the price of legibility. Complexity has grown more than
+expected.
 
-Short-lived screenless word processors of the early 1960s (e.g., the MT/ST)
-were difficult to operate, because typists had no means to visualize complex
-data structures on tape. Screens helped by representing document topography
-visually, restoring a sense of apparent space to otherwise opaque media. The
-contemporary digital document may resemble a page on-screen, but beneath it,
-it is a jumble of bits, split into the various regions of internal memory.
-Screens simulate document unity by presenting holistic images of paragraphs,
-pages, and books. The simulation seems to follow the physics of paper and ink:
-One can turn pages, write in margins, and insert bookmarks. But the underlying
-inscription remains in fracture. Simulated text does not transcend matter.
-Screens merely conceal its material properties while recreating others, more
-seemingly transcendent ones. The act of continual dissemblage, one medium
-imitating the other, manufactures an ephemeral illusion by which pages fade in
-and out of sight, paper folds in improbable ways, and words glide effortlessly
-between registers of copy and paste.
+Short-lived screenless word processors of the early 1960s (as as the IBM
+MT/ST) were difficult to operate, because typists had no means to visualize
+complex data structures on tape. Screens helped by representing document
+topography visually, restoring a sense of apparent space to otherwise opaque
+media. The contemporary digital document may resemble a page on-screen, but
+beneath it, it is a jumble of bits, split into the various regions of internal
+memory. Screens simulate document unity by presenting holistic images of
+paragraphs, pages, and books.[^ The simulation seems to follow the physics of
+paper and ink: One can turn pages, write in margins, and insert bookmarks. But
+the underlying inscription remains in fracture. Simulated text does not
+transcend matter.  Screens merely conceal its material properties while
+recreating others, more seemingly transcendent ones. The act of continual
+dissemblage, one medium imitating the other, manufactures an ephemeral
+illusion by which pages fade in and out of sight, paper folds in improbable
+ways, and words glide effortlessly between registers of copy and paste.
 
 In the rift between  input and output, programmable media inject arbitrary
 intervals of time and space. Forces of capital and control occupy the void as
@@ -960,6 +961,9 @@ Adler, Alfred, and Harry Albertman. "Knitting Machine". US1927016A. New York,
 NY, filed August 1, 1922, and issued September 19, 1933.
 
 American Bar Association. “The $10,000 Typewriter.” *ABA Journal*, May 1966.
+
+Atkinson, Paul. “The Best Laid Plans of Mice and Men: The Computer Mouse in
+the History of Computing.” *Design Issues* 23, no. 3 (2007): 46–61.
 
 Bardini, Thierry. *Bootstrapping: Douglas Engelbart, Coevolution and the
 Origins of Personal Computing*. Stanford, CA: Stanford University Press, 2000.
@@ -1315,8 +1319,8 @@ Developments.”
 
 [^56]: Rogers, “The Demo”; Tweney, “Mother of All Demos.”
 
-[^57]: Engelbart, “Doug Engelbart 1968 Demo.” The is subject to numerous
-academic studies. See Bardini; Rowberry; Chun, 85.
+[^57]: Engelbart, “Doug Engelbart 1968 Demo.” The demo is subject to numerous
+academic studies. See Atkinson; Bardini; Rowberry; Chun, 85.
 
 [^58]: Engelbart, Human Intellect Augmentation Techniques, 1.
 
@@ -1362,3 +1366,5 @@ See Mccorduck, 51 and Heim, 192.
 
 [^73]: Kirschenbaum tells another aspect of the IBM story related to random
 access memory in *Mechanisms*, 76-86.
+
+[^74]: On simulation see Manovich
