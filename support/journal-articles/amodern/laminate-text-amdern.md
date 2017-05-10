@@ -123,16 +123,16 @@ opened the floodgates between critical theory and media history. However, his
 legacy is complicated by his often fatalistic pronouncements. "Under the
 conditions of high technology, literature has nothing more to say," he wrote
 in the conclusion of *Gramophone, Film, Typewriter*.[^69] Scholars such as
-Matthew Kirschenbaum, Lisa Gitelman, Lori Emerson, and others have commenced
-the patient task of recuperating writing's recent material pasts.[^70] I build
-on their achievements from a slightly different perspective, having been
-trained both as a formalist literary critic, in the traditions of Mikhail
-Bakhtin and Viktor Shklovsky, and a software engineer, in the traditions of
-Unix and DOS. I am also indebted to the field of Science and Technology
-Studies and particularly to the recent work of Mara Mills, Hans-Jörg
-Rheinberger, and Jessica Riskin, and Nicole Starosielski, who in one way or
-another have inspired me to take a distinctly historical-materialistic
-approach to the study epistemic artifacts.[^71]
+Johanna Drucker, Lori Emerson, Matthew Fuller, Lisa Gitelman, Matthew
+Kirschenbaum, and others have commenced the patient task of recuperating
+writing's recent material pasts.[^70] I build on their achievements from a
+slightly different perspective, having been trained both as a formalist
+literary critic, in the traditions of Mikhail Bakhtin and Viktor Shklovsky,
+and a software engineer, in the traditions of Unix and DOS. I am also indebted
+to the field of Science and Technology Studies and particularly to the recent
+work of Mara Mills, Hans-Jörg Rheinberger, Jessica Riskin, and Nicole
+Starosielski, who in one way or another have inspired me to take a distinctly
+historical-materialistic approach to the study epistemic artifacts.[^71]
 
 I borrow the term "stratigraphy" from the field of archaeology proper, as
 opposed to media archaeology where the term is used in its more evocative and
@@ -212,10 +212,17 @@ Goldberg’s device embodied an alphabet understood by both humans and machines.
 Youngquist and Hanes attempted to give human operators a glimpse into the
 hidden world of magnetic polarities and electric charges. Engelbart’s Display
 System belongs to what Peter Denning, a prominent computer scientist, has
-called the "third generation" of computer systems. This third, and still
-current stage, constitutes an assemblage of storage, input, and output
-technologies.[^8] Together, these devices tell a story of a fissure at the
-heart of our contemporary textual predicament.
+called the "third generation" of computer systems, comprising input, storage,
+and output components, which recreate a sense of physicality lost to magnetic
+storage.[^8] Together, these devices tell a story of a fissure at the heart of
+our contemporary textual predicament. The inscription appears to the eye in
+one place, is edited in another, and stored yet somewhere else. At each stage
+of its physical transfiguration---from thought to keystroke, letter, pixel,
+and electric charge---the sign attains new capabilities while losing some of
+the old ones. Historically-contingent, physical properties of the laminate
+give rise to its phenomenological, perceived qualities, at once persistent and
+ephemeral. The exact pathway of the figure matters here, because no
+theoretical reflection is possible without technical specificity.
 
 ## 1. Controller
 
@@ -932,6 +939,8 @@ coordinate people and activities.”[^66] In other words, the development of the
 community must form a feedback loop with software development. It involves
 training, practice, critical self-reflection, and thoughtful deliberation.
 
+***
+
 Modern word processors enable us to drag and drop passages with unprecedented
 facility. We live in Engelbart’s world to the extent that we use his lab’s
 complex systems daily and in a smaller configuration: screens, keyboards,
@@ -1052,6 +1061,9 @@ no. 167 (January 1909): 37–70.
 Frutiger, A. “The IBM SELECTRIC Composer: The Evolution of Composition
 Technology.” *IBM Journal of Research and Development* 12, no. 1 (January 1968):
 9–14.
+
+Fuller, Matthew. *Media Ecologies: Materialist Energies in Art and
+Technoculture*. Cambridge, MA: The MIT Press, 2007.
 
 Gadamer, Hans-Georg. Truth and Method. New York: Seabury Press, 1975.
 
@@ -1384,7 +1396,7 @@ is an important part of the reported experience.
 
 [^69]: Kittler, 263.
 
-[^70]: See Emerson, Gitelman, Hayles, Kirschenbaum.
+[^70]: See Drucker, Emerson, Fuller, Gitelman, Hayles, Kirschenbaum.
 
 [^71]: See Mills, Rheinberger, Riskin, Starosielski.
 
