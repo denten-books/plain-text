@@ -26,10 +26,10 @@ alienation ultimately threatens critical disempowerment. *Laminate textuality*
 is meant to name the condition by which inscriptions fracture to occupy
 multiple surfaces and topographies at the same time. By traversing these
 difficult terrains, I hope to ground our theoretical intuitions historically,
-not just as a matter of theoretical conjecture but as material grounds for
-intellectual labor. My primary contribution is therefore primarily historical,
-with the aim of anchoring the more theoretical portions of the essay within
-specific, emerging affordances of computer media. 
+not just as a matter of theoretical conjecture but as material grounds that
+support all intellectual labor. My primary contribution is therefore primarily
+historical, with the aim of anchoring the more theoretical portions of the
+essay within specific, emerging affordances of computer media.
 
 ## Literary Composites
 
@@ -118,19 +118,28 @@ hermeneutics.
 
 Several parallel literary and media archaeologies were formative to my
 approach to thinking through the history of laminate inscription. The specter
-of Friedrich Kittler haunts all work on literature and technology. His legacy
-is complicated by his often fatalistic pronouncements. "Under the conditions
-of high technology, literature has nothing more to say," he wrote in the
-conclusion of *Gramaphone, Film, Typewriter*. Scholars such as Matthew
-Kirschenbaum, Lisa Gitelman, and Lori Emmerson
+of Friedrich Kittler haunts most work on literature and technology. Kittler
+opened the floodgates between critical theory and media history. However, his
+legacy is complicated by his often fatalistic pronouncements. "Under the
+conditions of high technology, literature has nothing more to say," he wrote
+in the conclusion of *Gramophone, Film, Typewriter*.[^69] Scholars such as
+Matthew Kirschenbaum, Lisa Gitelman, Lori Emerson, and others have commenced
+the patient task of recuperating writing's recent material pasts.[^70] I build
+on their achievements from a slightly different perspective, having been
+trained both as a formalist literary critic, in the traditions of Mikhail
+Bakhtin and Viktor Shklovsky, and a software engineer, in the traditions of
+Unix and DOS. I am also indebted to the field of Science and Technology
+Studies and particularly to the recent work of Mara Mills, Hans-Jörg
+Rheinberger, and Jessica Riskin, and Nicole Starosielski, who in one way or
+another have inspired me to take a distinctly historical-materialistic
+approach to the study epistemic artifacts.[^71]
 
-the historical archaeology of the medium itself. I borrow the term
-"stratigraphy" from the field of archaeology proper, as opposed to media
-archaeology where the term is used in its more evocative and metaphoric
-sense.[^6] The art of analyzing sedimentary rock layers dates back at least to
-the geological observations of the seventeenth century Danish scientist
-Nicolas Steno, later extended by John Strachey in his *Observations on the
-Different Strata of Earths and Minerals* (1727), and to the geological
+I borrow the term "stratigraphy" from the field of archaeology proper, as
+opposed to media archaeology where the term is used in its more evocative and
+metaphoric sense.[^6] The art of analyzing sedimentary rock layers dates back
+at least to the geological observations of the seventeenth century Danish
+scientist Nicolas Steno, later extended by John Strachey in his *Observations
+on the Different Strata of Earths and Minerals* (1727), and to the geological
 cross-sections of William Smith and William Maclure, who drew beautifully
 detailed cross-sections of the British and American landscapes [Figure 1].
 
@@ -1017,6 +1026,9 @@ Denning, Peter J. “Third Generation Computer Systems.” *ACM Computing Survey
 Eisenberg, Daniel. “History of Word Processing.” In *Encyclopedia of Library
 and Information Science*, 49:268–78. New York: Dekker, 1992.
 
+Emerson, Lori. *Reading Writing Interfaces: From the Digital to the
+Bookbound*. Minneapolis: University Of Minnesota Press, 2014.
+
 Engel, Friedrich K. “1888-1988 : A Hundred Years of Magnetic Sound Recording.”
 *Journal of the Audio Engineering Society* 36, no. 3 (March 1, 1988): 170–78.
 
@@ -1045,8 +1057,13 @@ Gadamer, Hans-Georg. Truth and Method. New York: Seabury Press, 1975.
 
 Geikie, Archibald. *The Founders of Geology*. New York: Macmillan, 1905.
 
+Gitelman, Lisa. *Paper Knowledge: Toward a Media History of Documents*.
+Durham, NC: Duke University Press, 2014.
+
 Goldberg, Hyman Eli. "Controller". US1165663 A, filed January 10, 1911, and
 issued December 28, 1915.
+
+Hayles, N. Katherine. *Writing Machines*. Cambridge, MA: MIT Press, 2002.
 
 Hockey, Susan. “The History of Humanities Computing.” In *Companion to Digital
 Humanities* (Blackwell Companions to Literature and Culture). Blackwell
@@ -1084,6 +1101,9 @@ Princeton University Press, 2015.
 May, F.T. “IBM Word Processing Developments.” *IBM Journal of Research and
 Development* 25, no. 5 (September 1981): 741–54.
 
+Mills, Mara. “Deafening: Noise and the Engineering of Communication in the
+Telephone System.” *Grey Room* (April 1, 2011): 118–43.
+
 Morgan, J.S., and J.R. Norwood. “The IBM SELECTRIC Composer: Justification
 Mechanism.” *IBM Journal of Research and Development* 12, no. 1 (January
 1968): 68–75.
@@ -1106,6 +1126,9 @@ US661619 A, filed July 8, 1899, and issued November 13, 1900.
 Randell, Brian, Maurice V. Wilkes, and Paul E. Ceruzzi. “History of Digital
 Computers.” *In Encyclopedia of Computer Science*, 545–570. Chichester, UK:
 John Wiley and Sons Ltd., 2003.
+
+Rheinberger, Hans-Jörg. *Toward a History of Epistemic Things: Synthesizing
+Proteins in the Test Tube*. Stanford, CA: Stanford University Press, 1997.
 
 Ricoeur, Paul. *Interpretation Theory: Discourse and the Surplus of Meaning*.
 Fort Worth: Texas Christian University Press, 1976.
@@ -1133,6 +1156,9 @@ Press, 1952.
 Staff. *Description of a Relay Calculator*. Vol. XXIV. Annals of the
 Computation Laboratory of Harvard University. London: Oxford University Press,
 1949.
+
+Starosielski, Nicole. *The Undersea Network*. Durham: Duke University Press
+Books, 2015.
 
 Stefanita, Carmen-Gabriela. *Magnetism: Basics and Applications*. Springer
 Science & Business Media, 2012.
@@ -1357,3 +1383,8 @@ is an important part of the reported experience.
 [^68]: See Kirschenbaum, 50 on the persistence of erased data.
 
 [^69]: Kittler, 263.
+
+[^70]: See Emerson, Gitelman, Hayles, Kirschenbaum.
+
+[^71]: See Mills, Rheinberger, Riskin, Starosielski.
+
