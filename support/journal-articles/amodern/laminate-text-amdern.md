@@ -129,24 +129,21 @@ pronouncements. "Under the conditions of high technology, literature has
 nothing more to say," he wrote in the conclusion of *Gramophone, Film,
 Typewriter*.[^69] Scholars such as Lori Emerson, Lisa Gitelman, Matthew
 Kirschenbaum, and others have commenced the patient task of recuperating
-writing's recent material pasts.[^70] I build on their achievements from a
-slightly different perspective, having been trained both as a formalist
-literary critic, in the traditions of Mikhail Bakhtin and Viktor Shklovsky,
-and a software engineer, in the traditions of DOS and Unix.
-
-I depart also in my conclusions. A generation of textual and media scholars
-has issued an important corrective to an era of thinking about "electronic
-texts" as disembodied, virtual artifacts. Yet, the emphasis on materialism
-misses some of the real, qualitative properties of electromagnetic inscription
-which produce an ephemeral effect. When earlier writers such as Michael Heim
-refer to the "ephemeral quality" of the electronic text or when Pamela
-McCorduck describes it as "impermanent, flimsy, malleable, [and] contingent"
-they are identifying a felt facet of digital inscription.[^72] The paradox
-cannot therefore be reduced to categorical terms: true or false. Electricity
-is truly difficult to behold. Inscriptions on screen really do disappear with
-the loss of power. And, as the corrective has it, a trace also remains
-elsewhere. Our mistake is to treat digital text in analogy to print, on a
-singular, two-dimensional plane.
+writing's recent material pasts.[^70] I build on their achievements by
+bringing to light a number of new historical archive materials, which lead me
+to diverge in my conclusions. A generation of textual and media scholars has
+issued an important corrective to an era of thinking about "electronic texts"
+as disembodied, virtual artifacts. Yet, the emphasis on materialism misses
+some of the real, qualitative properties of electromagnetic inscription which
+produce an ephemeral effect. When earlier writers such as Michael Heim refer
+to the "ephemeral quality" of the electronic text or when Pamela McCorduck
+describes it as "impermanent, flimsy, malleable, [and] contingent" they are
+identifying a felt facet of digital inscription.[^72] The paradox cannot
+therefore be reduced to categorical terms: true or false. Electricity is truly
+difficult to behold. Inscriptions on screen really do disappear with the loss
+of power. And, as the corrective has it: elsewhere, a trace also remains. Our
+mistake is to treat digital text in analogy to print, on a singular,
+two-dimensional plane.
 
 The electric text extends in multiple dimensions simultaneously. Its facets
 afford different views and strategies of interpretation depending on the
@@ -499,18 +496,18 @@ In addition to the fast “internal storage” drums, the Mark III floor plan
 included eight slow “external storage” tape-reader mechanisms. Tape was slower
 than drums but also cheaper. It easily extended to multiple reels, thus
 approaching the architecture of an ideal Turing machine, which called for tape
-of “infinite length.”[^37] In practice, tape was in limited supply, long
-enough to answer the needs of military computation. Unlike stationary drums,
-tape was portable. Operators could prepare tape in advance, in a different
-room, at the allotted instructional tape preparation table. The information on
-tape would then be synced with and transferred to a slow drum. In the next
-stage, the slow drum accelerated to match the higher rotating speeds of the
-more rapid internal storage drums, and the information was transferred again
-for computation. The Mark III Calculator was further equipped with five
-printers “for presenting computed results in a form suitable for publication.”
-The printers were capable of determining the “number of digits to be printed,
-the intercolumnar and interlinear spacing, and other items related to the
-typography of the printed page.”[^38]
+of “infinite length.”[^37] In practice, tape was in limited supply, available
+in segments long enough to answer the needs of military computation. Unlike
+stationary drums, tape was portable. Operators could prepare tape in advance,
+in a different room, at the allotted instructional tape preparation table. The
+information on tape would then be synced with and transferred to a slow drum.
+In the next stage, the slow drum accelerated to match the higher rotating
+speeds of the more rapid internal storage drums, and the information was
+transferred again for computation. The Mark III Calculator was further
+equipped with five printers “for presenting computed results in a form
+suitable for publication.” The printers were capable of determining the
+“number of digits to be printed, the intercolumnar and interlinear spacing,
+and other items related to the typography of the printed page.”[^38]
 
 In reflecting on these early “supercomputers,” one imagines the pathway of a
 single character as it crosses surfaces, through doorways and interfaces,
@@ -536,48 +533,43 @@ used to reliably transform a keyboard’s mechanical action into binary electric
 signal. Consequently, they became a common input interface in a number of
 early computing platforms.[^42] The MT/ST machine could be considered one of
 the first personal “word processing” systems in that it combined
-electromagnetic tape storage with keyboard input. Built on a simpler
-architecture than its supercomputer cousins, the machine used a single tape
-reading and writing mechanism. An advertisement in the American Bar
-Association Journal, circa 1966, called it the $10,000 typewriter, “worth
-every penny.” Where typists previously had to stop and erase every mistake,
-the IBM MT/ST setup allowed them to “backspace, retype, and keep going.”
-Mistakes could be corrected in place, on magnetic tape, “where all typing is
-recorded and played back correctly at incredible speed.”[^43]
+electromagnetic tape storage with keyboard input. Where typists previously had
+to stop and erase every mistake, the IBM MT/ST setup allowed them to
+“backspace, retype, and keep going.” Mistakes could be corrected in place, on
+magnetic tape, “where all typing is recorded and played back correctly at
+incredible speed.”[^43]
 
 Despite its advantages, MT/ST architecture inherited the problem of legibility
 from its predecessors. Information stored on tape was still invisible to the
 typist. In addition to being encoded, electric alphabets were written in
-magnetic domains and polarities, which lay beyond human sense.[^44] One
-therefore had to verify input against stored quantities to ensure
-correspondence. But the stored quantity could be checked only by transforming
-it into yet another inscription. To verify what was stored the operator was
-forced to redouble the original inscription, in a process that was prone to
-error, because storage media could not be accessed directly without
-specialized instruments.[^45]
+magnetic domains and polarities, which lay beyond human sense.[^44] One had to
+verify input against stored quantities to ensure correspondence. But the
+stored quantity could be checked only by transforming it into yet another
+inscription. To verify what was stored the operator was forced to redouble the
+original inscription, in a process that was prone to error, because storage
+media could not be accessed directly without specialized instruments.[^45]
 
-Users of the Mark III Calculator were also asked to input quantities several
-times over. Another class of solutions involved making the magnetic mark more
-apparent. For example, Youngquist and Hanes described their 1962 magnetic
-reader as
+Another class of solutions to the legibility problem involved making the
+magnetic mark more apparent. A pair of American inventors described their 1962
+magnetic reader as "a device for visual observation of magnetic symbols
+recorded on a magnetic recording medium in tape or sheet form." They wrote:
 
-> [...] a device for visual observation of magnetic symbols recorded on a
-magnetic recording medium in tape or sheet form. Magnetic recording tape is
-often criticized because the recorded signals are invisible, and the criticism
-has been strong enough to deny it certain important markets. For example, this
-has been a major factor in hampering sales efforts at substituting magnetic
-recording tape and card equipment for punched tape and card equipment which
-presently is dominant in automatic digital data-handling systems. Although
-magnetic recording devices are faster and more troublefree, potential
-customers have often balked at losing the ability to check recorded
-information visually. It has been suggested that the information be printed in
-ink alongside the magnetic signals, but this vitiates major competitive
-advantages of magnetic recording sheet material, e.g., ease in correction,
-economy in reuse, simplicity of equipment, compactness of recorded data,
-etc.[^46]
+> Magnetic recording tape is often criticized because the recorded signals are
+invisible, and the criticism has been strong enough to deny it certain
+important markets. For example, this has been a major factor in hampering
+sales efforts at substituting magnetic recording tape and card equipment for
+punched tape and card equipment which presently is dominant in automatic
+digital data-handling systems. Although magnetic recording devices are faster
+and more troublefree, potential customers have often balked at losing the
+ability to check recorded information visually. It has been suggested that the
+information be printed in ink alongside the magnetic signals, but this
+vitiates major competitive advantages of magnetic recording sheet material,
+e.g., ease in correction, economy in reuse, simplicity of equipment,
+compactness of recorded data, etc.[^46]
 
-The magnetic reader consisted of two hinged plates [Figure 3]. Youngquist and
-Hanes proposed to fill its covers with a transparent liquid that would host
+The magnetic reader was supposed to address the loss of visual acuity. The
+magnetic reader consisted of two hinged plates [Figure 3]. The inventors
+proposed to fill its covers with a transparent liquid that would host
 “visible, weakly ferromagnetic crystals.” When sandwiched between the plates,
 a piece of magnetic tape incited the crystal medium, which would in turn
 reveal the signal’s “visibl[e] outline.”[^47]
@@ -590,10 +582,12 @@ Reader," Patent US3013206, 1961.](figure-4.jpg)
 Devices like the Magnetic Reader attempted (and failed) to address the
 fundamental incongruence between paper and tape. Data plowed into rows on the
 wide plains of a broad sheet had to be replanted along the length of a narrow
-plastic groove. To aid in that transformation, the next crop of IBM Magnetic
-Selectric typewriters added a composer control unit, designed to preserve some
-of the formatting lost in transition between paper and plastic. It could
-change margin size or justify text in memory. The original IBM Composer unit
+plastic groove.
+
+To aid in that transformation, the next crop of IBM Magnetic Selectric (MS)
+typewriters added a composer control unit, designed to preserve some of the
+formatting lost in transition between paper and plastic. It could change
+margin size or justify text in memory. The original IBM Composer unit
 justified text (its chief innovation over the typewriter) by asking the
 operator to type each line twice: “one rough typing to determine what a line
 would contain, and a second justified typing.”[^48] After the first typing, an
@@ -627,16 +621,16 @@ which  resembled paper in its proportions. The 1968 patent “Data Reading,
 Recording, and Positioning System” described a method for arranging
 information on a storage medium “which accurately positions each character
 recorded relative to each previous character recorded.”[^50] In 1969, IBM
-released a magnetic card-based version of its MT/ST line, dubbed the MC/ST.
-Fredrick May, whose name often appears on word-processing-related patents from
-this period, would later reflect that a “major reason for the choice of a
-magnetic card for the recording of medium was the simple relationship that
-could be maintained between a typed page and a recorded card.” The card
-approximated a miniature page, making it a suitable “unit of record of storage
-for a typed page.”[^51] Although it offered a measure of topographic analogy
-between tape and paper, the “mag card” was short-lived partly because of its
-limited storage capacity, capricious feeding mechanism, and its persistent
-inscrutability.[^52]
+released a magnetic card-based version of its MT/ST line, dubbed the MC/ST
+(magnetic card, Selectric type). Fredrick May, whose name often appears on
+word-processing-related patents from this period, would later reflect that a
+“major reason for the choice of a magnetic card for the recording of medium
+was the simple relationship that could be maintained between a typed page and
+a recorded card.” The card approximated a miniature page, making it a suitable
+“unit of record of storage for a typed page.”[^51] Although it offered a
+measure of topographic analogy between tape and paper, the “mag card” was
+short-lived partly because of its limited storage capacity, capricious feeding
+mechanism, and persistent inscrutability.[^52]
 
 For a few decades after the advent of magnetic storage media but before the
 arrival of screen technology, the sign’s outward shape disappeared altogether.
@@ -714,7 +708,7 @@ Computers subsequently changed in terms of size, speed, and ubiquity.
 However, they retain the same essential architecture, consisting of
 programmable media, electromagnetic storage, and screens.
 
-The addition of a screen finally promised to address the problem of
+The addition of a screen finally promised to redress the problem of
 electromagnetic legibility. In the first stage of its digital development,
 language became “programmable.” Coupled with electromagnetic storage in the
 second stage, programmable media was "freed," at least in appearance, from its
@@ -967,6 +961,10 @@ NY, filed August 1, 1922, and issued September 19, 1933.
 
 American Bar Association. “The $10,000 Typewriter.” *ABA Journal*, May 1966.
 
+Bardini, Thierry. *Bootstrapping: Douglas Engelbart, Coevolution and the
+Origins of Personal Computing*. Stanford, CA: Stanford University Press, 2000.
+
+
 Beauchamp, K. G. *History of Telegraphy*. London: The Institution of
 Engineering and Technology, 2001.
 
@@ -1121,6 +1119,10 @@ Life.” *Critical Inquiry* 29, no. 4 (June 1, 2003): 599–633.
 
 Rogers, Rosemary. “The Demo.” MouseSite, 2005.
 http://web.archive.org/web/20150415203743/http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html.
+
+Rowberry, Simon. “Vladimir Nabokov’s Pale Fire: The Lost ‘Father of All
+Hypertext Demos’?” In *Proceedings of the 22Nd ACM Conference on Hypertext and
+Hypermedia*, 319–324. HT ’11. New York, NY, USA: ACM, 2011.
 
 Schenck, Hubert G. “Applied Paleontology.” *AAPG Bulletin* 24, no. 10 (1940):
 1752–78.
@@ -1313,7 +1315,8 @@ Developments.”
 
 [^56]: Rogers, “The Demo”; Tweney, “Mother of All Demos.”
 
-[^57]: Engelbart, “Doug Engelbart 1968 Demo.”
+[^57]: Engelbart, “Doug Engelbart 1968 Demo.” The is subject to numerous
+academic studies. See Bardini; Rowberry; Chun, 85.
 
 [^58]: Engelbart, Human Intellect Augmentation Techniques, 1.
 
@@ -1329,7 +1332,7 @@ Typewriter, 21, 30).
 
 [^61]: Engelbart, Human Intellect Augmentation Techniques, 50-51. I have
 reproduced the text verbatim, preserving the line breaks, because formatting
-is an important part of the reported experience.
+is an integral part of the reported experience.
 
 [^62]: Engelbart and English, “Research Center,” 396.
 
@@ -1357,3 +1360,5 @@ a law that prohibits observant Jews from erasing God's name, deemed that words
 on a screen do not constitute writing, and therefore sanctioned their erasure.
 See Mccorduck, 51 and Heim, 192.
 
+[^73]: Kirschenbaum tells another aspect of the IBM story related to random
+access memory in *Mechanisms*, 76-86.
