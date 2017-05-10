@@ -1,5 +1,5 @@
 ---
-title: "Laminate Text: Historical Studies in the Monuments of Digital Inscription"
+title: "Laminate Text: Historical Studies in the Strata of Digital Inscription"
 documentclass: scrartcl
 ---
 
@@ -22,13 +22,13 @@ scale, beyond the reach of humans senses. Clandestine forces of capital and
 control subsequently contest such newly found microscopic expanses, thus
 limiting the scope of possible interpretive activity. Such alienation
 ultimately threatens critical disempowerment. *Laminate text* is meant to name
-the condition by which a singular inscription fractures to simultaneously
-occupy multiple surfaces and topographies. By traversing these difficult
-terrains, I hope to ground our theoretical intuitions historically, not just
-as a matter of theoretical conjecture but as material grounds that can support
-the everyday labor of reading and writing. My contribution is therefore
-primarily historical, with the aim of anchoring the more theoretical portions
-of the essay within specific, emerging affordances of computer media.
+the condition by which a singular inscription fractures to occupy multiple
+surfaces and topographies. By traversing these difficult terrains, I hope to
+ground our theoretical intuitions historically, not just as a matter of
+theoretical conjecture but as material grounds that can support the everyday
+labor of reading and writing. My contribution is therefore primarily
+historical, with the aim of anchoring the more theoretical portions of the
+essay within specific, emerging affordances of computer media.
 
 ## Literary Composites
 
@@ -100,7 +100,7 @@ edict, readers under the reach of algorithmic governance may not be
 immediately aware of control mechanisms structuring their everyday
 interpretive experience. The reader is left with a rough and deterministic
 remainder of an imposed identity: a man will be interested in cars and women,
-a Eastern European in jewelry and Adidas, an inmate or otherwise an enemy of
+a Eastern European in jewelry and Adidas, an inmate, or otherwise an enemy of
 the people, in a blank page and a home visit from your friendly librarian.
 
 The stratified nature of digital inscription poses obvious general challenges
@@ -108,7 +108,7 @@ in the social sphere, which this essay can address only obliquely. Our ability
 to mobilize against censorship or surveillance is in peril when such
 mechanisms operate at a microscopic scale, requiring specialized skills and
 tools for interpretation. A tactical response requires not just the awareness
-of one's history, but training and advocacy efforts. Laminate text presents
+of one's history, but training and advocacy efforts. Laminate texts present a
 specialized challenge to the practice of literary hermeneutics. How does
 critical interpretive practice persist in conditions where readers can no
 longer rely on the continuing stability of the medium? The theoretical problem
@@ -122,28 +122,52 @@ hermeneutics.[^4]
 ## Stratigraphy
 
 Several parallel literary and media archaeologies were formative to my
-approach to thinking through the history of laminate inscription. The specter
-of Friedrich Kittler haunts most work on literature and technology. Kittler
-opened the floodgates between critical theory and media history. However, his
-legacy is complicated by his often fatalistic pronouncements. "Under the
-conditions of high technology, literature has nothing more to say," he wrote
-in the conclusion of *Gramophone, Film, Typewriter*.[^69] Scholars such as
-Johanna Drucker, Lori Emerson, Matthew Fuller, Lisa Gitelman, Matthew
+approach to thinking through the history of laminate inscription.
+
+The specter of Friedrich Kittler haunts most work on literature and
+technology. Kittler opened the floodgates between critical theory and media
+history. However, his legacy is complicated by his often fatalistic
+pronouncements. "Under the conditions of high technology, literature has
+nothing more to say," he wrote in the conclusion of *Gramophone, Film,
+Typewriter*.[^69] Scholars such as Lori Emerson, Lisa Gitelman, Matthew
 Kirschenbaum, and others have commenced the patient task of recuperating
 writing's recent material pasts.[^70] I build on their achievements from a
 slightly different perspective, having been trained both as a formalist
 literary critic, in the traditions of Mikhail Bakhtin and Viktor Shklovsky,
-and a software engineer, in the traditions of Unix and DOS. I am also indebted
-to the field of Science and Technology Studies and particularly to the recent
-work of Mara Mills, Hans-Jörg Rheinberger, Jessica Riskin, and Nicole
-Starosielski, among others who in one way or another have inspired me to take
-a distinctly historical-materialistic approach to the study epistemic
-artifacts.[^71]
+and a software engineer, in the traditions of DOS and Unix.
 
-I borrow the term "stratigraphy" from the field of archaeology proper, as
-opposed to media archaeology where the term is used in its more evocative and
-metaphoric sense.[^6] The art of analyzing sedimentary rock layers dates back
-at least to the geological observations of the seventeenth century Danish
+I depart also in my conclusions. A generation of textual and media scholars
+has issued an important corrective to an era of thinking about "electronic
+texts" as disembodied, virtual artifacts. Yet, the emphasis on materialism
+misses some of the real, qualitative properties of electromagnetic inscription
+which produce an ephemeral effect. When earlier writers such as Michael Heim
+refer to the "ephemeral quality" of the electronic text or when Pamela
+McCorduck describes it as "impermanent, flimsy, malleable, [and] contingent"
+they are identifying a felt facet of digital inscription on screen, at the
+site of its projection.[^72] The paradox of digital text cannot therefore be
+reduced to categorical terms: true or false. Electricity is truly difficult to
+behold. Inscriptions on screen really do disappear with the loss of power.
+And, as the corrective has it, a trace also remains elsewhere. Our mistake is
+to treat digital text in analogy to print, on a singular two-dimensional
+plane.
+
+The electric text extends in multiple dimensions simultaneously. Its facets
+afford different views and strategies of interpretation depending on the
+reader's vantage. The physics of inscription determine some of its
+capabilities: where paper rapidly degrades under the heel of an eraser, a
+solid state drive can be erased millions of times before failure. Crucially,
+the medium is also affected by the physical limitations placed on the reader.
+A drive that is hermetically sealed or encrypted is hypothetically amenable to
+a forensic reading, but practically inaccessible. I turn to the field of
+Science and Technology Studies and particularly to the recent work of Mara
+Mills, Hans-Jörg Rheinberger, Jessica Riskin, and Nicole Starosielski, among
+others who in one way or another have inspired me to take a distinctly
+infrastructural approach to the historical study of epistemic artifacts.[^71]
+
+I further borrow the term "stratigraphy" from the field of archaeology proper,
+as opposed to media archaeology where the term is used in its more evocative
+and metaphoric sense.[^6] The art of analyzing sedimentary rock layers dates
+back at least to the geological observations of the seventeenth century Danish
 scientist Nicolas Steno, later extended by John Strachey in his *Observations
 on the Different Strata of Earths and Minerals* (1727), and to the geological
 cross-sections of William Smith and William Maclure, who drew beautifully
@@ -208,7 +232,7 @@ between visible trace and stored mark. An opaque black box of automated word
 processing (rules for transmediation) began to intercede between simultaneous
 acts of reading and writing.
 
-I have selected a number of textual monuments to guide this episodic history.
+I have selected a number of textual artifacts to guide this episodic history.
 Three mechanisms mark the journey: the Controller patented by Hyman Goldberg
 in 1911; the Magnetic Reader introduced by Robert Youngquist and Robert Hanes
 in 1958; and, for a lack of a better name, the Display System, introduced by
@@ -217,9 +241,9 @@ Douglas Engelbart in 1968.
 Goldberg’s device embodied an alphabet understood by both humans and machines.
 Youngquist and Hanes attempted to give human operators a glimpse into the
 hidden world of magnetic polarities and electric charges. Engelbart’s Display
-System belongs to what Peter Denning, a prominent computer scientist, has
-called the "third generation" of computer systems, comprising input, storage,
-and output components, which recreate a sense of physicality lost to magnetic
+System belongs to what one historian of science has called the "third
+generation" of computer systems, comprising input, storage, and output
+components, which recreate a sense of physicality lost to magnetic
 storage.[^8] Together, these devices tell a story of a fissure at the heart of
 our contemporary textual predicament. The inscription appears to the eye in
 one place, is edited in another, and stored yet somewhere else. At each stage
@@ -227,8 +251,7 @@ of its physical transfiguration---from thought to keystroke, letter, pixel,
 and electric charge---the sign attains new capabilities while losing some of
 the old ones. Historically-contingent, physical properties of the laminate
 give rise to its phenomenological, perceived qualities, at once persistent and
-ephemeral. The exact pathway of the figure matters here, because no
-theoretical reflection is possible without technical specificity.
+ephemeral.
 
 ## 1. Controller
 
@@ -513,8 +536,8 @@ of “infinite length.”[^37] In practice, tape was in limited supply, long
 enough to answer the needs of military computation. Unlike stationary drums,
 tape was portable. Operators could prepare tape in advance, in a different
 room, at the allotted instructional tape preparation table. The information on
-tape would then be synced with and transferred to a slow drum.  In the next
-stage the slow drum accelerated to match the higher rotating speeds of the
+tape would then be synced with and transferred to a slow drum. In the next
+stage, the slow drum accelerated to match the higher rotating speeds of the
 more rapid internal storage drums, and the information was transferred again
 for computation. The Mark III Calculator was further equipped with five
 printers “for presenting computed results in a form suitable for publication.”
@@ -528,7 +551,7 @@ gaining new shapes and temporalities with each transition.
 
 Electromagnetic signals were transcoded into binary numerical notation. To
 transfer characters onto tape, operators sat at the numerical tape preparation
-table, yet another  separate piece of furniture. Data were stored along two
+table, yet another separate piece of furniture. Data were stored along two
 channels, running along the tape’s length. Operators entered each number
 twice, first into channel A and then into channel B. This was done to prevent
 errors, because the operators worked blindly, unable to see whether the
@@ -1083,6 +1106,9 @@ issued December 28, 1915.
 
 Hayles, N. Katherine. *Writing Machines*. Cambridge, MA: MIT Press, 2002.
 
+Heim, Michael. "Electric Language: A Philosophical Study of Word Processing."
+New Haven: Yale University Press, 1987.
+
 Hockey, Susan. “The History of Humanities Computing.” In *Companion to Digital
 Humanities* (Blackwell Companions to Literature and Culture). Blackwell
 Companions to Literature and Culture. Oxford: Blackwell Publishing
@@ -1405,4 +1431,8 @@ is an important part of the reported experience.
 
 [^71]: See Mills, Rheinberger, Riskin, Starosielski.
 
+[^72] McCorduck tells the story of a rabbinate court, which, when interpreting
+a law that prohibits observant Jews from erasing God's name, deemed that words
+on a screen do not constitute writing, and therefore sanctioned their erasure.
+See Mccorduck, 51 and Heim, 192.
 
