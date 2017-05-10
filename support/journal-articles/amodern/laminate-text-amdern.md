@@ -1,5 +1,5 @@
 ---
-title: "Laminate Text: A Media History in Three Artifacts"
+title: "Laminate Text: Historical Studies in the Monuments of Digital Inscription"
 documentclass: scrartcl
 ---
 
@@ -15,21 +15,20 @@ There, it multiplies and obstinately spreads, like silicon dust, filling the
 available crevices with stored data, far from the immediate contexts of
 inscription.
 
-This inherent duplicity of electromagnetic inscription, as I argue here,
-results in conflicting critical accounts in the scholarly literature.
-Furthermore, it engenders a fundamental alienation from the material contexts
-of digital knowledge production. Reading digitally takes place, in part, at
-quantum scale, beyond the reach of humans senses. Clandestine forces of
-capital and control subsequently contest such newly found microscopic
-expanses, thus limiting the scope of possible interpretive activity. Such
-alienation ultimately threatens critical disempowerment. *Laminate textuality*
-is meant to name the condition by which inscriptions fracture to occupy
-multiple surfaces and topographies at the same time. By traversing these
-difficult terrains, I hope to ground our theoretical intuitions historically,
-not just as a matter of theoretical conjecture but as material grounds that
-support all intellectual labor. My primary contribution is therefore primarily
-historical, with the aim of anchoring the more theoretical portions of the
-essay within specific, emerging affordances of computer media.
+This inherent duplicity elicits conflicting critical accounts. Furthermore, it
+engenders a fundamental alienation from the material contexts of digital
+knowledge production. Reading digitally takes place, in part, at quantum
+scale, beyond the reach of humans senses. Clandestine forces of capital and
+control subsequently contest such newly found microscopic expanses, thus
+limiting the scope of possible interpretive activity. Such alienation
+ultimately threatens critical disempowerment. *Laminate text* is meant to name
+the condition by which a singular inscription fractures to simultaneously
+occupy multiple surfaces and topographies. By traversing these difficult
+terrains, I hope to ground our theoretical intuitions historically, not just
+as a matter of theoretical conjecture but as material grounds that can support
+the everyday labor of reading and writing. My contribution is therefore
+primarily historical, with the aim of anchoring the more theoretical portions
+of the essay within specific, emerging affordances of computer media.
 
 ## Literary Composites
 
@@ -82,37 +81,43 @@ The affordances of laminate text depend not only on the medium, but also on
 the contexts of its reception. The same "source text" may be transformed
 according to its geography or the identity of its reader. The composition of
 the sign changes as a text changes hands. A digital document may respond to a
-reader's location, gender, age, or ethnicity. Think of an online newspaper, to
-take a common example, where the very composition of headlines and stories is
-routinely tailored to the individual reader. Such dynamic inscriptions contain
-the rules of their own transformation. Content and control code intertwine to
-produce an amalgamated artifact, which adapts to its context. The often covert
-presence of control structures extend the reach of governance over the process
-of interpretation. Governments that censor speech by legislation prosecute
-those who express opinions contrary to the reigning ideology. More
-insidiously, mechanisms of censorship may be encoded into the fabric of the
-laminate itself, through technologies that outright prevent prohibited
-ideological formations from appearing on screen. Such technologies limit the
-transmission and the reception of illicit material more definitively. Unlike
-those censored by political means, readers under the reach of algorithmic
-censorship are not immediately aware of control mechanisms structuring their
-everyday interpretive experience.
+reader's location, gender, age, ethnicity, or immigration status. Think of an
+online newspaper, to take a common example, where the very composition of
+headlines and stories is routinely tailored to the individual reader. Such
+dynamic inscriptions contain the rules of their own transformation. Content
+and code intertwine to produce an amalgamated artifact, designed for remote
+content control. The electronic book implies a socialized environment, even
+when consumed in intimacy, in bed or on the toilet. Advertisers, censors,
+police, and intelligence agents are always potentially present, in part
+because the digital inscription is in perpetual transmission: moving past and
+through multiple infrastructures on the way to the iris. Governments that
+monitor reading habits by judicial means may decide to prosecute those who
+express opinions contrary to the reigning ideology. More insidiously,
+mechanisms of "soft" censorship may be encoded into the fabric of the laminate
+itself, through technologies that outright prevent prohibited ideological
+formations from appearing on screen. Unlike those censored by an explicit
+edict, readers under the reach of algorithmic governance may not be
+immediately aware of control mechanisms structuring their everyday
+interpretive experience. The reader is left with a rough and deterministic
+remainder of an imposed identity: a man will be interested in cars and women,
+a Eastern European in jewelry and Adidas, an inmate or otherwise an enemy of
+the people, in a blank page and a home visit from your friendly librarian.
 
 The stratified nature of digital inscription poses obvious general challenges
-in the political sphere, which this essay can address only obliquely. Our
-ability to mobilize against censorship or surveillance is in peril when such
+in the social sphere, which this essay can address only obliquely. Our ability
+to mobilize against censorship or surveillance is in peril when such
 mechanisms operate at a microscopic scale, requiring specialized skills and
-tools for interpretation. A tactical response requires not just history, but
-training and advocacy efforts. Laminate text presents a challenge to the
-practice of literary hermeneutics more specifically. How does critical
-interpretive practice persist in conditions where readers can no longer rely
-on the continuing stability of the medium?  The theoretical problem is not one
-of fixing a text as either an immanent object or a transcendent idea, enduring
-or ephemeral. We are confronted instead with texts that do not converge on a
-single location and whose multivalence is derived from their structural
-diffusion. Composite media force us to reconsider long-standing critical
-assumptions about the physics of inscription at the foundation of
-hermeneutics.
+tools for interpretation. A tactical response requires not just the awareness
+of one's history, but training and advocacy efforts. Laminate text presents
+specialized challenge to the practice of literary hermeneutics. How does
+critical interpretive practice persist in conditions where readers can no
+longer rely on the continuing stability of the medium? The theoretical problem
+is not one of fixing a text as either an immanent object or a transcendent
+idea, enduring or ephemeral. We are confronted instead with texts that do not
+converge on a single location and whose multivalence is derived from their
+structural diffusion. Composite media force us to reconsider long-standing
+critical assumptions about the physics of inscription at the foundation of
+hermeneutics.[^4]
 
 ## Stratigraphy
 
@@ -131,8 +136,9 @@ literary critic, in the traditions of Mikhail Bakhtin and Viktor Shklovsky,
 and a software engineer, in the traditions of Unix and DOS. I am also indebted
 to the field of Science and Technology Studies and particularly to the recent
 work of Mara Mills, Hans-Jörg Rheinberger, Jessica Riskin, and Nicole
-Starosielski, who in one way or another have inspired me to take a distinctly
-historical-materialistic approach to the study epistemic artifacts.[^71]
+Starosielski, among others who in one way or another have inspired me to take
+a distinctly historical-materialistic approach to the study epistemic
+artifacts.[^71]
 
 I borrow the term "stratigraphy" from the field of archaeology proper, as
 opposed to media archaeology where the term is used in its more evocative and
@@ -189,8 +195,8 @@ were developed to make inscription more apparent and to establish a
 correspondence between input, storage content, and output of entered text. The
 physical properties of electromagnetic inscription also allowed for rapid
 re-mediation. Tape was more forgiving than paper: it could be written and
-re-written at high speeds and volume. However, the opacity of the medium has
-also placed it, in practice, beyond human sense.
+re-written at high speeds and in volume. However, the opacity of the medium
+has also placed it, in practice, beyond human sense.
 
 Finally, the appearance of cathode-ray tube (CRT) displays in the late 1960s
 restored a measure of legibility lost to magnetic storage. The sign reemerged
@@ -200,13 +206,13 @@ another on-screen. The two related contingently, without necessary
 equivalence. The lay reader lost the direct means to ensure a correspondence
 between visible trace and stored mark. An opaque black box of automated word
 processing (rules for transmediation) began to intercede between simultaneous
-acts of writing and reading.
+acts of reading and writing.
 
-I have selected a number of textual machines to illustrate this condensed
-history. Three mechanisms mark the journey: the Controller patented by Hyman
-Goldberg in 1911; the Magnetic Reader introduced by Robert Youngquist and
-Robert Hanes in 1958; and, for a lack of a better name, the Display System,
-introduced by Douglas Engelbart in 1968.
+I have selected a number of textual monuments to guide this episodic history.
+Three mechanisms mark the journey: the Controller patented by Hyman Goldberg
+in 1911; the Magnetic Reader introduced by Robert Youngquist and Robert Hanes
+in 1958; and, for a lack of a better name, the Display System, introduced by
+Douglas Engelbart in 1968.
 
 Goldberg’s device embodied an alphabet understood by both humans and machines.
 Youngquist and Hanes attempted to give human operators a glimpse into the
@@ -1208,12 +1214,11 @@ breathable cloth when it is spun into yarn and thread" (6).
 [^3]: The situation is more complicated for pre-modern texts, where the
 materiality of print cannot be taken for granted.
 
-[^4]: See also Gadamer, *Truth and Method*, 110: "In both legal and
+[^4]: See for example Gadamer, *Truth and Method*, 110: "In both legal and
 theological hermeneutic there is an essential tension between the fixed
 text---the law or the gospel---on the one hand and, on the other, the sense
-arrived at by applying it at the concrete moment of interpretation."
-
-[^5]: Ricoeur, *Interpretation Theory*, 28.
+arrived at by applying it at the concrete moment of interpretation." See also
+Ricoeur, *Interpretation Theory*, 28.
 
 [^6]: See, for example, Huhtamo and Parikka's "Introduction" in *Media
 Archaeology*, 3: "Media Archaeology should not be confused with archaeology as
@@ -1399,4 +1404,5 @@ is an important part of the reported experience.
 [^70]: See Drucker, Emerson, Fuller, Gitelman, Hayles, Kirschenbaum.
 
 [^71]: See Mills, Rheinberger, Riskin, Starosielski.
+
 
