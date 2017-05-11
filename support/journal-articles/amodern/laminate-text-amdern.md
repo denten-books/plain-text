@@ -1,5 +1,5 @@
 ---
-title: "Laminate Text"
+title: "Laminate Text: Three Case Studies from the History of Digital Inscription"
 documentclass: scrartcl
 ---
 
@@ -1224,7 +1224,7 @@ Riskin, “The Defecating Duck, Or, the Ambiguous Origins of Artificial Life,”
 *Critical Inquiry* 29, no. 4 (June 1, 2003): 599–633; Nicole Starosielski,
 *The Undersea Network* (Durham, NC: Duke University Press Books, 2015).
 
-[^72] Pamela McCorduck tells the story of a rabbinate court, which, when
+[^72]: Pamela McCorduck tells the story of a rabbinate court, which, when
 interpreting a law that prohibits observant Jews from erasing God's name,
 deemed that words on a screen do not constitute writing, and therefore
 sanctioned their erasure. See Pamela McCorduck, *The Universal Machine:
