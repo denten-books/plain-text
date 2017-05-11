@@ -1,5 +1,5 @@
 ---
-title: "Laminate Text: Media History in the Strata of Digital Inscription"
+title: "Laminate Text"
 documentclass: scrartcl
 ---
 
@@ -952,159 +952,10 @@ layers of the composite, allowing for rapid remediation. At other layers its
 affordances are determined by its physics; at still other layers they are
 carefully constructed to resist movement or interpretation. Alienated from the
 base particulates of the word, we lose some of our basic interpretive
-capacities to interrogate embedded power structures.[^67] The history of
-digital text is one of its gradual disappearance and the rise of a simulation.
+capacities to interrogate embedded power structures. The history of digital
+text is one of its gradual disappearance and the rise of a simulation.[^67]
 
 ## Notes and Bibliography
-
-American Bar Association. “The $10,000 Typewriter.” *ABA Journal*, May 1966.
-
-Atkinson, Paul. “The Best Laid Plans of Mice and Men: The Computer Mouse in
-the History of Computing.” *Design Issues* 23, no. 3 (2007): 46–61.
-
-Bardini, Thierry. *Bootstrapping: Douglas Engelbart, Coevolution and the
-Origins of Personal Computing*. Stanford, CA: Stanford University Press, 2000.
-
-
-Beauchamp, K. G. *History of Telegraphy*. London: The Institution of
-Engineering and Technology, 2001.
-
-Bishop, D.A., R.S. Heard, R.E. Hunt, J.E. Jones, and R.A. Rahenkamp.
-“Development of the IBM Magnetic Tape SELECTRIC Composer.” *IBM Journal of
-Research and Development* 12, no. 5 (September 1968): 380–98.
-
-Camras, Marvin. “Magnetic Recording Tapes.” *Transactions of the American
-Institute of Electrical Engineers* 67, no. 1 (January 1948): 503–6.
-
-Clancy, Douglas, George Hobgood, and Frederick May. "Data Reading, Recording,
-and Positioning System." US3530448A, filed January 15, 1968, and issued
-September 22, 1970.
-
-Daniel, Eric D., C. Denis Mee, and Mark H. Clark, eds. *Magnetic Recording:
-The First 100 Years*. New York: Wiley-IEEE Press, 1998.
-
-Dee, R.H. “Magnetic Tape for Data Storage: An Enduring Technology.”
-*Proceedings of the IEEE* 96, no. 11 (November 2008): 1775–85.
-
-Eisenberg, Daniel. “History of Word Processing.” In *Encyclopedia of Library
-and Information Science*, 49:268–78. New York: Dekker, 1992.
-
-Emerson, Lori. *Reading Writing Interfaces: From the Digital to the
-Bookbound*. Minneapolis: University Of Minnesota Press, 2014.
-
-Engel, Friedrich K. “1888-1988 : A Hundred Years of Magnetic Sound Recording.”
-*Journal of the Audio Engineering Society* 36, no. 3 (March 1, 1988): 170–78.
-
-Engelbart, Douglas. “Doug Engelbart 1968 Demo,” December 9, 1968.
-http://web.stanford.edu/dept/SUL/library/extra4/sloan/mousesite/1968Demo.html.
-
-Engelbart, Douglas C., and William K. English. “A Research Center for
-Augmenting Human Intellect.” In *Proceedings of the December 9-11, 1968, Fall
-Joint Computer Conference*, Part I, 395–410. AFIPS ’68 (Fall, Part I). New
-York, NY, USA: ACM, 1968.
-
-Engelbart, Douglas, C. “Human Intellect Augmentation Techniques.” NASA
-Contractor Report, January 1969.
-
-Epstein, Herman, and Frank Innes. "Electrographic Printer". US3012839A.
-Detroit, MI, filed July 15, 1954, and issued December 12, 1961.
-
-Fankhauser, Charles. “The Telegraphone.” *Journal of the Franklin Institute*,
-no. 167 (January 1909): 37–70.
-
-Frutiger, A. “The IBM SELECTRIC Composer: The Evolution of Composition
-Technology.” *IBM Journal of Research and Development* 12, no. 1 (January 1968):
-9–14.
-
-Fuller, Matthew. *Media Ecologies: Materialist Energies in Art and
-Technoculture*. Cambridge, MA: The MIT Press, 2007.
-
-
-
-Gitelman, Lisa. *Paper Knowledge: Toward a Media History of Documents*.
-Durham, NC: Duke University Press, 2014.
-
-Hayles, N. Katherine. *Writing Machines*. Cambridge, MA: MIT Press, 2002.
-
-Heim, Michael. "Electric Language: A Philosophical Study of Word Processing."
-New Haven: Yale University Press, 1987.
-
-Kirschenbaum, Matthew G. *Mechanisms: New Media and the Forensic Imagination*.
-The MIT Press, 2008.
-
-Kittler, Friedrich A. *Gramophone, Film, Typewriter*. Translated by Geoffrey
-Winthrop-Young and Michael Wutz. Stanford, CA: Stanford University Press,
-1999.
-
-Laurel, Brenda. *Computers as Theatre*. Reading, MA: Addison-Wesley Publ. Co,
-1991.
-
-Lee, Richard and Roy Worrall. *Symposium on Electronic Composition in
-Printing*. Washington, DC: National Bureau of Standards, 1968.
-
-Manovich, Lev. *Software Takes Command*. New York; London: Bloomsbury
-Academic, 2013.
-
-May, F.T. “IBM Word Processing Developments.” *IBM Journal of Research and
-Development* 25, no. 5 (September 1981): 741–54.
-
-Mills, Mara. “Deafening: Noise and the Engineering of Communication in the
-Telephone System.” *Grey Room* (April 1, 2011): 118–43.
-
-Morgan, J.S., and J.R. Norwood. “The IBM SELECTRIC Composer: Justification
-Mechanism.” *IBM Journal of Research and Development* 12, no. 1 (January
-1968): 68–75.
-
-Ohmori, Hiroyuki, Masanori Hosomi, Kazuhiro Bessho, Yutaka Higo, Kazutaka
-Yamane, and Hiroyuki Uchida. "Memory Element, Method of Manufacturing the
-Same, and Memory Device". United States Patent Application 20150097254 Kind
-Code: A1, filed September 4, 2014, and issued April 9, 2015.
-
-
-Poulsen, Valdemar. "Method of Recording and Reproducing Sounds or Signals."
-US661619 A, filed July 8, 1899, and issued November 13, 1900.
-
-Rheinberger, Hans-Jörg. *Toward a History of Epistemic Things: Synthesizing
-Proteins in the Test Tube*. Stanford, CA: Stanford University Press, 1997.
-
-Rogers, Rosemary. “The Demo.” MouseSite, 2005.
-http://web.archive.org/web/20150415203743/http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html.
-
-Rowberry, Simon. “Vladimir Nabokov’s Pale Fire: The Lost ‘Father of All
-Hypertext Demos’?” In *Proceedings of the 22Nd ACM Conference on Hypertext and
-Hypermedia*, 319–324. HT ’11. New York, NY, USA: ACM, 2011.
-
-Smith, Oberllin. “Some Possible Forms of the Phonograph.” *The Electrical
-World*, September 8, 1888, 116–17.
-
-Staff. *Description of a Magnetic Drum Calculator*. Vol. XXV. Annals of the
-Computation Laboratory of Harvard University. Cambridge: Harvard University
-Press, 1952.
-
-Staff. *Description of a Relay Calculator*. Vol. XXIV. Annals of the
-Computation Laboratory of Harvard University. London: Oxford University Press,
-1949.
-
-Starosielski, Nicole. *The Undersea Network*. Durham: Duke University Press
-Books, 2015.
-
-Stefanita, Carmen-Gabriela. *Magnetism: Basics and Applications*. Springer
-Science & Business Media, 2012.
-
-Thiele, Heinz H. K. “Magnetic Sound Recording in Europe up to 1945.” *Journal
-of the Audio Engineering Society* 36, no. 5 (May 1, 1988): 396–408.
-
-Turing, A. M. “Computing Machinery and Intelligence.” *Mind* 59, no. 236
-(October 1, 1950): 433–60.
-
-Vasic, Bane, and Erozan M. Kurtas. *Coding and Signal Processing for Magnetic
-Recording Systems*. CRC Press, 2004.
-
-Weller, Charles Edward. *The Early History of the Typewriter*. La Porte,
-Indiana: Chase & Shepard, Printers, 1918.
-
-Youngquist, Robert, and Robert Hanes. "Magnetic Reader". US3013206A.
-Stillwater, MN, filed August 28, 1958, and issued December 12, 1961.
 
 [^1]: Wendy Hui Kyong Chun, “The Enduring Ephemeral, or the Future Is a
 Memory,” *Critical Inquiry* 35, no. 1 (2008): 148.
@@ -1157,16 +1008,14 @@ the same time. See Teun Koetsier, “On the Prehistory of Programmable Machines:
 Musical Automata, Looms, Calculators,” *Mechanism and Machine Theory* 36, no.
 5 (May 2001): 593–95; Brian Randell, Maurice Wilkes, and Paul Ceruzzi,
 “History of Digital Computers” in the *Encyclopedia of Computer Science*
-(Chichester, UK: Wiley and Sons, 2003), 45–570; and Jessica Riskin, “The
-Defecating Duck, Or, the Ambiguous Origins of Artificial Life,” *Critical
-Inquiry* 29, no. 4 (June 1, 2003): 599–633.
+(Chichester, UK: Wiley and Sons, 2003), 45–570.
 
 [^10]: Alfred Adler and Harry Albertman, "Knitting Machine," patent US1927016A
 filed August 1, 1922, and issued September 19, 1933; Louis Casper, "Remote
 Control Advertising and Electric Signaling System," patent US1953072A filed
 September 9, 1930, and issued April 3, 1934; Clinton Hough, "Wired Radio
-Program Apparatus," patent US1805665A filed April 27, 1927, and
-issued May 19, 1931.
+Program Apparatus," patent US1805665A filed April 27, 1927, and issued May 19,
+1931.
 
 [^12]: The Australian Donald Murray improved on the Baudot system to minimize
 the amount of holes needing to be punched, allotting fewer perforations to
@@ -1206,22 +1055,26 @@ to Digital Humanities* (Oxford: Blackwell Publishing Professional, 2004).
 [^24]: Richard Lee and Roy Worrall, Symposium on Electronic Composition in
 Printing (Washington, DC: National Bureau of Standards, 1968), 48.
 
-[^25]: Daniel et al., Magnetic Recording; 
+[^25]: See *Magnetic Recording: The First 100 Years* edited by Eric Daniel,
+Denis Mee, and Mark Clark (New York: Wiley-IEEE Press, 1998); Friedrich Engel,
+“1888-1988: A Hundred Years of Magnetic Sound Recording,” *Journal of the
+Audio Engineering Society* 36, no. 3 (March 1, 1988): 170–78; Valdemar
+Poulsen, "Method of Recording and Reproducing Sounds or Signals," patent
+US661619A, filed July 8, 1899, and issued November 13, 1900; Oberlin Smith,
+“Some Possible Forms of the Phonograph,” *The Electrical World* (September 8,
+1888): 116–17; Heinz Thiele, “Magnetic Sound Recording in Europe up to 1945,”
+*Journal of the Audio Engineering Society* 36, no. 5 (May 1, 1988): 396–408;
+Bane Vasic and Erozan Kurtas, *Coding and Signal Processing for Magnetic
+Recording Systems* (CRC Press, 2004).
 
-Engel, “1888-1988”; 
+[^26]: Marvin Camras, “Magnetic Recording Tapes,” *Transactions of the
+American Institute of Electrical Engineers* 67, no. 1 (January 1948): 505.
 
-Poulsen, “Method of Recording”; 
+[^27]: R.H. Dee, “Magnetic Tape for Data Storage: An Enduring Technology,”
+*Proceedings of the IEEE* 96, no. 11 (November 2008): 1775.
 
-Oberlin Smith, “Some Possible Forms”; Thiele,
-“Magnetic Sound Recording”; 
-
-Vasic and Kurtas, Coding and Signal Processing.
-
-[^26]: Camras, “Magnetic Recording Tapes,” 505.
-
-[^27]: Dee, “Magnetic Tape,” 1775.
-
-[^28]: Fankhauser, “Telegraphone,” 37-38.
+[^28]: Charles Fankhauser, “The Telegraphone,” *Journal of the Franklin
+Institute*, no. 167 (January 1909): 37–38.
 
 [^29]: Fankhauser, “Telegraphone,” 40.
 
@@ -1241,37 +1094,56 @@ tape preparation unit [...] and the tape produced by the punches associated
 with this unit, under manual control. Second, as suitable control tape may be
 coded directing the calculator to compute the values of f(x) and record them
 by means of one of the four output punches, mounted on the right wing of the
-machine” (Staff, Description of a Relay Calculator, 33).
+machine” in Staff, *Description of a Magnetic Drum Calculator Vol. XXV*,
+Annals of the Computation Laboratory of Harvard University (Cambridge: Harvard
+University Press, 1952).
 
-[^35]: Staff, Description of a Relay Calculator, 30.
+[^35]: Staff, *Description of a Relay Calculator*, 30.
 
-[^37]: Turing, "Computing Machinery and Intelligence," 444.
+[^37]: Alan Turing, “Computing Machinery and Intelligence,” *Mind* 59, no.
+236 (October 1, 1950): 444.
 
-[^38]: Staff, Description of a Magnetic Drum Calculator, 34-35.
+[^38]: Staff, *Description of a Relay Calculator Vol. XXIV*, Annals of the
+Computation Laboratory of Harvard University (London: Oxford University Press,
+1949): 34-35.
 
-[^39]: Staff, Description of a Magnetic Drum Calculator, 35 & 143-88.
+[^39]: Staff, *Description of a Magnetic Drum Calculator*, 35 & 143-88.
 
-[^42]: Eisenberg, “Word Processing.”
+[^42]: Daniel Eisenberg, “History of Word Processing” in *Encyclopedia of
+Library and Information Science* (New York: Dekker, 1992), 49:268–78.
 
-[^43]: ABA Journal,“The $10,000 typewriter.”
+[^43]: American Bar Association, “The $10,000 Typewriter,” *ABA Journal* (May
+1966).
 
-[^44]: See Ohmori et al., “Memory Element”; and Stefanita, Magnetism, 1-69.
+[^44]: Hiroyuki Ohmori, et al., "Memory Element, Method of Manufacturing the
+Same, and Memory Device, United States Patent Application 20150097254, filed
+September 4, 2014, and issued April 9, 2015; Carmen-Gabriela Stefanita,
+*Magnetism: Basics and Applications* (Springer Science & Business Media,
+2012): 1-69.
 
 [^45]: Recall Wittgenstein’s broken reading machines, which exhibited a
 similarly recursive problem of verification. To check whether someone
 understood a message, one has to resort to another message, and so on.
 
-[^46]: Youngquist and Hanes, “Magnetic Reader,” 1.
+[^46]: Robert Youngquist and Robert Hanes, "Magnetic Reader," patent
+US3013206A, filed August 28, 1958, and issued December 12, 1961: 1.
 
 [^47]: Youngquist and Hanes, “Magnetic Reader,” 1.
 
-[^48]: Morgan and Norwood, “IBM Selectric Composer,” 69.
+[^48]: J.S. Morgan and J.R. Norwood, “The IBM SELECTRIC Composer:
+Justification Mechanism,” *IBM Journal of Research and Development* 12, no. 1
+(January 1968): 69.
 
-[^49]: Bishop et al., “Development.”
+[^49]: D.A. Bishop, et al., “Development of the IBM Magnetic Tape SELECTRIC
+Composer.” *IBM Journal of Research and Development* 12, no. 5 (September
+1968): 380–98.
 
-[^50]: Clancy et al., “Data Reading,” 1.
+[^50]: Douglas Clancy, George Hobgood, and Frederick May, "Data Reading,
+Recording, and Positioning System," patent US3530448A, filed January 15, 1968,
+and issued September 22, 1970: 1.
 
-[^51]: May, “IBM Word Processing Developments,” 743.
+[^51]: F.T. May, “IBM Word Processing Developments,” *IBM Journal of Research
+and Development* 25, no. 5 (September 1981): 743.
 
 [^52]: May, “IBM Word Processing Developments,” 743.
 
@@ -1280,56 +1152,89 @@ understood a message, one has to resort to another message, and so on.
 [^54]: Bishop et al., “Development,” 382. See also May, “IBM Word Processing
 Developments.”
 
-[^55]: Frutiger, “IBM Selectric Composer,” 10.
+[^55]: A. Frutiger, “The IBM SELECTRIC Composer: The Evolution of Composition
+Technology,” *IBM Journal of Research and Development* 12, no. 1 (January
+1968): 10.
 
-[^56]: Rogers, “The Demo”; Tweney, “Mother of All Demos.”
+[^57]: See Douglas Engelbart, “Doug Engelbart 1968 Demo,” December 9, 1968
+maintained by Stanford University's *Mouse site*. The demo is subject to
+numerous academic studies. See Paul Atkinson, “The Best Laid Plans of Mice and
+Men: The Computer Mouse in the History of Computing.” *Design Issues* 23, no.
+3 (2007): 46–61; Thierry Bardini, *Bootstrapping: Douglas Engelbart,
+Coevolution and the Origins of Personal Computing* (Stanford, CA: Stanford
+University Press, 2000); Simon Rowberry, “Vladimir Nabokov’s Pale Fire: The
+Lost ‘Father of All Hypertext Demos’?” in *Proceedings of the 22Nd ACM
+Conference on Hypertext and Hypermedia* (2011): 319–324; Chun, "The Enduring
+Ephemeral," 85.
 
-[^57]: Engelbart, “Doug Engelbart 1968 Demo.” The demo is subject to numerous
-academic studies. See Atkinson; Bardini; Rowberry; Chun, 85.
-
-[^58]: Engelbart, Human Intellect Augmentation Techniques, 1.
+[^58]: Douglas Engelbart, “Human Intellect Augmentation Techniques,” *NASA
+Contractor Report* (January 1969):1.
 
 [^59]: The source of the cryptic phrase is likely Charles Edward Weller: “We
 were then in the midst of an exciting political campaign, and it was then for
 the first time that the well known sentence was inaugurated--‘Now is the time
 for all good men to come to the aid of the party’; also the opening sentence
 of the Declaration of Independence, [...] which sentences were repeated many
-times in order to test the speed of the machine” (Weller, Early History of the
-Typewriter, 21, 30).
+times in order to test the speed of the machine.” See Charles Edward Weller,
+*The Early History of the Typewriter* (La Porte, IN: Chase & Shepard, 1918):
+21, 30.
 
-[^60]: Weller, Early History of the Typewriter, 1.
+[^60]: Weller, *Early History of the Typewriter*, 1.
 
-[^61]: Engelbart, Human Intellect Augmentation Techniques, 50-51. I have
+[^61]: Engelbart, "Human Intellect Augmentation Techniques", 50-51. I have
 reproduced the text verbatim, preserving the line breaks, because formatting
 is an integral part of the reported experience.
 
-[^62]: Engelbart and English, “Research Center,” 396.
+[^62]: Douglas Engelbart and William English, “A Research Center for
+Augmenting Human Intellect” in *Proceedings of the December 9-11, 1968, Fall
+Joint Computer Conference* (1968): 396.
 
-[^63]: Engelbart, Human Intellect Augmentation Techniques, 6.
+[^63]: Engelbart, "Human Intellect Augmentation Techniques", 6.
 
-[^64]: Engelbart, Human Intellect Augmentation Techniques, 6.
+[^64]: Engelbart, "Human Intellect Augmentation Techniques", 6.
 
-[^65]: Engelbart, Human Intellect Augmentation Techniques, 67.
+[^65]: Engelbart, "Human Intellect Augmentation Techniques", 67.
 
-[^66]: Engelbart, Human Intellect Augmentation Techniques, 67.
+[^66]: Engelbart, "Human Intellect Augmentation Techniques", 67.
 
-[^67]: A portions of this essay in their extended form appear in Chapter 4 of
-*Plain Text: The Poetics of Computation* (Stanford University Press, 2017).
+[^67]: Portions of this essay appear in their extended form in Chapter 4 of
+*Plain Text: The Poetics of Computation* forthcoming from Stanford University
+Press in 2017.
 
-[^68]: See Kirschenbaum, 50 on the persistence of erased data.
+[^68]: On the persistence of erased data see Matthew Kirschenbaum,
+*Mechanisms: New Media and the Forensic Imagination* (The MIT Press, 2008),
+50.
 
-[^69]: Kittler, 263.
+[^69]: Friedrich Kittler, transl. Geoffrey Winthrop-Young and Michael Wutz,
+*Gramophone, Film, Typewriter*(Stanford, CA: Stanford University Press, 1999),
+263.
 
-[^70]: See Drucker, Emerson, Fuller, Gitelman, Hayles, Kirschenbaum.
+[^70]: See Lori Emerson, *Reading Writing Interfaces: From the Digital to the
+Bookbound*,  (Minneapolis: University Of Minnesota Press, 2014); Matthew
+Fuller, *Media Ecologies: Materialist Energies in Art and Technoculture*
+(Cambridge, MA: MIT Press), 2007; Lisa Gitelman, *Paper Knowledge: Toward a
+Media History of Documents* (Durham, NC: Duke University Press, 2014);
+Katherine Hayles, *Writing Machines* (Cambridge, MA: MIT Press, 2002).
 
-[^71]: See Mills, Rheinberger, Riskin, Starosielski.
+[^71]: See Mara Mills, “Deafening: Noise and the Engineering of Communication
+in the Telephone System,” *Grey Room* (April 1, 2011): 118–43; Hans-Jörg
+Rheinberger, *Toward a History of Epistemic Things: Synthesizing Proteins in
+the Test Tube* (Stanford, CA: Stanford University Press, 1997); Jessica
+Riskin, “The Defecating Duck, Or, the Ambiguous Origins of Artificial Life,”
+*Critical Inquiry* 29, no. 4 (June 1, 2003): 599–633; Nicole Starosielski,
+*The Undersea Network* (Durham, NC: Duke University Press Books, 2015).
 
-[^72] McCorduck tells the story of a rabbinate court, which, when interpreting
-a law that prohibits observant Jews from erasing God's name, deemed that words
-on a screen do not constitute writing, and therefore sanctioned their erasure.
-See Mccorduck, 51 and Heim, 192.
+[^72] Pamela McCorduck tells the story of a rabbinate court, which, when
+interpreting a law that prohibits observant Jews from erasing God's name,
+deemed that words on a screen do not constitute writing, and therefore
+sanctioned their erasure. See Pamela McCorduck, *The Universal Machine:
+Confessions of a Technological Optimist* (New York: McGraw-Hill, 1985);
+Michael Heim, "Electric Language: A Philosophical Study of Word Processing"
+(New Haven: Yale University Press, 1987), 192.
 
 [^73]: Kirschenbaum tells another aspect of the IBM story related to random
 access memory in *Mechanisms*, 76-86.
 
-[^74]: On simulation see the discussion in Manovich, 55-106 and Laurel.
+[^74]: On simulation see the discussion in Lev Manovich, *Software Takes
+Command* (New York; London: Bloomsbury Academic, 2013):55-106 and Laurel
+Brenda Laurel, *Computers as Theatre* (Reading, MA: Addison-Wesley, 1991).
