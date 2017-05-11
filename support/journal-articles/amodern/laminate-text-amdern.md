@@ -280,7 +280,7 @@ reproducibility.
 
 The fixed-length property of Bacon’s cipher, later implemented in the 5-bit
 Baudot code, signaled the beginning of the modern era of serial
-communications.[^11] The Baudot and Murray alphabets were designed with
+communications. The Baudot and Murray alphabets were designed with
 automation in mind.[^12] Both did away with the “end of character” signal that
 separated letters in Morse code. Signal units were to be divided into letters
 by count, with every five codes representing a single character. Temporal
@@ -703,6 +703,14 @@ inscriptions thicken and stratify into laminates.
 
 ## 3. Display System
 
+Screens added a much needed window onto an opaque memory abstraction.
+On-screen, the topography of electromagnetic storage could be represented
+visually, obviating the need for double entry or frequent printouts. Screens
+interjected to mediate between input and output. They flattened the stratified
+complexity of a laminate medium to facilitate use. Digital inscription
+remained invisible. The screen simulation could restore the appearance of a
+single surface. As it did so it also obscured the very dynamics of mediation.
+
 The contemporary textual condition took its present form in the late 1960s.
 Computers subsequently changed in terms of size, speed, and ubiquity.
 However, they retain the same essential architecture, consisting of
@@ -717,14 +725,6 @@ itinerant and malleable than print or punch. Ferric oxide became the preferred
 medium for digital storage. But this new memory layer lay also beyond the
 reach of human senses. It was "weighty" in another sense, difficult to access
 and manipulate mentally.
-
-Screens added a much needed window onto an opaque memory abstraction.
-On-screen, the topography of electromagnetic storage could be represented
-visually, obviating the need for double entry or frequent printouts. Screens
-interjected to mediate between input and output. They flattened the stratified
-complexity of a laminate medium to facilitate use. Digital inscription
-remained invisible. The screen simulation could restore the appearance of a
-single surface. As it did so it also obscured the very dynamics of mediation.
 
 On December 9, 1968, Douglas Engelbart, then the  primary investigator at the
 NASA- and ARPA-funded Augmentation Research Center at the Stanford Research
@@ -924,9 +924,9 @@ topography visually, restoring a sense of apparent space to otherwise opaque
 media. The contemporary digital document may resemble a page on-screen, but
 beneath it, it is a jumble of bits, split into the various regions of internal
 memory. Screens simulate document unity by presenting holistic images of
-paragraphs, pages, and books.[^ The simulation seems to follow the physics of
-paper and ink: One can turn pages, write in margins, and insert bookmarks. But
-the underlying inscription remains in fracture. Simulated text does not
+paragraphs, pages, and books.[^74] The simulation seems to follow the physics
+of paper and ink: One can turn pages, write in margins, and insert bookmarks.
+But the underlying inscription remains in fracture. Simulated text does not
 transcend matter.  Screens merely conceal its material properties while
 recreating others, more seemingly transcendent ones. The act of continual
 dissemblage, one medium imitating the other, manufactures an ephemeral
@@ -955,10 +955,7 @@ base particulates of the word, we lose some of our basic interpretive
 capacities to interrogate embedded power structures.[^67] The history of
 digital text is one of its gradual disappearance and the rise of a simulation.
 
-## Bibliography
-
-Adler, Alfred, and Harry Albertman. "Knitting Machine". US1927016A. New York,
-NY, filed August 1, 1922, and issued September 19, 1933.
+## Notes and Bibliography
 
 American Bar Association. “The $10,000 Typewriter.” *ABA Journal*, May 1966.
 
@@ -976,18 +973,8 @@ Bishop, D.A., R.S. Heard, R.E. Hunt, J.E. Jones, and R.A. Rahenkamp.
 “Development of the IBM Magnetic Tape SELECTRIC Composer.” *IBM Journal of
 Research and Development* 12, no. 5 (September 1968): 380–98.
 
-Brackbill, Hervey. “Some Telegraphers’ Terms.” *American Speech* 4, no. 4
-(April 1, 1929): 287–90.
-
 Camras, Marvin. “Magnetic Recording Tapes.” *Transactions of the American
 Institute of Electrical Engineers* 67, no. 1 (January 1948): 503–6.
-
-Casper, Louis. "Remote Control Advertising and Electric Signaling System".
-US1953072A. Richmond Hill, NY, filed September 9, 1930, and issued April 3,
-1934.
-
-Chun, Wendy Hui Kyong. “The Enduring Ephemeral, or the Future Is a Memory.”
-*Critical Inquiry* 35, no. 1 (September 1, 2008): 148–71.
 
 Clancy, Douglas, George Hobgood, and Frederick May. "Data Reading, Recording,
 and Positioning System." US3530448A, filed January 15, 1968, and issued
@@ -998,9 +985,6 @@ The First 100 Years*. New York: Wiley-IEEE Press, 1998.
 
 Dee, R.H. “Magnetic Tape for Data Storage: An Enduring Technology.”
 *Proceedings of the IEEE* 96, no. 11 (November 2008): 1775–85.
-
-Denning, Peter J. “Third Generation Computer Systems.” *ACM Computing Surveys*
-3, no. 4 (December 1971): 175–216.
 
 Eisenberg, Daniel. “History of Word Processing.” In *Encyclopedia of Library
 and Information Science*, 49:268–78. New York: Dekker, 1992.
@@ -1035,36 +1019,15 @@ Technology.” *IBM Journal of Research and Development* 12, no. 1 (January 1968
 Fuller, Matthew. *Media Ecologies: Materialist Energies in Art and
 Technoculture*. Cambridge, MA: The MIT Press, 2007.
 
-Gadamer, Hans-Georg. Truth and Method. New York: Seabury Press, 1975.
 
-Geikie, Archibald. *The Founders of Geology*. New York: Macmillan, 1905.
 
 Gitelman, Lisa. *Paper Knowledge: Toward a Media History of Documents*.
 Durham, NC: Duke University Press, 2014.
-
-Goldberg, Hyman Eli. "Controller". US1165663 A, filed January 10, 1911, and
-issued December 28, 1915.
 
 Hayles, N. Katherine. *Writing Machines*. Cambridge, MA: MIT Press, 2002.
 
 Heim, Michael. "Electric Language: A Philosophical Study of Word Processing."
 New Haven: Yale University Press, 1987.
-
-Hockey, Susan. “The History of Humanities Computing.” In *Companion to Digital
-Humanities* (Blackwell Companions to Literature and Culture). Blackwell
-Companions to Literature and Culture. Oxford: Blackwell Publishing
-Professional, 2004.
-
-Hough, Clinton. "Wired Radio Program Apparatus". US1805665A. New York, NY,
-filed April 27, 1927, and issued May 19, 1931.
-
-Huhtamo, Erkki, and Pekka Parikka. *Media Archaeology: Approaches,
-Applications, and Implications*. Berkeley, CA: University of California Press,
-2011.
-
-Jennings, Tom. “An Annotated History of Some Character Codes or ASCII:
-American Standard Code for Information Infiltration,” October 29, 2004.
-https://web.archive.org/web/20120113050309/http://wps.com/projects/codes/index.html
 
 Kirschenbaum, Matthew G. *Mechanisms: New Media and the Forensic Imagination*.
 The MIT Press, 2008.
@@ -1073,15 +1036,14 @@ Kittler, Friedrich A. *Gramophone, Film, Typewriter*. Translated by Geoffrey
 Winthrop-Young and Michael Wutz. Stanford, CA: Stanford University Press,
 1999.
 
-Koetsier, Teun. “On the Prehistory of Programmable Machines: Musical Automata,
-Looms, Calculators.” *Mechanism and Machine Theory* 36, no. 5 (May 2001):
-589–603.
+Laurel, Brenda. *Computers as Theatre*. Reading, MA: Addison-Wesley Publ. Co,
+1991.
 
 Lee, Richard and Roy Worrall. *Symposium on Electronic Composition in
 Printing*. Washington, DC: National Bureau of Standards, 1968.
 
-Levine, Caroline. *Forms: Whole, Rhythm, Hierarchy, Network*. Princeton, N.J.:
-Princeton University Press, 2015.
+Manovich, Lev. *Software Takes Command*. New York; London: Bloomsbury
+Academic, 2013.
 
 May, F.T. “IBM Word Processing Developments.” *IBM Journal of Research and
 Development* 25, no. 5 (September 1981): 741–54.
@@ -1093,33 +1055,17 @@ Morgan, J.S., and J.R. Norwood. “The IBM SELECTRIC Composer: Justification
 Mechanism.” *IBM Journal of Research and Development* 12, no. 1 (January
 1968): 68–75.
 
-Murray, Donald. “Setting Type by Telegraph.” *Journal of the Institution of
-Electrical Engineers* 34, no. 172 (May 1905): 555–97.
-
 Ohmori, Hiroyuki, Masanori Hosomi, Kazuhiro Bessho, Yutaka Higo, Kazutaka
 Yamane, and Hiroyuki Uchida. "Memory Element, Method of Manufacturing the
 Same, and Memory Device". United States Patent Application 20150097254 Kind
 Code: A1, filed September 4, 2014, and issued April 9, 2015.
 
-Perry, Sara, and Colleen Morgan. “Materializing Media Archaeologies: The MAD-P
-Hard Drive Excavation.” *Journal of Contemporary Archaeology* 2, no. 1 (April
-24, 2015): 94–104.
 
 Poulsen, Valdemar. "Method of Recording and Reproducing Sounds or Signals."
 US661619 A, filed July 8, 1899, and issued November 13, 1900.
 
-Randell, Brian, Maurice V. Wilkes, and Paul E. Ceruzzi. “History of Digital
-Computers.” *In Encyclopedia of Computer Science*, 545–570. Chichester, UK:
-John Wiley and Sons Ltd., 2003.
-
 Rheinberger, Hans-Jörg. *Toward a History of Epistemic Things: Synthesizing
 Proteins in the Test Tube*. Stanford, CA: Stanford University Press, 1997.
-
-Ricoeur, Paul. *Interpretation Theory: Discourse and the Surplus of Meaning*.
-Fort Worth: Texas Christian University Press, 1976.
-
-Riskin, Jessica. “The Defecating Duck, Or, the Ambiguous Origins of Artificial
-Life.” *Critical Inquiry* 29, no. 4 (June 1, 2003): 599–633.
 
 Rogers, Rosemary. “The Demo.” MouseSite, 2005.
 http://web.archive.org/web/20150415203743/http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html.
@@ -1127,13 +1073,6 @@ http://web.archive.org/web/20150415203743/http://web.stanford.edu/dept/SUL/libra
 Rowberry, Simon. “Vladimir Nabokov’s Pale Fire: The Lost ‘Father of All
 Hypertext Demos’?” In *Proceedings of the 22Nd ACM Conference on Hypertext and
 Hypermedia*, 319–324. HT ’11. New York, NY, USA: ACM, 2011.
-
-Schenck, Hubert G. “Applied Paleontology.” *AAPG Bulletin* 24, no. 10 (1940):
-1752–78.
-
-Simonetti, Cristián. “Between the Vertical and the Horizontal: Time and Space
-in Archaeology.” *History of the Human Sciences* 26, no. 1 (February 1, 2013):
-90–110.
 
 Smith, Oberllin. “Some Possible Forms of the Phonograph.” *The Electrical
 World*, September 8, 1888, 116–17.
@@ -1158,50 +1097,54 @@ of the Audio Engineering Society* 36, no. 5 (May 1, 1988): 396–408.
 Turing, A. M. “Computing Machinery and Intelligence.” *Mind* 59, no. 236
 (October 1, 1950): 433–60.
 
-U.S. Bureau of Labor Statistics. “Displacement of Morse Operators in
-Commercial Telegraph Offices.” *Monthly Labor Review* 34, no. 3 (March 1,
-1932): 501–15.
-
 Vasic, Bane, and Erozan M. Kurtas. *Coding and Signal Processing for Magnetic
 Recording Systems*. CRC Press, 2004.
 
 Weller, Charles Edward. *The Early History of the Typewriter*. La Porte,
 Indiana: Chase & Shepard, Printers, 1918.
 
-Wythoff, Grant. “Artifactual Interpretation.” *Journal of Contemporary
-Archaeology* 2, no. 1 (April 24, 2015): 23–29.
-
 Youngquist, Robert, and Robert Hanes. "Magnetic Reader". US3013206A.
 Stillwater, MN, filed August 28, 1958, and issued December 12, 1961.
 
-[^1]: Chun, "Enduring Ephemeral," 148.
+[^1]: Wendy Hui Kyong Chun, “The Enduring Ephemeral, or the Future Is a
+Memory,” *Critical Inquiry* 35, no. 1 (2008): 148.
 
-[^2]: See Levine, *Forms*, 6-11. Levine explains: "Affordance is a term used
-to describe the potential uses or actions latent in materials and designs.
-Glass affords transparency and brittleness. Steel affords strength,
-smoothness, hardness and durability. Cotton affords fluffiness, but also
-breathable cloth when it is spun into yarn and thread" (6).
+[^2]: See Caroline Levine, *Forms: Whole, Rhythm, Hierarchy, Network*
+(Princeton, NJ: Princeton University Press, 2015), 6-11. Levine explains:
+"Affordance is a term used to describe the potential uses or actions latent in
+materials and designs.  Glass affords transparency and brittleness. Steel
+affords strength, smoothness, hardness and durability. Cotton affords
+fluffiness, but also breathable cloth when it is spun into yarn and thread"
+(6).
 
-[^4]: See for example Gadamer, *Truth and Method*, 110: "In both legal and
-theological hermeneutic there is an essential tension between the fixed
-text---the law or the gospel---on the one hand and, on the other, the sense
-arrived at by applying it at the concrete moment of interpretation." See also
-Ricoeur, *Interpretation Theory*, 28.
+[^4]: See for example Hans-Georg Gadamer, *Truth and Method*(New York: Seabury
+Press, 1975), 110: "In both legal and theological hermeneutic there is an
+essential tension between the fixed text---the law or the gospel---on the one
+hand and, on the other, the sense arrived at by applying it at the concrete
+moment of interpretation." See also Paul Ricoeur, *Interpretation Theory:
+Discourse and the Surplus of Meaning* (Fort Worth: Texas Christian University
+Press, 1976), 28.
 
-[^6]: See, for example, Huhtamo and Parikka's "Introduction" in *Media
-Archaeology*, 3: "Media Archaeology should not be confused with archaeology as
-a discipline. When media archaeologists claim they are 'excavating'
-media-cultural phenomena, the word should be understood in a specific way."
-See also Grant Wythoff, "Artifactual Interpretation." On the use of
-stratigraphy related to hard drive forensics see Perry and Morgan,
-"Materializing Media Archaeologies: the MAD-P Hard Drive Excavation."
+[^6]: See, for example, Erkki Huhtamo and Pekka Parikka, *Media Archaeology:
+Approaches, Applications, and Implications* (Berkeley, CA: University of
+California Press, 2011),3: "Media Archaeology should not be confused with
+archaeology as a discipline. When media archaeologists claim they are
+'excavating' media-cultural phenomena, the word should be understood in a
+specific way." See also Grant Wythoff, “Artifactual Interpretation,” *Journal
+of Contemporary Archaeology* 2, no. 1 (April 24, 2015): 23–29. On the use of
+stratigraphy related to hard drive forensics see Sara Perry and Colleen
+Morgan, “Materializing Media Archaeologies: The MAD-P Hard Drive Excavation,”
+*Journal of Contemporary Archaeology* 2, no. 1 (April 24, 2015): 94–104.
 
-[^7]: See Schenck, "Applied Paleontology"; Simonetti, "Between the Vertical
-and the Horizontal: Time and Space in Archaeology"; and Geikie, "The Rise of
-Stratigraphical Geology in England" in *The Founders of Geology*, 337-364.
+[^7]: See Hubert Schenck, “Applied Paleontology,” *AAPG Bulletin* 24, no. 10
+(1940): 1752–78; Cristián Simonetti, “Between the Vertical and the Horizontal:
+Time and Space in Archaeology,” *History of the Human Sciences* 26, no. 1
+(February 1, 2013): 90–110; and Archibald Geikie, *The Founders of Geology*
+(*New York: Macmillan, 1905).
 
-[^8]: For periodization of computer systems see Denning, "Third Generation
-Computer Systems."
+[^8]: For periodization of computer systems see Peter Denning, “Third
+Generation Computer Systems,” *ACM Computing Surveys* 3, no. 4 (December
+1971): 175–216.
 
 [^9]: Programmable media have multiple origins, worthy of their own extended
 history. The French textile worker Basile Bouchon used "drill paper" to
@@ -1210,31 +1153,44 @@ attributed to the Banu Musa brothers, ninth-century automata inventors from
 Baghdad; to Jacques de Vaucanson, who delighted the public with his lifelike
 mechanisms in the mid-eighteenth century; or to Joseph Charles Marie Jacquard,
 who improved on and popularized Bouchon’s looms on an industrial scale around
-the same time. See Koetsier, "Prehistory of Programmable Machines," 593-95;
-Randell et al., "History of Digital Computers"; and Riskin, "Defecating Duck."
+the same time. See Teun Koetsier, “On the Prehistory of Programmable Machines:
+Musical Automata, Looms, Calculators,” *Mechanism and Machine Theory* 36, no.
+5 (May 2001): 593–95; Brian Randell, Maurice Wilkes, and Paul Ceruzzi,
+“History of Digital Computers” in the *Encyclopedia of Computer Science*
+(Chichester, UK: Wiley and Sons, 2003), 45–570; and Jessica Riskin, “The
+Defecating Duck, Or, the Ambiguous Origins of Artificial Life,” *Critical
+Inquiry* 29, no. 4 (June 1, 2003): 599–633.
 
-[^10]: Adler and Albertman, “Knitting Machine”; Casper, “Remote Control
-Advertising”; Hough, “Wired Radio Program Apparatus.”
-
-[^11]: Jennings, “Annotated History.”
+[^10]: Alfred Adler and Harry Albertman, "Knitting Machine," patent US1927016A
+filed August 1, 1922, and issued September 19, 1933; Louis Casper, "Remote
+Control Advertising and Electric Signaling System," patent US1953072A filed
+September 9, 1930, and issued April 3, 1934; Clinton Hough, "Wired Radio
+Program Apparatus," patent US1805665A filed April 27, 1927, and
+issued May 19, 1931.
 
 [^12]: The Australian Donald Murray improved on the Baudot system to minimize
 the amount of holes needing to be punched, allotting fewer perforations to
-common English letters. See Murray, “Setting Type,” 567.
+common English letters. See Donald Murray, “Setting Type by Telegraph,”
+*Journal of the Institution of Electrical Engineers* 34, no. 172 (May 1905):
+567.
 
 [^15]: Murray, "Setting Type," 557.
 
 [^16]: According to the U.S. Bureau of Labor Statistics, women made up 24
 percent of the Morse operators in 1915 (before the widespread advent of
 automated telegraphy). By 1931 women made up 64 percent of printer and Morse
-manual operators. U.S. Bureau of Labor Statistics, “Displacement of Morse
-Operators,” 514.
+manual operators. See U.S. Bureau of Labor Statistics, “Displacement of Morse
+Operators in Commercial Telegraph Offices,” *Monthly Labor Review* 34, no. 3
+(March 1, 1932): 514.
 
-[^17]: Brackbill, “Some Telegraphers’ Terms,” 290.
+[^17]: Hervey Brackbill, “Some Telegraphers’ Terms,” *American Speech* 4, no.
+4 (April 1, 1929): 290.
 
-[^18]: International Telegraph Union, "Telegraph Regulations," 12-13.
+[^18]: International Telegraph Union, *Telegraph Regulations and Final
+Protocol* (Madrid: International Telegraph Union, 1932), 12-13.
 
-[^19]: Goldberg, “Controller,” , sheet 3.
+[^19]: Hyman Eli Goldberg, "Controller," patent US1165663A filed January 10,
+1911, and issued December 28, 1915: sheet 3.
 
 [^20]: Goldberg, “Controller,” 1.
 
@@ -1242,15 +1198,24 @@ Operators,” 514.
 
 [^22]: Goldberg, “Controller,” 1.
 
-[^23]: For example, Susan Hockey says, “Father Busa has stories of truckloads
-of punched cards being transported from one center to another in Italy”
-(^Hockey, “History of Humanities Computing,” n.p.).
+[^23]: For example, Susan Hockey writes that “Father Busa has stories of
+truckloads of punched cards being transported from one center to another in
+Italy.” See Susan Hockey, “The History of Humanities Computing” in *Companion
+to Digital Humanities* (Oxford: Blackwell Publishing Professional, 2004).
 
-[^24]: Lee and Worral, *Electronic Composition*, 48.
+[^24]: Richard Lee and Roy Worrall, Symposium on Electronic Composition in
+Printing (Washington, DC: National Bureau of Standards, 1968), 48.
 
-[^25]: Daniel et al., Magnetic Recording; Engel, “1888-1988”; Poulsen, “Method
-of Recording”; Oberlin Smith, “Some Possible Forms”; Thiele, “Magnetic Sound
-Recording”; Vasic and Kurtas, Coding and Signal Processing.
+[^25]: Daniel et al., Magnetic Recording; 
+
+Engel, “1888-1988”; 
+
+Poulsen, “Method of Recording”; 
+
+Oberlin Smith, “Some Possible Forms”; Thiele,
+“Magnetic Sound Recording”; 
+
+Vasic and Kurtas, Coding and Signal Processing.
 
 [^26]: Camras, “Magnetic Recording Tapes,” 505.
 
@@ -1367,4 +1332,4 @@ See Mccorduck, 51 and Heim, 192.
 [^73]: Kirschenbaum tells another aspect of the IBM story related to random
 access memory in *Mechanisms*, 76-86.
 
-[^74]: On simulation see Manovich
+[^74]: On simulation see the discussion in Manovich, 55-106 and Laurel.
