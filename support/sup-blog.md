@@ -3,9 +3,9 @@
 How is a tractor like a writing desk?
 
 There are some metaphorical niceties in the comparison between reading and
-writing, reaping and sowing. Changes in technology that facilitates physical
-contact between laborers and their element, be it a blank page or a fallow
-field, should bring farmers and literary scholars into a more direct
+writing, and reaping and sowing. Changes in technology that facilitates
+physical contact between laborers and their element, be it a blank page or a
+fallow field, should bring farmers and literary scholars into a more direct
 conversation, concerning the nature of electronic goods.
 
 In the digital world, neither plow nor pen are subject purely to their
@@ -43,33 +43,71 @@ The solid state drive is sealed hermetically and therefore hermeneutically.
 What one sees at the surface of a screen is a part of a more complex, laminate
 figure which extends across surfaces: some near to the reader and other
 remote, inches and sometimes continents away from the site of interpretation.
-The electronic book in my palm has its origins on servers in Ohio, Northern
-Virginia, Mumbai, and São Paulo.[^3]
+The electronic book in my palm has its origins on servers guarded by armed men
+in Ohio, Northern Virginia, Mumbai, and São Paulo.[^3]
 
 "Literary analysis should awaken to the importance of media-specific analysis,
 a mode of critical attention which recognizes that all texts are instantiated
 and that the nature of the medium in which they are instantiated matters,"
 N. Katherine Hayles wrote in *Poetics Today* more than a decade ago.[^3] These
    words, along with other pioneering works by materially-minded textual
-scholars such as Johanna Drucker, Jerome McGann, and Matthew Kirschenbaum,
-have motivated my approach to writing *Plain Text: The Poetics of Computation*
-(Stanford UP, 2017). What are the media specifics of text instantiated on
-digital screens? In answering that question, I have relied on a number of
-archival sources that point to an intellectual legacy shared between the
-history of literary thought and the history of modern computing. In this way,
-I show that the very idea of a Turing machine, at the center of algorithmic,
-owes its origins to a series of thought experiments about the nature of
-interpretation in the work of Ludwig Wittgenstein. Elsewhere, I discuss the
-influence of metaphor theory in the thought of influential user interface.
+scholars such as Johanna Drucker, Matthew Kirschenbaum, and Jerome McGann have
+motivated my approach to writing *Plain Text: The Poetics of Computation*
+(Stanford UP, 2017).
 
-In one chapter, I show that the
-genealogy of Turing machines, the blueprint of all hypothetical computers, has
-its roots in the 
+What are the media specifics of text instantiated on digital screens? In
+answering that question, I have relied on a number of archival sources that
+point to an intellectual legacy shared between the history of literary thought
+and the history of modern computing. In this way, I show that the very idea of
+a Turing machine, crucial to the development of computer science, owes its
+origins to a series of thought experiments about the nature of interpretation
+in the work of Ludwig Wittgenstein. Elsewhere, I discuss the influence of
+metaphor theory in the practice of user interface design, as reflected in the
+thought of Brenda Laurel, Donald Norman, Edwin Hutchins and other proponents
+of the "direct manipulation" movement, which gave us the familiar "windows,"
+"folders," "scroll bars," and "trash cans" on screen. I show how the very
+mechanics of cathode ray tube and liquid crystal displays affect the
+apprehension of digital media, including text, which moves on screen, at the
+limits of critical flicker fusion in excess of 60 times per second, even as it
+appears to stand still.
 
-Our collective alienation from the immediate material contexts of inscription
-is less obvious but no less palpable than the plight of other tinkerers.
+What happens when farmers lose the right to handle earth or to fix their
+tools? What happens to writers who lose touch with the pen and page? Our
+collective alienation from the material contexts of knowledge production is a
+matter of grave concern, and one that should unite us into a community of
+tinkerers: co-authors, editors, shareholders. In *Plain Text* I wrote: 
 
-We should be united in our insistence on keeping power structures 
+> The politics of inscription are not simply a matter for academic discussion.
+In the time that it took me to finish this book, a coalition of US "data
+dissidents" won a temporary exemption from the Digital Millennium Copyright
+Act to allow them to modify their medical implants. It included Hugo Campos,
+who wanted to access data collected by his Implantable Cardioverter
+Defibrillator, and Ben West and Jay Radcliffe who fought for rights to modify
+their implanted insulin pumps. Marie Moe, of Norway, similarly struggled to
+rewrite her heart implant's software. "I want to know what code is running
+inside of my body," she said. "Medical devices are black boxes," she
+continued, "you can't look into them, there's no transparency, we don't know
+how they work."[@mcgowan_i_2016; @sellars_petition_2014]
+
+> In Pakistan, the American National Security agency-sponsored Skynet program
+has placed people on the US-sanctioned "disposition matrix" or "kill list"
+based on predictive analytics: social network analysis, cellular machine
+learning, patterns of travel and telephone use. Automated tools with names
+like SMARTTRACKER, SMARTCHART, and Cloud Travel Analytic select people for
+target strikes by unmanned areal vehicles [@mcneal_targeted_2014;
+@weber_keep_2016]. Our ability to interpret codes that kill on our behalf also
+stems from our capacity to access them, read, understand, modify, and publish
+criticism.
+
+> Readers everywhere are engaged in a *political* struggle to control and
+> deploy codified resources. The heart and the sky are sites on which the
+> tactics of inscription are increasingly contested. They require a capacity
+> to "meet the machine" and a poetics capable of new emendations.
+
+The right to access the internals of a device is intrinsically related to the
+right to interpret it. An engaged and literate public requires the ability
+to keep mechanisms of power in plain view, amendable to commentary and
+continual interpretation.
 
 [^1]: Samuelson, Pamela. “Freedom to Tinker.” Theoretical Inquiries in Law 17, no. 2 (2016): 562–600.
 
