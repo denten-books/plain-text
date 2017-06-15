@@ -39,12 +39,12 @@ a threat of critical disempowerment. The practice of literary hermeneutics,
 the interpretation of texts, in all of its varied traditions, cannot take
 place when access to inscription is physically curtailed. Think of it as an
 ultimate form of political censorship, not by decree, but by material design.
-The solid state drive is sealed hermetically and therefore hermeneutically.
-What one sees at the surface of a screen is a part of a more complex, laminate
-figure which extends across surfaces: some near to the reader and other
-remote, inches and sometimes continents away from the site of interpretation.
-The electronic book in my palm has its origins on servers guarded by armed men
-in Ohio, Northern Virginia, Mumbai, and São Paulo.[^3]
+Solid state drives are sealed hermetically and therefore hermeneutically.
+What one sees at the surface of a screen is part of a more complex, laminate
+figure which extends across surfaces: some near the reader and other remote,
+inches and sometimes continents away from the site of interpretation. The
+electronic book in my palm has its origins on servers guarded by armed men in
+Ohio, Northern Virginia, Mumbai, and São Paulo.[^3]
 
 "Literary analysis should awaken to the importance of media-specific analysis,
 a mode of critical attention which recognizes that all texts are instantiated
@@ -60,54 +60,52 @@ answering that question, I have relied on a number of archival sources that
 point to an intellectual legacy shared between the history of literary thought
 and the history of modern computing. In this way, I show that the very idea of
 a Turing machine, crucial to the development of computer science, owes its
-origins to a series of thought experiments about the nature of interpretation
-in the work of Ludwig Wittgenstein. Elsewhere, I discuss the influence of
-metaphor theory in the practice of user interface design, as reflected in the
-thought of Brenda Laurel, Donald Norman, Edwin Hutchins and other proponents
-of the "direct manipulation" movement, which gave us the familiar "windows,"
-"folders," "scroll bars," and "trash cans" on screen. I show how the very
-mechanics of cathode ray tube and liquid crystal displays affect the
-apprehension of digital media, including text, which moves on screen, at the
-limits of critical flicker fusion in excess of 60 times per second, even as it
-appears to stand still.
+origins to a series of thought experiments about the nature of textual
+interpretation in the work of Ludwig Wittgenstein. Elsewhere, I discuss the
+influence of metaphor theory in the practice of user interface design, as
+reflected in the thought of Brenda Laurel, Donald Norman, Edwin Hutchins and
+other proponents of the "direct manipulation" movement, which gave us the
+familiar "windows," "folders," "scroll bars," and "trash cans" on screen. I
+show how the very mechanics of cathode ray tube and liquid crystal displays
+affect the apprehension of digital media, including text, which moves on
+screen, at the limits of "critical flicker fusion" in excess of 60 times per
+second, even as it appears to stand still.
 
 What happens when farmers lose the right to handle earth or to fix their
-tools? What happens to writers who lose touch with the pen and page? Our
+tools? What happens to writers who lose touch with pen and page? Our
 collective alienation from the material contexts of knowledge production is a
-matter of grave concern, and one that should unite us into a community of
-tinkerers: co-authors, editors, shareholders. In *Plain Text* I wrote: 
+matter of grave concern and one that should unite us into a community of
+tinkerers: co-authors, editors, shareholders. In *Plain Text* I wrote:
 
 > The politics of inscription are not simply a matter for academic discussion.
 In the time that it took me to finish this book, a coalition of US "data
 dissidents" won a temporary exemption from the Digital Millennium Copyright
 Act to allow them to modify their medical implants. It included Hugo Campos,
 who wanted to access data collected by his Implantable Cardioverter
-Defibrillator, and Ben West and Jay Radcliffe who fought for rights to modify
-their implanted insulin pumps. Marie Moe, of Norway, similarly struggled to
-rewrite her heart implant's software. "I want to know what code is running
-inside of my body," she said. "Medical devices are black boxes," she
-continued, "you can't look into them, there's no transparency, we don't know
-how they work."[@mcgowan_i_2016; @sellars_petition_2014]
+Defibrillator, and Ben West and Jay Radcliffe who fought for the right to
+modify their implanted insulin pumps. Marie Moe, of Norway, similarly
+struggled to rewrite her heart implant's software. "I want to know what code
+is running inside of my body," she said. "Medical devices are black boxes,"
+she continued, "you can't look into them, there's no transparency, we don't
+know how they work."[^5]
 
 > In Pakistan, the American National Security agency-sponsored Skynet program
 has placed people on the US-sanctioned "disposition matrix" or "kill list"
 based on predictive analytics: social network analysis, cellular machine
 learning, patterns of travel and telephone use. Automated tools with names
 like SMARTTRACKER, SMARTCHART, and Cloud Travel Analytic select people for
-target strikes by unmanned areal vehicles [@mcneal_targeted_2014;
-@weber_keep_2016]. Our ability to interpret codes that kill on our behalf also
-stems from our capacity to access them, read, understand, modify, and publish
-criticism.
+target strikes by unmanned areal vehicles.[^6] Our ability to interpret codes
+that kill on our behalf also stems from our capacity to access them, read,
+understand, modify, and publish criticism.
 
-> Readers everywhere are engaged in a *political* struggle to control and
-> deploy codified resources. The heart and the sky are sites on which the
-> tactics of inscription are increasingly contested. They require a capacity
-> to "meet the machine" and a poetics capable of new emendations.
+The humanities are digital, whether we like it or not. Despite the 
 
-The right to access the internals of a device is intrinsically related to the
-right to interpret it. An engaged and literate public requires the ability
-to keep mechanisms of power in plain view, amendable to commentary and
-continual interpretation.
+Readers everywhere are engaged in a *political* struggle to control and deploy
+codified resources. The heart and the sky are sites on which the tactics of
+inscription are increasingly contested. The right to access the internals of a
+device is intrinsically related to the right to interpret it. An engaged and
+literate public requires the ability to keep mechanisms of power in plain
+view, amendable to commentary and continual interpretation.
 
 [^1]: Samuelson, Pamela. “Freedom to Tinker.” Theoretical Inquiries in Law 17, no. 2 (2016): 562–600.
 
@@ -121,6 +119,16 @@ Press Books, 2015 and Hu, Tung-Hui. A Prehistory of the Cloud. Cambridge,
 Massachusetts: The MIT Press, 2015 and Hu, Tung-Hui. *A Prehistory of the
 Cloud*. Cambridge, Massachusetts: The MIT Press, 2015.
 
+[^5]: See McGowan, Kat. “I Want to Know What Code Is Running Inside My Body.”
+Medium Backchannel, February 11, 2016.
+https://backchannel.com/i-want-to-know-what-code-is-running-inside-my-body-ff9a159da34b
+and Sellars, Andrew. “Petition of a Coalition of Medical Device Researchers
+for Exemption to Prohibition on Circumvention of Copyright Protection Systems
+for Access Control Technologies.” Cambridge  Mass., July 2014.
 
-
+[^6]: Neal, Gregory S. “Targeted Killing and Accountability.” SSRN Scholarly
+Paper. Rochester, NY: Social Science Research Network, March 5, 2014 and
+Weber, Jutta. “Keep Adding. On Kill Lists, Drone Warfare and the Politics of
+Databases.” Environment and Planning D: Society and Space 34, no. 1 (February
+1, 2016): 107–25.
 
