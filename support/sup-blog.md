@@ -3,16 +3,16 @@
 How is a tractor like a writing desk?
 
 There are some metaphorical niceties in the comparison between reading and
-writing, and reaping and sowing. Changes in technology that facilitates
+writing, and reaping and sowing. Changes in technology that facilitate
 physical contact between laborers and their element, be it a blank page or a
-fallow field, should bring farmers and literary scholars into a more direct
-conversation, concerning the nature of electronic goods.
+fallow field, bring farmers and literary scholars into a more direct,
+non-figurative conversation, concerning the nature of electronic goods.
 
 In the digital world, neither plow nor pen are subject purely to their
-mechanics. The modern tractor like the modern typewriter is also a computer,
-which means, literally, that these tools now contain an inward facing surface,
-marked by inscription. Solid state memory arrays are machined out of silicon,
-ceramic, palladium, platinum, silver and other precious metals. They are tiny
+mechanics. Modern tractors like modern typewriters are also computers, which
+means that these tools now contain an inward facing surface, marked by
+inscription. Solid state memory arrays are machined out of silicon, ceramic,
+palladium, platinum, silver and other precious metals. They are tiny
 storehouses for information---programming instructions---which ultimately
 govern the behaviour of the mechanism. The presence of such a surface and the
 capability to respond to its commands is what differentiates "smart" devices
@@ -51,9 +51,9 @@ a mode of critical attention which recognizes that all texts are instantiated
 and that the nature of the medium in which they are instantiated matters,"
 N. Katherine Hayles wrote in *Poetics Today* more than a decade ago.[^3] These
    words, along with other pioneering works by materially-minded textual
-scholars such as Johanna Drucker, Matthew Kirschenbaum, and Jerome McGann have
-motivated my approach to writing *Plain Text: The Poetics of Computation*
-(Stanford UP, 2017).
+scholars---Johanna Drucker, Matthew Kirschenbaum, and Jerome McGann among
+others---have motivated my approach to writing *Plain Text: The Poetics of
+Computation* (Stanford UP, 2017).
 
 What are the media specifics of text instantiated on digital screens? In
 answering that question, I have relied on a number of archival sources that
@@ -71,11 +71,16 @@ affect the apprehension of digital media, including text, which moves on
 screen, at the limits of "critical flicker fusion" in excess of 60 times per
 second, even as it appears to stand still.
 
-What happens when farmers lose the right to handle earth or to fix their
-tools? What happens to writers who lose touch with pen and page? Our
-collective alienation from the material contexts of knowledge production is a
-matter of grave concern and one that should unite us into a community of
-tinkerers: co-authors, editors, shareholders. In *Plain Text* I wrote:
+What happens when farmers lose the right to handle soil or to fix their tools?
+What happens to writers who lose touch with pen and page? Can the practice of
+literary interpretation persist in alienation from the material contexts of
+knowledge production? These are not theoretical questions, but matters of
+tactical expediency. The politics of inscription are a matter of grave concern
+to farmer laborers, software engineers, and textual scholars alike. They
+require a concerted effort to more closely align our ideals with technologies
+at hand.
+
+In *Plain Text* I wrote:
 
 > The politics of inscription are not simply a matter for academic discussion.
 In the time that it took me to finish this book, a coalition of US "data
@@ -98,9 +103,7 @@ target strikes by unmanned areal vehicles.[^6] Our ability to interpret codes
 that kill on our behalf also stems from our capacity to access them, read,
 understand, modify, and publish criticism.
 
-The humanities are digital, whether we like it or not. Despite the 
-
-Readers everywhere are engaged in a *political* struggle to control and deploy
+> Readers everywhere are engaged in a *political* struggle to control and deploy
 codified resources. The heart and the sky are sites on which the tactics of
 inscription are increasingly contested. The right to access the internals of a
 device is intrinsically related to the right to interpret it. An engaged and
