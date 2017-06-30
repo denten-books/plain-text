@@ -422,10 +422,10 @@ believe that literature and literary analysis continue to have a voice in
 contemporary life [@kittler_gramophone_1999, 263]. Technology does
 not---cannot be allowed to---determine literary silence. Rather, as the
 material grounds for all reflective textual activity recede from view, readers
-face the prospect of selective illiteracy.[^ln-digitalliteracy] The command of technologies like
-networking and encryption separates those able to read and write under
-conditions of high technology from those who no longer are: another
-dispossession.
+face the prospect of selective illiteracy.[^ln-digitalliteracy] The command of
+technologies like networking and encryption separates those able to read and
+write under conditions of high technology from those who no longer are:
+another dispossession.
 
 When we mistake things for animate actors, we ourselves become enmeshed in a
 system of digital production that commodifies human experience. Objects that
