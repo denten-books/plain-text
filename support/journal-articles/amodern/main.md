@@ -86,43 +86,40 @@ multiple regions, jurisdictions, and time zones, with segments passing
 through New York, North Virginia and Ohio; Mumbai, Seoul and Singapore.
 It is concurrently onscreen and off.
 
-Such texts do not always behave in a way one would naturally expect.
-They engenders spooky action at a distance: unsaved drafts, ghost
-typing, misfiled documents that forever disappear into the ether. They
-are somewhere, “in storage,” just not where I can find them. A simple
-act of erasure on screen, as when one backspaces over a word written in
-error, signifies a comparable action in print. The erasure is a
-metaphor, however. On disk, it conveys an entirely new set of
-connotations, not congruent with the action implied on screen.[^4] This
-incongruence between what you see and what you get can be benign.
-Readers and writers are often interested in handling surface
+Such texts do not always behave in a way one would naturally expect.  They
+effect spooky action at a distance: unsaved drafts, ghost typing, misfiled
+documents that forever disappear into the ether. They are somewhere, “in
+storage,” just not where I can find them. A simple act of erasure on screen,
+as when one backspaces over a word written in error, signifies a comparable
+action in print. The erasure is a metaphor, however. On disk, it conveys an
+entirely new set of connotations, not congruent with the action implied on
+screen.[^4] This incongruence between what you see and what you get can be
+benign.  Readers and writers are often interested in handling surface
 representation alone, on the level of words and ideas. In this way, I
-sometimes tell my students: “I don’t care what edition of the assigned
-novel you purchase. Read any of them and we will figure out the page
-numbers later.” In other contexts, our inability to perceive the
-mechanics of inscription at depth severely undermines critical acuity.
-Imagine for example a scholar or a journalist who needs to redact
-unpublished materials in order to protect her sources. Surface,
-metaphoric erasure is insufficient for these purposes. Words erased on
-screen persevere through deeper structures on disk and among remote
+sometimes tell my students: “I don’t care what edition of the assigned novel
+you purchase. Read any of them and we will figure out the page numbers later.”
+In other contexts, our inability to perceive the mechanics of inscription at
+depth severely undermines critical acuity.  Imagine for example a scholar or a
+journalist who needs to redact unpublished materials in order to protect her
+sources. Surface, metaphoric erasure is insufficient for these purposes. Words
+erased on screen persevere through deeper structures on disk and among remote
 servers, making them susceptible to malicious breach or state-sponsored
-surveillance. To guarantee anonymity we want to destroy all copies of
-the text, literally not just metaphorically. But how and where?
+surveillance. To guarantee anonymity, we want to destroy all copies of the
+text, literally not just metaphorically. But how and where?
 
-The affordances of laminate text depend not only on the medium, but also
-on the contexts of its reception. The same "source text" may be
-transformed according to its geography or the identity of its reader. A
-texts change hands they change themselves. A digital document may
-respond to a reader's location, gender, age, ethnicity, or immigration
-status. Think of an online newspaper, where the very composition of
-headlines and stories is routinely tailored to individual readers. Such
-dynamic inscriptions contain rules of their own transformation. Content
-and code intertwine to produce an amalgamated artifact, designed for
-remote content control. An electronic “online” book implies a socialized
-environment, even when consumed in intimacy. Friends, advertisers,
-censors, and intelligence agents are always potentially present, in part
-because digital text is always in perpetual motion: moving past and
-through multiple infrastructures on the way to the iris.
+The affordances of laminate text depend not only on the medium, but also on
+the contexts of its reception. The same "source text" may be transformed
+according to its geography or the identity of its reader. As texts change
+hands they change themselves. A digital document may respond to a reader's
+location, gender, age, ethnicity, or immigration status. Think of an online
+newspaper, where the very composition of headlines and stories is routinely
+tailored to individual readers. Such dynamic inscriptions contain rules of
+their own transformation. Content and code intertwine to produce an
+amalgamated artifact, designed for remote content control. An electronic
+“online” book implies a socialized environment, even when consumed in
+intimacy. Friends, advertisers, censors, and intelligence agents are
+potentially present, in part because digital text is in perpetual motion:
+moving past and through multiple infrastructures on the way to the iris.
 
 The chain of transmission is difficult to reconstitute. Governments that
 monitor reading habits by judicial means prosecute those who express
@@ -173,29 +170,29 @@ corrective of scholarship that intitially emphasized the metaphysics of
 new media.
 
 Yet, the materialist perspective should not be overstated. Writers of a
-previous generation, such as Michael Heim and Pamela McCorduck, captured
-an important phenomenological insight when they referred to the
-"ephemeral quality" of electronic text, calling it "impermanent, flimsy,
-malleable, \[and\] contingent."[^8] Electricity is truly a mercurial
-medium. Inscriptions on screen really do flicker and disappear at the
-loss of power. Our mistake is to treat digital text in analogy to print,
-on a singular, two-dimensional plane. The concept of laminates, which I
-borrow from geology, helps reconcile a discrepancy that characterizes
-the two conflicting traditions in the study of new media.
+previous generation, such as Michael Heim and Pamela McCorduck, captured an
+important phenomenological insight when they referred to the "ephemeral
+quality" of electronic text, calling it "impermanent, flimsy, malleable,
+\[and\] contingent."[^8] Electricity is a mercurial medium. Inscriptions on
+screen flicker and disappear with the loss of power. Our mistake is to treat
+digital text in analogy to print, on a singular, two-dimensional plane.  The
+concept of laminates, which I borrow from geology, helps reconcile a
+discrepancy that characterizes the two conflicting traditions in the study of
+new media.
 
-Electronic text extends in multiple dimensions simultaneously. Its
-facets afford different views and strategies of interpretation depending
-on a reader's vantage. The localized physics of inscription determine
-many of its specific capabilities. Where paper rapidly degrades under
-the heel of an eraser, a solid state drive can be erased millions of
-times before failure. Crucially, the medium is also affected by the
-physical limitations placed on the reader. A drive sealed or encrypted
-can be theoretically amenable to a forensic reading, but practically
-inaccessible. I turn to the field of Science and Technology Studies and
-particularly to the recent work of Mara Mills, Hans-Jörg Rheinberger,
-Jessica Riskin, and Nicole Starosielski, among others who in one way or
-another have inspired me to take a distinctly infrastructural approach
-to the historical study of such multifaceted epistemic artifacts.[^9]
+Electronic text extends in multiple dimensions simultaneously. Its facets
+afford different views and strategies of interpretation depending on a
+reader's vantage. The localized physics of inscription determine many of its
+specific capabilities. Where paper rapidly degrades under the heel of an
+eraser, a solid state drive can be erased millions of times before failure.
+Crucially, the medium is also affected by the physical limitations placed on
+the reader. A drive sealed or encrypted is theoretically amenable to a
+forensic reading, but practically inaccessible. I turn to the field of Science
+and Technology Studies and particularly to the recent work of Mara Mills,
+Hans-Jörg Rheinberger, Jessica Riskin, and Nicole Starosielski, among others
+who in one way or another have inspired me to take a distinctly
+infrastructural approach to the historical study of such multifaceted
+epistemic artifacts.[^9]
 
 I further use the concept of "stratigraphy" in contrast to media
 archaeology, where the term is used in its more evocative, metaphoric
@@ -216,114 +213,98 @@ DESCRIPTIVE NAMES," Section 16 (1815). Image in the public domain. Reproduced
 from the collection of Sedgwick Museum of Earth Sciences, University of
 Cambridge.](figure-1.jpg)
 
-Stratigraphic map legend. "Sketch of the Succession of Strata and their
-relative Altitudes." William Smith, "DELINEATION of the STRATA of
-ENGLAND and WALES with part of SCOTLAND; exhibiting the COLLIERIES and
-MINES; the MARSHES and FEN LANDS ORIGINALLY OVERFLOWED BY THE SEA; and
-the VARIETIES of Soil according to the Variations in the Sub Strata;
-ILLUSTRATED by the MOST DESCRIPTIVE NAMES," Section 16 (1815). Image in
-the public domain. Reproduced from the collection of Sedgwick Museum of
-Earth Sciences, University of Cambridge.
-
 Stratigraphy is an apt borrowing when applied to the history of computer
 technology, where the various layers of historical development are often
 extant in one and the same device. In this manner, the legacy of machine
-alphabets such as the Morse and Baudot alphabets is still present on
-modern devices through the American Standard Code for Information
-Interchange (ASCII) and Unicode Transformation Format (UTF) conventions.
-A "conversational," text-based model of human computer-interaction
-developed in the 1960s coexists with the later, graphic-based
-"direct-interaction" modes of interaction in the innards of every modern
-mobile phone, game console, or tablet.[^11] The same can be said about
-"low-level" assembly languages, continuously in use since the 1950s
-alongside their modern counterparts.
+alphabets such as the Morse and Baudot alphabets is still present on modern
+devices through the American Standard Code for Information Interchange (ASCII)
+and Unicode Transformation Format (UTF) conventions.  A "conversational,"
+text-based model of human computer-interaction developed in the 1960s coexists
+with the later, graphic-based "direct-interaction" modes of interaction in the
+innards of every modern mobile phone, game console, and tablet.[^11] The same
+can be said about "low-level" assembly languages, continuously in use since
+the 1950s alongside their modern counterparts.
 
-For the purposes of this essay, which concerns the paradoxically
-conflicting nature of electromagnetic inscription, at once enduring and
-ephemeral, we may separate the development of electromagnetic composites
-into three historical periods, each leaving behind a distinctive media
-sediment. A summary of that history is as follows:
+For the purposes of this essay, which concerns the paradoxically conflicting
+nature of electromagnetic inscription, at once enduring and ephemeral, we may
+separate the development of electromagnetic composites into three historical
+periods, each leaving behind a distinctive media sediment. A summary of that
+history is as follows:
 
 First, with the advance of telecommunications, we observe the increasing
-admixture of human-readable text and machine-readable code. Removable
-storage media such as ticker tape and punch cards embodied a machine
-instruction set meant to influence a mechanism, which in turn produced
-human-legible inscription. Unintelligible (to humans without special
-training) machine control code was thereby mixed with plain text, the
-“content” of communication. The two data streams unify in transmission,
-an then diverge into separate reception channels. An encoded message
-could at once mean “hello” and “switch gears,” depending on the
-interpretive apparatus.
+admixture of human-readable text and machine-readable code. Removable storage
+media such as ticker tape and punch cards embodied a machine instruction set
+meant to influence a mechanism, which in turn produced human-legible
+inscription. Unintelligible (to humans without special training) machine
+control code was thereby mixed with plain text, the “content” of
+communication. The two data streams unify in transmission, an then diverge
+into separate reception channels. An encoded message could at once mean
+“hello” and “switch gears,” depending on the interpretive apparatus.
 
-Second, whereas ticker tape and punch cards were legible to the naked
-eye, magnetic tape, a medium which supplanted paper, made for an
-inscrutable substance, inaccessible directly without instrumentation. In
-the 1950s and 1960s machine operators worked blindly, using complicated
-workarounds to verify equivalence between data input, storage, and
-output. Writing began to involve multiple typings and printings.
-Specialized magnetic reading devices were developed to make inscription
-more apparent and to establish a correspondence between input, storage
-content, and output of entered text. The physical properties of
-electromagnetic inscription also allowed for rapid re-mediation. Tape
-was more forgiving than paper: it could be written and re-written at
-high speeds and in volume. However, the opacity of the medium has also
-placed it, in practice, beyond human sense.
+Second, whereas ticker tape and punch cards were legible to the naked eye,
+magnetic tape, a medium which supplanted paper, made for an inscrutable
+substance, inaccessible directly without instrumentation. In the 1950s and
+1960s machine operators worked blindly, using complicated workarounds to
+verify equivalence between data input, storage, and output. Writing began to
+involve multiple typings and printings.  Specialized magnetic reading devices
+were developed to make inscription more apparent and to establish a
+correspondence between input, storage content, and output of entered text. The
+physical properties of electromagnetic inscription also allowed for rapid
+remediation. Tape was more forgiving than paper: it could be written and
+re-written at high speeds and in volume. However, the opacity of the medium
+has also placed it, in practice, beyond human sense.
 
-Finally, the appearance of cathode-ray tube (CRT) displays in the late
-1960s restored a measure of legibility lost to magnetic storage. The
-sign reemerged onscreen in a simulacrum of archived inscription: typing
-a word on a keyboard produced one sort of a structure on tape or disk
-and another on-screen. The two related contingently, without necessary
-congruence. The lay reader-writer lost the direct means to secure a
-correspondence between visible trace and stored mark. An opaque black
-box of "word processing," a set of rules for transmediation, began to
-intercede between simultaneous acts of reading and writing.
+Finally, the appearance of cathode-ray tube (CRT) displays in the late 1960s
+restored a measure of legibility lost to magnetic storage. The sign reemerged
+onscreen in a simulacrum of archived inscription: typing a word on a keyboard
+produced one sort of a structure on tape or disk and another on-screen. The
+two related contingently, without necessary congruence. The lay reader-writer
+lost the direct means to secure a correspondence between visible trace and
+stored mark. An opaque black box of "word processing," a set of rules for
+transmediation, interceded between simultaneous acts of reading and writing.
 
-I have selected three paradigmatic textual artifacts to mark this
-episodic history: Hyman Goldberg’s Controller, patented in 1911; the
-Magnetic Reader introduced by Robert Youngquist and Robert Hanes in
-1958; and, for the lack of a better name, the Display System, introduced
-by Douglas Engelbart in 1968. Each illustrates a distinct sediment of
-abstraction, which in aggregate comprise contemporary laminates.
-Together, these devices document a story of a fissure at the heart of
-our contemporary textual predicament. The inscription appears at one
-plane to the eye, to the hand for editing in another, and yet elsewhere
-from a machine perspective, for storage and automated processing. The
-sign attains new capabilities at each stage of its physical
-transfiguration, from thought to keystroke, pixel, and electric charge:
-ephemeral in some aspects and enduring in others.
+I have selected three paradigmatic textual artifacts to mark this episodic
+history: Hyman Goldberg’s Controller, patented in 1911; the Magnetic Reader
+introduced by Robert Youngquist and Robert Hanes in 1958; and, for the lack of
+a better name, the Display System, introduced by Douglas Engelbart in 1968.
+Each illustrates a distinct media sediment, which in aggregate comprise
+contemporary laminates.  Together, these devices document a story of a fissure
+at the heart of our contemporary textual predicament. The inscription appears
+at one plane to the eye, to the hand for editing in another, and yet elsewhere
+from a machine perspective, for storage and automated processing. The sign
+attains new capabilities at each stage of its physical transfiguration, from
+thought to keystroke, pixel, and electric charge: ephemeral in some aspects
+and enduring in others.
 
 First Sediment: Code and Control
 --------------------------------
 
 The turn of the twentieth century was a pivotal period in the history of
-letters. It saw the languages of people and machines enter the same
-mixed communications stream. Language became automated through the use
-of artificial alphabets, such as Morse and Baudot codes. The great
-variety of human scripts could now be reduced to a set of discrete and
-exactly reproducible characters. The mechanization of type introduced
-new control characters into circulation, which were capable of changing
-machine states at a distance. Initially, such state changes were simple:
-“begin transmission,” “sound error bell,” or “start new line.” With
-time, they developed into what we now know as programming languages.
-Content meant for human consumption thereby parted from code meant to
-control electromechanical mechanisms. A text stream could "mean" one
-thing to a human interpreter and another to a machine one. Such early
-remote control capabilities were quickly adapted to automate everything
-from radio stations to advertising billboards and knitting
-machines.[^12] These expanded textual affordances came at a price of
-legibility. At first, a cadre of trained machine operators was required
-to translate natural language into machine-transmittable code.
-Eventually, specialized equipment automated this process, removing
-humans from the equation.
+letters. It saw the languages of people and machines enter the same mixed
+communications stream. Language became automated through the use of artificial
+alphabets, such as Morse and Baudot codes. The great variety of human scripts
+could now be reduced to a set of discrete and precisely reproducible
+characters. The mechanization of type introduced new control characters into
+circulation, which were capable of changing machine states at a distance.
+Initially, such state changes were simple: “begin transmission,” “sound error
+bell,” or “start new line.” With time, they developed into what we now know as
+programming languages.  Content meant for human consumption thereby parted
+from code meant to control electromechanical mechanisms. A text stream could
+"mean" one thing to a human interpreter and another to a machine one. Such
+early remote control capabilities were quickly adapted to automate everything
+from radio stations to advertising billboards and knitting machines.[^12]
+These expanded textual affordances came at a price of legibility. At first, a
+cadre of trained machine operators was required to translate natural language
+into machine-transmittable code.  Eventually, specialized equipment automated
+this process, removing humans from the equation.
 
-Hundreds of alphabet systems vying to displace Morse code were devised
-to speed up automated communications. These evolved from variable-length
-alphabets such as Morse and Hughes codes, to fixed-length alphabets such
-as Baudot and Murray codes. The systematicity of the signal—equal length
-at regular intervals—minimized the "natural" aspects of human languages,
-affect and variance, in favor of "artificial" aspects like consistency
-and reproducibility.
+Hundreds of alphabet systems vying to displace Morse code were devised to
+speed up automated communications. These evolved from variable-length
+alphabets such as Morse and Hughes codes, to fixed-length alphabets such as
+Baudot and Murray codes. The systematicity of the signal---equal length at
+regular intervalsj--minimized the "natural" aspects of human languages, affect
+and variance, in favor of "artificial" aspects like consistency and
+reproducibility.
 
 The fixed-length property of Bacon’s cipher, later implemented in the
 5-bit Baudot code, signaled the beginning of the modern era in serial
@@ -425,12 +406,6 @@ apparent unintelligibility \[Figure 2\].[^21]
 surface. The perforations that actuate levers can also be read "without
 special training," in contrast to other text encodings.  Goldberg, Hyman Eli.
 "Controller." US1165663 A, issued December 1915, sheet 3.](figure-2.jpg)
-
-Goldberg's control cards. Machine and human languages coincide on the
-same surface. The perforations that actuate levers can also be read
-"without special training," in contrast to other text encodings.
-Goldberg, Hyman Eli. "Controller." US1165663 A, issued December 1915,
-sheet 3.
 
 At the surface of Goldberg’s control sheets, the inscription remained
 visible and un-encoded. It was simply a perforated figure, corresponding
@@ -666,11 +641,6 @@ are invisible." Youngquist and Hanes imagined a device that physically reveals
 the magnetic inscription. Robert Yongquist and Robert Hanes, "Magnetic
 Reader," Patent US3013206, 1961.](figure-3.jpg)
 
-"Magnetic recording tape is often criticized because the recorded
-signals are invisible." Youngquist and Hanes imagined a device that
-physically reveals the magnetic inscription. Robert Yongquist and Robert
-Hanes, "Magnetic Reader," Patent US3013206, 1961.
-
 Devices like the Magnetic Reader attempted (and failed) to reconcile a
 fundamental incongruence between paper and tape. Data plowed into rows
 on the wide plains of a broad sheet had to be replanted in columns along
@@ -861,11 +831,6 @@ correct the nonsensical “fob” into “for” \[Figure 4\].[^53]
 mouse, and screen will define an epoch of human-computer interaction. Source:
 Douglas Engelbart, "X-Y Position Indicator for a Display System," Patent
 US3541541, 1970.](figure-4.jpg)
-
-Schematics for Engelbart's "Display System." The arrangement of
-keyboard, mouse, and screen will define an epoch of human-computer
-interaction. Source: Douglas Engelbart, "X-Y Position Indicator for a
-Display System," Patent US3541541, 1970.
 
 Reflecting on the use of visual display systems for human-computer
 interaction, Engelbart wrote, “One of the potentially most promising
