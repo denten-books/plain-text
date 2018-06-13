@@ -540,7 +540,7 @@ wrote:
 > connected to a tradition. We expand within it---not to create new forms, but
 > to attach to them new sentiments and concerns. This dynamic could be
 > considered a kind of a law of conservation of energy
-> [@veselovsky_sobranie_1913, 475-47].
+> [@veselovsky_sobranie_1913, 295].
 
 The Hegelian influence is unmistakable in these lines. Like the world spirit,
 literary formulae exist and develop across time and space. Veselovsky's
